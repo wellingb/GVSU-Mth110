@@ -1,23 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="activity-01-intro-activity">
-  <title>Introduction Activity</title>
+<worksheet xml:id="ws-linear-equations">
+      <title>Linear Equations</title>
+      <page>
+        <exercise>
+          <statement>
+            <p>Find the slope between <m>(1,-1)</m> and <m>(4,2)</m>.</p>
+          </statement>
+          <answer>
+            <p>The slope is <m>1</m>.</p>
+          </answer>
+        </exercise>
+        <image width="60%">
+  <prefigure xmlns="https://prefigure.org"
+             label="prefigure-rectangle">
+    <diagram dimensions="(300,300)" margins="5">
+      <definition>f(x)=(x-2)</definition>
+      <coordinates bbox="(-4,-4,5,5)">
+        <grid-axes xlabel="x" ylabel="y" hticks="(-4,1,5)" vticks="(-4,1,5)"/>
+         <graph function="f"/>
+      </coordinates>
+    </diagram>
+  </prefigure>
+</image>
 
-  <!-- Optional introduction -->
-  <introduction>
-    <p>
-      This is the introduction to the activity.
-    </p>
-  </introduction>
+      </page>
+      
+         
 
-  <!-- Exercises start here. -->
-  <exercise workspace="2in">
-    <statement>
-      <p>
-        This is the first exercise.
-      </p>
-    </statement>
-  </exercise>
-
-</worksheet>
+      
+    </worksheet>
+  
