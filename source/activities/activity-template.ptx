@@ -7,9 +7,7 @@
     <p>LT 4 Fining Linear Equations</p>
     
   </activity>
-
-<<worksheet xml:id="ws-a">
-  <title>Linear Graphs</title>
+  <title>LT 4 Linear Graphs</title>
   <objectives>
     <ul>
       <li>Identify the slope.</li>
@@ -200,6 +198,5 @@
     </exercise>
   </page>
 
-</worksheet>
 </worksheet>
   
