@@ -1,0 +1,224 @@
+<worksheet>
+    <title>LT 5 Linear Wedding Scenarios</title>
+  <objectives>
+    <ul>
+      <li>
+        <p>
+         Recognize the slope and y-intercept of a word situation
+        </p>
+      </li>
+      <li>
+        <p>
+         Graph a word situation
+        </p>
+      </li>
+      <li>
+        <p>
+         Find an equation from a word situation.
+        </p>
+      </li>
+    </ul>
+  </objectives>
+ <page>
+ <tabular top="minor" bottom="medium" left="major" right="major">
+  <col>width=50% halign="center"</col>
+  <col>width=50%</col>
+  <row header="yes" halign="center" >
+    <cell>Guests</cell>
+    <cell>Cost Wedding-R-Us</cell>
+   
+    <cell>Guests</cell>
+    <cell>Cost Picture Perfect</cell>
+    <cell>Guests</cell>
+    <cell>Cost Wedding Place</cell>
+  </row>
+  <row halign="center">
+    <cell>0</cell>
+    <cell>7,000</cell>
+     <cell>0</cell>
+    <cell>0</cell>
+     <cell>0</cell>
+    <cell>10,000</cell>
+  </row>
+  <row halign="center">
+    <cell>50</cell>
+    <cell>10,250</cell>
+    <cell>50</cell>
+    <cell>6,250</cell>
+    <cell>50</cell>
+    <cell>12,500</cell>
+
+
+  </row>
+  <row halign="center">
+    <cell>100</cell>
+    <cell>13,500</cell>
+    <cell>100</cell>
+    <cell>12,500</cell>
+    <cell>100</cell>
+    <cell>15,000</cell>
+  </row>
+  <row halign="center">
+    <cell>150</cell>
+    <cell>16,750</cell>
+    <cell>150</cell>
+    <cell>18,750</cell>
+    <cell>150</cell>
+    <cell>17,500</cell>
+  </row>
+  <row halign="center">
+    <cell>200</cell>
+    <cell>20,000</cell>
+    <cell>200</cell>
+    <cell>25,000</cell>
+    <cell>200</cell>
+    <cell>20,000</cell>
+  </row>
+  <row halign="center">
+    <cell>250</cell>
+    <cell>23,250</cell>
+    <cell>250</cell>
+    <cell>31,250</cell>
+    <cell>250</cell>
+    <cell>22,500</cell>
+  </row>
+  <row halign="center">
+    <cell>300</cell>
+    <cell>26,500</cell>
+    <cell>300</cell>
+    <cell>37,500</cell>
+    <cell>300</cell>
+    <cell>25,000</cell>
+  </row>
+</tabular>
+  <exercise>
+    <introduction>
+      <p>
+        Look at the tables above.  What is similar and different about them?
+      </p>
+    </introduction>
+  <introduction>
+    <p>
+     You recently had the best day of your life and got engaged! Now comes the hard part, planning our wedding.  You and your finance` went and toured three different venues that you absolutely loved!   Each venue gave you the price sheets shown below and assured you that their costs are linear.  Look at the tables above.  What is similar and different about them?
+    </p>
+  </introduction>
+  </exercise>
+
+  <exercise>
+    <introduction>
+      <p>
+        Plot all three data sets on the same graph.  Use different colors or symbols for each venue.
+      </p>
+    </introduction>
+    <image width="60%">
+  <shortdescription>graph grid labeled guests on the horizontal axis and cost on the vertical axis range -50 50000</shortdescription>
+  <prefigure xmlns="https://prefigure.org"
+             label="prefigure-rectangle-c">
+    <diagram dimensions="(400,400)" margins="3">
+
+            <coordinates bbox="(-50,-5000,500,50000)">
+        <grid-axes xlabel="Guests" ylabel="Cost" hticks="(0,50,550)" vticks="(0,5000,50000)"/>
+         <graph function="f"/>
+      </coordinates>
+    </diagram>
+  </prefigure>
+</image>
+</exercise> 
+  </page>
+  <page>
+  <exercise workspace="0.25in">
+    <introduction>
+      <p>
+        You want to have 350 guests at your wedding.  Follow the pattern to find the cost at each of the three venues.
+      </p>
+    </introduction>
+<tabular bottom="medium" >
+  <col>width=45% halign="center"</col>
+  <col>width=55%</col>
+  <row header="yes" halign="center" >
+    <cell>Wedding-R-Us</cell>
+    <cell>Picture Perfect</cell>
+    <cell>Wedding Place</cell>
+  </row>
+  </tabular>
+  </exercise>
+  
+  <exercise workspace="0.25in"> 
+    <introduction>
+      <p>
+        Write a general rule in words explaining how to find the cost at each of the three venues for any number of guests.
+      </p>
+    </introduction>
+<tabular bottom="medium" >
+  <col>width=45% halign="center"</col>
+  <col>width=55%</col>
+  <row header="yes" halign="center" >
+    <cell>Wedding-R-Us</cell>
+    <cell>Picture Perfect</cell>
+    <cell>Wedding Place</cell>
+  </row>
+  </tabular>
+  </exercise>
+ 
+  <exercise workspace="0.25in">
+    <introduction>
+      <p>
+        Let <m>C</m> be the total cost of the wedding and <m>g</m> be the number of guests attending the wedding.  Finish the formula <m>C=</m> for each of the three wedding venues.
+      </p>
+    </introduction>
+<tabular bottom="medium" >
+  <col>width=45% halign="center"</col>
+  <col>width=55%</col>
+  <row header="yes" halign="center" >
+    <cell>Wedding-R-Us</cell>
+    <cell>Picture Perfect</cell>
+    <cell>Wedding Place</cell>
+  </row>
+  </tabular>
+  </exercise>
+</page>
+<page>
+  <exercise workspace="0.25in">
+    <introduction>
+      <p>
+        Compare the numbers in your formulas from (5) and the graph you drew in (2).  Explain how the numbers compare to the graph.
+      </p>
+    </introduction>
+  </exercise>
+  
+  <exercise workspace="0.25in"> 
+   <introduction>
+      <p>
+        Your friends Maria and Julio are looking for wedding venues as well.  They plan to have 1000 people at their wedding,  Use your formulas from (5) to find the cost for their wedding at each of the three venues.
+      </p>
+    </introduction>
+ <tabular bottom="medium" >
+  <col>width=45% halign="center"</col>
+  <col>width=55%</col>
+  <row header="yes" halign="center" >
+    <cell>Wedding-R-Us</cell>
+    <cell>Picture Perfect</cell>
+    <cell>Wedding Place</cell>
+  </row>
+ </tabular>
+ </exercise>
+  
+ <exercise workspace="0.25in"> 
+    <introduction>
+      <p>
+        For each of the cost formulas you found in (5), state what the slope is with its meaning, and the y-intercept with its meaning; both in the context of the cost of the venues and the number of guests.
+      </p>
+    </introduction>
+ <tabular bottom="medium" >
+  <col>width=45% halign="center"</col>
+  <col>width=55%</col>
+  <row header="yes" halign="center" >
+    <cell>Wedding-R-Us</cell>
+    <cell>Picture Perfect</cell>
+    <cell>Wedding Place</cell>
+  </row>
+ </tabular>
+ </exercise>
+ </page>
+</worksheet>
+

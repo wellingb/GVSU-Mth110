@@ -1,0 +1,324 @@
+<worksheet>
+  <title>LT 4:Linear Equations</title>
+  <objectives>
+    <ul>
+      <li>Find the equation of a table of linear data</li>
+       <li>Find the equation of a line parallel or perpendicular to a given line's graph.
+      </li>
+       <li>Find the equation of a line given a point and slope.
+      </li>
+      <li>Find the equation of a line given two points..
+      </li>
+     
+    </ul>
+  </objectives>
+ <page>
+  <tabular top="minor" bottom="minor" left="minor" right="minor">
+  <col>width=5% halign="center"</col>
+  <col>width=50% halign="center"</col>
+  <row header="yes" halign="center" >
+    <cell>x</cell>
+    <cell>f(x)</cell>
+    <cell></cell>
+    <cell>x</cell>
+    <cell>g(x)</cell>
+    <cell></cell>
+    <cell>x</cell>
+    <cell>h(x)</cell>
+  </row>
+  <row halign="center">
+    <cell>-1</cell>
+    <cell>-15</cell>
+    <cell></cell>
+    <cell>0</cell>
+    <cell>9</cell>
+    <cell></cell>
+    <cell>3</cell>
+    <cell>-1</cell>
+  </row>
+  <row halign="center">
+    <cell>0</cell>
+    <cell>-9</cell>
+    <cell></cell>
+    <cell>1</cell>
+    <cell>5</cell>
+    <cell></cell>
+    <cell>6</cell>
+    <cell>1</cell>
+  </row>
+  <row halign="center">
+    <cell>1</cell>
+    <cell>-3</cell>
+    <cell></cell>
+    <cell>2</cell>
+    <cell>1</cell>
+    <cell></cell>
+    <cell>9</cell>
+    <cell>3</cell>
+  </row>
+  <row halign="center">
+    <cell>2</cell>
+    <cell>3</cell>
+    <cell></cell>
+    <cell>3</cell>
+    <cell>-3</cell>
+    <cell></cell>
+    <cell>12</cell>
+    <cell>5</cell>
+  </row>
+  <row halign="center">
+    <cell>3</cell>
+    <cell>9</cell>
+    <cell></cell>
+    <cell>4</cell>
+    <cell>-7</cell>
+    <cell></cell>
+    <cell>15</cell>
+    <cell>7</cell>
+  </row>
+</tabular>
+</page>
+<page>
+   <exercise>
+    <statement>
+      <p>
+       What do you notice about the inputs for each table individually?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        The <m>f(x)</m> table has inputs that are all increasing by adding <m>1</m>; starting with <m>-1</m>.
+        The <m>g(x)</m> table has inputs that all increase by adding <m>1</m>; starting with <m>0</m>.
+        The <m>h(x)</m> table has inputs that increase by adding <m>3</m>; starting with <m>3</m>.
+      </p>
+    </answer>
+</exercise>
+</page>
+<page>
+  <exercise>
+    <statement>
+      <p>
+       What do you notice about the outputs for each table individually?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        The <m>f(x)</m> table has the outputs all increasing by adding <m>6</m>; starting with <m>-15</m>
+        The <m>g(x)</m> table has the outputs all subtracting <m>4</m>; starting with <m>9</m>.  
+        The <m>h(x)</m> table has the outputs all increasing by adding <m>2</m>; starting with <m>-1</m>
+      </p>
+    </answer>
+</exercise>
+</page>
+<page>
+   <exercise>
+    <statement>
+      <p>
+       Which of the tables hae linear data?  Explain your reasoning.
+      </p>
+    </statement>
+    <answer>
+      <p>
+        The <m>f(x)</m> table has inputs that are all increasing by adding <m>1</m>, and the outputs are all increasing by adding <m>6</m>.  This constant addition makes the data linear.
+        The <m>g(x)</m> table has inputs that all increase by adding <m>1</m> and the outputs are all decreasing by subtracting <m>4</m>.  This constant addition/subtraction makes the data linear.
+        The <m>h(x)</m> table has inputs that increase by adding <m>3</m> and outputs that increase by adding <m>2</m>.  Since both the inputs and outputs consistently are chaning the the same amounts, the data is linear.
+      </p>
+    </answer>
+</exercise>
+</page>
+<page>
+   <exercise>
+    <statement>
+      <p>
+       What is the common difference for each table individually?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        The <m>f(x)</m> table: since the inputs change by <m>+1</m> and outputs by <m>+6</m>, the common difference is <m>\frac{6}{1}=6</m>.
+        The <m>g(x)</m> table: since the inputs change by <m>+1</m> and the outputs change by <m>-4</m>, the common difference is <m>\frac{-4}{1}=-4</m>.
+        The <m>h(x)</m> table: since the inputs change by <m>+3</m> and the outputs change by <m>+2</m>, the common difference is <m>\frac{2}{3}</m>.
+      </p>
+    </answer>
+   </exercise>
+   </page>
+   <page>
+
+   <exercise>
+    <statement>
+      <p>
+       Find the y-intercept for each table of data.  If it does not exist in the table, explain how you found it.
+      </p>
+    </statement>
+    <answer>
+      <p>
+        The f(x) table has the point <m>(0, -9)</m>.  The <m>x</m> is always <m>0</m> for a y-intercept.
+        The g(x) table has the point <m>(0, 9)</m>. The <m>x</m> is always <m>0</m> for a y-intercept.
+        The h(x) table does not have the y-intercept in it.  If you go back <m>3</m>, by subtracting <m>3</m> (instead of adding <m>3</m> to go forward), in the input <m>(x)</m> column, you get <m>x=0</m>.  Going backward in the output <m>(y)</m> column, you need to subtract <m>2</m>, and find the <m>y=-3</m>.  This means the y-intercept is <m>(0,-3)</m>.
+      </p>
+    </answer>
+</exercise>
+</page>
+<page>
+<exercise>
+    <statement>
+      <p>
+      If the data is linear, find the equation.  
+      </p>
+    </statement>
+    <answer>
+      <p>
+        All of the equations are linear.  To find the equation, we use the common ratio as our <m>m</m> and the <m>y</m> of the y-intercept as our <m>b</m>.
+        <m>f(x)=6x-9</m>
+        <m>g(x)=-4x+9</m>
+        <m>h(x)=\fra{2}{3}x-3</m>
+      </p>
+    </answer>
+</exercise>
+  </page>
+
+
+<page>
+<image width="60%">
+        <shortdescription>Graph of f of x equals negative x plus 2 on coordinate axes ranging from -6 to 6.</shortdescription>
+        <prefigure xmlns="https://prefigure.org" label="prefigure-linear-2">
+    <diagram dimensions="(300,300)" margins="5">
+      <definition>f(x)=(-x+2)</definition>
+      <coordinates bbox="(-6,-6,6,6)">
+        <grid-axes xlabel="x" ylabel="y" hticks="(-4,1,5)" vticks="(-4,1,5)"/>
+         <graph function="f"/>
+      </coordinates>
+    </diagram>
+  </prefigure>
+</image>
+  <exercise>
+  <introduction>
+    <p>
+      Find the equation of the graphed line.
+    </p>
+  </introduction>
+  <task>
+    <statement>
+      <p>
+        Given the line graphed above, how would you find the equation of the line?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        First find the y-intercept.This tells us the <m>b</m> of the equation. Next find the slope by using rise over run.  Start with a point on the left.  Go up (positive rise) or down(negative rise) to get across from the next point you want to use.  Then go left (negative run) or right (positive run) until you are on the line. The fraction rise/run is the <m>m</m> of the equation.
+      </p>
+    </answer>
+  </task>
+  </exercise>
+
+</page>
+<page>
+  <task>
+    <statement>
+      <p>
+        Show your work to find the equation of the graphed line.
+      </p>
+    </statement>
+    <answer>
+      <p>
+        Using the y-intercept ad the point (1,1): The y-intercept is (0,2), so we know that <m>b=2</m>.  To find the slope, use rise over run.  Start with a point on the left which is the y-intercept in this case.  Go  down(negative rise) to get across from the next point you want to use. We go down 1, so our rise is -1.  Then go right (positive run) until you are on the line.  We go to the right 1, so our run is +1.  Rise/run = <m>\frac{-1}{1}=-1</m>
+      </p>
+    </answer>
+  </task>
+</page>
+
+
+<page>
+<exercise>
+  <task>
+    <statement>
+      <p>
+        Find the equation of any line that is parallel to the graphed line.
+      </p>
+    </statement>
+     <answer>
+      <p>
+       We found the slope of the line to be 6.  Parallel lines have the same slope but different y-intercepts.  Answers will vary, but all equation need the same slope.  One example: <m>g(x)=6x-9</m>.
+      </p>
+    </answer>
+  </task>
+</exercise>
+</page>
+<page>
+<exercise>
+  <introduction>
+    <p>
+      Find the equation of the line in slope-intercept form: <m>y=mx+b</m>
+    </p>
+  </introduction>
+ 
+  <task>
+    <statement>
+      <p>
+       The line has a slope of <m>m=0</m> and contains the point (4,6).
+      </p>
+    </statement>
+    <answer>
+      <p>
+        We are given <m>m=0</m>, <m>x=4</m>, <m>y=6</m>.
+        <md>
+        <mrow>6=0(4)+b\amp </mrow>
+        <mrow>6=b \amp </mrow>
+        </md>
+     
+        The equation is: <m>y=6</m>.
+      </p>
+    </answer>
+  </task>
+  </exercise>
+</page>
+<page>
+  <exercise>
+    <statement>
+      <p>
+        The line contains the points (-3,6) and (3,-12)
+      </p>
+    </statement>
+    <answer>
+      <p>
+        First find the slope between the two lines.
+         <md>
+          <mrow>m=\frac{-12-6}{3-(-3)} \amp </mrow>
+          <mrow> \amp\frac{-18}{6} </mrow>
+          <mrow> \amp -3</mrow>
+        </md>
+        Next, choose either point to represent <m>x</m> and <m>y</m> to plug into the equation.  We will use (-3,6)
+        <md>
+          <mrow>6=-3(-3)+b \amp </mrow>
+          <mrow> \amp 9+b </mrow>
+          <mrow>-3 \amp b </mrow>
+        </md>
+        <m>y=-3x-3</m>
+      </p>
+    </answer>
+</exercise>
+</page>
+<page>
+  <exercise>
+    <statement>
+      <p>
+        The line contains the points (5, -2) and (5,1).
+      </p>
+    </statement>
+    <answer>
+      <p>
+         First find the slope between the two lines.
+         <md>
+          <mrow>m=\frac{1-(-2)}{5-5} \amp </mrow>
+          <mrow> \amp\frac{3}{0} </mrow>
+          <mrow> \amp undefined</mrow>
+        </md>
+        Since the slope is undefined, we know it is a vertical line. <m>x=5</m>.  This is evident in the given points, since both points have the same x-value of 5.
+        <m>y=-3x-3</m>
+      </p>
+    </answer>
+  
+</exercise>
+</page>
+</worksheet>
+

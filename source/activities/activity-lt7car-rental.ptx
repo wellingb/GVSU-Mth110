@@ -1,0 +1,159 @@
+<worksheet>
+<title>Car Rental Sytems Activity</title>
+
+
+<exercise>
+<introduction>
+  <p>
+   Suppose the ABC car rental company charges $50 plus $0.25 per mile driven.  Further suppose that the TNT car rental company charges $75 plus $0.15 per mile driven.
+  </p>
+</introduction>
+
+<tabular top="minor" bottom="medium" left="major" right="major">
+  <title>Systems Parmaeters</title>
+  <col>width=60% halign="center"</col>
+  <col>width=70%</col>
+  <row header="yes" halign="center" >
+    <cell>Miles driven for 1 day</cell>
+    <cell>ABC charges</cell>
+    <cell>TNT Charges</cell>
+   
+      </row>
+  <row halign="center">
+    <cell>1</cell>
+    <cell>  </cell>
+    <cell> </cell>
+  </row>
+  <row halign="center">
+    <cell>5</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>10</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>25</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+   <row halign="center">
+    <cell>50</cell>
+    <cell></cell>
+    <cell></cell>
+   </row>
+ <row halign="center">
+    <cell>90</cell>
+    <cell></cell>
+    <cell></cell>
+   </row>
+   <row halign="center">
+    <cell>100</cell>
+    <cell></cell>
+    <cell></cell>
+   </row>
+   <row halign="center">
+    <cell>200</cell>
+    <cell></cell>
+    <cell></cell>
+   </row>
+   <row halign="center">
+    <cell>300</cell>
+    <cell></cell>
+    <cell></cell>
+   </row>
+   <row halign="center">
+    <cell>350</cell>
+    <cell></cell>
+    <cell></cell>
+   </row>
+   <row halign="center">
+    <cell>m</cell>
+    <cell></cell>
+    <cell></cell>
+   </row>
+</tabular>
+<page>
+    <task>
+  <p>Fill in the table.</p>
+</task>
+
+<task workspace="0.01 in"> 
+     <p>
+    How many solutions will the system of equations that represents the story have?
+  </p>
+  <answer>
+    <p>
+      One
+    </p>
+  </answer>
+</task>
+<task workspace="0.01 in">
+  <p>
+    Write the system of equations for the car rental story in function notation.  Let <m>C</m> be the rental cost for driving <m>m</m> miles
+  </p>
+  <answer>
+    <p>
+     <m>C(m)=0.25m+50</m>
+     <m>C(m)=0.15m+75</m>
+    </p>
+  </answer>
+</task>
+<task workspace="0.01 in">
+  <p>
+    How far can you travel with the ABC company for $100?  Show work or explain.
+  </p>
+  <answer>
+    <p>
+      200 miles.  The intersection of the function and <m>y=100</m> graph is (200,100).
+    </p>
+  </answer>
+</task>
+<task workspace="0.01 in">
+  <p>
+    How far can you travel with the TNT company for $100?  Show work or explain.
+  </p>
+  <answer>
+    <p>
+      166 miles.  The intersection of the function and <m>y=100</m> graph is (166.67,100).  Rounding to the whole, you have not driven 167 miles yet, so the answer is 166 miles.
+    </p>
+  </answer>
+</task>
+</page>
+<page> 
+<task workspace="0.01 in">
+  <p>
+    How much does it cost to rent from the ABC company if you drive 390 miles?  Show work or explain.
+  </p>
+  <answer>
+    <p>
+      $147.50  Plug 390 in for m.
+    </p>
+  </answer>
+</task>
+<task workspace="0.01 in">
+  <p>
+    How many mile must you drive for the charges to be the same for both companies?  Show work or explain.
+  </p>
+  <answer>
+    <p>
+      250 miles.  The interection point of the two function lines is (250, 112.5)  This means the you can travel 250 miles and each company will charge you $112.50.
+    </p>
+  </answer>
+</task>
+<task workspace="0.01 in"> 
+  <p>
+    Write a sentence that tells me the range of miles driven that will result in TNT being the cheaper choice.
+  </p>
+  <answer>
+    <p>
+      The TNT company will be cheaper until you reach 250 miles.  At that point the charge is the same, and afterwad, it will become more expensive than the ABC company.  You can see this on the graph by finding the TNT graph is above the ABC graph at the beginning of the graph, but goes below the ABC graph after the intersection.
+    </p>
+  </answer>
+</task>
+</page>
+</exercise> 
+</worksheet> 
+

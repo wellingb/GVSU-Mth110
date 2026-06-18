@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="ws-linear-equations">
-      <title>Linear Equations</title>
+<worksheet>
+      <title>Practice Activity</title>
       <page>
         <exercise>
           <statement>
@@ -14,7 +14,7 @@
         </exercise>
         <image width="60%">
   <prefigure xmlns="https://prefigure.org"
-             label="prefigure-rectangle">
+             label="prefigure-rectangle1">
     <diagram dimensions="(300,300)" margins="5">
       <definition>f(x)=(x-2)</definition>
       <coordinates bbox="(-4,-4,5,5)">

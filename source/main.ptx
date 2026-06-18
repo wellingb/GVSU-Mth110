@@ -3,15 +3,15 @@
 <!-- This is the main course file for ... . It is used to generate all the public facing course materials so those can be hosted online.  -->
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude">
   <!-- Include common macros etc: -->
-  <xi:include href="./docinfo.ptx" />
+  
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
     <title>Course Name (change me)</title>
 
     <subtitle>MATH xxx Semester 20xx</subtitle>
 
-    <!-- Optional: include frontmatter with author info and date -->
-    <xi:include href="./frontmatter.ptx" />
+    <!-- Optional: include  with author info and date -->
+    
 
     <chapter xml:id="course-documents">
       <title>Course Documents</title>
@@ -49,8 +49,13 @@
 
       <!-- Remove the example and replace with your own activities -->
       <xi:include href="./activities/01-intro-activity.ptx"/>
-
-      <!-- Add more xi:include files here to include them in the main course -->
+      <xi:include href="./activities/activity-template.ptx"/>
+      <xi:include href="./activities/activity-lt4graph.ptx"/>
+      <xi:include href="./activities/activity-lt4linear equations.ptx"/>
+      <xi:include href="./activities/activity-lt5wedding plans.ptx"/>
+      <xi:include href="./activities/activity-lt2qualitative.ptx"/>
+      <xi:include href="./activities/activity-lt7car-rental.ptx"/> 
+      <xi:include href="./activities/activity-lt4-slopey-int.ptx"/>  
     </chapter>
 
     <chapter xml:id="handouts">

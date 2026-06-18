@@ -1,0 +1,141 @@
+<worksheet>
+  <title>Slope and Y-intercept Discovery</title>
+<p>
+  Go to Desmos and type in the equations <m>y=mx</m> and <m>y=mx+b</m>.  Click on "all" sliders.
+</p>
+<exercise>
+  <introduction>
+    <p>
+      Let <m>m=1</m>.  Move the <m>b</m> slider, make observations, and answer the following questions.
+    </p>
+  </introduction>
+  <task> 
+    <statement>
+      <p>
+        What do you notice when <m>b>0</m>
+      </p>
+    </statement>
+  </task>
+  <task>  
+    <statement>
+      <p>
+        What do you notice when <m>b=0</m>?
+      </p>
+    </statement>
+  </task>
+  <task> 
+    <statement>
+      <p>
+        What do you notice when <m>b</m> is less than 0?
+      </p>
+    </statement>
+  </task>
+</exercise>
+<exercise>
+  <introduction>
+    <p>
+      Let <m>b=1</m>.  Move the <m>m</m> slider, make observations, and answer the following questions.
+    </p>
+  </introduction>
+  <task workspace="0.0001in">
+    <statement>
+      <p>
+        What do you notice when <m>m>0</m>
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        What do you notice when <m>m=0</m>?
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        What do you notice when <m>b</m> is less than 0?
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        What do you notice when the slope is close to zero on the right side?.....left side?
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        What do you notice when the slope is farther from zero on the right side (very large)...the left side (very small)?
+      </p>
+    </statement>
+  </task>
+</exercise> 
+<exercise>
+  <introduction>
+    <p>
+      Consider the next several questions.  Each equation contains a three (3).  Discuss with your group ho the 3 of the equation will affect the graph of <m>y=x</m>.  Do not graph before making your decision.
+    </p>
+  </introduction>
+  <task>
+  <statement>
+    <p>
+      <m>y=x+3</m>
+    </p>
+    <p>
+      The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).
+    </p>
+
+    <p>The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e.  (0,0) becomes (0, -3)]
+    </p>
+
+    <p>The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e.  (0,0) becomes (0, 3)]
+    </p>
+    
+  </statement>
+  </task> 
+   <task>
+      <statement>
+       <p>
+           <m>y=x-3</m>
+       </p>
+        <p>
+      The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).
+    </p>
+
+    <p>The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e.  (0,0) becomes (0, -3)]
+    </p>
+
+    <p>The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e.  (0,0) becomes (0, 3)]
+    </p>
+     </statement>
+   </task>
+   <task>
+      <statement>
+       <p>
+           <m>y=3x</m>
+       </p>
+        <p>
+      The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).
+    </p>
+
+    <p>The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e.  (0,0) becomes (0, -3)]
+    </p>
+
+    <p>The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e.  (0,0) becomes (0, 3)]
+    </p>
+     </statement>
+   </task>
+   
+ 
+  </exercise>
+</worksheet>
+
+
+
+
+
+
+
