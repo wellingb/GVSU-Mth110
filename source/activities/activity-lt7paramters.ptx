@@ -1,0 +1,123 @@
+<worksheet>
+<title>LT 7 Parameters and Solutions</title>
+<exercise>
+<introduction>
+  <p>
+    For each system below:
+    <ul>
+      <li>
+        <p>
+          Find the slope and y-intercept parameters.
+        </p>
+      </li>
+      <li>
+        <p>Determine the number of solutions.
+         
+        </p>
+      </li>
+    </ul>  
+  </p>
+</introduction>
+</exercise>
+<tabular top="minor" bottom="medium" left="major" right="major">
+  <title>Systems Parmaeters</title>
+  <col>width="1 in"" halign="left"</col>
+  <col>width="1.1 in" halign="center"</col>
+  <col>width="1.1 in" halign="center"</col>
+  <col>width="1.1 in" halign="center"</col>
+  <col>width="2 in" halign="center"</col>
+  <row header="yes" halign="center" >
+    <cell>System</cell>
+    <cell>Compare Slopes</cell>
+    <cell>Compare y-intercepts</cell>
+    <cell>Number of Solutions</cell>
+    <cell>Graph</cell>
+      </row>
+  <row halign="left">
+    <cell>
+      <p><m>y=1-x</m></p>
+      <p> <m>y=6-2x</m></p>
+  </cell>
+    <cell>  
+    </cell>
+     <cell>
+     
+     </cell>
+    <cell></cell>
+     <cell></cell>
+  </row>
+ 
+  <row halign="center">
+    <cell><p>
+        <m>y=1-3x</m>
+      </p>
+      <p>
+        <m>y=3x+6</m>
+      </p></cell>
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+   
+  </row>
+  <row halign="center">
+    <cell><p>
+        <m>y=4x+1</m>
+      </p>
+      <p>
+        <m>y=6x+1</m>
+      </p></cell>
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+   
+  </row>
+  <row halign="center">
+    <cell>
+      <p>
+        <m>y=2x+4</m>
+      </p>
+      <p>
+        <m>y=2x-3</m>
+      </p>
+    </cell>
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+   
+  </row>
+  <row halign="center">
+    <cell>
+      <p>
+        <m>y=5x-1</m>
+      </p>
+      <p>
+        <m>y=5x-1</m>
+      </p>
+    </cell>
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+   
+  </row>
+  <row halign="center">
+    <cell>
+     <p>
+      <m>y-4x=6</m>
+     </p>
+     <p>
+      <m>2y-8x=12</m>
+     </p>
+    </cell>
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+   
+  </row>
+</tabular>
+</worksheet>
+  

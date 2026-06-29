@@ -1,0 +1,198 @@
+<worksheet>
+   <title> LT 8 Counting Cubes</title>
+   <exercise>
+    <introduction>
+        <p>
+            Dots are painted on the faces of the cubes.  If you toss the cubes and a dot appears on the top face, remove the cube.  To determine the relationship between the number of faces with dots on the and the number of cubes reamining after <m>n</m> rolls, complete the following expericment
+        </p>
+          <tabular top="minor" bottom="medium" left="major" right="major">
+  <col>width=60% halign="center"</col>
+  <col>width=70%</col>
+  <row header="yes" halign="center" >
+    <cell>Roll Number (n)</cell>
+    <cell>Number of Cubes Remaining (C)</cell>
+  </row>
+  <row halign="center">
+    <cell>0</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>1</cell>
+    <cell></cell>
+  </row>
+<row halign="center">
+    <cell>2</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>3</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>4</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>5</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>6</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>7</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>8</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>9</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>10</cell>
+    <cell></cell>
+  </row>
+  </tabular>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                Make a table of values for this scenario.
+            </p>
+        </statement>
+     
+    </task>
+    <task>
+        <statement>
+            <p>
+                Take one of the containers.  In the tabe corresponding to the number of dots on each cube in your container, record the number of cubes in your container as roll 0.
+            </p>
+        </statement>
+       
+    </task>
+    <task>
+        <statement>
+            <p>
+                Shake the container and pour out the cubes in the plate so the cubes are one layer thick.  If a dot is showing, set the cube aside.  Count the number of cubes remaining; this is the number associated with roll 0.  Return the remaining cubes to the container (the ones you just counted).  
+            </p>
+        </statement>
+       
+    </task>
+    <task>
+        <statement>
+            <p>
+               Repeat the process untik the contain has 1-2 cubes left.
+            </p>
+        </statement>
+       
+    </task>
+
+
+    </exercise>
+    <exercise>
+    <introduction>
+        <p>
+            Put your table of values into Desmos.  Describe what your graph looks like.
+        </p>
+         
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                Make your table and a sketch of your graph on the board.  Be sure to label how many dots per cube your that you had.  Label your axes.   Save room for adding more work on the board later.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+               Your classmates had different number of dots on their cubes.  How are the functions related?  Why is this reasonable?
+            </p>
+        </statement>
+     
+    </task>
+    </exercise>
+     <exercise>
+    <introduction>
+        <p>
+           Now pour out all the cubes from your container and we will be adding cubes back in.
+        </p>
+    <tabular top="minor" bottom="medium" left="major" right="major">
+  <col>width=60% halign="center"</col>
+  <col>width=70%</col>
+  <row header="yes" halign="center" >
+    <cell>Roll Number (n)</cell>
+    <cell>Number of Cubes Remaining (C)</cell>
+  </row>
+  <row halign="center">
+    <cell>0</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>1</cell>
+    <cell></cell>
+  </row>
+<row halign="center">
+    <cell>2</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>3</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>4</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>5</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>6</cell>
+    <cell></cell>
+  </row>
+
+
+  </tabular>
+    </introduction>
+  </exercise>  
+    <task>
+        <statement>
+            <p>
+                Shake the container and pour out 5 cubes into a single layer.  For each cube that has a dot showing face up, add it plus one more cube into the container.  Count the number of cubes and record this for roll 1.  (You should not have more than 5 cubes in the container).  Repeat the prcess for at least 6 rolls.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <p>
+            Put your data into Desmos.  What does your graph look like?
+        </p>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Make your table and a sketch of your graph on the board.  Be sure to label how many dots per cube your that you had.  Label your axes.  
+            </p>
+        </statement>
+    </task>
+    <task>
+        <p>
+            Your classmates had a different number of dots on their coubes.  How are the functions related?  Why is this reasonable?
+        </p>
+    </task>
+    <task>
+        <p>
+            What relationship exists between the functions when yu removed the cubes from the container and the function when you added cubes to the container?
+        </p>
+    </task>
+    <task>
+        <p>
+            What real-life uses might be made of your discoveries in this experiement?
+        </p>
+    </task>
+    </worksheet>

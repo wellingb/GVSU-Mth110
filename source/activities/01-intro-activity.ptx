@@ -24,7 +24,15 @@
     </diagram>
   </prefigure>
 </image>
+ 
+<figure xml:id="fig-01-01-2-nonlinear-pattern">
+  <caption>A visual pattern where the number of stars is increasing.</caption>
+  <image source="01-01-2-nonlinear_pattern_stars.svg">
+    <shortdescription>A pattern where at step 1 there is 1 star, at step 2 there are 2 stars, at step 3 there are 4 stars, and at step 4 there are 7 stars.</shortdescription>
+  </image>
+</figure>
 
+  
       </page>
       
          

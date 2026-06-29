@@ -1,0 +1,52 @@
+<worksheet>
+    <title>LT 8 Finding the Equation of an Exponential Graph</title>
+<exercise workspace = "0.01 in">
+    <introduction>
+    <p>
+        How do you find a common ratio?
+        </p>
+  </introduction>
+  <answer>
+    <p>
+        To find a common ratio, you can divide the second term by the first term.  You can also divide the third term by the second term.  If these two ratios are equal, then you have a common ratio.
+    </p>
+  </answer>
+    </exercise>
+
+    <introduction>
+    <p>
+        We will be using this same idea to find the equation of an exponential graph.  Our ratio will be the equation formed from one point on the graph and a second equation formed by a second point on the graph.
+        </p>
+    <p>
+        <m>\frac{y_1=ab^{x_1}}{y_2=ab^{x_2}}</m>    </p>
+  </introduction>
+   
+    <exercise workspace = "0.01 in"> 
+        <statement>
+            <p>
+                Use the points (0, 3) and (2, 12) to find the equation.
+            </p>
+        </statement>
+        <answer><m>3(2)^x</m></answer> 
+    </exercise>
+    <exercise workspace = "0.01 in"> 
+        <statement>
+            <p>
+                Use the points (1, 5) and (3, 20) to find the equation.
+            </p>
+        </statement>
+        <answer><m>2.5(2)^x</m></answer> 
+    </exercise>
+    <exercise workspace = "0.01 in"> 
+    <statement>
+            <p>
+                Use the points (0, 2) and (3, 16) to find the equation.   Would you need to make a ratio for this problem?  Why or why not?
+            </p>
+    </statement>
+    <answer>
+            <p>
+                The equation is <m>2(2)^x</m>
+            </p>
+     </answer>
+    </exercise>
+</worksheet>

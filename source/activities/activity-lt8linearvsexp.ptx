@@ -1,0 +1,240 @@
+<worksheet>
+   <title> LT 8 Linear vs Exponential Patterns</title>
+   <exercise>
+    <introduction>
+        <p>
+            Suppose a flu epidemic has broken out at GVSU.  Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu, increases by 3.  
+        </p>
+          <tabular top="minor" bottom="medium" left="major" right="major">
+  <col>width=60% halign="center"</col>
+  <col>width=70%</col>
+  <row header="yes" halign="center" >
+    <cell>Days since Jan 1 (d)</cell>
+    <cell>Number with the Flu (F)</cell>
+  </row>
+  <row halign="center">
+    <cell>0</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>1</cell>
+    <cell></cell>
+  </row>
+<row halign="center">
+    <cell>2</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>3</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>4</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>5</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>d</cell>
+    <cell></cell>
+  </row>
+  </tabular>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                Make a table of values for this scenario.
+            </p>
+        </statement>
+      
+    </task>
+    <task>
+        <statement>
+            <p>
+                What is the common difference?  (How do you find this?)
+            </p>
+        </statement>
+        <answer>
+            <p>
+                The common difference is found by subtracting <m>y_2</m> from <m>y_1</m>.  For example: 23-20 = 3  The common ratio = 3            </p>
+        </answer>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Let <m>F(d)</m> ve the function for the number of students with the flu after <m>d</m> days.  Find <m>F(d)</m> 
+            </p>
+        </statement>
+        <answer>
+            <p>
+                The initial value is 20 students.  This is the <m>b</m> value.  he common difference we found to be 3.  This is the <m>m</m> value.  Putting it together, <m>F(d)=3d+20</m>
+            </p>
+        </answer>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Find <m>F(14)</m> and interpret its meaning in the context of the flu scenario
+            </p>
+        </statement>
+        <answer>
+            <p>
+              <m>F(14)=3(14)+20</m>
+            </p>
+            <p>
+                    <m>     =62</m>
+            </p>
+            <p>
+              On day 14, there ae 62 students with the flu.  
+            </p>
+        </answer>
+    </task>
+    </exercise>
+       <exercise>
+    <introduction>
+        <p>
+            Suppose a flu epidemic has broken out at GVSU.  Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu triples.  
+        </p>
+          <tabular top="minor" bottom="medium" left="major" right="major">
+  <col>width=60% halign="center"</col>
+  <col>width=70%</col>
+  <row header="yes" halign="center" >
+    <cell>Days since Jan 1 (d)</cell>
+    <cell>Number with the Flu (F)</cell>
+  </row>
+  <row halign="center">
+    <cell>0</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>1</cell>
+    <cell></cell>
+  </row>
+<row halign="center">
+    <cell>2</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>3</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>4</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>5</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>d</cell>
+    <cell></cell>
+  </row>
+  </tabular>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                Make a table of values for this scenario.
+            </p>
+        </statement>
+      
+    </task>
+    <task>
+        <statement>
+            <p>
+            </p>
+        </statement>
+        <answer>
+            <p>
+                The common difference is found by subtracting <m>y_2</m> from <m>y_1</m>.  In this case 60-20 = 40 and 180-60=120.  Since these are not the same difference, there is no common difference. </p>
+        </answer>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Try <m>\frac{y_2}{y_1}</m> a couple of times.  What do you find?
+            </p>
+        </statement>
+        <answer>
+            <p>
+                <m>\frac{60}{20}=3</m>
+            </p>
+            <p>
+                <m>\frac{180}{60}=3</m>
+            </p>
+            <p>
+                The result is the same when we do the division over and over.  This is called a common ratio.  The common ratio is the <m>b</m> value of an exponential function.
+            </p>
+        </answer>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Let <m>F(d)</m> ve the function for the number of students with the flu after <m>d</m> days.  Find <m>F(d)</m> 
+            </p>
+        </statement>
+        <answer>
+            <p>
+                The initial value is 20 students.  This is the <m>a</m> value.  he common ratio we found to be 3.  This is the <m>b</m> value.  Putting it together, <m>F(d)=20(3)^d</m>
+            </p>
+        </answer>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Find <m>F(14)</m> and interpret its meaning in the context of the flu scenario
+            </p>
+        </statement>
+        <answer>
+            <p>
+              <m>F(14)=20(3)^{14}</m>
+            </p>
+            <p>
+                    <m>     =6.9</m>x<m>10^10</m>
+            </p>
+            <p>
+              On day 14, there ae approximately 70,000,000,000 students with the flu. 
+            </p>
+        </answer>
+    </task>
+    <task>
+        <statement>
+            <p>
+                How realistic is your answer in the previous question?  
+            </p>
+        </statement>
+        <answer>
+            <p>
+                That number is not realistic at all.
+            </p>
+        </answer>
+    </task>
+    <task>
+        <statement>
+            <p>
+                What would be a more reasonable range of outputs?  Why?
+            </p>
+        </statement>
+        <answer>
+            <p>
+                Answers will vary.  GVSU has approximately 26,000 students, so a more reasonable range might be from 20 students (what we started with) to 26,000 students (if all students had the flu).
+            </p>
+        </answer>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Which function model best represents how the flu is really spread?  Explain your thinking.
+            </p>
+        </statement>
+        <answer>
+            <p>
+                The exponentia model fits better becasue the flu does not spead at a steady rate.  It speads faster and faster if there is no remediation,
+            </p>
+        </answer>
+    </task>
+    </exercise>
+    </worksheet>

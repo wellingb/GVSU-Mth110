@@ -1,0 +1,129 @@
+<worksheet>
+    <title>LT 9 Growth and Decay</title>
+<exercise>
+    <introduction>
+    <p>
+        Review:  Complete the table.
+    </p>
+  </introduction>
+<tabular top="minor" bottom="minor" left="minor" right="minor">
+  <col>width=5% halign="center"</col>
+  <col>width=50% halign="center"</col>
+  <col>height=100% halign="center"</col>
+
+  <row header="yes" halign="center" >
+    <cell></cell>
+    <cell><m>f(x)=335(1.25)^x</m></cell>
+    <cell><m>g(x)=120(0.75)^x</m></cell>
+  </row>
+  <row header="yes" halign="center" >
+    <cell>Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+  <row header="yes" halign="center" >
+    <cell>Initial value (a)</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+    <row header="yes" halign="center" >
+    <cell>Initial value (a)</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+   <row header="yes" halign="center" >
+    <cell>base (b)</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+   <row header="yes" halign="center" >
+    <cell>Growth or Decay?</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+ <row header="yes" halign="center" >
+    <cell>Domain</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+   <row header="yes" halign="center" >
+    <cell>Range</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+   <row header="yes" halign="center" >
+    <cell>Horizontal Intercept</cell>
+    <cell></cell>
+    <cell></cell>
+   </row>
+    <row header="yes" halign="center" >
+    <cell>Vertical Intercept</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+   <row header="yes" halign="center" >
+    <cell>Horizontal Asymptote</cell>
+    <cell></cell>
+    <cell></cell> 
+  </row>
+   <row header="yes" halign="center" >
+    <cell>Increasing or Decreasing?</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+</tabular>
+</exercise>
+<page>
+<exercise>
+  <introduction>
+    <p>
+      Complete the following Table
+    </p>
+  </introduction>
+ <tabular top="minor" bottom="minor" left="minor" right="minor">
+  <col>width=5% halign="center"</col>
+  <col>width=50% halign="center"</col>
+  <row header="yes" halign="center" >
+    <cell><p>Exponential</p><p>Function></p><m>y=ab^x</m></cell>
+    <cell>Growth or Decay?</cell>
+    <cell>Initial Value (a)</cell>
+    <cell>Growth/Decay Factor (b)</cell>
+    <cell>Growth/Decay Rate (r) as a decimal</cell>
+    <cell>Growth/Decay Rate (r) as a percent</cell>
+  </row> 
+  <row>
+    <cell><m>y=300(0.88)^t</m></cell>
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+  <row>
+    <cell>213(1.2)^t</cell> 
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+  <row>
+    <cell></cell>
+    <cell>Growth</cell>
+    <cell>177</cell>
+    <cell></cell>
+    <cell></cell>
+    <cell>9.8%</cell>
+  </row>
+   <row>
+    <cell></cell>
+    <cell>Decay</cell>
+    <cell>5.41</cell>
+    <cell></cell>
+    <cell></cell>
+    <cell>7%</cell>
+  </row>
+</tabular>
+</exercise>
+</page>
+</worksheet>

@@ -48,14 +48,24 @@
       </introduction>
 
       <!-- Remove the example and replace with your own activities -->
-      <xi:include href="./activities/01-intro-activity.ptx"/>
+       <xi:include href="./activities/activity-lt2qualitative.ptx"/>
+      
       <xi:include href="./activities/activity-template.ptx"/>
       <xi:include href="./activities/activity-lt4graph.ptx"/>
       <xi:include href="./activities/activity-lt4linear equations.ptx"/>
+      <xi:include href="./activities/activity-lt4-slopey-int.ptx"/> 
       <xi:include href="./activities/activity-lt5wedding plans.ptx"/>
-      <xi:include href="./activities/activity-lt2qualitative.ptx"/>
+      <xi:include href="./activities/activity-lt7paramters.ptx"/> 
       <xi:include href="./activities/activity-lt7car-rental.ptx"/> 
-      <xi:include href="./activities/activity-lt4-slopey-int.ptx"/>  
+      <xi:include href="./activities/01-intro-activity.ptx"/>
+      <xi:include href="./activities/activity-lt cardsort.ptx"/>
+      <xi:include href="./activities/activity-lt9cardsort.ptx"/>
+      <xi:include href="./activities/activity-lt8linearvsexp.ptx"/> 
+      <xi:include href="./activities/activity-lt8countingdots.ptx"/>
+      <xi:include href="./activities/activity-lt8findingeq.ptx"/> 
+      <xi:include href="./activities/activity-lt8.9graphandgrowth1.ptx"/> 
+
+      
     </chapter>
 
     <chapter xml:id="handouts">
