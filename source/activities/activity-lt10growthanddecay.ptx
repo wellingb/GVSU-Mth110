@@ -1,0 +1,187 @@
+<worksheet>
+    <title>LT 10 Growth and Decay in Applications</title>
+    <introduction>
+        <p>
+            Learning Target 10: Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth/decay, make an equation, identify and explain the meaning of growth/decay rate in the context, identify and explain the y-intercept in the context, find f(a) and explain its meaning, find x given f(a) and explain its meaning, and determine what inputs make sense.
+        </p>
+    </introduction>
+    <exercise>
+        
+    <introduction>
+        <p>
+          A group of scientists were tracking the humpback whale population off the coast of Australia.   As they collect data, they were able to write an equation, <m>W(x)=350(1.14)^x</m>, to predict the change in population.
+          Use the equation to fill in the whale population for each year. 
+
+        </p>
+    </introduction>
+ 
+  <tabular top="minor" bottom="medium" left="major" right="major">
+ 
+  <col>width=60% halign="center"</col>
+  <col>width=70%</col>
+  <row header="yes" halign="center" >
+    <cell>Years</cell>
+    <cell>Whale Population</cell>
+      </row>
+ 
+       <row halign="center">
+    <cell>0</cell>
+    <cell>  </cell>
+  </row>   
+    <row halign="center">
+    <cell>1</cell>
+    <cell>  </cell>
+  </row>  
+    <row halign="center">
+    <cell>2</cell>
+    <cell>  </cell>
+  </row> out the table below. 
+    <row halign="center">
+    <cell>3</cell>
+    <cell>  </cell>
+  </row>
+  </tabular>
+ 
+</exercise>
+<exercise>
+    <introduction>
+        <p>
+         Determine the actual change in population each year and the relative change in population each year.
+        </p>
+        <p> 
+            note:The actual change is <m>y_2-y_1</m> and the relative change is <m>(y_2-y_1)/y_1</m>
+        </p> 
+    </introduction>
+
+
+     <tabular top="minor" bottom="medium" left="major" right="major">
+  
+  <col>width=60% halign="center"</col>
+  <col>width=70%</col>
+  <row header="yes" halign="center" >
+    <cell>Actual Change</cell>
+    <cell>Relative Changes</cell>
+      </row>
+ 
+       <row halign="center">
+    <cell><line><nbsp/></line><line><nbsp/></line></cell>
+    <cell><line><nbsp/></line><line><nbsp/></line></cell>
+  </row>   
+   <row halign="center">
+    <cell><line><nbsp/></line><line><nbsp/></line></cell>
+    <cell><line><nbsp/></line><line><nbsp/></line></cell>
+  </row>  
+  <row halign="center">
+    <cell><line><nbsp/></line><line><nbsp/></line></cell>
+    <cell><line><nbsp/></line><line><nbsp/></line></cell>
+  </row>  
+  </tabular>
+    
+</exercise>
+<exercise>
+    <introduction>
+        <p>
+            For each function, make a table of values and determine the actual change and relative change in "population" each year.
+
+        </p>
+    </introduction>
+</exercise>
+<task workspace="0.02 in">
+    <statement>
+        <p>
+            <m>f(x)=240(1.25)^x</m>
+        </p>
+    </statement>
+</task>
+<task workspace="0.02 in">
+    <statement>
+        <p>
+           <m>g(x)=665(0.94)^x</m>
+        </p>
+    </statement>
+</task>
+<task workspace="0.01 in">
+    <statement>
+        <p>
+            <m>h(x)=152(0.85)^x</m>
+        </p>
+    </statement>
+</task>
+
+<exercise workspace="0.01 in">
+    <introduction>
+        <p>
+            Imagine you won $15,000 in the lottery. You decide to make the responsible choice and put your winnings into a savings account that yields 6% interest annually. 
+
+        </p>
+    </introduction>
+</exercise>
+<task workspace="0.01 in">
+    <statement>
+        <p>
+           What is the initial value? What is the growth factor?
+ 
+        </p>
+    </statement>
+</task>
+<task workspace="0.01 in">
+    <statement>
+        <p>
+           Write an equation that will model the balance in the savings account over x number of years.
+        </p>
+    </statement>
+</task>
+<task workspace="0.01 in">
+    <statement>
+        <p>
+           Use your equation to determine the balance of your savings account in 5 years. 
+        </p>
+    </statement>
+</task>
+<task workspace="0.01 in">
+    <statement>
+        <p>
+           How many years will it take for you to have $30,000? (assuming no additional money is added)
+        </p>
+    </statement>
+</task>
+
+<exercise>
+    <introduction>
+        <p>
+            Imagine instead that you used your winnings to buy a car worth $15,000 that is depreciating at a rate of 16% annually.
+
+        </p>
+    </introduction>
+</exercise>
+<task workspace="0.01 in"> 
+    <statement>
+        <p>
+          What is the initial value? What is the decay factor?  
+        </p>
+    </statement>
+</task>
+<task workspace="0.01 in">
+    <statement>
+        <p>
+            Write an equation that will model the value of the car over x number of years. 
+        </p>
+    </statement>
+</task>
+<task workspace="0.01 in">
+    <statement>
+        <p>
+            Use your equation to determine the value of your car in 5 years. 
+        </p>
+    </statement>
+</task>
+<task workspace="0.01 in">
+    <statement>
+        <p>
+            How many years will it take for your car to be worth $5,000? (assuming no additional money is added)     
+        </p>
+    </statement>
+</task>
+
+</worksheet>
+
