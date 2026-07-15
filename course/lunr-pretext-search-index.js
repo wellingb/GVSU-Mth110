@@ -799,7 +799,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 12 Exponentials and Logs as Inverses",
-  "body": " LT 12 Exponentials and Logs as Inverses     Recognize exponentials and log graphs as inverses    Convert between exponentials and logs (both ways).  \\  Change the base of a logatithm to base 10 or a natural base.       Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.      We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.      Graph and . Are the two equations inverses? Explain your thinking.      Graph and . log(x) Are the two equations inverses? Explain your thinking.   3x3 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.      Graph and . Are the two equations inverses? Explain your thinking.     "
+  "body": " LT 12 Exponentials and Logs as Inverses     Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).       Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.      We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid        Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log        The most important phrase in learning logs is _______ are _________________.  Keepoing this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:     "
 },
 {
   "id": "activities-22-2",
@@ -808,7 +808,7 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   Recognize exponentials and log graphs as inverses    Convert between exponentials and logs (both ways).  \\  Change the base of a logatithm to base 10 or a natural base.    "
+  "body": "   Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).    "
 },
 {
   "id": "activities-22-3",
@@ -826,7 +826,43 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.      Graph and . Are the two equations inverses? Explain your thinking.      Graph and . log(x) Are the two equations inverses? Explain your thinking.   3x3 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.      Graph and . Are the two equations inverses? Explain your thinking.    "
+  "body": "  We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid     "
+},
+{
+  "id": "activities-22-5",
+  "level": "2",
+  "url": "activities-22.html#activities-22-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log     "
+},
+{
+  "id": "activities-22-6",
+  "level": "2",
+  "url": "activities-22.html#activities-22-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  The most important phrase in learning logs is _______ are _________________.  Keepoing this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
+},
+{
+  "id": "activities-23",
+  "level": "1",
+  "url": "activities-23.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 9 Graph Fill-in-the-Blanks",
+  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.        exponential growth graph                        "
+},
+{
+  "id": "activities-23-2",
+  "level": "2",
+  "url": "activities-23.html#activities-23-2",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.        exponential growth graph                       "
 },
 {
   "id": "handouts",
@@ -835,7 +871,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "",
   "title": "Handouts",
-  "body": " Handouts    "
+  "body": " Handouts   "
 },
 {
   "id": "homework",
