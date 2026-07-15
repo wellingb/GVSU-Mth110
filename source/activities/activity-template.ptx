@@ -45,7 +45,7 @@
     <cell><prefigure xmlns="https://prefigure.org"
              label="prefigure-rectangle-b">
     <diagram dimensions="(300,300)" margins="5">
-      <definition>f(x)=(x-2)</definition>
+      <definition>f(x)=(2*x-2)</definition>
       <coordinates bbox="(-4,-4,5,5)">
         <grid-axes xlabel="x" ylabel="y" hticks="(-4,1,5)" vticks="(-4,1,5)"/>
          <graph function="f"/>
@@ -59,7 +59,7 @@
   </row>
  
   <row halign="center">
-    <cell><prefigure xmlns="https://prefigure.org"
+    <cell><image><prefigure xmlns="https://prefigure.org"
              label="prefigure-rectangle">
     <diagram dimensions="(300,300)" margins="5">
       <definition>f(x)=(-x+3)</definition>
@@ -68,7 +68,7 @@
          <graph function="f"/>
       </coordinates>
     </diagram>
-  </prefigure></cell>
+  </prefigure></image></cell>
     <cell></cell>
     <cell></cell>
     <cell></cell>

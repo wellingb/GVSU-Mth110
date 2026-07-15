@@ -1,0 +1,27 @@
+<worksheet>
+    <title>LT 10 Growth and Decay in Applications</title>
+    <exercise>
+        <introduction>
+            <p>.  
+                A storage tank contains a radioactive element.  Let <m>P=f(t)</m> be the percentage of the element that reamains at <m>t</m> years since the element was placed in the tank. The graph of <m>f(t)</m> is shown below.
+            </p>
+        <image source="half-life.jpeg" width="40%"> 
+            <shortdescription>half life starting of 10 years starting at 100 percent</shortdescription>
+        </image>
+        </introduction>
+    <task workspace="0.01 in">
+        <statement>
+            <p>
+                What is the half-life of the element?
+                        </p>
+        </statement>
+    </task>
+    <task workspace="$1">
+        <statement> 
+            <p>
+                What percentage of the element remains after 40 years?
+            </p>
+        </statement>
+    </task>
+    </exercise>
+</worksheet>

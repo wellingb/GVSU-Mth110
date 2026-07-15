@@ -1,14 +1,11 @@
 <worksheet>
 <title>LT 7 Car Rental Sytems Activity</title>
 
-
 <exercise>
 <introduction>
   <p>
    Suppose the ABC car rental company charges $50 plus $0.25 per mile driven.  Further suppose that the TNT car rental company charges $75 plus $0.15 per mile driven.
   </p>
-</introduction>
-
 <tabular top="minor" bottom="medium" left="major" right="major">
   <title>Systems Parmaeters</title>
   <col>width=60% halign="center"</col>
@@ -17,14 +14,13 @@
     <cell>Miles driven for 1 day</cell>
     <cell>ABC charges</cell>
     <cell>TNT Charges</cell>
-   
-      </row>
+         </row>
   <row halign="center">
     <cell>1</cell>
     <cell>  </cell>
     <cell> </cell>
   </row>
-  <row halign="center">
+  <row  halign="center" >
     <cell>5</cell>
     <cell></cell>
     <cell></cell>
@@ -74,7 +70,10 @@
     <cell></cell>
     <cell></cell>
    </row>
-</tabular>
+  </tabular>
+
+</introduction>
+</exercise> 
 <page>
     <task>
   <p>Fill in the table.</p>
@@ -154,6 +153,6 @@
   </answer>
 </task>
 </page>
-</exercise> 
+
 </worksheet> 
 

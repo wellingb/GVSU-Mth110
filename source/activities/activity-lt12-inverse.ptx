@@ -1,0 +1,147 @@
+<worksheet>
+    <title>LT 12 Inverse Function Introduction</title>
+  <ul>
+    <li>
+        <p>
+            Introduct Inverse Functions.
+        </p>
+    </li>
+    <li>
+        <p>
+            Learn to find inverse functions for linear functions.
+        </p>
+    </li>
+    <li>
+        <p>
+            Learn to find inverse functions for exponential functions.
+        </p>
+    </li>   
+
+  </ul>
+<exercise>  
+    <introduction>
+        <p>
+            When a foreigner visits the U.S., they may want to be able to comfortably convert between Metric and Imperial temperatures.  Yo u are told to convert to Fahrenheit temperature to Celsius, first subtract 32, then multiply the result by <m>\frac{5}{9}</m>
+        </p>
+        <p>
+            Fill in the table to covert the Fahrenheigt temperatures to Celsius temperatures. </p>
+       <tabular top="minor" bottom="medium" left="major" right="major">
+             <col>width=60% halign="center"</col>
+             <col>width=70%</col>
+             <row header="yes" halign="center" >
+               <cell>Fahrenheit</cell>
+                <cell>Celsius</cell>
+            </row>
+            <row halign="center" >
+                <cell>32</cell>
+                <cell></cell>
+            </row>
+            <row halign="center" >
+                <cell>32</cell>
+                <cell></cell>
+            </row>
+            <row halign="center" >
+                <cell>50</cell>
+                <cell></cell>
+            </row>
+            <row halign="center" >
+                <cell>68</cell>
+                <cell></cell>
+            </row>
+             <row halign="center" >
+                <cell>80.6</cell>
+                <cell></cell>
+            </row>
+        </tabular>
+        </introduction>
+        </exercise> 
+        <task worksheet="0.01in">
+        <statement>
+            <p>
+                Write a function <m>C</m> whose input is <m>x</m> is the temperature in Fahrenheit degrees, and whose output is the temperature in Celsius degrees.
+                </p>
+        </statement>
+    </task>
+    <task worksheet="0.01in">
+        <statement>
+            <p>
+            What type of function is <m>C</m> (Linear, Expoential, or Quadratic)?              </p>
+        </statement>
+    </task>
+    <task worksheet="0.01in">
+        <statement>
+            <p>
+                Enter your table and equation into Desmos.  Does the graph agree with your choice of function?
+            </p>
+        </statement>
+    </task>
+    
+    <exercise>
+        <introduction>
+            <p>
+                Now, you are in Canada and want to convert Celsius temperatures to Fahrenheit. Write a sentence like the one explaining how to convert Fahrenheit to Celsuius, that can help you convert from Celsius degrss to Fahrenhet.
+               
+            </p>
+             <p>
+                    Fill in the table to covert Celsius to Fahrenheit degrees.
+             </p>
+                    <title>Fahrenheit to Celsius</title>
+            <tabular top="minor" bottom="medium" left="major" right="major">
+                <col>width=60% halign="center"</col>
+                <col>width=70%</col>
+                 <row header="yes" halign="center" >    
+                                <cell>Celsius</cell>
+                    <cell>Fahrenheit</cell>
+                </row>
+                 <row halign="center" >
+                    <cell>-5</cell>
+                    <cell></cell>
+                </row>
+                <row halign="center" >
+                    <cell>0</cell>
+                    <cell></cell>
+                </row>
+                <row halign="center" >
+                    <cell>10</cell>
+                    <cell></cell>
+                </row>
+                <row halign="center" >
+                    <cell>20</cell>
+                    <cell></cell>
+                </row>
+                <row halign="center" >
+                    <cell>27</cell>
+                    <cell></cell>
+                </row>
+            </tabular>
+        </introduction>
+        </exercise>
+    <task workspace="0.01in">
+        <statement>
+            <p>
+                Write a function <m>C</m> whose input is <m>x</m> is the temperature in Celsius degrees, and whose output is the temperature in Fahrenheit degrees.
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.01in">
+        <statement>
+            <p>
+                What do you observe from the data in the tables above?
+                            </p>
+        </statement>
+    </task>
+    <task workspace="0.01in">
+        <statement>
+            <p>
+                Go back to Desmos and enter a new table with the Celsius to Fahrenheit data.  Does the graph agree with your choice of function?
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.01in">
+        <statement>
+            <p>
+                Plot the line <m>y=x</m> along with your two equations.  What do you notice about relationship between the the graphs of <m>C</m> and <m>F</m> and the line <m>y=x</m> 
+                         </p>
+        </statement>
+    </task>
+</worksheet>

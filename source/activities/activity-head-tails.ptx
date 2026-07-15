@@ -1,0 +1,185 @@
+<worksheet>
+ <title>LT 11 Heads or Tails Regression</title>
+<statement>
+    <p>
+        Objective: Discover the behavior and characteristics of exponential graphs and functions.
+    </p>
+</statement>
+<statement>
+    <p>
+        Procedure:    </p>
+    <p>
+        Pour out a bag of pennies onto the plate provided and put the pennies in one layer.  Then remove all the pennies with the heads showing. Count and record the number of pennies removed and the number of pennies remaining.  
+    </p>
+    <p>
+        Place the pennies removed aside and pour the remaining pennies back into the container.  Again, shake the pennies, pour them out onto the plate, and remove the pennies with the head showing.  Record the number of pennies removed and remaining.
+        </p>
+    <p>
+        Repeat until all the pennies are removed. You may not need all of the trials, or you may need to add trials. </p>
+    <tabular top="minor" bottom="medium" left="major" right="major">
+  <title>Removed and Remaining</title>
+  <col>width=60% halign="center"</col>
+  <col>width=70%</col>
+  <row header="yes" halign="center" >
+    <cell>Trial Number</cell>
+    <cell>Number Removed</cell>
+    <cell>Number Remaining</cell>
+   
+      </row>
+  <row halign="center">
+    <cell>1</cell>
+    <cell>  </cell>
+    <cell> </cell>
+  </row>
+  <row halign="center">
+    <cell>2</cell>
+    <cell>  </cell>
+    <cell> </cell>
+  </row>
+  <row halign="center">
+    <cell>3</cell>
+    <cell>  </cell>
+    <cell> </cell>
+  </row>
+  <row halign="center" >
+    <cell>4</cell>
+    <cell>  </cell>
+    <cell> </cell> 
+  </row>
+  <row halign="center" >
+    <cell>4</cell>
+    <cell>  </cell>
+    <cell> </cell> 
+  </row>
+  <row halign="center" >
+    <cell>5</cell>
+    <cell>  </cell>
+    <cell> </cell> 
+  </row>
+  <row halign="center" >
+    <cell>6</cell>
+    <cell>  </cell>
+    <cell> </cell> 
+  </row>
+  <row halign="center" >
+    <cell>7</cell>
+    <cell>  </cell>
+    <cell> </cell> 
+  </row>
+</tabular>
+</statement>
+<exercise workspace="0.01in">
+    <introduction>
+        <p>
+        Let <m>t</m> be the trial number (input), and <m>r</m> be the number remaining (output).  Construct a scattergram in Desmos and make a rough sketch below.  Do not forget your labels.  Let your window (see the wrench on the right side) be <m>-5 &lt; x &lt; 50</m> and <m>-5 &lt; y &lt; 10</m>.
+      </p>
+    </introduction>
+</exercise>
+<exercise workspace="0.01in">
+    <introduction>
+        <p>
+        Which type of function, linear or exponential, do you think best models the data?  Why?
+        </p>
+    </introduction>
+</exercise>
+<exercise>
+    <introduction>
+        <p>
+            Let's look at the common ratio of the data.  Fill in the table below.  Let <m>m</m> be the number remaining and <m>r</m> be the common ratio.
+        </p>
+     <tabular top="minor" bottom="medium" left="major" right="major">
+  <title>Common Ratio</title>
+  <col>width=60% halign="center"</col>
+  <col>width=70%</col>
+  <row header="yes" halign="center" >
+    <cell>Trial Number</cell>
+    <cell>Number Remaining</cell>
+    <cell>Common Ratio <m>\frac{y_2}{y_1}</m></cell>
+  </row>
+  <row halign="center">
+    <cell>1</cell>
+    <cell></cell>
+    <cell></cell>
+   
+  </row>
+  <row halign="center">
+    <cell>2</cell>
+    <cell></cell>
+    <cell></cell>
+  
+  </row>
+    <row halign="center">
+    <cell>3</cell>
+    <cell> </cell>
+    <cell> </cell>
+  </row>
+  <row halign="center">
+    <cell>4</cell>
+    <cell> </cell>
+    <cell> </cell>
+  </row>
+  <row halign="center">
+    <cell>5</cell>
+    <cell> </cell>
+    <cell> </cell>
+  </row>
+  <row halign="center" >
+    <cell>CR</cell>
+    <cell>---</cell>
+    <cell> </cell> 
+  </row>
+ 
+  </tabular>
+    </introduction>
+</exercise>
+<task workspace="0.01in"> 
+    <statement>
+    <p>
+        The data is not perfect, but what does the common ratio represent?
+
+    </p>
+</statement>
+</task>
+<task workspace="0.01in"> 
+<!-- Removed duplicated malformed task block that caused XML parsing errors -->
+    <statement>
+        <p>
+          We did not have a trial number 0.  Why do you think that is?  
+        </p>
+        <p>
+            If we had a trial number 0, what would the number remaining be? 
+        </p>
+    </statement>
+</task>
+<task workspace="0.01in">
+    <statement>
+        <p>
+           Go to Desmos and create your table of data for trial number and number remaining.
+        </p>
+    </statement>
+</task>
+<task workspace="0.01in">
+    <statement>
+        <p>
+           Look back at your estimation for the common ratio and your answer to the trial 0 question.  Do your answers come close to the <m>a</m> and <m>b</m> of your regression model? 
+        </p>
+        <p>
+            What does this remind you about the relationship between the y-intercept, common ratio and the <m>a</m> and <m>b</m> of an exponential function?
+        </p>
+    </statement>
+</task>
+<task workspace="0.01in">
+    <statement>
+        <p>
+            Find the regression model equation for the data.  Be sure that you use the drop down and choose Exponential Regression and use Log Mode.  Write the equation below. 
+        </p> 
+    </statement>
+</task>
+<task>
+    <statement>
+        <p>
+            Use your regression model to predict the number remaining after 10 trials.  How does this compare to your data? 
+        </p>
+    </statement>
+</task>
+</worksheet>

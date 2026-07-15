@@ -1,0 +1,86 @@
+<worksheet>
+    <title>LT 12 Exponentials and Logs as Inverses</title>
+<objectives>
+    <ul>
+        <li>
+            <p>
+              Recognize exponentials and log graphs as inverses  
+            </p>
+        </li>
+        <li>
+            <p>
+                Convert between exponentials and logs (both ways).
+            </p>
+        </li>\
+        <li>
+            <p>
+               Change the base of a logatithm to base 10 or a natural base. 
+            </p>
+        </li>
+    </ul>
+</objectives>
+<exercise>
+    <introduction>
+        <p>
+            Reveiwing Inverses:
+        </p>
+        <p>
+            We know that the domain of <m>f(x)</m> is the _____________ of <m>f^{-1}(x)</m>.
+        </p>
+        <p>
+            We know that the range of <m>f(x)</m> is the ____________ of <m>f^{-1}(x)</m>.
+        </p>
+        <p>
+            We know if <m>f^{-1}(x)</m> contains the point (3, -7), then the inverse point on <m>f(x)</m> is (_____,_____).
+        </p>
+        <p>
+           We know that inverses "undo" each other.  Such as addition undoing ________ and division undoing ___________. 
+        </p>
+    </introduction>
+</exercise>
+<exercise>
+<introduction>
+    <p>
+        We will be graphing equations in Desmos, and creating a rough sketch on the grid provided.  Enter the equations given and determine if they are inverse equations.  Always have the line <m>y=x</m> graphed.
+    </p>
+</introduction>
+<task workspace="0.01in">
+    <statement>
+        <p>
+           Graph <m>y=x+5</m> and <m> y=x-5</m>.  Are the two equations inverses?  Explain your thinking. 
+        </p>
+    </statement>
+</task>
+<task workspace="0.01in">
+    <statement>
+        <p>
+           Graph <m>y=9x+1</m> and <m> y=9x-1</m>.  Are the two equations inverses?  Explain your thinking. 
+        </p>
+    </statement>
+</task>
+<task workspace="0.01in">
+    <statement>
+        <p>
+           Graph <m>y=10^x</m> and <m></m>. log(x) Are the two equations inverses?  Explain your thinking. 
+        </p>
+        <image source="3x3grid.png">
+            <shortdescription>3x3 blank grid</shortdescription>
+        </image>
+    </statement>
+</task>
+<task workspace="0.01in">
+    <statement>
+        <p>
+           Graph <m>y=4^x</m> and <m> y=log_4(x)</m>.(write the equation y=log_4(x))  Are the two equations inverses?  Explain your thinking. 
+        </p>
+    </statement>
+</task>
+<task workspace="0.01in">
+    <statement>
+        <p>
+           Graph <m>y=e^x</m> and <m> y=ln(x)</m>.  Are the two equations inverses?  Explain your thinking. 
+        </p>
+    </statement>
+</task>
+</exercise>
+</worksheet>
