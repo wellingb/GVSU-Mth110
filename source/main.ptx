@@ -68,18 +68,18 @@
       <xi:include href="./activities/activity-lt12-inverse.ptx"/> 
       <xi:include href="./activities/activity-lt12-log-roll.ptx"/>
       <xi:include href="./activities/activity-lt12-exp-log-inverses.ptx"/>
+      <xi:include href="./activities/activity-lt9-graph-match.ptx"/>
     </chapter>
     <chapter xml:id="handouts">
       <title>Handouts</title>
       <!-- Include handouts -->
-      <!--<xi:include href="./handouts/handout-filename.ptx"/>-->
     </chapter>
 
     <chapter xml:id="homework">
       <title>Homework</title>
 
       <!-- Include homework files -->
-      <!--<xi:include href="./homework/homework01.ptx"/>-->
+      <!-- Homework content not yet added -->
 
     </chapter>
 

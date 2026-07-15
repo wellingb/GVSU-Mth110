@@ -9,14 +9,15 @@
         </li>
         <li>
             <p>
-                Convert between exponentials and logs (both ways).
-            </p>
-        </li>\
-        <li>
-            <p>
-               Change the base of a logatithm to base 10 or a natural base. 
+                Use log properties to evaluate logs.
             </p>
         </li>
+        <li>
+            <p>
+                Convert between exponentials and logs (both ways).
+            </p>
+        </li>
+        
     </ul>
 </objectives>
 <exercise>
@@ -49,6 +50,9 @@
         <p>
            Graph <m>y=x+5</m> and <m> y=x-5</m>.  Are the two equations inverses?  Explain your thinking. 
         </p>
+         <image source="2x2grid.png" width="40%">
+            <shortdescription>2x2 blank grid</shortdescription>
+        </image>
     </statement>
 </task>
 <task workspace="0.01in">
@@ -56,15 +60,18 @@
         <p>
            Graph <m>y=9x+1</m> and <m> y=9x-1</m>.  Are the two equations inverses?  Explain your thinking. 
         </p>
+         <image source="2x2grid.png" width="40%">
+            <shortdescription>2x2 blank grid</shortdescription>
+        </image>
     </statement>
 </task>
 <task workspace="0.01in">
     <statement>
         <p>
            Graph <m>y=10^x</m> and <m></m>. log(x) Are the two equations inverses?  Explain your thinking. 
-        </p>
-        <image source="3x3grid.png">
-            <shortdescription>3x3 blank grid</shortdescription>
+        </p> 
+        <image source="2x2grid.png" width="40%">
+            <shortdescription>2x2 blank grid</shortdescription>
         </image>
     </statement>
 </task>
@@ -73,6 +80,9 @@
         <p>
            Graph <m>y=4^x</m> and <m> y=log_4(x)</m>.(write the equation y=log_4(x))  Are the two equations inverses?  Explain your thinking. 
         </p>
+         <image source="2x2grid.png" width="40%">
+            <shortdescription>2x2 blank grid</shortdescription>
+        </image>
     </statement>
 </task>
 <task workspace="0.01in">
@@ -80,7 +90,110 @@
         <p>
            Graph <m>y=e^x</m> and <m> y=ln(x)</m>.  Are the two equations inverses?  Explain your thinking. 
         </p>
+         <image source="2x2grid.png" width="40%">
+            <shortdescription>2x2 blank grid</shortdescription>
+        </image>
     </statement>
+</task>
+</exercise>
+<exercise>
+    <introduction>
+        <p>
+            Use the following properties to evaluate the logs.  Remember: Logs are _______________.
+        </p>
+        </introduction>
+        <task workspace="$1">
+            <statement>
+             <p> <m>log_b(1)=0</m>  </p>
+            <p>Use what you know about exponent properties to explain why this is true.
+        </p>   
+            </statement>
+        </task>
+        
+       <task workspace="0.01in">
+        <statement>
+            <p> 
+            <m>log_b(b)=1</m>  </p>
+            <p>Use what you know about exponent properties to explain why this is true.
+        </p>                
+            
+        </statement>
+       </task>
+       <task workspace="0.01in">
+        <statement>
+           <p>
+            <m>log_b(b^x)=x</m>  </p>
+            <p>Use what you know about exponent properties to explain why this is true.
+        </p>
+        </statement>
+       </task>
+       
+    
+    <task workspace="0.01in">
+        <statement>
+            <p>
+                Evaluate the log <m>log_2(2^4)</m>
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.01in">
+        <statement>
+            <p>
+                Evaluate the log <m>log_12(1)</m>
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.01in">
+        <statement>
+            <p>
+                Evaluate the log <m>log_{\sqrt8}({\sqrt8})</m>
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.01in">
+        <statement>
+            <p>
+                Evaluate the log <m>ln(e)</m>
+            </p>
+        </statement>
+    </task>
+</exercise>
+<exercise>
+<introduction>
+<p>
+    The most important phrase in learning logs is _______ are _________________.
+</p>
+<p>
+    Keepoing this in mind, convert these logs and exponentials.
+</p>
+</introduction>
+<task workspace="0.01in">
+<statement>
+    <p>
+        <m>14^2=x</m>  as a log:
+    </p>
+</statement>
+</task>
+<task workspace="0.01in">
+<statement>
+    <p>
+        <m>e^{0.7x}=4.05</m> as a natural log:
+    </p>
+</statement>
+</task>
+<task workspace="0.01in">
+<statement>
+    <p>
+        <m>log_{0.5}(25)=x</m> as an exponential:
+    </p>
+</statement>
+</task>
+<task workspace="0.01in">
+<statement>
+    <p>
+        <m>ln(e^x)=-3</m> as an exponential:
+    </p>
+</statement>
 </task>
 </exercise>
 </worksheet>

@@ -1,0 +1,51 @@
+<worksheet>
+<title>LT 9 Graph Fill-in-the-Blanks</title>
+<exercise>
+<introduction>
+<p>
+Fill in the missing parts of the table.
+</p>
+<tabular top="minor" bottom="medium" left="major" right="major">
+  <title>Systems Parmaeters</title>
+  <col>width="1 in"" halign="left"</col>
+  <col>width="1.1 in" halign="center"</col>
+  <col>width="1.1 in" halign="center"</col>
+  <col>width="2 in" halign="center"</col>
+  <col>width="1 in" halign="center"</col>
+  <row header="yes" halign="center" >
+    <cell>Equation</cell>
+    <cell>Graph</cell>
+    <cell>Table</cell>
+    <cell>Incr/Decr by factor of:</cell>
+    <cell>y-int.</cell>
+      </row>
+  <row halign="left">
+    <cell>
+        </cell>
+    <cell> <image source="3-x-exp-g.png" width="60%">
+      <description>exponential growth graph</description>
+      </image> 
+    </cell>
+     <cell>
+     
+     </cell>
+    <cell></cell>
+     <cell></cell>
+  </row>
+   <row halign="left">
+    <cell>
+        </cell>
+    <cell> 
+    </cell>
+     <cell>
+     <image source="2-4-x-exp-t.png" width="60%">
+       
+     </image>
+     </cell>
+    <cell></cell>
+     <cell></cell>
+  </row>
+  </tabular>
+</introduction>
+</exercise>
+</worksheet>
