@@ -1,0 +1,231 @@
+<worksheet>
+    <title>LT 5 Vacation Plan: Budgeting a Trip from Grand Rapids, MI to San Francisco, CA </title>
+    <objectives>
+        <ul>
+            <li>To think through the budgetary implications of a vacation</li>
+            <li>To make a budget plan with rational spending decisions</li>
+        </ul>
+    </objectives>
+   
+        <introduction>
+            <p>You and your group partners are going on this trip.  The objective of this activity is to determine the per-person cost of this trip.
+</p>
+        </introduction>
+        <exercise>
+        
+            <title>Tme and Distance: What do you need to consider when making your decision?</title> 
+        
+        <task workspace="0.1in">
+            <statement>
+                <p>
+                     How much time do you have for this trip? For consistency we will say ____ week(s)</p>
+            </statement>
+        </task>
+        <task workspace="0.1in">
+            <statement>
+                <p>
+                  How far is it from Grand Rapids, MI to San Francisco, CA?   
+                </p>
+            </statement>
+        </task>
+               
+        <task>
+            <title>Transportation Options:</title>
+            <statement>
+                <p>Compare the transportation options below:</p>
+                    <tabular top="minor" bottom="medium" left="major" right="major">
+                        <col width="33%" halign="center" />
+                        <col width="33%" halign="center" />
+                        <col width="33%" halign="center" />
+                        <row header="yes" halign="center">
+                            <cell>Renting A Car</cell>
+                            <cell>Driving Your Car</cell>
+                            <cell>Flying Round Trip</cell>
+                        </row>
+                        <row halign="center">
+                             <cell><p>$&#160;</p><p>&#160;</p><p>&#160;</p></cell>
+                             <cell><p>$&#160;</p><p>&#160;</p><p>&#160;</p></cell>
+                         <cell><p>$&#160;</p><p>&#160;</p><p>&#160;</p></cell>
+                        </row> 
+            </tabular>
+            </statement>
+        </task>
+    </exercise>
+    <exercise>
+            <title>Other Driving Expenses to consider:</title>
+        <task workspace="0.1in">
+            <statement>
+                <p>
+                    How much does gas average across the country?
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.1in">
+            <statement>
+                <p>
+                    Will you be stopping along the way?  Where?  What is the expense?  List each separately with its cost.
+                </p>
+            </statement>
+        </task>   
+        </exercise> 
+    <exercise>
+        <title>Flying: How much does a round trip flight from Grand Rapids, MI to San Francisco, CA cost</title>
+        <task>
+            <statement>
+                <p>
+                    Non-Stop?
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    One Layover?
+                </p>
+            </statement>
+        </task>
+    </exercise>
+<exercise>
+    <title>Lodging</title>
+  <task workspace="0.1in">
+    <statement>
+        <p>
+            Will you be staying in a hotel in San Fransico or with a friend?
+        </p>
+    </statement>
+  </task>
+  <task workspace="0.1in">
+            <statement>
+            <p>
+             How will your choice above affect the expense you previously found?
+            </p>
+        </statement>
+   </task>
+    </exercise>
+    <exercise>
+        <title>Other Expense Considerations</title>
+        <task workspace="0.1in">
+            <statement>
+                <p>
+                    Will you be splitting costs?  How will this affect any of the amounts previously found?  Be specific.
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.33in">
+            <statement> 
+                <p>
+                    What other expenses will you have to consider?  (Food, entertainment, etc.)
+                </p>
+            </statement>
+        </task>
+    </exercise>
+   
+    <exercise>
+    <title>Making the Plan</title>
+        <introduction>
+            <p>Now that you have all of the information, make a plan for your trip.  Be sure to show all calculation in the space provided. List each expense with the per person cost.</p>
+            <p>You will be creating a report with all expenses given and a rationale for why this is the trip you would choose.</p>
+            <p> You will create Plan A and Plan B.</p>
+       
+            <title>Plan A</title>
+        </introduction>
+        
+    <task workspace="0.1in">
+        <statement>
+            <p>
+              Transpotation Costs:(List them separately if more than one.))
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.1in">
+    <statement>
+        <p>Lodging Costs (List them separately if more than one location)</p>
+    </statement>
+</task>
+    <task workspace="0.1in">
+        <statement>
+            <p>Food Cost (give a per-person total here)</p>
+        </statement>
+    </task>
+    <task workspace="0.1in">
+        <statement>
+            <p>
+                Fun Costs (List the estimates separately)
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.1in">
+        <statement>
+            <p>
+                Total Cost per Person $________________________
+
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.22in">
+        <statement>
+            <p>
+                Rationale for Plan A.
+            </p>
+        </statement>
+    </task>
+    
+</exercise>
+<exercise>
+            <title>Plan B</title>
+    <task workspace="0.1in">
+        <statement>
+            <p>
+              Transpotation Costs:(List them separately if more than one.))
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.1in">
+    <statement>
+        <p>Lodging Costs (List them separately if more than one location)</p>
+    </statement>
+</task>
+    <task workspace="0.1in">
+        <statement>
+            <p>Food Cost (give a per-person total here)</p>
+        </statement>
+    </task>
+    <task workspace="0.1in">
+        <statement>
+            <p>
+                Fun Costs (List the estimates separately)
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.1in">
+        <statement>
+            <p>
+                Total Cost per Person $________________________
+
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.2in">
+        <statement>
+            <p>
+                Rationale for Plan B.
+            </p>
+        </statement>
+    </task>
+    
+</exercise>
+
+<exercise workspace="0.1in">
+    <introduction>
+        <p>
+            What difference would it make if you flew out to San Francico and rented a car to return to Grand Rapids?  List the expenses and total cost.
+
+        </p>
+    </introduction>
+</exercise>
+<exercise workspace="0.1in">
+    <p>
+        Now that you have considered the options, make a recommendation for the trip you would take.  Be sure to include the total cost per person and a rationale for your choice.
+    </p>
+</exercise>
+</worksheet>
