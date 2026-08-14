@@ -109,24 +109,6 @@ var ptx_lunr_docs = [
   "body": "  Camilla went on a bike ride. It was a hot day. She started off riding fast, but she had to take a break for a few minutes to rest. When she started going again, she went at a slower pace. After awhile, she had to stop and rest again for several minutes. When she finally started again, she was tire and she biked very slowly.     What two things are being related in this story?    time or minutes and distance traveled      Which in the dependent variable?    The dependent variable is the one that can be measured. We are measuring the distance .traveled      What is the independent variable?   The independent variable is the one that is manipulated or controlled. We are controlling the time or minutes.       Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.    "
 },
 {
-  "id": "activities-4",
-  "level": "1",
-  "url": "activities-4.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "LT 4Linear Characteristics",
-  "body": " LT 4Linear Characteristics     For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.         Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation      f(x)=(2*x-2)                f(x)=(-x+3)              ,        ,         A line contains the point (2,6) and is parallel to the line .                    "
-},
-{
-  "id": "activities-4-2-1",
-  "level": "2",
-  "url": "activities-4.html#activities-4-2-1",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.         Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation      f(x)=(2*x-2)                f(x)=(-x+3)              ,        ,         A line contains the point (2,6) and is parallel to the line .                  "
-},
-{
   "id": "ws-a",
   "level": "1",
   "url": "ws-a.html",
@@ -208,121 +190,139 @@ var ptx_lunr_docs = [
   "body": "  Using Function Notation on the Graph of .     Explain how you would use the graph to find .    Go to on the x-axis since we know that . Go up or down from there until you reach the line. The y-value at that point is your answer.      Use the graph to find .    The point where is . This tells us .      Explain how you would use the graph to find when .    Go to on the y-axis since we know that . Go left or right from there until you reach the line. The x-value at that point is your answer.      Use the graph to find when .    The point where is . This tells us when .    "
 },
 {
-  "id": "activities-6",
+  "id": "activities-5",
   "level": "1",
-  "url": "activities-6.html",
+  "url": "activities-5.html",
   "type": "Worksheet",
   "number": "",
   "title": "LT 4:Linear Equations",
   "body": " LT 4:Linear Equations    Find the equation of a table of linear data  Find the equation of a line parallel or perpendicular to a given line's graph.  Find the equation of a line given a point and slope.  Find the equation of a line given two points..      width=5% halign=\"center\"  width=50% halign=\"center\"   x  f(x)   x  g(x)   x  h(x)    -1  -15   0  9   3  -1    0  -9   1  5   6  1    1  -3   2  1   9  3    2  3   3  -3   12  5    3  9   4  -7   15  7        What do you notice about the inputs for each table individually?    The table has inputs that are all increasing by adding ; starting with . The table has inputs that all increase by adding ; starting with . The table has inputs that increase by adding ; starting with .        What do you notice about the outputs for each table individually?    The table has the outputs all increasing by adding ; starting with The table has the outputs all subtracting ; starting with . The table has the outputs all increasing by adding ; starting with         Which of the tables hae linear data? Explain your reasoning.    The table has inputs that are all increasing by adding , and the outputs are all increasing by adding . This constant addition makes the data linear. The table has inputs that all increase by adding and the outputs are all decreasing by subtracting . This constant addition\/subtraction makes the data linear. The table has inputs that increase by adding and outputs that increase by adding . Since both the inputs and outputs consistently are chaning the the same amounts, the data is linear.        What is the common difference for each table individually?    The table: since the inputs change by and outputs by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is .        Find the y-intercept for each table of data. If it does not exist in the table, explain how you found it.    The f(x) table has the point . The is always for a y-intercept. The g(x) table has the point . The is always for a y-intercept. The h(x) table does not have the y-intercept in it. If you go back , by subtracting (instead of adding to go forward), in the input column, you get . Going backward in the output column, you need to subtract , and find the . This means the y-intercept is .        If the data is linear, find the equation.    All of the equations are linear. To find the equation, we use the common ratio as our and the of the y-intercept as our .          Graph of f of x equals negative x plus 2 on coordinate axes ranging from -6 to 6.    f(x)=(-x+2)           Find the equation of the graphed line.     Given the line graphed above, how would you find the equation of the line?    First find the y-intercept.This tells us the of the equation. Next find the slope by using rise over run. Start with a point on the left. Go up (positive rise) or down(negative rise) to get across from the next point you want to use. Then go left (negative run) or right (positive run) until you are on the line. The fraction rise\/run is the of the equation.         Show your work to find the equation of the graphed line.    Using the y-intercept ad the point (1,1): The y-intercept is (0,2), so we know that . To find the slope, use rise over run. Start with a point on the left which is the y-intercept in this case. Go down(negative rise) to get across from the next point you want to use. We go down 1, so our rise is -1. Then go right (positive run) until you are on the line. We go to the right 1, so our run is +1. Rise\/run =          Find the equation of any line that is parallel to the graphed line.    We found the slope of the line to be 6. Parallel lines have the same slope but different y-intercepts. Answers will vary, but all equation need the same slope. One example: .         Find the equation of the line in slope-intercept form:      The line has a slope of and contains the point (4,6).    We are given , , . The equation is: .         The line contains the points (-3,6) and (3,-12)    First find the slope between the two lines. Next, choose either point to represent and to plug into the equation. We will use (-3,6)          The line contains the points (5, -2) and (5,1).    First find the slope between the two lines. Since the slope is undefined, we know it is a vertical line. . This is evident in the given points, since both points have the same x-value of 5.      "
 },
 {
-  "id": "activities-6-2",
+  "id": "activities-5-2",
   "level": "2",
-  "url": "activities-6.html#activities-6-2",
+  "url": "activities-5.html#activities-5-2",
   "type": "Objectives",
   "number": "",
   "title": "",
   "body": "  Find the equation of a table of linear data  Find the equation of a line parallel or perpendicular to a given line's graph.  Find the equation of a line given a point and slope.  Find the equation of a line given two points..   "
 },
 {
-  "id": "activities-6-4-1",
+  "id": "activities-5-4-1",
   "level": "2",
-  "url": "activities-6.html#activities-6-4-1",
+  "url": "activities-5.html#activities-5-4-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
   "body": "  What do you notice about the inputs for each table individually?    The table has inputs that are all increasing by adding ; starting with . The table has inputs that all increase by adding ; starting with . The table has inputs that increase by adding ; starting with .   "
 },
 {
-  "id": "activities-6-5-1",
+  "id": "activities-5-5-1",
   "level": "2",
-  "url": "activities-6.html#activities-6-5-1",
+  "url": "activities-5.html#activities-5-5-1",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
   "body": "  What do you notice about the outputs for each table individually?    The table has the outputs all increasing by adding ; starting with The table has the outputs all subtracting ; starting with . The table has the outputs all increasing by adding ; starting with    "
 },
 {
-  "id": "activities-6-6-1",
+  "id": "activities-5-6-1",
   "level": "2",
-  "url": "activities-6.html#activities-6-6-1",
+  "url": "activities-5.html#activities-5-6-1",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
   "body": "  Which of the tables hae linear data? Explain your reasoning.    The table has inputs that are all increasing by adding , and the outputs are all increasing by adding . This constant addition makes the data linear. The table has inputs that all increase by adding and the outputs are all decreasing by subtracting . This constant addition\/subtraction makes the data linear. The table has inputs that increase by adding and outputs that increase by adding . Since both the inputs and outputs consistently are chaning the the same amounts, the data is linear.   "
 },
 {
-  "id": "activities-6-7-1",
+  "id": "activities-5-7-1",
   "level": "2",
-  "url": "activities-6.html#activities-6-7-1",
+  "url": "activities-5.html#activities-5-7-1",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
   "body": "  What is the common difference for each table individually?    The table: since the inputs change by and outputs by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is .   "
 },
 {
-  "id": "activities-6-8-1",
+  "id": "activities-5-8-1",
   "level": "2",
-  "url": "activities-6.html#activities-6-8-1",
+  "url": "activities-5.html#activities-5-8-1",
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
   "body": "  Find the y-intercept for each table of data. If it does not exist in the table, explain how you found it.    The f(x) table has the point . The is always for a y-intercept. The g(x) table has the point . The is always for a y-intercept. The h(x) table does not have the y-intercept in it. If you go back , by subtracting (instead of adding to go forward), in the input column, you get . Going backward in the output column, you need to subtract , and find the . This means the y-intercept is .   "
 },
 {
-  "id": "activities-6-9-1",
+  "id": "activities-5-9-1",
   "level": "2",
-  "url": "activities-6.html#activities-6-9-1",
+  "url": "activities-5.html#activities-5-9-1",
   "type": "Worksheet Exercise",
   "number": "6",
   "title": "",
   "body": "  If the data is linear, find the equation.    All of the equations are linear. To find the equation, we use the common ratio as our and the of the y-intercept as our .      "
 },
 {
-  "id": "activities-6-10-2",
+  "id": "activities-5-10-2",
   "level": "2",
-  "url": "activities-6.html#activities-6-10-2",
+  "url": "activities-5.html#activities-5-10-2",
   "type": "Worksheet Exercise",
   "number": "7",
   "title": "",
   "body": "  Find the equation of the graphed line.     Given the line graphed above, how would you find the equation of the line?    First find the y-intercept.This tells us the of the equation. Next find the slope by using rise over run. Start with a point on the left. Go up (positive rise) or down(negative rise) to get across from the next point you want to use. Then go left (negative run) or right (positive run) until you are on the line. The fraction rise\/run is the of the equation.    "
 },
 {
-  "id": "activities-6-12-1",
+  "id": "activities-5-12-1",
   "level": "2",
-  "url": "activities-6.html#activities-6-12-1",
+  "url": "activities-5.html#activities-5-12-1",
   "type": "Worksheet Exercise",
   "number": "8",
   "title": "",
   "body": "   Find the equation of any line that is parallel to the graphed line.    We found the slope of the line to be 6. Parallel lines have the same slope but different y-intercepts. Answers will vary, but all equation need the same slope. One example: .    "
 },
 {
-  "id": "activities-6-13-1",
+  "id": "activities-5-13-1",
   "level": "2",
-  "url": "activities-6.html#activities-6-13-1",
+  "url": "activities-5.html#activities-5-13-1",
   "type": "Worksheet Exercise",
   "number": "9",
   "title": "",
   "body": "  Find the equation of the line in slope-intercept form:      The line has a slope of and contains the point (4,6).    We are given , , . The equation is: .    "
 },
 {
-  "id": "activities-6-14-1",
+  "id": "activities-5-14-1",
   "level": "2",
-  "url": "activities-6.html#activities-6-14-1",
+  "url": "activities-5.html#activities-5-14-1",
   "type": "Worksheet Exercise",
   "number": "10",
   "title": "",
   "body": "  The line contains the points (-3,6) and (3,-12)    First find the slope between the two lines. Next, choose either point to represent and to plug into the equation. We will use (-3,6)     "
 },
 {
-  "id": "activities-6-15-1",
+  "id": "activities-5-15-1",
   "level": "2",
-  "url": "activities-6.html#activities-6-15-1",
+  "url": "activities-5.html#activities-5-15-1",
   "type": "Worksheet Exercise",
   "number": "11",
   "title": "",
   "body": "  The line contains the points (5, -2) and (5,1).    First find the slope between the two lines. Since the slope is undefined, we know it is a vertical line. . This is evident in the given points, since both points have the same x-value of 5.    "
+},
+{
+  "id": "activities-6",
+  "level": "1",
+  "url": "activities-6.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 4Linear Characteristics",
+  "body": " LT 4Linear Characteristics    For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.            Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation           (-3,6), (3, -12)            (-5,-4), (2, 3)             A line contains the point (2,6) and is parallel to the line .           f(x)=-0.75*x+1.5               linear graph with negative slope \/>              "
+},
+{
+  "id": "activities-6-2",
+  "level": "2",
+  "url": "activities-6.html#activities-6-2",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.            Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation           (-3,6), (3, -12)            (-5,-4), (2, 3)             A line contains the point (2,6) and is parallel to the line .           f(x)=-0.75*x+1.5               linear graph with negative slope \/>             "
 },
 {
   "id": "activities-7",
@@ -745,7 +745,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 9 Growth and Decay",
-  "body": " LT 9 Growth and Decay    Review: Complete the table.    width=5% halign=\"center\"  width=50% halign=\"center\"  height=100% halign=\"center\"        Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?          Complete the following Table    width=5% halign=\"center\"  width=50% halign=\"center\"   Exponential Function>  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent            213(1.2)^t          Growth  177    9.8%     Decay  5.41    7%      "
+  "body": " LT 9 Growth and Decay    Review: Complete the table.             Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?         Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                     Growth  177    9.8%     Decay  5.41    7%     "
 },
 {
   "id": "activities-17-2",
@@ -754,16 +754,16 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Review: Complete the table.    width=5% halign=\"center\"  width=50% halign=\"center\"  height=100% halign=\"center\"        Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?      "
+  "body": "  Review: Complete the table.             Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?      "
 },
 {
-  "id": "activities-17-3-1",
+  "id": "activities-17-3",
   "level": "2",
-  "url": "activities-17.html#activities-17-3-1",
+  "url": "activities-17.html#activities-17-3",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Complete the following Table    width=5% halign=\"center\"  width=50% halign=\"center\"   Exponential Function>  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent            213(1.2)^t          Growth  177    9.8%     Decay  5.41    7%    "
+  "body": "  Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                     Growth  177    9.8%     Decay  5.41    7%    "
 },
 {
   "id": "activities-18",
@@ -898,7 +898,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 12 Exponentials and Logs as Inverses",
-  "body": " LT 12 Exponentials and Logs as Inverses     Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).       Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.      We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid        Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log        The most important phrase in learning logs is _______ are _________________.  Keepoing this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:     "
+  "body": " LT 12 Exponentials and Logs as Inverses     Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).       Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.      We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid        Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log        The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:     "
 },
 {
   "id": "activities-23-2",
@@ -943,7 +943,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "  The most important phrase in learning logs is _______ are _________________.  Keepoing this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
+  "body": "  The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
 },
 {
   "id": "activities-24",
