@@ -102,7 +102,7 @@
             Use the following properties to evaluate the logs.  Remember: Logs are _______________.
         </p>
         </introduction>
-        <task workspace="$1">
+        <task workspace="0.1in">
             <statement>
              <p> <m>log_b(1)=0</m>  </p>
             <p>Use what you know about exponent properties to explain why this is true.
@@ -164,7 +164,7 @@
     The most important phrase in learning logs is _______ are _________________.
 </p>
 <p>
-    Keepoing this in mind, convert these logs and exponentials.
+    Keeping this in mind, convert these logs and exponentials.
 </p>
 </introduction>
 <task workspace="0.01in">

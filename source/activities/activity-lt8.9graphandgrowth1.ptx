@@ -7,9 +7,9 @@
     </p>
   </introduction>
 <tabular top="minor" bottom="minor" left="minor" right="minor">
-  <col>width=5% halign="center"</col>
-  <col>width=50% halign="center"</col>
-  <col>height=100% halign="center"</col>
+  <col width="30%" halign="center"/>
+  <col width="30%" halign="center"/>
+  <col width="30%" halign="center"/>
 
   <row header="yes" halign="center" >
     <cell></cell>
@@ -26,104 +26,103 @@
     <cell></cell>
     <cell></cell>
   </row>
-    <row header="yes" halign="center" >
-    <cell>Initial value (a)</cell>
-    <cell></cell>
-    <cell></cell>
-  </row>
-   <row header="yes" halign="center" >
+  <row header="yes" halign="center" >
     <cell>base (b)</cell>
     <cell></cell>
     <cell></cell>
   </row>
-   <row header="yes" halign="center" >
+  <row header="yes" halign="center" >
     <cell>Growth or Decay?</cell>
     <cell></cell>
     <cell></cell>
   </row>
- <row header="yes" halign="center" >
+  <row header="yes" halign="center" >
     <cell>Domain</cell>
     <cell></cell>
     <cell></cell>
   </row>
-   <row header="yes" halign="center" >
+  <row header="yes" halign="center" >
     <cell>Range</cell>
     <cell></cell>
     <cell></cell>
   </row>
-   <row header="yes" halign="center" >
+  <row header="yes" halign="center" >
     <cell>Horizontal Intercept</cell>
     <cell></cell>
     <cell></cell>
-   </row>
-    <row header="yes" halign="center" >
+  </row>
+  <row header="yes" halign="center" >
     <cell>Vertical Intercept</cell>
     <cell></cell>
     <cell></cell>
   </row>
-   <row header="yes" halign="center" >
+  <row header="yes" halign="center" >
     <cell>Horizontal Asymptote</cell>
     <cell></cell>
-    <cell></cell> 
+    <cell></cell>
   </row>
-   <row header="yes" halign="center" >
+  <row header="yes" halign="center" >
     <cell>Increasing or Decreasing?</cell>
     <cell></cell>
     <cell></cell>
   </row>
 </tabular>
 </exercise>
-<page>
+
 <exercise>
   <introduction>
     <p>
       Complete the following Table
     </p>
   </introduction>
- <tabular top="minor" bottom="minor" left="minor" right="minor">
-  <col>width=5% halign="center"</col>
-  <col>width=50% halign="center"</col>
-  <row header="yes" halign="center" >
-    <cell><p>Exponential</p><p>Function></p><m>y=ab^x</m></cell>
-    <cell>Growth or Decay?</cell>
-    <cell>Initial Value (a)</cell>
-    <cell>Growth/Decay Factor (b)</cell>
-    <cell>Growth/Decay Rate (r) as a decimal</cell>
-    <cell>Growth/Decay Rate (r) as a percent</cell>
-  </row> 
-  <row>
-    <cell><m>y=300(0.88)^t</m></cell>
-    <cell></cell>
-    <cell></cell>
-    <cell></cell>
-    <cell></cell>
-    <cell></cell>
-  </row>
-  <row>
-    <cell>213(1.2)^t</cell> 
-    <cell></cell>
-    <cell></cell>
-    <cell></cell>
-    <cell></cell>
-    <cell></cell>
-  </row>
-  <row>
-    <cell></cell>
-    <cell>Growth</cell>
-    <cell>177</cell>
-    <cell></cell>
-    <cell></cell>
-    <cell>9.8%</cell>
-  </row>
-   <row>
-    <cell></cell>
-    <cell>Decay</cell>
-    <cell>5.41</cell>
-    <cell></cell>
-    <cell></cell>
-    <cell>7%</cell>
-  </row>
-</tabular>
+  <tabular top="minor" bottom="minor" left="minor" right="minor">
+    <col width="16%" halign="center"/>
+    <col width="16%" halign="center"/>
+    <col width="16%" halign="center"/>
+    <col width="16%" halign="center"/>
+    <col width="16%" halign="center"/>
+    <col width="16%" halign="center"/>
+    <row header="yes" halign="center" >
+      <cell><p>Exponential</p><p>Function</p><m>y=ab^x</m></cell>
+      <cell>Growth or Decay?</cell>
+      <cell>Initial Value (a)</cell>
+      <cell>Growth/Decay Factor (b)</cell>
+      <cell>Growth/Decay Rate (r) as a decimal</cell>
+      <cell>Growth/Decay Rate (r) as a percent</cell>
+    </row> 
+    <row>
+      <cell><m>y=300(0.88)^t</m></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+    </row>
+    <row>
+      <cell><m>y=213(1.2)^t</m></cell> 
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+      <cell></cell>
+    </row>
+    <row>
+      <cell></cell>
+      <cell>Growth</cell>
+      <cell>177</cell>
+      <cell></cell>
+      <cell></cell>
+      <cell>9.8%</cell>
+    </row>
+    <row>
+      <cell></cell>
+      <cell>Decay</cell>
+      <cell>5.41</cell>
+      <cell></cell>
+      <cell></cell>
+      <cell>7%</cell>
+    </row>
+  </tabular>
 </exercise>
-</page>
+
 </worksheet>

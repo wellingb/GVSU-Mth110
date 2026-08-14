@@ -49,9 +49,10 @@
 
       <!-- Remove the example and replace with your own activities -->
        <xi:include href="./activities/activity-lt2qualitative.ptx"/>
-       <xi:include href="./activities/activity-template.ptx"/>
+     
       <xi:include href="./activities/activity-lt4graph.ptx"/>
       <xi:include href="./activities/activity-lt4linear equations.ptx"/>
+      <xi:include href="./activities/activity-4-lcharacteristics.ptx"/>
       <xi:include href="./activities/activity-lt4-slopey-int.ptx"/> 
       <xi:include href="./activities/activity-lt5wedding plans.ptx"/>
       <xi:include href="./activities/activity-lt5-vacation plan.ptx"/> 
