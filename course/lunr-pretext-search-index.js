@@ -619,7 +619,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 9 Exponential Graphs",
-  "body": " LT 9 Exponential Graphs    look at the image   Graph of f of x equals 3 times 2 to the x on coordinate axes ranging from -4 to 15.    f(x)=3*(2)^x           "
+  "body": " LT 9 Exponential Graphs    Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   Graph of f of x equals 3 times 2 to the x on coordinate axes ranging from -4 to 15.    f(x)=3*(2)^x            What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the growth factor of the function?    The growth factor is . This is the value of in the function . The growth factor is also the value that the function increases by when increases by 1. The growth factor is also the value that the function decreases by when increases by 1 if the function is a decay function.      What is the growth rate of the function?    The growth rate is or . The growth rate is the growth factor minus 1. The growth rate is also the growth factor minus 1 expressed as a percent. The growth rate is also the value that the function increases by when increases by 1 if the function is a growth function. The growth rate is also the value that the function decreases by when increases by 1 if the function is a decay function.      How do you know this is a growth function?    The function is a growth function because the growth factor is greater than 1. If the growth factor was less than 1, then the function would be a decay function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.       Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   decreasing exponential graph with y-intercept (0,2)      What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the decay factor of the function?    The decay factor is . This is the value of in the function . The decay factor is also the value that the function decreases by when increases by 1. The decay factor is also the value that the function increases by when increases by 1 if the function is a growth function.      What is the decay rate of the function?    The decay rate is or . The decay rate is the decay factor minus 1. The decay rate is also the decay factor minus 1 expressed as a percent. The decay rate is also the value that the function decreases by when increases by 1 if the function is a decay function. The decay rate is also the value that the function increases by when increases by 1 if the function is a growth function.      How do you know this is a decay function?    The function is a decay function because the decay factor is less than 1. If the decay factor was greater than 1, then the function would be a growth function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.       Go to Desmos and type in the equations . Click on \"all\" sliders. Move the slider, make observations, and answer the following questions.     Let and What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.      Let and .. What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.       Let in the function . What do you notice about the graph?    The graph is a horizontal line at . The domain of the function is all real numbers. The range of the function is .      Let in the function . What do you notice about the graph?    The graph is a horizontal line at .      Let in the function . What do you notice about the graph?    The graph is not a function. The graph does not pass the vertical line test.      Fill in the table to make a summary of the connections between and and the graph of the function .                                                       graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs     graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs      "
 },
 {
   "id": "activities-13-2",
@@ -628,7 +628,61 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  look at the image   Graph of f of x equals 3 times 2 to the x on coordinate axes ranging from -4 to 15.    f(x)=3*(2)^x          "
+  "body": "  Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   Graph of f of x equals 3 times 2 to the x on coordinate axes ranging from -4 to 15.    f(x)=3*(2)^x            What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the growth factor of the function?    The growth factor is . This is the value of in the function . The growth factor is also the value that the function increases by when increases by 1. The growth factor is also the value that the function decreases by when increases by 1 if the function is a decay function.      What is the growth rate of the function?    The growth rate is or . The growth rate is the growth factor minus 1. The growth rate is also the growth factor minus 1 expressed as a percent. The growth rate is also the value that the function increases by when increases by 1 if the function is a growth function. The growth rate is also the value that the function decreases by when increases by 1 if the function is a decay function.      How do you know this is a growth function?    The function is a growth function because the growth factor is greater than 1. If the growth factor was less than 1, then the function would be a decay function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.    "
+},
+{
+  "id": "activities-13-3",
+  "level": "2",
+  "url": "activities-13.html#activities-13-3",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   decreasing exponential graph with y-intercept (0,2)      What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the decay factor of the function?    The decay factor is . This is the value of in the function . The decay factor is also the value that the function decreases by when increases by 1. The decay factor is also the value that the function increases by when increases by 1 if the function is a growth function.      What is the decay rate of the function?    The decay rate is or . The decay rate is the decay factor minus 1. The decay rate is also the decay factor minus 1 expressed as a percent. The decay rate is also the value that the function decreases by when increases by 1 if the function is a decay function. The decay rate is also the value that the function increases by when increases by 1 if the function is a growth function.      How do you know this is a decay function?    The function is a decay function because the decay factor is less than 1. If the decay factor was greater than 1, then the function would be a growth function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.    "
+},
+{
+  "id": "activities-13-4",
+  "level": "2",
+  "url": "activities-13.html#activities-13-4",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Go to Desmos and type in the equations . Click on \"all\" sliders. Move the slider, make observations, and answer the following questions.     Let and What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.      Let and .. What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.    "
+},
+{
+  "id": "activities-13-5",
+  "level": "2",
+  "url": "activities-13.html#activities-13-5",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Let in the function . What do you notice about the graph?    The graph is a horizontal line at . The domain of the function is all real numbers. The range of the function is .   "
+},
+{
+  "id": "activities-13-6",
+  "level": "2",
+  "url": "activities-13.html#activities-13-6",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Let in the function . What do you notice about the graph?    The graph is a horizontal line at .   "
+},
+{
+  "id": "activities-13-7",
+  "level": "2",
+  "url": "activities-13.html#activities-13-7",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  Let in the function . What do you notice about the graph?    The graph is not a function. The graph does not pass the vertical line test.   "
+},
+{
+  "id": "activities-13-8",
+  "level": "2",
+  "url": "activities-13.html#activities-13-8",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "  Fill in the table to make a summary of the connections between and and the graph of the function .                                                       graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs     graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs     "
 },
 {
   "id": "activities-14",
