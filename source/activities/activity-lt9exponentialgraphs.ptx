@@ -2,7 +2,7 @@
 <title>LT 9 Exponential Graphs</title>
 <exercise>
  <introduction>
-  <p> look at the image
+  <p> Look at the image below.  The graph is of the function <m>f(x)=3(2)^x</m>.  Use the graph to answer the following questions.  You may use Desmos to help you answer the questions.
   </p>
 
 <image width="40%">
@@ -19,5 +19,239 @@
 </prefigure>
 </image>
 </introduction>
+<task>
+  <statement>
+    <p> What is the initial value of the function? </p>
+  </statement>
+  <answer>
+    <p> The initial value is <m>3</m>.  This is the value of the function when <m>x=0</m>.  The initial value is also the <m>y</m>-intercept of the graph.  The initial value is also the value of <m>a</m> in the function <m>f(x)=ab^x</m>.</p>
+  </answer>
+</task>
+<task>
+  <statement>
+    <p> What is the growth factor of the function? </p>
+  </statement>
+  <answer>
+    <p> The growth factor is <m>2</m>.  This is the value of <m>b</m> in the function <m>f(x)=ab^x</m>.  The growth factor is also the value that the function increases by when <m>x</m> increases by 1.  The growth factor is also the value that the function decreases by when <m>x</m> increases by 1 if the function is a decay function.</p>
+  </answer>
+</task>
+<task>
+  <statement>
+    <p> What is the growth rate of the function? </p>
+  </statement>
+  <answer>
+    <p> The growth rate is <m>1</m> or <m>100%</m>.  The growth rate is the growth factor minus 1.  The growth rate is also the growth factor minus 1 expressed as a percent.  The growth rate is also the                    value that the function increases by when <m>x</m> increases by 1 if the function is a growth function.  The growth rate is also the value that the function decreases by when <m>x</m> increases by 1 if the function is a decay function.</p>               
+  </answer>
+</task>     
+<task>
+  <statement>
+    <p> How do you know this is a growth function? </p>
+  </statement>
+  <answer>
+    <p> The function is a growth function because the growth factor is greater than 1.  If the growth factor was less than 1, then the function would be a decay function.</p>
+  </answer>
+</task> 
+<task>
+  <statement>
+    <p>
+      What is the domain and range of the function?
+    </p>
+  </statement>
+  <answer>
+    <p>
+      The domain of the function is all real numbers.  The range of the function is all real numbers greater than 0.
+    </p>
+  </answer>   
+</task>
+</exercise>
+<exercise>
+ <introduction>
+  <p> Look at the image below.  The graph is of the function <m>f(x)=2(0.5)^x</m>.  Use the graph to answer the following questions.  You may use Desmos to help you answer the questions.
+  </p>
+
+<image source="desmos-graph.2.0.5.x.svg" width="40%">
+<shortdescription>decreasing exponential graph with y-intercept (0,2)</shortdescription>
+</image>
+</introduction>
+<task>
+  <statement>
+    <p> What is the initial value of the function? </p>
+  </statement>
+  <answer>
+    <p> The initial value is <m>2</m>.  This is the value of the function when <m>x=0</m>.  The initial value is also the <m>y</m>-intercept of the graph.  The initial value is also the value of <m>a</m> in the function <m>f(x)=ab^x</m>.</p>
+  </answer>
+</task>
+<task>
+  <statement>
+    <p> What is the decay factor of the function? </p>
+  </statement>    
+  <answer>
+    <p> The decay factor is <m>0.5</m>.  This is the value of <m>b</m> in the function <m>f(x)=ab^x</m>.  The decay factor is also the value that the function decreases by when <m>x</m> increases by 1.  The decay factor is also the value that the function increases by when <m>x</m> increases by 1 if the function is a growth function.</p>
+  </answer>
+</task>
+<task>
+  <statement>
+    <p> What is the decay rate of the function? </p>
+  </statement>
+  <answer>  
+    <p> The decay rate is <m>0.5</m> or <m>50%</m>.  The decay rate is the decay factor minus 1.  The decay rate is also the decay factor minus 1 expressed as a percent.  The decay rate is also the value that the function decreases by when <m>x</m> increases by 1 if the function is a decay function.  The decay rate is also the value that the function increases by when <m>x</m> increases by 1 if the function is a growth function.</p>      
+  </answer>
+</task>
+<task>
+  <statement> 
+    <p> How do you know this is a decay function? </p>
+  </statement>
+  <answer>  
+    <p> The function is a decay function because the decay factor is less than 1.  If the decay factor was greater than 1, then the function would be a growth function.</p>
+  </answer>
+</task>
+<task>
+  <statement>
+    <p>
+      What is the domain and range of the function?
+    </p>
+  </statement>        
+  <answer>
+    <p>
+      The domain of the function is all real numbers.  The range of the function is all real numbers greater than 0.
+    </p>
+  </answer>
+</task>
+</exercise> 
+<exercise>
+  <introduction>
+    <p>
+      Go to Desmos and type in the equations <m>y=ab^x</m>.  Click on "all" sliders.  Move the <m>a</m> slider, make observations, and answer the following questions.       
+    </p>
+  </introduction>
+  <task>
+    <statement>
+      <p>
+        Let <m>b > 1</m> and <m>a &lt; 0</m> What do you notice about the graph?  What is the domain and range of the function?  How does this graph differ from the graph when <m>a>0</m>?
+      </p>
+    </statement>
+  <answer>
+    <p>
+      The graph is a reflection of the graph when <m>a>0</m> across the <m>x</m>-axis.  The domain of the function is all real numbers.  The range of the function is all real numbers less than 0.
+    </p>
+  </answer>
+</task>
+  <task>
+    <statement>
+      <p>
+        Let <m>0 &lt; b &lt; 1</m> and <m>a &lt; 0</m>.. What do you notice about the graph?  What is the domain and range of the function?  How does this graph differ from the graph when <m>a>0</m>?
+      </p>
+    </statement>
+    <answer>  
+      <p>
+      The graph is a reflection of the graph when <m>a>0</m> across the <m>x</m>-axis.  The domain of the function is all real numbers.  The range of the function is all real numbers less than 0.
+      </p>
+    </answer>
+  </task> 
+</exercise>
+<exercise>
+  <introduction>
+    <p>
+      Let <m>b=0</m> in the function <m>f(x)=ab^x</m>.  What do you notice about the graph? </p>
+  </introduction>
+<answer>
+  
+    <p>
+      The graph is a horizontal line at <m>y=0</m>.  The domain of the function is all real numbers.  The range of the function is <m>{0}</m>.  
+    </p>
+  
+</answer>
+</exercise>
+<exercise>
+  <introduction>
+    <p>
+      Let <m>b=1</m> in the function <m>f(x)=ab^x</m>.  What do you notice about the graph? </p>
+  </introduction>
+  <answer>
+  
+    <p>
+      The graph is a horizontal line at <m>y=a</m>.  
+    </p>  
+  
+  </answer>
+</exercise>
+<exercise>
+  <introduction>
+    <p>
+      Let <m>b \lt 0</m> in the function <m>f(x)=ab^x</m>.  What do you notice about the graph? </p>
+  </introduction>
+  <answer>
+  
+    <p>
+      The graph is not a function.  The graph does not pass the vertical line test.
+    </p>
+   
+</answer>
+</exercise>
+<exercise>
+  <introduction>
+    <p>
+      Fill in the table to make a summary of the connections between <m>a</m> and <m>b</m> and the graph of the function <m>f(x)=ab^x</m>.
+    </p>
+  </introduction>
+  <tabular top="minor" bottom="medium" left="major" right="major">
+    <col width="20%" halign="center" />
+    <col width="20%" halign="center" />
+    <col width="20%" halign="center" />
+    <col width="20%" halign="center" />
+    <col width="20%" halign="center" />
+    <row>
+      <cell><m>a=</m></cell>
+      <cell><m> 0 &lt; b &lt; 1 </m></cell>
+      <cell><m>b>1</m></cell>
+      <cell><m>b=1</m></cell>
+      <cell><m>b=0</m></cell>
+    </row>
+    <row>
+      <cell><m>a>0</m></cell>
+      <cell> </cell>
+      <cell> </cell>
+      <cell> </cell>
+      <cell> </cell>
+    </row>
+ <row>
+      <cell><m>a &lt; 0</m></cell>
+      <cell> </cell>
+      <cell> </cell>
+      <cell> </cell>
+      <cell> </cell>
+    </row>
+  </tabular>
+  <answer>
+    
+  <tabular top="minor" bottom="medium" left="major" right="major">
+    <col width="20%" halign="center" />
+    <col width="20%" halign="center" />
+    <col width="20%" halign="center" />
+    <col width="20%" halign="center" />
+    <col width="20%" halign="center" />
+    <row>
+      <cell><m>a=</m></cell>
+      <cell><m> 0 &lt; b &lt; 1 </m></cell>
+      <cell><m>b>1</m></cell>
+      <cell><m>b=1</m></cell>
+      <cell><m>b=0</m></cell>
+    </row>
+    <row>
+      <cell><m>a>0</m></cell>
+      <cell>graph decreases </cell>
+      <cell>graph increases </cell>
+      <cell>graph is constant y = <m>a</m> </cell>
+      <cell>graph is y = 0 for all positive inputs</cell>
+    </row>
+ <row>
+      <cell><m>a &lt; 0</m></cell>
+      <cell>graph decreases </cell>
+      <cell>graph increases </cell>
+      <cell>graph is constant y = <m>a</m> </cell>
+      <cell>graph is y = 0 for all positive inputs</cell>
+    </row>
+  </tabular>
+  </answer>
 </exercise>
 </worksheet>
