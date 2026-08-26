@@ -92,7 +92,7 @@
     <cell></cell>
   </row>
   <row halign="center">
-    <cell><image source=".75x.1.5.png" width="40%">
+    <cell><image source=",75x.1.5.png" width="40%">
     <shortdescription>linear graph with negative slope</shortdescription>/>
     </image></cell>
     <cell> </cell>
