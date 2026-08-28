@@ -19,14 +19,14 @@
         
             <figure xml:id="fig-tortoise-hare">
                 <image source="tandhare.png" width="40%"/>
-                <shortdescription>A ditance and time graph graph with a constant increasing graph starting at (9,0), and a linear graph that increases, then is contant, and ends incrasing.</shortdescription>
+                <shortdescription>A distance and time graph graph with a constant increasing graph starting at (9,0), and a linear graph that increases, then is contant, and ends incrasing.</shortdescription>
             </figure>
         </statement>
     </task>
     <task>    
         <statement>
             <p>
-                This graph shows the relatioship between the distance and time for a third animal, the fox.
+                This graph shows the relationship between the distance and time for a third animal, the fox.
             </p>
         
          <figure xml:id="fig-fox-graph">
@@ -42,6 +42,31 @@
             </p>
            
         </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Here are five statements about the race.  Select all the true statements.
+            </p>
+        
+        <ul>
+            <li>
+                <p>
+                    A. The fox's distance was always increasing.
+                </p>
+            </li>
+            <li>
+                <p>
+                    B.  Between 6 and 10 minutes, the fox was traveling faster than the other animals.
+                </p>
+            </li>
+            <li>
+                <p>
+                    C.  When the hare reached 800 meters, the fox was still at the starting line.
+                </p>
+            </li>
+        </ul>
+    </statement>
     </task>
 </exercise>
 </worksheet>
