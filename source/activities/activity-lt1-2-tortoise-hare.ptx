@@ -1,0 +1,47 @@
+<worksheet>
+    <title>LT 1-2 Tortoise and Hare
+    <subtitle>Adapted from Amplify Classroom and "Beginning Algebra Made Useful"</subtitle>
+</title>
+<exercise>
+    <statement>
+        <p>
+            The tortoise and the hare are racing. The tortoise starts at the starting line and runs at a constant speed.  The hare also starts at the starting line but runs at a faster pace for several minutes.  He then realizes that the tortoise is slow, so he stops to take a nap.  When he wakes up, he sees that the tortoise has passed him, so he starts running again.  He catches up to the tortoise at the finish line.
+        </p>
+        <p>
+            Use the information provided to answer the following questions:
+        </p>
+    </statement>
+    <task>
+        <statement>
+            <p> Which animal does each function represent in the graph?  Label the graph with "Tortoise" and "Hare".  
+            </p>
+            <p> Explain your thinking.</p>
+        
+            <figure xml:id="fig-tortoise-hare">
+                <image source="tandhare.png" width="40%"/>
+                <shortdescription>A ditance and time graph graph with a constant increasing graph starting at (9,0), and a linear graph that increases, then is contant, and ends incrasing.</shortdescription>
+            </figure>
+        </statement>
+    </task>
+    <task>    
+        <statement>
+            <p>
+                This graph shows the relatioship between the distance and time for a third animal, the fox.
+            </p>
+        
+         <figure xml:id="fig-fox-graph">
+            <image source="tandhareandfox.png" width="40%"/>
+            <shortdescription>A distance and time graph with a constant graph starting at (9,0), a linear graph that increases, then is constant, and ends increasing, and a third graph that starts at (6,0) and is constant</shortdescription>  
+        </figure>
+        </statement>
+    </task>
+    <task workspace="0.1in">
+        <statement>
+            <p>
+               Tell a story about the fox's journey during the race.  Include specific details about time and distance.
+            </p>
+           
+        </statement>
+    </task>
+</exercise>
+</worksheet>

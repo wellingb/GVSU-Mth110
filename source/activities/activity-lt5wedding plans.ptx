@@ -118,7 +118,7 @@
 
             <coordinates bbox="(-50,-5000,500,50000)">
         <grid-axes xlabel="Guests" ylabel="Cost" hticks="(0,50,550)" vticks="(0,5000,50000)"/>
-         <graph function="f"/>
+         
       </coordinates>
     </diagram>
   </prefigure>
