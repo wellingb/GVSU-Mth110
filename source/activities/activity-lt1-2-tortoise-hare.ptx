@@ -20,9 +20,9 @@
             </p>
             <p> Explain your thinking.</p>
         <figure>
-                <image source="tandhare.png" width="40%"/>
-                <shortdescription>
-       A distance and time graph with a constant increasing graph starting at (0,0), and a linear graph that increases, then is constant, and ends increasing.</shortdescription>
+                <image source="tandhare.png" width="40%">
+                    <shortdescription>A distance and time graph with a constant increasing graph starting at (0,0), and a linear graph that increases, then is constant, and ends increasing.</shortdescription>
+                </image>
             </figure>
             
         </statement>
@@ -58,8 +58,9 @@
                Tell a story about the fox's journey during the race.  Include specific details about time and distance.
             </p>
             <figure xml:id="fig-fox-graph">
-            <image source="tandhareandfox.png" width="40%"/>
+            <image source="tandhareandfox.png" width="40%">
               <shortdescription>A distance and time graph with a constant graph starting at (9,0), a linear graph that increases, then is constant, and ends increasing, and a third graph that starts at (6,0) and is constant</shortdescription>  
+            </image>        
         </figure>
         </statement>
     </task>
@@ -129,9 +130,9 @@
         </li>
         </ul>
         <figure>
-                            <image source="tortoise.png" width="40%">
-                                <shortdescription>Time and distance graph with tortoise's steady race graphed from (0,0)</shortdescription>
-                            </image>
+            <image source="tortoise.png" width="40%">
+                <shortdescription>Time and distance graph with tortoise's steady race graphed from (0,0)</shortdescription>
+            </image>
         </figure>
     </statement>
 </task>
@@ -161,8 +162,9 @@
             </li>
         </ul>
         <figure>
-            <image source="tanddog.png" width="40%"/>
-            <shortdescription>Time and distance graph with tortoise graphed and dog's graph starts at (2,0) and increases for a while, then is constant for several minutes, and then increases again.</shortdescription>
+            <image source="tanddog.png" width="40%">
+                 <shortdescription>Time and distance graph with tortoise graphed and dog's graph starts at (2,0) and increases for a while, then is constant for several minutes, and then increases again.</shortdescription>
+            </image>
         </figure>
     </statement>
     <statement>
