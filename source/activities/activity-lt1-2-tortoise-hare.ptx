@@ -26,6 +26,11 @@
             </figure>
             
         </statement>
+        <answer>
+            <p>
+                The graph that is constant represents the tortoise because it is moving at a constant speed.  The graph that increases, then is constant, and then increases again represents the hare because it starts off fast, then stops to take a nap, and then starts running again. 
+            </p>
+        </answer>
     </task>
     
     <task>    
@@ -45,14 +50,14 @@
             </image>        
         </figure>
         </statement>
-    </task>
-    <task workspace="0.1in">
-        <statement>
+        <answer>
             <p>
-                What is the fox's speed?
+                The fox started the race 6 minutes after the tortoise and the hare.  The fox ran at a constant speed and won the race.
+
             </p>
-        </statement>
+        </answer>
     </task>
+    
     <task>
         <statement>
             <p>
@@ -77,6 +82,11 @@
             </li>
         </ul>
     </statement>
+    <answer>
+        <p>
+            A and B are true.  C is false because the fox started at 6 minutes, so when the hare reached 800 meters, the fox was already moving.
+        </p>
+    </answer>
     </task>
 </exercise>
 <exercise>
@@ -102,7 +112,7 @@
         </li>
         <li>
             <p>
-                The dog and tortoise were tied at 600 meters
+                The dog and tortoise were tied at 800 meters
             </p>
         </li>
         <li>
@@ -117,6 +127,14 @@
             </image>
         </figure>
     </statement>
+    <answer>
+        <p> One possible graph is shown below.  The dog has a 50 meter head start, ties the tortoise at 800 meters, goes backward for 3 minutes, and ends up losing the race.</p>
+       <figure>
+            <image source="tortoiseanddog.png" width="40%">
+                <shortdescription>Time and distance graph with tortoise's steady race graphed from (0,0).  The dog is a dotted graph that starts at (0, 50) increases for 6 minutes, then decreases for 3 minutes and ends increasng but losing the race.</shortdescription>
+            </image>
+           </figure>
+    </answer>
 </task>
 <task workspace="0.1in">
     <statement>
@@ -124,6 +142,10 @@
             The graph shows what Wyatt drew to represent the dog's race.  How did she do?  If it is not correct, tell her story.
         </p>
     </statement>
+    <answer>
+        <p>Wyatt's graph is incorrect, the dog did not have a head start but started 2 minutes after the tortoise.  The dog was tied at 800 meters, but it did not ever decrease its distance.  The dog did lose the race.   
+        </p>
+    </answer>
     <statement>
             At least one of the following statements is false  Circle the false statement.
         <p>
@@ -171,6 +193,11 @@
                 What is the tortoises speed?
             </p>
         </statement>
+        <answer>
+            <p>
+                The tortoise's speed is 133.33 meters per minute.  Since his speed is constant, this is found by taking the distance (meter) and dividing by the amount of time it took to travel that distance.  1600 meters divided by 12 minutes equals 133.33 meters per minute.
+            </p>
+        </answer>
     </task>
     <task workspace="0.1in">
         <statement>
@@ -178,11 +205,22 @@
                 What is the hare's average speed? (find all three speeds and divide by three)
             </p>
         </statement>
+        <answer> 
+            <p> The hare's average speed is 122.22 meters per minute.  This is found by taking the average of the three parts of his race.  At the beginning he traveled 1300 meters in 6 seconds.  Dividing this distance by the time, you find his speed is 1300/6 or 216.66 meters per minute.  The second part of his race, he is resting so he has no speed or 0 meters per minute.  The final part of his race, he travels 300 more meters in 2 seconds.  Distance divided by time gives you 300/2 or 150 meters per minute.  Averaging the three times (216.66+0+150)/3 gives you 122.22 meters per minute.
+            </p>
+        </answer>
+    </task>
+    <task>
         <statement>
             <p>
                 Who won the race?  How do you know?
             </p>
         </statement>
+        <answer>
+            <p>
+                The tortoise won the race.  I know this because the tortoise average rate for the entire race was faster.
+            </p>
+        </answer>
     </task>
     <task workspace="0.1in">
         <statement>
@@ -190,6 +228,12 @@
                 Now look back at the race between the tortoise, hare, and the fox. What was the fox's speed?
             </p>
         </statement>
+        <answer>
+            <p>
+                The fox started the race 6 minutes in and ended he race at 10 minutes after the start; meaning he ran for a total of 4 minutes.  The total distance is 1600 meters.  Distance divided by time gives 1600/4 = 400 meters per minute.
+                
+            </p>
+        </answer>
     </task>
 </exercise>
 </worksheet>
