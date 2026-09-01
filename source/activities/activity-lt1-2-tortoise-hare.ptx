@@ -67,7 +67,7 @@
     <task workspace="0.05in">
         <statement>
             <p>
-                What is the rox's speed?
+                What is the fox's speed?
             </p>
         </statement>
     </task>
@@ -136,18 +136,18 @@
         </figure>
     </statement>
 </task>
-<task>
+<task workspace="0.05in">
     <statement>
         <p>
-            The graph shows what Wyatt drew to represent the dog's race.  How did she do?  Is it accurate according to the statements above?
+            The graph shows what Wyatt drew to represent the dog's race.  How did she do?  If it is not correct, tell her story.
         </p>
-        <p>
             At least one of the following statements is false  Circle the false statement.
+        <p>
         </p>
         <ul>
             <li>
                 <p>
-                    A. The dog gor a head start but lost the race
+                    A. The dog got a head start but lost the race
                 </p>
             </li>
             <li>
