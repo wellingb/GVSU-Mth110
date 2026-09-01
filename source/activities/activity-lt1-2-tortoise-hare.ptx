@@ -46,7 +46,7 @@
         </figure>
         </statement>
     </task>
-    <task workspace="0.05in">
+    <task workspace="0.1in">
         <statement>
             <p>
                 What is the fox's speed?
@@ -118,7 +118,7 @@
         </figure>
     </statement>
 </task>
-<task workspace="0.05in">
+<task workspace="0.1in">
     <statement>
         <p>
             The graph shows what Wyatt drew to represent the dog's race.  How did she do?  If it is not correct, tell her story.
@@ -165,14 +165,14 @@
         </p>
     </introduction>
 
-<task workspace="0.05in">
+<task workspace="0.1in">
         <statement>
             <p>
                 What is the tortoises speed?
             </p>
         </statement>
     </task>
-    <task workspace="0.05in">
+    <task workspace="0.1in">
         <statement>
             <p>
                 What is the hare's average speed? (find all three speeds and divide by three)
@@ -184,7 +184,7 @@
             </p>
         </statement>
     </task>
-    <task workspace="0.05in">
+    <task workspace="0.1in">
         <statement>
             <p>
                 Now look back at the race between the tortoise, hare, and the fox. What was the fox's speed?
