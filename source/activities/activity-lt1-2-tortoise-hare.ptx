@@ -27,25 +27,7 @@
             
         </statement>
     </task>
-    <task workspace="0.05in">
-        <statement>
-            <p>
-                What is the tortoises speed?
-            </p>
-        </statement>
-    </task>
-    <task workspace="0.05in">
-        <statement>
-            <p>
-                What is the hare's average speed? (find all three speeds and divide by three)
-            </p>
-        </statement>
-        <statement>
-            <p>
-                Who won the race?  How do you know?
-            </p>
-        </statement>
-    </task>
+    
     <task>    
         <statement>
             <p>
@@ -175,5 +157,39 @@
         </p>
     </statement>
 </task>
+</exercise>
+<exercise>
+    <introduction>
+        <p>
+            Let's take a closer look at the story of the tortoise and the hare.  Refer back to the first graph of the tortoise and the hare to answer the following questions
+        </p>
+    </introduction>
+
+<task workspace="0.05in">
+        <statement>
+            <p>
+                What is the tortoises speed?
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.05in">
+        <statement>
+            <p>
+                What is the hare's average speed? (find all three speeds and divide by three)
+            </p>
+        </statement>
+        <statement>
+            <p>
+                Who won the race?  How do you know?
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.05in">
+        <statement>
+            <p>
+                Now look back at the race between the tortoise, hare, and the fox. What was the fox's speed?
+            </p>
+        </statement>
+    </task>
 </exercise>
 </worksheet>
