@@ -20,7 +20,7 @@
             </p>
             <p> Explain your thinking.</p>
         <figure>
-                <image source="tandhare.png" width="40%">
+                <image source="tandhare.png" width="35%">
                     <shortdescription>A distance and time graph with a constant increasing graph starting at (0,0), and a linear graph that increases, then is constant, and ends increasing.</shortdescription>
                 </image>
             </figure>
@@ -45,7 +45,7 @@
                Tell a story about the fox's journey during the race.  Include specific details about time and distance.
             </p>
             <figure xml:id="fig-fox-graph">
-            <image source="tandhareandfox.png" width="30%">
+            <image source="tandhareandfox.png" width="35%">
               <shortdescription>A distance and time graph with a constant graph starting at (9,0), a linear graph that increases, then is constant, and ends increasing, and a third graph that starts at (6,0) and is constant</shortdescription>  
             </image>        
         </figure>
@@ -99,7 +99,7 @@
         <p>
            Next the tortoise raced the dog.
         </p>
-         <sidebyside widths="30% 30% 30%" valigntop="true">
+         <sidebyside widths="30% 30% 35%" valigntop="true">
         <p>
             Draw a graph representing the relationship between distance and time for a dog that makes <em>all</em> of these statements true.
         </p>
@@ -121,7 +121,7 @@
         </li>
         </ul>
         <figure>
-            <image source="tortoise.png" width="30%">
+            <image source="tortoise.png" width="35%">
                 <shortdescription>Time and distance graph with tortoise's steady race graphed from (0,0)</shortdescription>
             </image>
         </figure>
@@ -130,7 +130,7 @@
     <answer>
         <p> One possible graph is shown below.  The dog has a 50 meter head start, ties the tortoise at 800 meters, goes backward for 3 minutes, and ends up losing the race.</p>
        <figure>
-            <image source="tortoiseanddog.png" width="30%">
+            <image source="tortoiseanddog.png" width="35%">
                 <shortdescription>Time and distance graph with tortoise's steady race graphed from (0,0).  The dog is a dotted graph that starts at (0, 50) increases for 6 minutes, then decreases for 3 minutes and ends increasng but losing the race.</shortdescription>
             </image>
            </figure>
@@ -172,7 +172,7 @@
             </li>
         </ul>
      <figure>
-            <image source="tanddog.png" width="30%">
+            <image source="tanddog.png" width="35%">
                  <shortdescription>Time and distance graph with tortoise graphed and dog's graph starts at (2,0) and increases for a while, then is constant for several minutes, and then increases again.</shortdescription>
             </image>
         </figure>
@@ -188,12 +188,22 @@
 </page>      
 <page>
 <exercise>
+
     <introduction>
+    <sidebyside widths="30% 40%" valigntop="true">
         <p>
             Let's take a closer look at the story of the tortoise and the hare.  Refer back to the first graph of the tortoise and the hare to answer the following questions
         </p>
+         <figure xml:id="fig-fox-graph-1">
+            <image source="tandhareandfox.png" width="40%">
+              <shortdescription>A distance and time graph with a constant graph starting at (9,0), a linear graph that increases, then is constant, and ends increasing, and a third graph that starts at (6,0) and is constant</shortdescription>  
+            </image>        
+        </figure>  
+         </sidebyside>
     </introduction>
+    
     <task workspace="0.07in">
+    
         <statement>
             <p>
                 What is the tortoises speed?
@@ -238,7 +248,9 @@
                
             </p>
         </answer>
+       
     </task>
+    
 </exercise>
 </page>
 </worksheet>
