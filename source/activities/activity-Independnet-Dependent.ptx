@@ -1,0 +1,86 @@
+<worksheet>
+<title>Independent and Dependent Variables</title>
+<definition>
+     <statement>
+        <p>
+            An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function.
+            It is the variable that you change or manipulate to see how it affects another variable. A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable.
+It represents the outcome or the result that you are measuring or calculating in a function or problem.
+        </p>
+    </statement>
+   </definition>
+<exercise>
+    <introduction>
+        <p>
+            For the following scenarios, determine what the independent and dependent variables are.</p> 
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                A busy student calculates how taking on extra part-time shifts at a local restaurant decreases their available free time for socializing.</p>
+            <ul>
+                <li>
+                   <p> Independent Variable:</p>
+                </li>
+                <li> 
+                    <p>Dependent Variable:</p>
+                </li>
+            </ul>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>.</p> 
+              
+            <ul>
+                <li>
+                   <p> Independent Variable:</p>
+                </li>
+                <li> 
+                    <p>Dependent Variable:</p>
+                </li>
+            </ul>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>A student is trying to determine how the amount of time spent studying affects their test scores.</p> 
+              
+            <ul>
+                <li>
+                   <p> Independent Variable:</p>
+                </li>
+                <li> 
+                    <p>Dependent Variable:</p>
+                </li>
+            </ul>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>An undergrad tracks their daily caffeine intake from the campus coffee shop to see how it affects their monthly budget.</p>
+            <ul>
+                <li>
+                   <p> Independent Variable:</p>
+                </li>
+                <li> 
+                    <p>Dependent Variable:</p>
+                </li>
+            </ul>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>A group of prospective roommates searches for off-campus housing and analyzes how proximity to campus impacts rent prices.</p>
+            <ul>
+                <li>
+                   <p> Independent Variable:</p>
+                </li>
+                <li> 
+                    <p>Dependent Variable:</p>
+                </li>
+            </ul>
+        </statement>
+    </task>
+</exercise>
+</worksheet>
