@@ -27,6 +27,10 @@ It represents the outcome or the result that you are measuring or calculating in
                 </li>
             </ul>
         </statement>
+        <answer>
+            <p> Independent Variable: Number of part-time shifts</p>
+            <p> Dependent Variable: Available free time for socializing</p>
+        </answer>
     </task>
     <task>
         <statement>
@@ -42,6 +46,10 @@ It represents the outcome or the result that you are measuring or calculating in
                 </li>
             </ul>
         </statement>
+        <answer>
+            <p> Independent Variable: Price of general admission ticket</p>
+            <p> Dependent Variable: Number of tickets sold</p>
+        </answer>
     </task>
     <task>
         <statement>
@@ -82,6 +90,10 @@ It represents the outcome or the result that you are measuring or calculating in
                 </li>
             </ul>
         </statement>
+        <answer>
+            <p> Independent Variable: Proximity to campus</p>
+            <p> Dependent Variable: Rent prices</p>
+        </answer>
     </task>
 </exercise>
 </worksheet>
