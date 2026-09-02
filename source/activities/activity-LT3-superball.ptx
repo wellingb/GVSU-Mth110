@@ -1,0 +1,69 @@
+<worksheet>
+    <title>LT 6 Superball Patterns</title>
+    <description>In this activity, students will explore the patterns of a superball bouncing and analyze the height of each bounce.</description>
+    <definition>
+        <statement> Function notation is a shorthand way to represent a function using the symbol f(x) to denote the output of the function f when the input is x.</statement>
+    </definition>
+    <exercise>
+        <introduction> In this you will be measuring the bounce height of a superball and recording the data to analyze the pattern of the bounces. </introduction> 
+    
+        <statement>
+            <p>One person will drop a superball from designated heights, and another person will record the height of each bounce. Record your data in the table below.</p>
+        
+        <tabular top="minor" bottom="medium" left="major" right="major">
+        <col>width=60% halign="center"</col>
+        <col>width=70%</col>
+        <row header="yes" halign="center" >
+    <cell>Drop Height (inches)</cell>
+    <cell>Bounce Height (inches)</cell>
+  </row>
+  <row halign="center">
+    <cell>48</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>36</cell>
+    <cell></cell>
+  </row>      
+<row halign="center">
+    <cell>24</cell>
+    <cell></cell>
+  </row> 
+  <row halign="center">
+    <cell>12</cell>
+    <cell></cell>
+  </row>
+  <row halign="center">
+    <cell>6</cell>
+    <cell></cell>
+  </row>
+</tabular>
+</statement>
+
+</exercise>
+<exercise>
+  <introduction>
+    <p> Let <m>D</m> represent the initial height and <m>B</m> represent the bounce height.  Use Desmos to ckreate a scattergram of the data.  Make a round sketch of the scattergram <m>(D,B)</m> of the data on the graph provided  Label the axes appropriately.
+    </p>
+  </introduction>
+  <figure>
+                <image source="50x50 graph.png" width="40%">
+                    <shortdescription>A distance and time graph with a constant increasing graph starting at (0,0), and a linear graph that increases, then is constant, and ends increasing.</shortdescription>
+                </image>
+            </figure>
+</exercise>
+<exercise>
+  <introduction>
+    <p> 
+      Use Linear Regression in Desmos to find the line of best fit for the data.  Write the equation of the line in function notation.
+    </p>
+  </introduction>
+</exercise>
+<exercise>
+  <introduction>
+    <p> 
+      Use your model equation  to predict the bounce height of a superball dropped from a height of 60 inches.  Write a sentence to summarize your answer  Test your prediction. Show your work.
+    </p>
+  </introduction>
+</exercise>
+</worksheet>

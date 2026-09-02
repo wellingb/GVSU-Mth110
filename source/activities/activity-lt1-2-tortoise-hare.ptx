@@ -2,13 +2,13 @@
     <title>LT 1-2 Tortoise and Hare
     <subtitle>Adapted from Amplify Classroom and "Beginning Algebra Made Useful"</subtitle>
 </title>
+<page>
 <exercise>
     <introduction>
         <p>
             The tortoise and the hare are racing. The tortoise starts at the starting line and runs at a constant speed.  The hare also starts at the starting line but runs at a faster pace for several minutes.  He then realizes that the tortoise is slow, so he stops to take a nap.  When he wakes up, he sees that the tortoise has passed him, so he starts running again to the finish line.
         </p>
     </introduction>
-    <task>
         <statement>
             <p>
                  Use the information provided to answer the following questions:
@@ -31,21 +31,21 @@
                 The graph that is constant represents the tortoise because it is moving at a constant speed.  The graph that increases, then is constant, and then increases again represents the hare because it starts off fast, then stops to take a nap, and then starts running again. 
             </p>
         </answer>
-    </task>
+    </exercise>
     
+    <exercise>
     <task>    
         <statement>
             <p>
                 This graph shows the relationship between the distance and time for a third animal, the fox.
             </p>   
-        
         </statement>
         <statement>
             <p>
                Tell a story about the fox's journey during the race.  Include specific details about time and distance.
             </p>
             <figure xml:id="fig-fox-graph">
-            <image source="tandhareandfox.png" width="40%">
+            <image source="tandhareandfox.png" width="30%">
               <shortdescription>A distance and time graph with a constant graph starting at (9,0), a linear graph that increases, then is constant, and ends increasing, and a third graph that starts at (6,0) and is constant</shortdescription>  
             </image>        
         </figure>
@@ -53,17 +53,17 @@
         <answer>
             <p>
                 The fox started the race 6 minutes after the tortoise and the hare.  The fox ran at a constant speed and won the race.
-
             </p>
         </answer>
     </task>
-    
-    <task>
+    </exercise>
+   </page>
+   <page>
+    <exercise>
         <statement>
             <p>
                 Here are five statements about the race.  Select all the true statements.
             </p>
-        
         <ul>
             <li>
                 <p>
@@ -87,7 +87,6 @@
             A and B are true.  C is false because the fox started at 6 minutes, so when the hare reached 800 meters, the fox was already moving.
         </p>
     </answer>
-    </task>
 </exercise>
 <exercise>
     <introduction>
@@ -98,12 +97,12 @@
 <task>
     <statement>
         <p>
-           Next the tortoise raced the dog. 
+           Next the tortoise raced the dog.
         </p>
+         <sidebyside widths="30% 30% 30%" valigntop="true">
         <p>
             Draw a graph representing the relationship between distance and time for a dog that makes <em>all</em> of these statements true.
         </p>
-    
        <ul>
         <li>
             <p>
@@ -122,31 +121,36 @@
         </li>
         </ul>
         <figure>
-            <image source="tortoise.png" width="40%">
+            <image source="tortoise.png" width="30%">
                 <shortdescription>Time and distance graph with tortoise's steady race graphed from (0,0)</shortdescription>
             </image>
         </figure>
+    </sidebyside>
     </statement>
     <answer>
         <p> One possible graph is shown below.  The dog has a 50 meter head start, ties the tortoise at 800 meters, goes backward for 3 minutes, and ends up losing the race.</p>
        <figure>
-            <image source="tortoiseanddog.png" width="40%">
+            <image source="tortoiseanddog.png" width="30%">
                 <shortdescription>Time and distance graph with tortoise's steady race graphed from (0,0).  The dog is a dotted graph that starts at (0, 50) increases for 6 minutes, then decreases for 3 minutes and ends increasng but losing the race.</shortdescription>
             </image>
            </figure>
     </answer>
 </task>
-<task workspace="0.1in">
-    <statement>
+</exercise>
+<exercise>
+<task workspace="0.05in">
+     <statement>    
         <p>
             The graph shows what Wyatt drew to represent the dog's race.  How did she do?  If it is not correct, tell her story.
         </p>
+       
     </statement>
     <answer>
-        <p>Wyatt's graph is incorrect, the dog did not have a head start but started 2 minutes after the tortoise.  The dog was tied at 800 meters, but it did not ever decrease its distance.  The dog did lose the race.   
+        <p>Wyatt's graph is incorrect, the dog did not have a head start but started 2 minutes after the tortoise.  The dog was tied at 800 meters, but it did not ever decrease its distance.  The dog did lose the race.  
         </p>
     </answer>
     <statement>
+         <sidebyside widths="30% 30% 30%" valigntop="true">
             At least one of the following statements is false  Circle the false statement.
         <p>
         </p>
@@ -167,11 +171,12 @@
                 </p>
             </li>
         </ul>
-        <figure>
-            <image source="tanddog.png" width="40%">
+     <figure>
+            <image source="tanddog.png" width="30%">
                  <shortdescription>Time and distance graph with tortoise graphed and dog's graph starts at (2,0) and increases for a while, then is constant for several minutes, and then increases again.</shortdescription>
             </image>
         </figure>
+        </sidebyside>  
     </statement>
     <statement>
         <p>
@@ -180,14 +185,15 @@
     </statement>
 </task>
 </exercise>
+</page>      
+<page>
 <exercise>
     <introduction>
         <p>
             Let's take a closer look at the story of the tortoise and the hare.  Refer back to the first graph of the tortoise and the hare to answer the following questions
         </p>
     </introduction>
-
-<task workspace="0.1in">
+    <task workspace="0.07in">
         <statement>
             <p>
                 What is the tortoises speed?
@@ -199,18 +205,18 @@
             </p>
         </answer>
     </task>
-    <task workspace="0.1in">
+    <task workspace="0.07in">
         <statement>
             <p>
                 What is the hare's average speed? (find all three speeds and divide by three)
             </p>
         </statement>
-        <answer> 
+        <answer>
             <p> The hare's average speed is 122.22 meters per minute.  This is found by taking the average of the three parts of his race.  At the beginning he traveled 1300 meters in 6 seconds.  Dividing this distance by the time, you find his speed is 1300/6 or 216.66 meters per minute.  The second part of his race, he is resting so he has no speed or 0 meters per minute.  The final part of his race, he travels 300 more meters in 2 seconds.  Distance divided by time gives you 300/2 or 150 meters per minute.  Averaging the three times (216.66+0+150)/3 gives you 122.22 meters per minute.
             </p>
         </answer>
     </task>
-    <task>
+    <task workspace="0.07in">
         <statement>
             <p>
                 Who won the race?  How do you know?
@@ -218,22 +224,21 @@
         </statement>
         <answer>
             <p>
-                The tortoise won the race.  I know this because the tortoise average rate for the entire race was faster.
+                The tortoise won the race.  I know this because the tortoise's average rate for the entire race was faster.
             </p>
         </answer>
     </task>
-    <task workspace="0.1in">
+<task workspace="0.07in">
         <statement>
-            <p>
-                Now look back at the race between the tortoise, hare, and the fox. What was the fox's speed?
-            </p>
+           <p> Now look back at the race between the tortoise, hare, and the fox.  What is the fox's speed?  How do you know?</p>
         </statement>
         <answer>
             <p>
                 The fox started the race 6 minutes in and ended he race at 10 minutes after the start; meaning he ran for a total of 4 minutes.  The total distance is 1600 meters.  Distance divided by time gives 1600/4 = 400 meters per minute.
-                
+               
             </p>
         </answer>
     </task>
 </exercise>
+</page>
 </worksheet>
