@@ -1,27 +1,7 @@
 <worksheet>
-    <title>LT 1: Sketching Qualitative Graphs</title>
-    <objectives>
-        <ul>
-            <li>
-                <p>
-                    Sketch a real-life scenario
-                </p>
-            </li>
-            <li>
-                <p>
-                   Label the graph with appropriate variable definitions
-                </p>
-            </li>
-        </ul>
-    </objectives>
-  
-   <definition>
-    <statement>
-         <p>
-     A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements">    
-        </p>
-    </statement>
-   </definition>
+    <title>LT 1: Sketching Qualitative Graphs with Independent and Dependent Variables</title>
+ <page>
+   
    <definition>
     <statement>
         <p>
@@ -38,14 +18,105 @@ It represents the outcome or the result that you are measuring or calculating in
         </p>
     </statement>
    </definition>
+   <definition>
+    <statement>
+         <p>
+     A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements">    
+        </p>
+    </statement>
+   </definition>
 
-
-    <exercise workspace="0.01 in"> 
+    <exercise>
+        <statement>
+            <p>
+                A busy student calculates how taking on extra part-time shifts at a local restaurant decreases their available free time for socializing.</p>
+            <ul>
+                <li>
+                   <p> Independent Variable:</p>
+                </li>
+                <li> 
+                    <p>Dependent Variable:</p>
+                </li>
+            </ul>
+        </statement>
+        <answer>
+            <p> Independent Variable: Number of part-time shifts</p>
+            <p> Dependent Variable: Available free time for socializing</p>
+        </answer>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>The campus events board charges $15 per general admission ticket for the annual spring music festival.
+.</p> 
+              
+            <ul>
+                <li>
+                   <p> Independent Variable:</p>
+                </li>
+                <li> 
+                    <p>Dependent Variable:</p>
+                </li>
+            </ul>
+        </statement>
+        <answer>
+            <p> Independent Variable: Price of general admission ticket</p>
+            <p> Dependent Variable: Number of tickets sold</p>
+        </answer>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>A student is trying to determine how the amount of time spent studying affects their test scores.</p> 
+              
+            <ul>
+                <li>
+                   <p> Independent Variable:</p>
+                </li>
+                <li> 
+                    <p>Dependent Variable:</p>
+                </li>
+            </ul>
+        </statement>
+        </exercise>
+     
+    
+    <exercise>
+        <statement>
+            <p>An undergrad tracks their daily caffeine intake from the campus coffee shop to see how it affects their monthly budget.</p>
+            <ul>
+                <li>
+                   <p> Independent Variable:</p>
+                </li>
+                <li> 
+                    <p>Dependent Variable:</p>
+                </li>
+            </ul>
+        </statement>
+    </exercise>
+    <exercise>
+        <statement>
+            <p>A group of prospective roommates searches for off-campus housing and analyzes how proximity to campus impacts rent prices.</p>
+            <ul>
+                <li>
+                   <p> Independent Variable:</p>
+                </li>
+                <li> 
+                    <p>Dependent Variable:</p>
+                </li>
+            </ul>
+        </statement>
+        <answer>
+            <p> Independent Variable: Proximity to campus</p>
+            <p> Dependent Variable: Rent prices</p>
+        </answer>
+    </exercise>
+     </page>
+ <page>
+    <exercise> 
       <introduction>
         <p>Aiden and Elijah are canoing across a lake.  At first they paddle quickly away from the dock, they tire and rest for a few minutes, then they continue to paddle toward the opposite shore, slower than before.
         </p>
       </introduction>   
-    <task> 
+    <task worskspace="0.01 in">  
         <statement>
             <p>
                 What two things are being related in this story?
@@ -57,7 +128,7 @@ It represents the outcome or the result that you are measuring or calculating in
             </p>
         </answer>
     </task>
-    <task>
+    <task worskspace="0.01 in"> 
         <statement> 
             <p>
                 Which in the dependent variable?
@@ -69,22 +140,22 @@ It represents the outcome or the result that you are measuring or calculating in
             </p>
         </answer>
     </task>
-    <task>
+    <task worskspace="0.1 in"> 
         <statement>
             <p>
                 Sketch the graph of the story.  Be sure to label your axes with the appropriate definitions.
             </p>
         </statement>
     </task>
-   </exercise>
-   <page>
-    <exercise workspace="0.01 in"> 
+  </exercise>
+   
+    <exercise> 
         <introduction>
         <p>
             A snowboarder starts at the top of a mountain.  At first, they snowboard down a steep part of the mountain, then the mountains becomes less steep until they get to the lodge whose elelvation is 500 feet
         </p>
         </introduction> 
-        <task> 
+    <task worskspace="0.01 in">  
         <statement>
             <p>
                 What two things are being related in this story?
@@ -96,7 +167,7 @@ It represents the outcome or the result that you are measuring or calculating in
             </p>
         </answer>
     </task>
-    <task>
+    <task worskspace="0.01 in">  
         <statement>
             <p>
                 Which in the dependent variable?
@@ -108,26 +179,22 @@ It represents the outcome or the result that you are measuring or calculating in
             </p>
         </answer>
     </task>
-</exercise>
-</page>
-<page>
-    <task>
+    <task worskspace="0.01 in"> 
         <statement>
             <p>
                 Sketch the graph of the story.  Be sure to label your axes with the appropriate definitions.
             </p>
         </statement>
     </task>
-   
-
-   
-    <exercise workspace="0.01 in"> 
+    </exercise>
+    
+    <exercise > 
         <introduction> 
         <p>
             Camilla went on a bike ride.  It was a hot day.  She started off riding fast, but she had to take a break for a few minutes to rest.  When she started going again, she went at a slower pace.  After awhile, she had to stop and rest again for several minutes.  When she finally started again, she was tired and she biked very slowly.
         </p>
     </introduction> 
-         <task>
+         <task workspace="0.01 in"> 
          <statement>
             <p>
                 What two things are being related in this story?
@@ -139,7 +206,7 @@ It represents the outcome or the result that you are measuring or calculating in
             </p>
         </answer>
     </task>
-    <task>
+    <task workspace="0.01 in"> 
         <statement>
             <p>
                 Which in the dependent variable?
@@ -151,7 +218,7 @@ It represents the outcome or the result that you are measuring or calculating in
             </p>
         </answer>
     </task>
-    <task>
+    <task workspace="0.01 in">
         <statement>
             <p>
                 What is the independent variable?
@@ -163,13 +230,14 @@ It represents the outcome or the result that you are measuring or calculating in
         </answer>
         </statement> 
     </task>
-    <task>
+    <task workspace="0.01 in"> 
         <statement>
             <p>
                 Sketch the graph of the story.  Be sure to label your axes with the appropriate definitions.
             </p>
         </statement>
     </task>
-</exercise>
-</page>
+    </exercise>
+    </page>
+
 </worksheet>
