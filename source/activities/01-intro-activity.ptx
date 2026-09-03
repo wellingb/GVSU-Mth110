@@ -32,6 +32,36 @@
   </image>
 </figure>
 
+<table>
+  <tabular top="minor" bottom="medium" left="major" right="major">
+     <col>width=40% halign="center"</col>
+  <col>width=40%</col>
+    <row header="yes" halign="center">
+      <cell colspan="2">Geppetto carved Pinocchio a 2-inch-long nose.  Each time Pinocchio tells a lie, his nose grows 3 inches.  How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?</cell>
+    </row>
+    <row header="yes" halign="center">
+      <cell>Lie Number</cell>
+      <cell>Nose Length</cell>
+    </row>
+    <row halign="center">
+      <cell>0</cell>
+      <cell>5</cell>
+    </row>
+    <row halign="center">
+      <cell>1</cell>
+      <cell>6</cell>
+    </row>
+    <row halign="center">
+      <cell>2</cell>
+      <cell>7</cell>
+    </row>
+    <row halign="center">
+      <cell>3</cell>
+      <cell>8</cell>
+    </row>
+  
+  </tabular>
+</table>
   
       </page>
       
