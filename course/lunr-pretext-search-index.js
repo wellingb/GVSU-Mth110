@@ -42,69 +42,105 @@ var ptx_lunr_docs = [
   "url": "activities-3.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 1: Sketching Qualitative Graphs",
-  "body": " LT 1: Sketching Qualitative Graphs     Sketch a real-life scenario    Label the graph with appropriate variable definitions       A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">      An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.      A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.      Aiden and Elijah are canoing across a lake. At first they paddle quickly away from the dock, they tire and rest for a few minutes, then they continue to paddle toward the opposite shore, slower than before.     What two things are being related in this story?    time or minutes and distance away from the dock.      Which in the dependent variable?    The dependent variable is the one that can be measured. We are measuring the distance away from the dock.      Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.        A snowboarder starts at the top of a mountain. At first, they snowboard down a steep part of the mountain, then the mountains becomes less steep until they get to the lodge whose elelvation is 500 feet     What two things are being related in this story?    time or minutes and elevation in feet.      Which in the dependent variable?    The dependent variable is the one that can be measured. We are measuring the elevation in feet.         Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.      Camilla went on a bike ride. It was a hot day. She started off riding fast, but she had to take a break for a few minutes to rest. When she started going again, she went at a slower pace. After awhile, she had to stop and rest again for several minutes. When she finally started again, she was tired and she biked very slowly.     What two things are being related in this story?    time or minutes and distance traveled      Which in the dependent variable?    The dependent variable is the one that can be measured. We are measuring the distance .traveled      What is the independent variable?   The independent variable is the one that is manipulated or controlled. We are controlling the time or minutes.       Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.      "
+  "title": "LT 1: Sketching Qualitative Graphs with Independent and Dependent Variables",
+  "body": " LT 1: Sketching Qualitative Graphs with Independent and Dependent Variables     An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.      A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.      A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">      A busy student calculates how taking on extra part-time shifts at a local restaurant decreases their available free time for socializing.    Independent Variable:    Dependent Variable:      Independent Variable: Number of part-time shifts  Dependent Variable: Available free time for socializing      The campus events board charges $15 per general admission ticket for the annual spring music festival. .    Independent Variable:    Dependent Variable:      Independent Variable: Price of general admission ticket  Dependent Variable: Number of tickets sold      A student is trying to determine how the amount of time spent studying affects their test scores.    Independent Variable:    Dependent Variable:        An undergrad tracks their daily caffeine intake from the campus coffee shop to see how it affects their monthly budget.    Independent Variable:    Dependent Variable:        A group of prospective roommates searches for off-campus housing and analyzes how proximity to campus impacts rent prices.    Independent Variable:    Dependent Variable:      Independent Variable: Proximity to campus  Dependent Variable: Rent prices        Aiden and Elijah are canoing across a lake. At first they paddle quickly away from the dock, they tire and rest for a few minutes, then they continue to paddle toward the opposite shore, slower than before.     What two things are being related in this story?    time or minutes and distance away from the dock.      Which in the dependent variable?    The dependent variable is the one that can be measured. We are measuring the distance away from the dock.      Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.       A snowboarder starts at the top of a mountain. At first, they snowboard down a steep part of the mountain, then the mountains becomes less steep until they get to the lodge whose elelvation is 500 feet     What two things are being related in this story?    time or minutes and elevation in feet.      Which in the dependent variable?    The dependent variable is the one that can be measured. We are measuring the elevation in feet.      Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.       Camilla went on a bike ride. It was a hot day. She started off riding fast, but she had to take a break for a few minutes to rest. When she started going again, she went at a slower pace. After awhile, she had to stop and rest again for several minutes. When she finally started again, she was tired and she biked very slowly.     What two things are being related in this story?    time or minutes and distance traveled      Which in the dependent variable?    The dependent variable is the one that can be measured. We are measuring the distance .traveled      What is the independent variable?   The independent variable is the one that is manipulated or controlled. We are controlling the time or minutes.       Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.      "
 },
 {
-  "id": "activities-3-2",
+  "id": "activities-3-2-1",
   "level": "2",
-  "url": "activities-3.html#activities-3-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "   Sketch a real-life scenario    Label the graph with appropriate variable definitions    "
-},
-{
-  "id": "activities-3-3",
-  "level": "2",
-  "url": "activities-3.html#activities-3-3",
+  "url": "activities-3.html#activities-3-2-1",
   "type": "Definition",
   "number": "1",
-  "title": "",
-  "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
-},
-{
-  "id": "activities-3-4",
-  "level": "2",
-  "url": "activities-3.html#activities-3-4",
-  "type": "Definition",
-  "number": "2",
   "title": "",
   "body": "  An independent variable is an input variable whose value can be chosen freely and does not depend on any other variable in the problem or function. It is the variable that you change or manipulate to see how it affects another variable.   "
 },
 {
-  "id": "activities-3-5",
+  "id": "activities-3-2-2",
   "level": "2",
-  "url": "activities-3.html#activities-3-5",
+  "url": "activities-3.html#activities-3-2-2",
   "type": "Definition",
-  "number": "3",
+  "number": "2",
   "title": "",
   "body": "  A dependent variable is the output variable whose value changes in response to, or depends on, the value of the independent variable. It represents the outcome or the result that you are measuring or calculating in a function or problem.   "
 },
 {
-  "id": "activities-3-6",
+  "id": "activities-3-2-3",
   "level": "2",
-  "url": "activities-3.html#activities-3-6",
+  "url": "activities-3.html#activities-3-2-3",
+  "type": "Definition",
+  "number": "3",
+  "title": "",
+  "body": "  A qualitative graph is a graph that represents the relationship and general trend between two quantities without using specific numerical values or measurements\">   "
+},
+{
+  "id": "activities-3-2-4",
+  "level": "2",
+  "url": "activities-3.html#activities-3-2-4",
   "type": "Worksheet Exercise",
   "number": "1",
+  "title": "",
+  "body": "  A busy student calculates how taking on extra part-time shifts at a local restaurant decreases their available free time for socializing.    Independent Variable:    Dependent Variable:      Independent Variable: Number of part-time shifts  Dependent Variable: Available free time for socializing   "
+},
+{
+  "id": "activities-3-2-5",
+  "level": "2",
+  "url": "activities-3.html#activities-3-2-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  The campus events board charges $15 per general admission ticket for the annual spring music festival. .    Independent Variable:    Dependent Variable:      Independent Variable: Price of general admission ticket  Dependent Variable: Number of tickets sold   "
+},
+{
+  "id": "activities-3-2-6",
+  "level": "2",
+  "url": "activities-3.html#activities-3-2-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  A student is trying to determine how the amount of time spent studying affects their test scores.    Independent Variable:    Dependent Variable:     "
+},
+{
+  "id": "activities-3-2-7",
+  "level": "2",
+  "url": "activities-3.html#activities-3-2-7",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  An undergrad tracks their daily caffeine intake from the campus coffee shop to see how it affects their monthly budget.    Independent Variable:    Dependent Variable:     "
+},
+{
+  "id": "activities-3-2-8",
+  "level": "2",
+  "url": "activities-3.html#activities-3-2-8",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  A group of prospective roommates searches for off-campus housing and analyzes how proximity to campus impacts rent prices.    Independent Variable:    Dependent Variable:      Independent Variable: Proximity to campus  Dependent Variable: Rent prices   "
+},
+{
+  "id": "activities-3-3-1",
+  "level": "2",
+  "url": "activities-3.html#activities-3-3-1",
+  "type": "Worksheet Exercise",
+  "number": "6",
   "title": "",
   "body": "  Aiden and Elijah are canoing across a lake. At first they paddle quickly away from the dock, they tire and rest for a few minutes, then they continue to paddle toward the opposite shore, slower than before.     What two things are being related in this story?    time or minutes and distance away from the dock.      Which in the dependent variable?    The dependent variable is the one that can be measured. We are measuring the distance away from the dock.      Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.    "
 },
 {
-  "id": "activities-3-7-1",
+  "id": "activities-3-3-2",
   "level": "2",
-  "url": "activities-3.html#activities-3-7-1",
+  "url": "activities-3.html#activities-3-3-2",
   "type": "Worksheet Exercise",
-  "number": "2",
+  "number": "7",
   "title": "",
-  "body": "  A snowboarder starts at the top of a mountain. At first, they snowboard down a steep part of the mountain, then the mountains becomes less steep until they get to the lodge whose elelvation is 500 feet     What two things are being related in this story?    time or minutes and elevation in feet.      Which in the dependent variable?    The dependent variable is the one that can be measured. We are measuring the elevation in feet.    "
+  "body": "  A snowboarder starts at the top of a mountain. At first, they snowboard down a steep part of the mountain, then the mountains becomes less steep until they get to the lodge whose elelvation is 500 feet     What two things are being related in this story?    time or minutes and elevation in feet.      Which in the dependent variable?    The dependent variable is the one that can be measured. We are measuring the elevation in feet.      Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.    "
 },
 {
-  "id": "activities-3-8-2",
+  "id": "activities-3-3-3",
   "level": "2",
-  "url": "activities-3.html#activities-3-8-2",
+  "url": "activities-3.html#activities-3-3-3",
   "type": "Worksheet Exercise",
-  "number": "3",
+  "number": "8",
   "title": "",
   "body": "  Camilla went on a bike ride. It was a hot day. She started off riding fast, but she had to take a break for a few minutes to rest. When she started going again, she went at a slower pace. After awhile, she had to stop and rest again for several minutes. When she finally started again, she was tired and she biked very slowly.     What two things are being related in this story?    time or minutes and distance traveled      Which in the dependent variable?    The dependent variable is the one that can be measured. We are measuring the distance .traveled      What is the independent variable?   The independent variable is the one that is manipulated or controlled. We are controlling the time or minutes.       Sketch the graph of the story. Be sure to label your axes with the appropriate definitions.    "
 },
