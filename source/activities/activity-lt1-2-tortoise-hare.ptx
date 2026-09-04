@@ -7,48 +7,42 @@
     <introduction>
         <p>
             The tortoise and the hare are racing. The tortoise starts at the starting line and runs at a constant speed.  The hare also starts at the starting line but runs at a faster pace for several minutes.  He then realizes that the tortoise is slow, so he stops to take a nap.  When he wakes up, he sees that the tortoise has passed him, so he starts running again to the finish line.
-        </p>
+        </p>     
     </introduction>
-        <statement>
-            <p>
-                 Use the information provided to answer the following questions:
+<task>
+    <statement>
+     <sidebyside widths="30% 30% 30%" valigntop="true">
+            <p> Which animal does each function represent in the graph?  Label the graph with "Tortoise" and "Hare".  Explain your thinking.
             </p>
-    </statement>
-
-     <statement>
-            <p> Which animal does each function represent in the graph?  Label the graph with "Tortoise" and "Hare".  
-            </p>
-            <p> Explain your thinking.</p>
-        <figure>
-                <image source="tandhare.png" width="35%">
+           
+       
+         <image source="tandhare.png" width="30%">
                     <shortdescription>A distance and time graph with a constant increasing graph starting at (0,0), and a linear graph that increases, then is constant, and ends increasing.</shortdescription>
-                </image>
-            </figure>
-            
+            </image>
+        
+        </sidebyside>
         </statement>
         <answer>
             <p>
                 The graph that has a constant slope represents the tortoise because it is moving at a constant speed.  The graph that increases, then is constant, and then increases again represents the hare because it starts off fast, then stops to take a nap, and then starts running again. 
             </p>
         </answer>
+        </task>
     </exercise>
     
     <exercise>
     <task>    
         <statement>
-            <p>
-                This graph shows the relationship between the distance and time for a third animal, the fox.
-            </p>   
-        </statement>
-        <statement>
+            <sidebyside widths="30% 30% 30%" valigntop="true">
             <p>
                Tell a story about the fox's journey during the race.  Include specific details about time and distance.
             </p>
-            <figure xml:id="fig-fox-graph">
+            
             <image source="tandhareandfox.png" width="35%">
               <shortdescription>A distance and time graph with a constant graph starting at (9,0), a linear graph that increases, then is constant, and ends increasing, and a third graph that starts at (6,0) and is constant</shortdescription>  
             </image>        
-        </figure>
+        
+        </sidebyside>
         </statement>
         <answer>
             <p>
@@ -61,6 +55,7 @@
    <page>
     <exercise>
         <statement>
+            <sidebyside widths="30% 30% 30%" valigntop="true">
             <p>
                 Here are three statements about the race.  Select all the true statements.
             </p>
@@ -81,10 +76,16 @@
                 </p>
             </li>
         </ul>
+        
+            <image source="tandhareandfox.png" width="25%">
+              <shortdescription>A distance and time graph with a constant graph starting at (9,0), a linear graph that increases, then is constant, and ends increasing, and a third graph that starts at (6,0) and is constant</shortdescription>  
+            </image>        
+       
+        </sidebyside>
     </statement>
     <answer>
         <p>
-            A and B are true.  C is false because the fox started at 6 minutes, so when the hare reached 800 meters, the fox was already moving.
+            B and C are true.  A is false because for the first 6 minutes, the fox was not moving.  B is true because the fox traveled 1600 meters in 4 minutes, while the tortoise traveled 533.33 meters in that same time and the hare traveled 300 meters in that same time.  C is true because when the hare reached 800 meters, it was at 6 minutes and the fox had not started yet.
         </p>
     </answer>
 </exercise>
@@ -99,7 +100,7 @@
         <p>
            Next the tortoise raced the dog.
         </p>
-         <sidebyside widths="30% 30% 35%" valigntop="true">
+        <sidebyside widths="30% 30% 30%" valigntop="true">
         <p>
             Draw a graph representing the relationship between distance and time for a dog that makes <em>all</em> of these statements true.
         </p>
@@ -120,39 +121,34 @@
             </p>
         </li>
         </ul>
-        <figure>
-            <image source="tortoise.png" width="35%">
+       
+            <image source="tortoise.png" width="30%">
                 <shortdescription>Time and distance graph with tortoise's steady race graphed from (0,0)</shortdescription>
             </image>
-        </figure>
-    </sidebyside>
+        
+        </sidebyside>
     </statement>
     <answer>
-        <p> One possible graph is shown below.  The dog has a 50 meter head start, ties the tortoise at 800 meters, goes backward for 3 minutes, and ends up losing the race.</p>
-       <figure>
-            <image source="tortoiseanddog.png" width="35%">
+       <p> One possible graph is shown below.  The dog has a 50 meter head start, ties the tortoise at 800 meters, goes backward for 3 minutes, and ends up losing the race.</p>
+       
+            <image source="tortoiseanddog.png" width="30%">
                 <shortdescription>Time and distance graph with tortoise's steady race graphed from (0,0).  The dog is a dotted graph that starts at (0, 50) increases for 6 minutes, then decreases for 3 minutes and ends increasng but losing the race.</shortdescription>
             </image>
-           </figure>
+           
     </answer>
 </task>
 </exercise>
+
 <exercise>
-<task workspace="0.05in">
-     <statement>    
-        <p>
-            The graph shows what Wyatt drew to represent the dog's race.  How did she do?  If it is not correct, tell her story.
-        </p>
-       
+<task>
+    <statement>  
+           <p>
+            The graph shows what Wyatt drew to represent the dog's race.</p>            
     </statement>
-    <answer>
-        <p>Wyatt's graph is incorrect, the dog did not have a head start but started 2 minutes after the tortoise.  The dog was tied at 800 meters, but it did not ever decrease its distance.  The dog did lose the race.  
-        </p>
-    </answer>
     <statement>
-         <sidebyside widths="30% 30% 30%" valigntop="true">
-            At least one of the following statements is false  Circle the false statement.
-        <p>
+        <sidebyside widths="30% 30% 30%" valigntop="true"> 
+           
+        <p> At least one of the following statements is false  Circle the false statement. Explain your thinking. Then tell Wyatt's story.
         </p>
         <ul>
             <li>
@@ -171,18 +167,20 @@
                 </p>
             </li>
         </ul>
-     <figure>
-            <image source="tanddog.png" width="35%">
+       
+        <image source="tanddog.png" width="30%">
                  <shortdescription>Time and distance graph with tortoise graphed and dog's graph starts at (2,0) and increases for a while, then is constant for several minutes, and then increases again.</shortdescription>
             </image>
-        </figure>
-        </sidebyside>  
+        
+        </sidebyside>
     </statement>
-    <statement>
-        <p>
-            Explain your thinking
+    
+        <answer>
+        <p>The dog started 2 minutes after the tortoise.  The dog was tied at 800 meters, but it did not ever decrease its distance.  The dog did lose the race.  
         </p>
-    </statement>
+         </answer>
+       
+    
 </task>
 </exercise>
 </page>      
@@ -194,11 +192,11 @@
         <p>
             Let's take a closer look at the story of the tortoise and the hare.  Refer back to the first graph of the tortoise and the hare to answer the following questions
         </p>
-         <figure xml:id="fig-fox-graph-1">
+         
             <image source="tandhareandfox.png" width="40%">
               <shortdescription>A distance and time graph with a constant graph starting at (9,0), a linear graph that increases, then is constant, and ends increasing, and a third graph that starts at (6,0) and is constant</shortdescription>  
             </image>        
-        </figure>  
+          
          </sidebyside>
     </introduction>
     
