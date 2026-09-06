@@ -1,0 +1,251 @@
+<worksheet>
+    <title>LT3 Linear Patterns- Toothpicks</title>
+    <objectives>
+        <ul>
+        <li>
+            <p>
+                LT 3: I can recognize and identify key characteristics of a linear pattern represented in a table, graph, equation or application.  I can translate between different representations. 
+            </p>
+        </li>>  
+    </ul>
+    </objectives>
+    <page>
+    <exercise>
+        <introduction>
+            <p>
+                Look at the pattern of toothpicks below.  Recreate the pattern and determine how many toothpicks it takes to create each figure.  You may add on to the previous pattern so that you do not run out of toothpicks.  Continue the pattern, creating the next 3 figures.  Determine the number of toothpicks it takes to create the next 3 figures and record the information in the table provided.
+
+            </p>
+        </introduction>
+        
+        <task>
+            <figure>
+        <image source="toothpicks.png"><shortdescription>Step 1 is three toothpicks making a triangle.  Step 2 adds two toothpicks to create another triangle to the fiture.  Step 3 does the sme pattrn</shortdescription></image>
+    </figure>
+    <tabular top="minor" bottom="minor" left="major" right="major">
+     <col width="15%" />
+     <col width="15%" />
+    <row header="yes" halign="center">
+        <cell>Figure Number</cell>
+        <cell>Number of Toothpicks in Figure</cell>
+        <cell>Difference from Previous Figure</cell>
+        <cell>Number of Toothpicks in the Perimeter Distance Around</cell>
+        <cell>Difference from Previous Perimeter</cell>
+    </row>
+    <row halign="center">
+        <cell>1</cell>
+        <cell>3</cell>
+        <cell>---</cell>
+        <cell>1</cell>
+        <cell>---</cell>
+    </row>
+    <row halign="center">
+        <cell>2</cell>
+        <cell>5</cell>
+        <cell> </cell>
+        <cell>4</cell>
+        <cell> </cell>
+    </row>
+     <row halign="center">
+        <cell>3</cell>
+        <cell>7</cell>
+        <cell> </cell>
+        <cell>5</cell>
+        <cell> </cell>
+    </row>
+     <row halign="center">
+        <cell>4</cell>
+        <cell></cell>
+        <cell> </cell>
+        <cell></cell>
+        <cell> </cell>
+    </row>
+     <row halign="center">
+        <cell>5</cell>
+        <cell></cell>
+        <cell> </cell>
+        <cell></cell>
+        <cell> </cell>
+    </row>
+     <row halign="center">
+        <cell>10</cell>
+        <cell></cell>
+        <cell> </cell>
+        <cell></cell>
+        <cell> </cell>
+    </row>
+     <row halign="center">
+        <cell>100</cell>
+        <cell></cell>
+        <cell> </cell>
+        <cell></cell>
+        <cell> </cell>
+    </row>
+     <row halign="center">
+        <cell>T</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>
+    </row>
+</tabular>
+</task>
+<task>
+    <statement>
+        <p>
+            See if you can draw the 10th figure in the pattern.  How many toothpicks would you need to create the 10th figure?  What problem-solving strategies might you use to help you?
+        </p>
+    </statement>
+</task>
+<task>
+    <statement>
+        <p>
+            Can you develop a rule that would tell you how many toothpicks would be in any figure in the pattern?
+        </p>
+    </statement>
+</task>
+<task>
+    <statement>
+        <p>
+            Now count the number of toothpicks in the perimeter of each figure and record your information in the table.
+        </p>
+    </statement>
+</task>
+    </exercise>
+</page>
+<page>
+    <exercise>
+       
+        <introduction>
+            <p>
+                Determine if the table is linear or not.  Then fill out the information above the table.
+            </p>
+        </introduction>
+        <task>
+            <statement>  
+                 <sidebyside widths="30% 30% 10% 10% 10% 10%" valighntop="true">
+                 <ul>
+                    <li>x change by:
+                    </li>
+                <li> y changes by: </li>
+                <li> Rate of change (if it exists): </li>
+                <li> Initial Value: </li>
+                <li> Linear Equation (if it exists): </li>
+                </ul>          
+          <tabular top="minor" bottom="minor" left="major" right="major">
+     <col header="yes" width="12%" halign="center"/>
+     <col header="yes" width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+    <row halign="center">  
+        <cell>x</cell>
+        <cell>-2</cell>
+        <cell>-1</cell>
+        <cell>0</cell>
+        <cell>1</cell>
+        <cell>2</cell>
+        <cell>linear?</cell>
+    </row>
+     <row halign="center">  
+        <cell>y</cell>
+        <cell>20</cell>
+        <cell>31</cell>
+        <cell>42</cell>
+        <cell>53</cell>
+        <cell>64</cell>
+        <cell>linear?</cell>
+    </row>
+        </tabular>
+    </sidebyside>
+        </statement>
+        </task>
+    <task>
+            <statement>  
+                 <sidebyside widths="30% 30% 10% 10% 10% 10%" valighntop="true">
+                 <ul>
+                    <li>x change by:
+                    </li>
+                <li> y changes by: </li>
+                <li> Rate of change (if it exists): </li>
+                <li> Initial Value: </li>
+                <li> Linear Equation (if it exists): </li>
+                </ul>          
+          <tabular top="minor" bottom="minor" left="major" right="major">
+     <col header="yes" width="12%" halign="center"/>
+     <col header="yes" width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+    <row halign="center">  
+        <cell>x</cell>
+        <cell>-2</cell>
+        <cell>-1</cell>
+        <cell>0</cell>
+        <cell>1</cell>
+        <cell>2</cell>
+        <cell>linear?</cell>
+    </row>
+     <row halign="center">  
+        <cell>y</cell>
+        <cell>5</cell>
+        <cell>7</cell>
+        <cell>8</cell>
+        <cell>7</cell>
+        <cell>5</cell>
+        <cell>linear?</cell>
+    </row>
+</tabular>
+</sidebyside>
+</statement>
+
+</task>
+    <task>
+            <statement>  
+                 <sidebyside widths="30% 30% 10% 10% 10% 10%" valighntop="true">
+                 <ul>
+                    <li>x change by:
+                    </li>
+                <li> y changes by: </li>
+                <li> Rate of change (if it exists): </li>
+                <li> Initial Value: </li>
+                <li> Linear Equation (if it exists): </li>
+                </ul>          
+          <tabular top="minor" bottom="minor" left="major" right="major">
+     <col header="yes" width="12%" halign="center"/>
+     <col header="yes" width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+    <row halign="center">  
+        <cell>x</cell>
+        <cell>-4</cell>
+        <cell>-2</cell>
+        <cell>0</cell>
+        <cell>2</cell>
+        <cell>4</cell>
+        <cell>linear?</cell>
+    </row>
+     <row halign="center">  
+        <cell>y</cell>
+        <cell>15</cell>
+        <cell>9</cell>
+        <cell>3</cell>
+        <cell>-3</cell>
+        <cell>-9</cell>
+        <cell>linear?</cell>
+    </row>
+        </tabular>
+    </sidebyside>
+        </statement>
+    </task>   
+    </exercise>
+</page>
+    
+</worksheet>
