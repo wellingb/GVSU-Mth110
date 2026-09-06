@@ -1,0 +1,136 @@
+<worksheet>
+    <title>LT3: Linear Patterns Task</title>
+   
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    Be able to create a table from a pictoral pattern
+                </p>
+            </li>
+            <li>
+                <p>
+                    Be able to create a graph from a table of data, with labels for the independent and dependent variables.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Be able to determine the rate of change from a table and graph.</p>
+            </li>
+            <li>
+                <p>
+                    Be able to find the initial value of the pattern and write the equation that represents the pictoral pattern.
+                </p>
+            </li>
+        </ul>
+    </objectives>
+    <page>
+    <exercise>
+        <introduction>
+        <p> Use the following patterns.  Observe the table numebers associated with the pattern.</p>
+        </introduction>
+        <figure>
+            <image source="pattern1-2.png" width="55%">
+                <shortdescription>patterns of blocks</shortdescription>
+            </image>
+        </figure>
+        <figure>
+            <image source="pattern3-4.png" width="55%">
+                <shortdescription>pattern of blocks</shortdescription>
+            </image>
+            </figure>     
+    </exercise>
+</page>
+    <page>
+    <exercise>
+        <introduction>
+            <p>
+                 Each table should answer the following using the indicated patterns on the next page.  Each pattern lists the tables that should use that pattern.  Each person at the table will be assigned a different color, and is responsible for at least one objective.  
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    The table was filled in by:
+                </p>
+            
+    <tabular top="minor" bottom="minor" left="major" right="major">
+     <col  width="12%" halign="center"/>
+     <col width="12%" halign="center"/>
+     <row header="yes" halign="center">
+                <cell>Figure number</cell>
+                <cell>___(n): number of shapes</cell>
+        </row>
+        <row>
+                <cell>1</cell>
+                <cell> </cell>
+            </row>
+             <row>
+                <cell>2</cell>
+                <cell> </cell>
+            </row>
+            <row>
+                <cell>3</cell>
+                <cell> </cell>
+            </row>
+             <row>
+                <cell>4</cell>
+                <cell> </cell>
+            </row>
+             <row>
+                <cell>5</cell>
+                <cell> </cell>
+            </row>
+             <row>
+                <cell>10</cell>
+                <cell> </cell>
+            </row>
+             <row>
+                <cell>n</cell>
+                <cell> </cell>
+            </row>
+        </tabular>
+    </statement>
+    </task>
+</exercise>
+<exercise>
+    <task>
+            <statement>
+                <p>
+                   The graph was made by: 
+                </p>
+            <figure>
+                <image source="blank 1 quadrant.png" width="50%"><shortdescription>blank first quadrant graph</shortdescription></image>
+            </figure>
+            </statement>
+        </task>
+    </exercise>
+    
+        <exercise>
+        <task workspace="0.01in">
+            <statement>
+                <p>
+                    These questions were answered by:
+                </p>
+            </statement>
+            <statement>
+                <p>
+                    What is the independent variable?
+                </p>
+                <p> What is the dependent variable?</p> 
+            </statement>
+        </task>
+        <task workspace="0.1in">
+            <statement>
+                <p>
+                    What is the rate of change?  Show work.
+                </p>
+           
+                <p>
+                    Use the rate of change to find the initial value (when n = 0) of the pattern.  Show all work.
+                </p>
+            </statement>
+        </task>
+    </exercise>
+</page>
+</worksheet>
