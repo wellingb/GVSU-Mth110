@@ -267,6 +267,11 @@
      <col>width=20% halign="center"</col>
   <col>width=20%</col>
     <row header="yes">
+        <cell>Graph A</cell>
+        <cell>Graph B</cell>
+        <cell>Graph C</cell>
+    </row>
+    <row>
         <cell><image source=",75x.1.5.png"><shortdescription>increasing line graph</shortdescription></image>
         </cell>
         <cell><image source="half-life.jpeg"><shortdescription>decreasing 
@@ -283,5 +288,29 @@
 </tabular>
 </task>
 </exercise>
+<exercise>
+    <introduction>
+        <p>
+            Categorize each equation as linear or non-linear.
+        </p>
+    </introduction>
+<task>
+<tabular top="minor" bottom="medium" left="major" right="major">
+     <col>width=20% halign="center"</col>
+  <col>width=20%</col>
+   <row header="yes" halign="center">
+        <cell>Equation 1</cell>
+     <cell>Equation 2</cell>
+        <cell>Equation 3</cell>
+    </row>
+    <row>
+        <cell><m>y=3*x-5</m></cell>
+        <cell><m>y=3^x+2</m></cell>
+        <cell><m>y=x^2-8</m></cell>
+    </row>
+</tabular>
+</task>
+</exercise>
+
 </page>
 </worksheet>
