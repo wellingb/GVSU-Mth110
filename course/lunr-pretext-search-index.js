@@ -240,49 +240,85 @@ var ptx_lunr_docs = [
   "url": "activities-6.html",
   "type": "Worksheet",
   "number": "",
+  "title": "LT3 Linear Patterns- Toothpicks",
+  "body": " LT3 Linear Patterns- Toothpicks     LT 3: I can recognize and identify key characteristics of a linear pattern represented in a table, graph, equation or application. I can translate between different representations.  >      Look at the pattern of toothpicks below. Recreate the pattern and determine how many toothpicks it takes to create each figure. You may add on to the previous pattern so that you do not run out of toothpicks. Continue the pattern, creating the next 3 figures. Determine the number of toothpicks it takes to create the next 3 figures and record the information in the table provided.     Step 1 is three toothpicks making a triangle. Step 2 adds two toothpicks to create another triangle to the fiture. Step 3 does the sme pattrn       Figure Number  Number of Toothpicks in Figure  Difference from Previous Figure  Number of Toothpicks in the Perimeter Distance Around  Difference from Previous Perimeter    1  3  ---  1  ---    2  5    4      3  7    5      4          5          10          100          T               See if you can draw the 10th figure in the pattern. How many toothpicks would you need to create the 10th figure? What problem-solving strategies might you use to help you?      Can you develop a rule that would tell you how many toothpicks would be in any figure in the pattern?      Now count the number of toothpicks in the perimeter of each figure and record your information in the table.         Determine if the table is linear or not. Then fill out the information above the table.       x change by:  y changes by:  Rate of change (if it exists):  Initial Value:  Linear Equation (if it exists):            x  -2  -1  0  1  2  linear?    y  20  31  42  53  64  linear?           x change by:  y changes by:  Rate of change (if it exists):  Initial Value:  Linear Equation (if it exists):            x  -2  -1  0  1  2  linear?    y  5  7  8  7  5  linear?           x change by:  y changes by:  Rate of change (if it exists):  Initial Value:  Linear Equation (if it exists):            x  -4  -2  0  2  4  linear?    y  15  9  3  -3  -9  linear?         "
+},
+{
+  "id": "activities-6-2",
+  "level": "2",
+  "url": "activities-6.html#activities-6-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   LT 3: I can recognize and identify key characteristics of a linear pattern represented in a table, graph, equation or application. I can translate between different representations.  >  "
+},
+{
+  "id": "activities-6-3-1",
+  "level": "2",
+  "url": "activities-6.html#activities-6-3-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Look at the pattern of toothpicks below. Recreate the pattern and determine how many toothpicks it takes to create each figure. You may add on to the previous pattern so that you do not run out of toothpicks. Continue the pattern, creating the next 3 figures. Determine the number of toothpicks it takes to create the next 3 figures and record the information in the table provided.     Step 1 is three toothpicks making a triangle. Step 2 adds two toothpicks to create another triangle to the fiture. Step 3 does the sme pattrn       Figure Number  Number of Toothpicks in Figure  Difference from Previous Figure  Number of Toothpicks in the Perimeter Distance Around  Difference from Previous Perimeter    1  3  ---  1  ---    2  5    4      3  7    5      4          5          10          100          T               See if you can draw the 10th figure in the pattern. How many toothpicks would you need to create the 10th figure? What problem-solving strategies might you use to help you?      Can you develop a rule that would tell you how many toothpicks would be in any figure in the pattern?      Now count the number of toothpicks in the perimeter of each figure and record your information in the table.    "
+},
+{
+  "id": "activities-6-4-1",
+  "level": "2",
+  "url": "activities-6.html#activities-6-4-1",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Determine if the table is linear or not. Then fill out the information above the table.       x change by:  y changes by:  Rate of change (if it exists):  Initial Value:  Linear Equation (if it exists):            x  -2  -1  0  1  2  linear?    y  20  31  42  53  64  linear?           x change by:  y changes by:  Rate of change (if it exists):  Initial Value:  Linear Equation (if it exists):            x  -2  -1  0  1  2  linear?    y  5  7  8  7  5  linear?           x change by:  y changes by:  Rate of change (if it exists):  Initial Value:  Linear Equation (if it exists):            x  -4  -2  0  2  4  linear?    y  15  9  3  -3  -9  linear?       "
+},
+{
+  "id": "activities-7",
+  "level": "1",
+  "url": "activities-7.html",
+  "type": "Worksheet",
+  "number": "",
   "title": "LT 6 Superball Patterns",
   "body": " LT 6 Superball Patterns  In this activity, students will explore the patterns of a superball bouncing and analyze the height of each bounce.   Function notation is a shorthand way to represent a function using the symbol f(x) to denote the output of the function f when the input is x.    In this you will be measuring the bounce height of a superball and recording the data to analyze the pattern of the bounces.   One person will drop a superball from designated heights, and another person will record the height of each bounce. Record your data in the table below.   width=60% halign=\"center\"  width=70%   Drop Height (inches)  Bounce Height (inches)    48     36     24     12     6         Let represent the initial height and represent the bounce height. Use Desmos to ckreate a scattergram of the data. Make a round sketch of the scattergram of the data on the graph provided Label the axes appropriately.     A distance and time graph with a constant increasing graph starting at (0,0), and a linear graph that increases, then is constant, and ends increasing.       Use Linear Regression in Desmos to find the line of best fit for the data. Write the equation of the line in function notation.      Use your model equation to predict the bounce height of a superball dropped from a height of 60 inches. Write a sentence to summarize your answer Test your prediction. Show your work.    "
 },
 {
-  "id": "activities-6-3",
+  "id": "activities-7-3",
   "level": "2",
-  "url": "activities-6.html#activities-6-3",
+  "url": "activities-7.html#activities-7-3",
   "type": "Definition",
-  "number": "5",
+  "number": "6",
   "title": "",
   "body": " Function notation is a shorthand way to represent a function using the symbol f(x) to denote the output of the function f when the input is x.  "
 },
 {
-  "id": "activities-6-4",
+  "id": "activities-7-4",
   "level": "2",
-  "url": "activities-6.html#activities-6-4",
+  "url": "activities-7.html#activities-7-4",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
   "body": " In this you will be measuring the bounce height of a superball and recording the data to analyze the pattern of the bounces.   One person will drop a superball from designated heights, and another person will record the height of each bounce. Record your data in the table below.   width=60% halign=\"center\"  width=70%   Drop Height (inches)  Bounce Height (inches)    48     36     24     12     6      "
 },
 {
-  "id": "activities-6-5",
+  "id": "activities-7-5",
   "level": "2",
-  "url": "activities-6.html#activities-6-5",
+  "url": "activities-7.html#activities-7-5",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
   "body": "  Let represent the initial height and represent the bounce height. Use Desmos to ckreate a scattergram of the data. Make a round sketch of the scattergram of the data on the graph provided Label the axes appropriately.     A distance and time graph with a constant increasing graph starting at (0,0), and a linear graph that increases, then is constant, and ends increasing.    "
 },
 {
-  "id": "activities-6-6",
+  "id": "activities-7-6",
   "level": "2",
-  "url": "activities-6.html#activities-6-6",
+  "url": "activities-7.html#activities-7-6",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
   "body": "  Use Linear Regression in Desmos to find the line of best fit for the data. Write the equation of the line in function notation.   "
 },
 {
-  "id": "activities-6-7",
+  "id": "activities-7-7",
   "level": "2",
-  "url": "activities-6.html#activities-6-7",
+  "url": "activities-7.html#activities-7-7",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
@@ -311,7 +347,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ws-a.html#def-x1",
   "type": "Definition",
-  "number": "7",
+  "number": "8",
   "title": "",
   "body": "  Slope is the measure of the steepness and direction of a line. It is calculated as the ratio of the vertical change (\"rise\") to the horizontal change (\"run\") between any two distinct points on a line.   "
 },
@@ -320,7 +356,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ws-a.html#def-y1",
   "type": "Definition",
-  "number": "8",
+  "number": "9",
   "title": "",
   "body": "  An intercept is the point where a line or curve crosses or intersects an axis on a coordinate plane.   "
 },
@@ -356,7 +392,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ws-a.html#def-a",
   "type": "Definition",
-  "number": "9",
+  "number": "10",
   "title": "",
   "body": "  Function notation is a way to write a function using symbols that show the relationship between an input and an output. Notation:    — the name of the function.  — the input of the function (also called the independent variable).  — the output when is applied to the function.     "
 },
@@ -370,184 +406,67 @@ var ptx_lunr_docs = [
   "body": "  Using Function Notation on the Graph of .     Explain how you would use the graph to find .    Go to on the x-axis since we know that . Go up or down from there until you reach the line. The y-value at that point is your answer.      Use the graph to find .    The point where is . This tells us .      Explain how you would use the graph to find when .    Go to on the y-axis since we know that . Go left or right from there until you reach the line. The x-value at that point is your answer.      Use the graph to find when .    The point where is . This tells us when .    "
 },
 {
-  "id": "activities-8",
+  "id": "activities-9",
   "level": "1",
-  "url": "activities-8.html",
+  "url": "activities-9.html",
   "type": "Worksheet",
   "number": "",
   "title": "LT3-4:Linear Patterns and Equations",
-  "body": " LT3-4:Linear Patterns and Equations  Beginning Algebra Made Useful by Char E. Beckman     What do you know about linear equations? Give brief answers now and think about these questions as you work on the problems below.    What patterns would you see in a table of data that can be modeled by a linear equation?    What patterns would you see in a graph of data that can be modeled by a linear equation?    How can you tell a graph can be modeled by a linear equation?    What would an equation of a linear equation look like?      Look at the three data sets below. Label each set of data as linear or non-linear. Explain your choice.         x  y    -5  14    -4  -12    -3  -10    -2  -8    -1  -6    0  -4    1  -2    2  0    3  2    4  4    5  6              x  y    -5  0.03125    -4  0.0625    -3  0.125    -2  0..25    -1  0.5    0  1    1  2    2  4    3  8    4  16    5  32              x  y    -5  25    -4  16    -3  9    -2  4    -1  1    0  0    1  1    2  4    3  9    4  16    5  25                 Three stories are provided. Gather data for each one. Label each set of data as linear or non-linear. Explain your choice. Do not worry about finding the equation for the non-linear     width=20% halign=\"center\"  width=20%   Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows 3 inches. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose doubles in length. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows from its previous length by the same number of inches as the number of lies he has told. For example, after 1 lie, his nose will be 2 + 1 = 3 inches long. After 2 lies, his nose will be 3 + 2 = 5 inches long. How long will his nose be after 3 lies? 4 lies? 5 lies? L lies?    No. Lines  Nose Length  No. Lies  Nose Length  No. Lies  Nose Length    0  2  0  2  0  2    1    1    1  2+1=3    2    2    2  3+2=5    3    3    3      4    4    4      5    5    5      L    L    L          Categorize each graph as linear or non-linear.     width=20% halign=\"center\"  width=20%   Graph A  Graph B  Graph C    increasing line graph   decreasing curve above the x-axis   parabola opens up                    Categorize each equation as linear or non-linear.     width=20% halign=\"center\"  width=20%   Equation 1  Equation 2  Equation 3                        Revisit problem 1. What can you add to your previous answers? Use the back of this page as needed.     What patterns would you see in a table of data that can be modeled by a linear equation? Can you find the equation of the linear data?      How can you tell a graph can be modeled by a linear equation? CAn you find the equation of the linear graph?      What would an equation of a linear equation look like?      How can you tell if a story is likely to be modeled by a linear equation? Can you find the equation of the linear story?      "
+  "body": " LT3-4:Linear Patterns and Equations  Beginning Algebra Made Useful by Char E. Beckman     What do you know about linear equations? Give brief answers now and think about these questions as you work on the problems below.    What patterns would you see in a table of data that can be modeled by a linear equation?    What patterns would you see in a graph of data that can be modeled by a linear equation?    How can you tell a graph can be modeled by a linear equation?    What would an equation of a linear equation look like?      Look at the three data sets below. Label each set of data as linear or non-linear. Explain your choice.         x  y    -5  14    -4  -12    -3  -10    -2  -8    -1  -6    0  -4    1  -2    2  0    3  2    4  4    5  6              x  y    -5  0.03125    -4  0.0625    -3  0.125    -2  0..25    -1  0.5    0  1    1  2    2  4    3  8    4  16    5  32              x  y    -5  25    -4  16    -3  9    -2  4    -1  1    0  0    1  1    2  4    3  9    4  16    5  25                 Three stories are provided. Gather data for each one. Label each set of data as linear or non-linear. Explain your choice. Do not worry about finding the equation for the non-linear     width=20% halign=\"center\"  width=20%   Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows 3 inches. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose doubles in length. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows from its previous length by the same number of inches as the number of lies he has told. For example, after 1 lie, his nose will be 2 + 1 = 3 inches long. After 2 lies, his nose will be 3 + 2 = 5 inches long. How long will his nose be after 3 lies? 4 lies? 5 lies? L lies?    No. Lines  Nose Length  No. Lies  Nose Length  No. Lies  Nose Length    0  2  0  2  0  2    1    1    1  2+1=3    2    2    2  3+2=5    3    3    3      4    4    4      5    5    5      L    L    L          Categorize each graph as linear or non-linear.     width=20% halign=\"center\"  width=20%   Graph A  Graph B  Graph C    increasing line graph   decreasing curve above the x-axis   parabola opens up                      Categorize each equation as linear or non-linear.     width=20% halign=\"center\"  width=20%   Equation 1  Equation 2  Equation 3                        Revisit problem 1. What can you add to your previous answers? Use the back of this page as needed.     What patterns would you see in a table of data that can be modeled by a linear equation? Can you find the equation of the linear data?      How can you tell a graph can be modeled by a linear equation? CAn you find the equation of the linear graph?      What would an equation of a linear equation look like?      How can you tell if a story is likely to be modeled by a linear equation? Can you find the equation of the linear story?      "
 },
 {
-  "id": "activities-8-3-1",
+  "id": "activities-9-3-1",
   "level": "2",
-  "url": "activities-8.html#activities-8-3-1",
+  "url": "activities-9.html#activities-9-3-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
   "body": "  What do you know about linear equations? Give brief answers now and think about these questions as you work on the problems below.    What patterns would you see in a table of data that can be modeled by a linear equation?    What patterns would you see in a graph of data that can be modeled by a linear equation?    How can you tell a graph can be modeled by a linear equation?    What would an equation of a linear equation look like?   "
 },
 {
-  "id": "activities-8-3-2",
+  "id": "activities-9-3-2",
   "level": "2",
-  "url": "activities-8.html#activities-8-3-2",
+  "url": "activities-9.html#activities-9-3-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
   "body": "  Look at the three data sets below. Label each set of data as linear or non-linear. Explain your choice.         x  y    -5  14    -4  -12    -3  -10    -2  -8    -1  -6    0  -4    1  -2    2  0    3  2    4  4    5  6              x  y    -5  0.03125    -4  0.0625    -3  0.125    -2  0..25    -1  0.5    0  1    1  2    2  4    3  8    4  16    5  32              x  y    -5  25    -4  16    -3  9    -2  4    -1  1    0  0    1  1    2  4    3  9    4  16    5  25            "
 },
 {
-  "id": "activities-8-4-1",
+  "id": "activities-9-4-1",
   "level": "2",
-  "url": "activities-8.html#activities-8-4-1",
+  "url": "activities-9.html#activities-9-4-1",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
   "body": "  Three stories are provided. Gather data for each one. Label each set of data as linear or non-linear. Explain your choice. Do not worry about finding the equation for the non-linear     width=20% halign=\"center\"  width=20%   Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows 3 inches. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose doubles in length. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows from its previous length by the same number of inches as the number of lies he has told. For example, after 1 lie, his nose will be 2 + 1 = 3 inches long. After 2 lies, his nose will be 3 + 2 = 5 inches long. How long will his nose be after 3 lies? 4 lies? 5 lies? L lies?    No. Lines  Nose Length  No. Lies  Nose Length  No. Lies  Nose Length    0  2  0  2  0  2    1    1    1  2+1=3    2    2    2  3+2=5    3    3    3      4    4    4      5    5    5      L    L    L       "
 },
 {
-  "id": "activities-8-4-2",
+  "id": "activities-9-4-2",
   "level": "2",
-  "url": "activities-8.html#activities-8-4-2",
+  "url": "activities-9.html#activities-9-4-2",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
   "body": "  Categorize each graph as linear or non-linear.     width=20% halign=\"center\"  width=20%   Graph A  Graph B  Graph C    increasing line graph   decreasing curve above the x-axis   parabola opens up                 "
 },
 {
-  "id": "activities-8-4-3",
+  "id": "activities-9-5-1",
   "level": "2",
-  "url": "activities-8.html#activities-8-4-3",
+  "url": "activities-9.html#activities-9-5-1",
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
   "body": "  Categorize each equation as linear or non-linear.     width=20% halign=\"center\"  width=20%   Equation 1  Equation 2  Equation 3                     "
 },
 {
-  "id": "activities-8-4-4",
+  "id": "activities-9-5-2",
   "level": "2",
-  "url": "activities-8.html#activities-8-4-4",
+  "url": "activities-9.html#activities-9-5-2",
   "type": "Worksheet Exercise",
   "number": "6",
   "title": "",
   "body": "  Revisit problem 1. What can you add to your previous answers? Use the back of this page as needed.     What patterns would you see in a table of data that can be modeled by a linear equation? Can you find the equation of the linear data?      How can you tell a graph can be modeled by a linear equation? CAn you find the equation of the linear graph?      What would an equation of a linear equation look like?      How can you tell if a story is likely to be modeled by a linear equation? Can you find the equation of the linear story?    "
-},
-{
-  "id": "activities-9",
-  "level": "1",
-  "url": "activities-9.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "LT 4:Linear Equations",
-  "body": " LT 4:Linear Equations    Find the equation of a table of linear data  Find the equation of a line parallel or perpendicular to a given line's graph.  Find the equation of a line given a point and slope.  Find the equation of a line given two points..      width=5% halign=\"center\"  width=50% halign=\"center\"   x  f(x)   x  g(x)   x  h(x)    -1  -15   0  9   3  -1    0  -9   1  5   6  1    1  -3   2  1   9  3    2  3   3  -3   12  5    3  9   4  -7   15  7        What do you notice about the inputs for each table individually?    The table has inputs that are all increasing by adding ; starting with . The table has inputs that all increase by adding ; starting with . The table has inputs that increase by adding ; starting with .        What do you notice about the outputs for each table individually?    The table has the outputs all increasing by adding ; starting with The table has the outputs all subtracting ; starting with . The table has the outputs all increasing by adding ; starting with         Which of the tables hae linear data? Explain your reasoning.    The table has inputs that are all increasing by adding , and the outputs are all increasing by adding . This constant addition makes the data linear. The table has inputs that all increase by adding and the outputs are all decreasing by subtracting . This constant addition\/subtraction makes the data linear. The table has inputs that increase by adding and outputs that increase by adding . Since both the inputs and outputs consistently are chaning the the same amounts, the data is linear.        What is the common difference for each table individually?    The table: since the inputs change by and outputs by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is .        Find the y-intercept for each table of data. If it does not exist in the table, explain how you found it.    The f(x) table has the point . The is always for a y-intercept. The g(x) table has the point . The is always for a y-intercept. The h(x) table does not have the y-intercept in it. If you go back , by subtracting (instead of adding to go forward), in the input column, you get . Going backward in the output column, you need to subtract , and find the . This means the y-intercept is .        If the data is linear, find the equation.    All of the equations are linear. To find the equation, we use the common ratio as our and the of the y-intercept as our .          Graph of f of x equals negative x plus 2 on coordinate axes ranging from -6 to 6.    f(x)=(-x+2)           Find the equation of the graphed line.     Given the line graphed above, how would you find the equation of the line?    First find the y-intercept.This tells us the of the equation. Next find the slope by using rise over run. Start with a point on the left. Go up (positive rise) or down(negative rise) to get across from the next point you want to use. Then go left (negative run) or right (positive run) until you are on the line. The fraction rise\/run is the of the equation.         Show your work to find the equation of the graphed line.    Using the y-intercept ad the point (1,1): The y-intercept is (0,2), so we know that . To find the slope, use rise over run. Start with a point on the left which is the y-intercept in this case. Go down(negative rise) to get across from the next point you want to use. We go down 1, so our rise is -1. Then go right (positive run) until you are on the line. We go to the right 1, so our run is +1. Rise\/run =          Find the equation of any line that is parallel to the graphed line.    We found the slope of the line to be 6. Parallel lines have the same slope but different y-intercepts. Answers will vary, but all equation need the same slope. One example: .         Find the equation of the line in slope-intercept form:      The line has a slope of and contains the point (4,6).    We are given , , . The equation is: .         The line contains the points (-3,6) and (3,-12)    First find the slope between the two lines. Next, choose either point to represent and to plug into the equation. We will use (-3,6)          The line contains the points (5, -2) and (5,1).    First find the slope between the two lines. Since the slope is undefined, we know it is a vertical line. . This is evident in the given points, since both points have the same x-value of 5.      "
-},
-{
-  "id": "activities-9-2",
-  "level": "2",
-  "url": "activities-9.html#activities-9-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "  Find the equation of a table of linear data  Find the equation of a line parallel or perpendicular to a given line's graph.  Find the equation of a line given a point and slope.  Find the equation of a line given two points..   "
-},
-{
-  "id": "activities-9-4-1",
-  "level": "2",
-  "url": "activities-9.html#activities-9-4-1",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  What do you notice about the inputs for each table individually?    The table has inputs that are all increasing by adding ; starting with . The table has inputs that all increase by adding ; starting with . The table has inputs that increase by adding ; starting with .   "
-},
-{
-  "id": "activities-9-5-1",
-  "level": "2",
-  "url": "activities-9.html#activities-9-5-1",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  What do you notice about the outputs for each table individually?    The table has the outputs all increasing by adding ; starting with The table has the outputs all subtracting ; starting with . The table has the outputs all increasing by adding ; starting with    "
-},
-{
-  "id": "activities-9-6-1",
-  "level": "2",
-  "url": "activities-9.html#activities-9-6-1",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Which of the tables hae linear data? Explain your reasoning.    The table has inputs that are all increasing by adding , and the outputs are all increasing by adding . This constant addition makes the data linear. The table has inputs that all increase by adding and the outputs are all decreasing by subtracting . This constant addition\/subtraction makes the data linear. The table has inputs that increase by adding and outputs that increase by adding . Since both the inputs and outputs consistently are chaning the the same amounts, the data is linear.   "
-},
-{
-  "id": "activities-9-7-1",
-  "level": "2",
-  "url": "activities-9.html#activities-9-7-1",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  What is the common difference for each table individually?    The table: since the inputs change by and outputs by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is .   "
-},
-{
-  "id": "activities-9-8-1",
-  "level": "2",
-  "url": "activities-9.html#activities-9-8-1",
-  "type": "Worksheet Exercise",
-  "number": "5",
-  "title": "",
-  "body": "  Find the y-intercept for each table of data. If it does not exist in the table, explain how you found it.    The f(x) table has the point . The is always for a y-intercept. The g(x) table has the point . The is always for a y-intercept. The h(x) table does not have the y-intercept in it. If you go back , by subtracting (instead of adding to go forward), in the input column, you get . Going backward in the output column, you need to subtract , and find the . This means the y-intercept is .   "
-},
-{
-  "id": "activities-9-9-1",
-  "level": "2",
-  "url": "activities-9.html#activities-9-9-1",
-  "type": "Worksheet Exercise",
-  "number": "6",
-  "title": "",
-  "body": "  If the data is linear, find the equation.    All of the equations are linear. To find the equation, we use the common ratio as our and the of the y-intercept as our .      "
-},
-{
-  "id": "activities-9-10-2",
-  "level": "2",
-  "url": "activities-9.html#activities-9-10-2",
-  "type": "Worksheet Exercise",
-  "number": "7",
-  "title": "",
-  "body": "  Find the equation of the graphed line.     Given the line graphed above, how would you find the equation of the line?    First find the y-intercept.This tells us the of the equation. Next find the slope by using rise over run. Start with a point on the left. Go up (positive rise) or down(negative rise) to get across from the next point you want to use. Then go left (negative run) or right (positive run) until you are on the line. The fraction rise\/run is the of the equation.    "
-},
-{
-  "id": "activities-9-12-1",
-  "level": "2",
-  "url": "activities-9.html#activities-9-12-1",
-  "type": "Worksheet Exercise",
-  "number": "8",
-  "title": "",
-  "body": "   Find the equation of any line that is parallel to the graphed line.    We found the slope of the line to be 6. Parallel lines have the same slope but different y-intercepts. Answers will vary, but all equation need the same slope. One example: .    "
-},
-{
-  "id": "activities-9-13-1",
-  "level": "2",
-  "url": "activities-9.html#activities-9-13-1",
-  "type": "Worksheet Exercise",
-  "number": "9",
-  "title": "",
-  "body": "  Find the equation of the line in slope-intercept form:      The line has a slope of and contains the point (4,6).    We are given , , . The equation is: .    "
-},
-{
-  "id": "activities-9-14-1",
-  "level": "2",
-  "url": "activities-9.html#activities-9-14-1",
-  "type": "Worksheet Exercise",
-  "number": "10",
-  "title": "",
-  "body": "  The line contains the points (-3,6) and (3,-12)    First find the slope between the two lines. Next, choose either point to represent and to plug into the equation. We will use (-3,6)     "
-},
-{
-  "id": "activities-9-15-1",
-  "level": "2",
-  "url": "activities-9.html#activities-9-15-1",
-  "type": "Worksheet Exercise",
-  "number": "11",
-  "title": "",
-  "body": "  The line contains the points (5, -2) and (5,1).    First find the slope between the two lines. Since the slope is undefined, we know it is a vertical line. . This is evident in the given points, since both points have the same x-value of 5.    "
 },
 {
   "id": "activities-10",
@@ -555,17 +474,116 @@ var ptx_lunr_docs = [
   "url": "activities-10.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 4Linear Characteristics",
-  "body": " LT 4Linear Characteristics    For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.            Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation           (-3,6), (3, -12)            (-5,-4), (2, 3)             A line contains the point (2,6) and is parallel to the line .           f(x)=-0.75*x+1.5               linear graph with negative slope \/>              "
+  "title": "LT 4:Linear Equations",
+  "body": " LT 4:Linear Equations    Find the equation of a table of linear data  Find the equation of a line parallel or perpendicular to a given line's graph.  Find the equation of a line given a point and slope.  Find the equation of a line given two points..      width=5% halign=\"center\"  width=50% halign=\"center\"   x  f(x)   x  g(x)   x  h(x)    -1  -15   0  9   3  -1    0  -9   1  5   6  1    1  -3   2  1   9  3    2  3   3  -3   12  5    3  9   4  -7   15  7        What do you notice about the inputs for each table individually?    The table has inputs that are all increasing by adding ; starting with . The table has inputs that all increase by adding ; starting with . The table has inputs that increase by adding ; starting with .        What do you notice about the outputs for each table individually?    The table has the outputs all increasing by adding ; starting with The table has the outputs all subtracting ; starting with . The table has the outputs all increasing by adding ; starting with         Which of the tables hae linear data? Explain your reasoning.    The table has inputs that are all increasing by adding , and the outputs are all increasing by adding . This constant addition makes the data linear. The table has inputs that all increase by adding and the outputs are all decreasing by subtracting . This constant addition\/subtraction makes the data linear. The table has inputs that increase by adding and outputs that increase by adding . Since both the inputs and outputs consistently are chaning the the same amounts, the data is linear.        What is the common difference for each table individually?    The table: since the inputs change by and outputs by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is .        Find the y-intercept for each table of data. If it does not exist in the table, explain how you found it.    The f(x) table has the point . The is always for a y-intercept. The g(x) table has the point . The is always for a y-intercept. The h(x) table does not have the y-intercept in it. If you go back , by subtracting (instead of adding to go forward), in the input column, you get . Going backward in the output column, you need to subtract , and find the . This means the y-intercept is .        If the data is linear, find the equation.    All of the equations are linear. To find the equation, we use the common ratio as our and the of the y-intercept as our .          Graph of f of x equals negative x plus 2 on coordinate axes ranging from -6 to 6.    f(x)=(-x+2)           Find the equation of the graphed line.     Given the line graphed above, how would you find the equation of the line?    First find the y-intercept.This tells us the of the equation. Next find the slope by using rise over run. Start with a point on the left. Go up (positive rise) or down(negative rise) to get across from the next point you want to use. Then go left (negative run) or right (positive run) until you are on the line. The fraction rise\/run is the of the equation.         Show your work to find the equation of the graphed line.    Using the y-intercept ad the point (1,1): The y-intercept is (0,2), so we know that . To find the slope, use rise over run. Start with a point on the left which is the y-intercept in this case. Go down(negative rise) to get across from the next point you want to use. We go down 1, so our rise is -1. Then go right (positive run) until you are on the line. We go to the right 1, so our run is +1. Rise\/run =          Find the equation of any line that is parallel to the graphed line.    We found the slope of the line to be 6. Parallel lines have the same slope but different y-intercepts. Answers will vary, but all equation need the same slope. One example: .         Find the equation of the line in slope-intercept form:      The line has a slope of and contains the point (4,6).    We are given , , . The equation is: .         The line contains the points (-3,6) and (3,-12)    First find the slope between the two lines. Next, choose either point to represent and to plug into the equation. We will use (-3,6)          The line contains the points (5, -2) and (5,1).    First find the slope between the two lines. Since the slope is undefined, we know it is a vertical line. . This is evident in the given points, since both points have the same x-value of 5.      "
 },
 {
   "id": "activities-10-2",
   "level": "2",
   "url": "activities-10.html#activities-10-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Find the equation of a table of linear data  Find the equation of a line parallel or perpendicular to a given line's graph.  Find the equation of a line given a point and slope.  Find the equation of a line given two points..   "
+},
+{
+  "id": "activities-10-4-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-4-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.            Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation           (-3,6), (3, -12)            (-5,-4), (2, 3)             A line contains the point (2,6) and is parallel to the line .           f(x)=-0.75*x+1.5               linear graph with negative slope \/>             "
+  "body": "  What do you notice about the inputs for each table individually?    The table has inputs that are all increasing by adding ; starting with . The table has inputs that all increase by adding ; starting with . The table has inputs that increase by adding ; starting with .   "
+},
+{
+  "id": "activities-10-5-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-5-1",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  What do you notice about the outputs for each table individually?    The table has the outputs all increasing by adding ; starting with The table has the outputs all subtracting ; starting with . The table has the outputs all increasing by adding ; starting with    "
+},
+{
+  "id": "activities-10-6-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-6-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Which of the tables hae linear data? Explain your reasoning.    The table has inputs that are all increasing by adding , and the outputs are all increasing by adding . This constant addition makes the data linear. The table has inputs that all increase by adding and the outputs are all decreasing by subtracting . This constant addition\/subtraction makes the data linear. The table has inputs that increase by adding and outputs that increase by adding . Since both the inputs and outputs consistently are chaning the the same amounts, the data is linear.   "
+},
+{
+  "id": "activities-10-7-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-7-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  What is the common difference for each table individually?    The table: since the inputs change by and outputs by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is .   "
+},
+{
+  "id": "activities-10-8-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-8-1",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Find the y-intercept for each table of data. If it does not exist in the table, explain how you found it.    The f(x) table has the point . The is always for a y-intercept. The g(x) table has the point . The is always for a y-intercept. The h(x) table does not have the y-intercept in it. If you go back , by subtracting (instead of adding to go forward), in the input column, you get . Going backward in the output column, you need to subtract , and find the . This means the y-intercept is .   "
+},
+{
+  "id": "activities-10-9-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-9-1",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  If the data is linear, find the equation.    All of the equations are linear. To find the equation, we use the common ratio as our and the of the y-intercept as our .      "
+},
+{
+  "id": "activities-10-10-2",
+  "level": "2",
+  "url": "activities-10.html#activities-10-10-2",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "  Find the equation of the graphed line.     Given the line graphed above, how would you find the equation of the line?    First find the y-intercept.This tells us the of the equation. Next find the slope by using rise over run. Start with a point on the left. Go up (positive rise) or down(negative rise) to get across from the next point you want to use. Then go left (negative run) or right (positive run) until you are on the line. The fraction rise\/run is the of the equation.    "
+},
+{
+  "id": "activities-10-12-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-12-1",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": "   Find the equation of any line that is parallel to the graphed line.    We found the slope of the line to be 6. Parallel lines have the same slope but different y-intercepts. Answers will vary, but all equation need the same slope. One example: .    "
+},
+{
+  "id": "activities-10-13-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-13-1",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": "  Find the equation of the line in slope-intercept form:      The line has a slope of and contains the point (4,6).    We are given , , . The equation is: .    "
+},
+{
+  "id": "activities-10-14-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-14-1",
+  "type": "Worksheet Exercise",
+  "number": "10",
+  "title": "",
+  "body": "  The line contains the points (-3,6) and (3,-12)    First find the slope between the two lines. Next, choose either point to represent and to plug into the equation. We will use (-3,6)     "
+},
+{
+  "id": "activities-10-15-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-15-1",
+  "type": "Worksheet Exercise",
+  "number": "11",
+  "title": "",
+  "body": "  The line contains the points (5, -2) and (5,1).    First find the slope between the two lines. Since the slope is undefined, we know it is a vertical line. . This is evident in the given points, since both points have the same x-value of 5.    "
 },
 {
   "id": "activities-11",
@@ -573,35 +591,17 @@ var ptx_lunr_docs = [
   "url": "activities-11.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 4 Slope and Y-intercept Discovery",
-  "body": " LT 4 Slope and Y-intercept Discovery  Go to Desmos and type in the equations and . Click on \"all\" sliders.    Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?       Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?      What do you notice when the slope is close to zero on the right side?.....left side?      What do you notice when the slope is farther from zero on the right side (very large)...the left side (very small)?       Consider the next several questions. Each equation contains a three (3). Discuss with your group ho the 3 of the equation will affect the graph of . Do not graph before making your decision.        The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]     "
+  "title": "LT 4Linear Characteristics",
+  "body": " LT 4Linear Characteristics    For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.            Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation           (-3,6), (3, -12)            (-5,-4), (2, 3)             A line contains the point (2,6) and is parallel to the line .           f(x)=-0.75*x+1.5               linear graph with negative slope \/>              "
 },
 {
-  "id": "activities-11-3",
+  "id": "activities-11-2",
   "level": "2",
-  "url": "activities-11.html#activities-11-3",
+  "url": "activities-11.html#activities-11-2",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?    "
-},
-{
-  "id": "activities-11-4",
-  "level": "2",
-  "url": "activities-11.html#activities-11-4",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?      What do you notice when the slope is close to zero on the right side?.....left side?      What do you notice when the slope is farther from zero on the right side (very large)...the left side (very small)?    "
-},
-{
-  "id": "activities-11-5",
-  "level": "2",
-  "url": "activities-11.html#activities-11-5",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Consider the next several questions. Each equation contains a three (3). Discuss with your group ho the 3 of the equation will affect the graph of . Do not graph before making your decision.        The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]    "
+  "body": "  For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.            Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation           (-3,6), (3, -12)            (-5,-4), (2, 3)             A line contains the point (2,6) and is parallel to the line .           f(x)=-0.75*x+1.5               linear graph with negative slope \/>             "
 },
 {
   "id": "activities-12",
@@ -609,89 +609,35 @@ var ptx_lunr_docs = [
   "url": "activities-12.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 5 Linear Wedding Scenarios",
-  "body": " LT 5 Linear Wedding Scenarios     Recognize the slope and y-intercept of a word situation    Graph a word situation    Find an equation from a word situation.       width=50% halign=\"center\"  width=50%   Guests  Cost Wedding-R-Us  Guests  Cost Picture Perfect  Guests  Cost Wedding Place    0  7,000  0  0  0  10,000    50  10,250  50  6,250  50  12,500    100  13,500  100  12,500  100  15,000    150  16,750  150  18,750  150  17,500    200  20,000  200  25,000  200  20,000    250  23,250  250  31,250  250  22,500    300  26,500  300  37,500  300  25,000      Look at the tables above. What is similar and different about them?    You recently had the best day of your life and got engaged! Now comes the hard part, planning our wedding. You and your finance` went and toured three different venues that you absolutely loved! Each venue gave you the price sheets shown below and assured you that their costs are linear. Look at the tables above. What is similar and different about them?      Plot all three data sets on the same graph. Use different colors or symbols for each venue.    graph grid labeled guests on the horizontal axis and cost on the vertical axis range -50 50000               You want to have 350 guests at your wedding. Follow the pattern to find the cost at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place       Write a general rule in words explaining how to find the cost at each of the three venues for any number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place       Let be the total cost of the wedding and be the number of guests attending the wedding. Finish the formula for each of the three wedding venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place         Compare the numbers in your formulas from (5) and the graph you drew in (2). Explain how the numbers compare to the graph.      Your friends Maria and Julio are looking for wedding venues as well. They plan to have 1000 people at their wedding, Use your formulas from (5) to find the cost for their wedding at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place       For each of the cost formulas you found in (5), state what the slope is with its meaning, and the y-intercept with its meaning; both in the context of the cost of the venues and the number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place      "
+  "title": "LT 4 Slope and Y-intercept Discovery",
+  "body": " LT 4 Slope and Y-intercept Discovery  Go to Desmos and type in the equations and . Click on \"all\" sliders.    Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?       Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?      What do you notice when the slope is close to zero on the right side?.....left side?      What do you notice when the slope is farther from zero on the right side (very large)...the left side (very small)?       Consider the next several questions. Each equation contains a three (3). Discuss with your group ho the 3 of the equation will affect the graph of . Do not graph before making your decision.        The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]     "
 },
 {
-  "id": "activities-12-2",
+  "id": "activities-12-3",
   "level": "2",
-  "url": "activities-12.html#activities-12-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "   Recognize the slope and y-intercept of a word situation    Graph a word situation    Find an equation from a word situation.    "
-},
-{
-  "id": "activities-12-3-2",
-  "level": "2",
-  "url": "activities-12.html#activities-12-3-2",
+  "url": "activities-12.html#activities-12-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Look at the tables above. What is similar and different about them?    You recently had the best day of your life and got engaged! Now comes the hard part, planning our wedding. You and your finance` went and toured three different venues that you absolutely loved! Each venue gave you the price sheets shown below and assured you that their costs are linear. Look at the tables above. What is similar and different about them?   "
+  "body": "  Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?    "
 },
 {
-  "id": "activities-12-3-3",
+  "id": "activities-12-4",
   "level": "2",
-  "url": "activities-12.html#activities-12-3-3",
+  "url": "activities-12.html#activities-12-4",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Plot all three data sets on the same graph. Use different colors or symbols for each venue.    graph grid labeled guests on the horizontal axis and cost on the vertical axis range -50 50000          "
+  "body": "  Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?      What do you notice when the slope is close to zero on the right side?.....left side?      What do you notice when the slope is farther from zero on the right side (very large)...the left side (very small)?    "
 },
 {
-  "id": "activities-12-4-1",
+  "id": "activities-12-5",
   "level": "2",
-  "url": "activities-12.html#activities-12-4-1",
+  "url": "activities-12.html#activities-12-5",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  You want to have 350 guests at your wedding. Follow the pattern to find the cost at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
-},
-{
-  "id": "activities-12-4-2",
-  "level": "2",
-  "url": "activities-12.html#activities-12-4-2",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  Write a general rule in words explaining how to find the cost at each of the three venues for any number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
-},
-{
-  "id": "activities-12-4-3",
-  "level": "2",
-  "url": "activities-12.html#activities-12-4-3",
-  "type": "Worksheet Exercise",
-  "number": "5",
-  "title": "",
-  "body": "  Let be the total cost of the wedding and be the number of guests attending the wedding. Finish the formula for each of the three wedding venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
-},
-{
-  "id": "activities-12-5-1",
-  "level": "2",
-  "url": "activities-12.html#activities-12-5-1",
-  "type": "Worksheet Exercise",
-  "number": "6",
-  "title": "",
-  "body": "  Compare the numbers in your formulas from (5) and the graph you drew in (2). Explain how the numbers compare to the graph.   "
-},
-{
-  "id": "activities-12-5-2",
-  "level": "2",
-  "url": "activities-12.html#activities-12-5-2",
-  "type": "Worksheet Exercise",
-  "number": "7",
-  "title": "",
-  "body": "  Your friends Maria and Julio are looking for wedding venues as well. They plan to have 1000 people at their wedding, Use your formulas from (5) to find the cost for their wedding at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
-},
-{
-  "id": "activities-12-5-3",
-  "level": "2",
-  "url": "activities-12.html#activities-12-5-3",
-  "type": "Worksheet Exercise",
-  "number": "8",
-  "title": "",
-  "body": "  For each of the cost formulas you found in (5), state what the slope is with its meaning, and the y-intercept with its meaning; both in the context of the cost of the venues and the number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
+  "body": "  Consider the next several questions. Each equation contains a three (3). Discuss with your group ho the 3 of the equation will affect the graph of . Do not graph before making your decision.        The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]    "
 },
 {
   "id": "activities-13",
@@ -699,8 +645,8 @@ var ptx_lunr_docs = [
   "url": "activities-13.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 5 Vacation Plan: Budgeting a Trip from Grand Rapids, MI to San Francisco, CA",
-  "body": " LT 5 Vacation Plan: Budgeting a Trip from Grand Rapids, MI to San Francisco, CA    To think through the budgetary implications of a vacation  To make a budget plan with rational spending decisions     You and your group partners are going on this trip. The objective of this activity is to determine the per-person cost of this trip.    Tme and Distance: What do you need to consider when making your decision?    How much time do you have for this trip? For consistency we will say ____ week(s)      How far is it from Grand Rapids, MI to San Francisco, CA?     Transportation Options:   Compare the transportation options below:       Renting A Car  Driving Your Car  Flying Round Trip    $       $       $             Other Driving Expenses to consider:    How much does gas average across the country?      Will you be stopping along the way? Where? What is the expense? List each separately with its cost.      Flying: How much does a round trip flight from Grand Rapids, MI to San Francisco, CA cost    Non-Stop?      One Layover?      Lodging    Will you be staying in a hotel in San Fransico or with a friend?      How will your choice above affect the expense you previously found?      Other Expense Considerations    Will you be splitting costs? How will this affect any of the amounts previously found? Be specific.      What other expenses will you have to consider? (Food, entertainment, etc.)      Making the Plan   Now that you have all of the information, make a plan for your trip. Be sure to show all calculation in the space provided. List each expense with the per person cost.  You will be creating a report with all expenses given and a rationale for why this is the trip you would choose.  You will create Plan A and Plan B.  Plan A     Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan A.      Plan B    Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan B.       What difference would it make if you flew out to San Francico and rented a car to return to Grand Rapids? List the expenses and total cost.     Now that you have considered the options, make a recommendation for the trip you would take. Be sure to include the total cost per person and a rationale for your choice.   "
+  "title": "LT 5 Linear Wedding Scenarios",
+  "body": " LT 5 Linear Wedding Scenarios     Recognize the slope and y-intercept of a word situation    Graph a word situation    Find an equation from a word situation.       width=50% halign=\"center\"  width=50%   Guests  Cost Wedding-R-Us  Guests  Cost Picture Perfect  Guests  Cost Wedding Place    0  7,000  0  0  0  10,000    50  10,250  50  6,250  50  12,500    100  13,500  100  12,500  100  15,000    150  16,750  150  18,750  150  17,500    200  20,000  200  25,000  200  20,000    250  23,250  250  31,250  250  22,500    300  26,500  300  37,500  300  25,000      Look at the tables above. What is similar and different about them?    You recently had the best day of your life and got engaged! Now comes the hard part, planning our wedding. You and your finance` went and toured three different venues that you absolutely loved! Each venue gave you the price sheets shown below and assured you that their costs are linear. Look at the tables above. What is similar and different about them?      Plot all three data sets on the same graph. Use different colors or symbols for each venue.    graph grid labeled guests on the horizontal axis and cost on the vertical axis range -50 50000               You want to have 350 guests at your wedding. Follow the pattern to find the cost at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place       Write a general rule in words explaining how to find the cost at each of the three venues for any number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place       Let be the total cost of the wedding and be the number of guests attending the wedding. Finish the formula for each of the three wedding venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place         Compare the numbers in your formulas from (5) and the graph you drew in (2). Explain how the numbers compare to the graph.      Your friends Maria and Julio are looking for wedding venues as well. They plan to have 1000 people at their wedding, Use your formulas from (5) to find the cost for their wedding at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place       For each of the cost formulas you found in (5), state what the slope is with its meaning, and the y-intercept with its meaning; both in the context of the cost of the venues and the number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place      "
 },
 {
   "id": "activities-13-2",
@@ -709,88 +655,79 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "  To think through the budgetary implications of a vacation  To make a budget plan with rational spending decisions   "
+  "body": "   Recognize the slope and y-intercept of a word situation    Graph a word situation    Find an equation from a word situation.    "
 },
 {
-  "id": "activities-13-4",
+  "id": "activities-13-3-2",
   "level": "2",
-  "url": "activities-13.html#activities-13-4",
+  "url": "activities-13.html#activities-13-3-2",
   "type": "Worksheet Exercise",
   "number": "1",
-  "title": "Tme and Distance: What do you need to consider when making your decision?",
-  "body": " Tme and Distance: What do you need to consider when making your decision?    How much time do you have for this trip? For consistency we will say ____ week(s)      How far is it from Grand Rapids, MI to San Francisco, CA?     Transportation Options:   Compare the transportation options below:       Renting A Car  Driving Your Car  Flying Round Trip    $       $       $           "
+  "title": "",
+  "body": "  Look at the tables above. What is similar and different about them?    You recently had the best day of your life and got engaged! Now comes the hard part, planning our wedding. You and your finance` went and toured three different venues that you absolutely loved! Each venue gave you the price sheets shown below and assured you that their costs are linear. Look at the tables above. What is similar and different about them?   "
 },
 {
-  "id": "activities-13-5",
+  "id": "activities-13-3-3",
   "level": "2",
-  "url": "activities-13.html#activities-13-5",
+  "url": "activities-13.html#activities-13-3-3",
   "type": "Worksheet Exercise",
   "number": "2",
-  "title": "Other Driving Expenses to consider:.",
-  "body": " Other Driving Expenses to consider:    How much does gas average across the country?      Will you be stopping along the way? Where? What is the expense? List each separately with its cost.    "
+  "title": "",
+  "body": "  Plot all three data sets on the same graph. Use different colors or symbols for each venue.    graph grid labeled guests on the horizontal axis and cost on the vertical axis range -50 50000          "
 },
 {
-  "id": "activities-13-6",
+  "id": "activities-13-4-1",
   "level": "2",
-  "url": "activities-13.html#activities-13-6",
+  "url": "activities-13.html#activities-13-4-1",
   "type": "Worksheet Exercise",
   "number": "3",
-  "title": "Flying: How much does a round trip flight from Grand Rapids, MI to San Francisco, CA cost.",
-  "body": " Flying: How much does a round trip flight from Grand Rapids, MI to San Francisco, CA cost    Non-Stop?      One Layover?    "
+  "title": "",
+  "body": "  You want to have 350 guests at your wedding. Follow the pattern to find the cost at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
 },
 {
-  "id": "activities-13-7",
+  "id": "activities-13-4-2",
   "level": "2",
-  "url": "activities-13.html#activities-13-7",
+  "url": "activities-13.html#activities-13-4-2",
   "type": "Worksheet Exercise",
   "number": "4",
-  "title": "Lodging.",
-  "body": " Lodging    Will you be staying in a hotel in San Fransico or with a friend?      How will your choice above affect the expense you previously found?    "
+  "title": "",
+  "body": "  Write a general rule in words explaining how to find the cost at each of the three venues for any number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
 },
 {
-  "id": "activities-13-8",
+  "id": "activities-13-4-3",
   "level": "2",
-  "url": "activities-13.html#activities-13-8",
+  "url": "activities-13.html#activities-13-4-3",
   "type": "Worksheet Exercise",
   "number": "5",
-  "title": "Other Expense Considerations.",
-  "body": " Other Expense Considerations    Will you be splitting costs? How will this affect any of the amounts previously found? Be specific.      What other expenses will you have to consider? (Food, entertainment, etc.)    "
+  "title": "",
+  "body": "  Let be the total cost of the wedding and be the number of guests attending the wedding. Finish the formula for each of the three wedding venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
 },
 {
-  "id": "activities-13-9",
+  "id": "activities-13-5-1",
   "level": "2",
-  "url": "activities-13.html#activities-13-9",
+  "url": "activities-13.html#activities-13-5-1",
   "type": "Worksheet Exercise",
   "number": "6",
-  "title": "Making the Plan.",
-  "body": " Making the Plan   Now that you have all of the information, make a plan for your trip. Be sure to show all calculation in the space provided. List each expense with the per person cost.  You will be creating a report with all expenses given and a rationale for why this is the trip you would choose.  You will create Plan A and Plan B.  Plan A     Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan A.    "
+  "title": "",
+  "body": "  Compare the numbers in your formulas from (5) and the graph you drew in (2). Explain how the numbers compare to the graph.   "
 },
 {
-  "id": "activities-13-10",
+  "id": "activities-13-5-2",
   "level": "2",
-  "url": "activities-13.html#activities-13-10",
+  "url": "activities-13.html#activities-13-5-2",
   "type": "Worksheet Exercise",
   "number": "7",
-  "title": "Plan B.",
-  "body": " Plan B    Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan B.    "
+  "title": "",
+  "body": "  Your friends Maria and Julio are looking for wedding venues as well. They plan to have 1000 people at their wedding, Use your formulas from (5) to find the cost for their wedding at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
 },
 {
-  "id": "activities-13-11",
+  "id": "activities-13-5-3",
   "level": "2",
-  "url": "activities-13.html#activities-13-11",
+  "url": "activities-13.html#activities-13-5-3",
   "type": "Worksheet Exercise",
   "number": "8",
   "title": "",
-  "body": "  What difference would it make if you flew out to San Francico and rented a car to return to Grand Rapids? List the expenses and total cost.   "
-},
-{
-  "id": "activities-13-12",
-  "level": "2",
-  "url": "activities-13.html#activities-13-12",
-  "type": "Worksheet Exercise",
-  "number": "9",
-  "title": "",
-  "body": " Now that you have considered the options, make a recommendation for the trip you would take. Be sure to include the total cost per person and a rationale for your choice.  "
+  "body": "  For each of the cost formulas you found in (5), state what the slope is with its meaning, and the y-intercept with its meaning; both in the context of the cost of the venues and the number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
 },
 {
   "id": "activities-14",
@@ -798,17 +735,98 @@ var ptx_lunr_docs = [
   "url": "activities-14.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 7 Parameters and Solutions",
-  "body": " LT 7 Parameters and Solutions    For each system below:   Find the slope and y-intercept parameters.    Determine the number of solutions.        Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"   System  Compare Slopes  Compare y-intercepts  Number of Solutions  Graph                                                                                   "
+  "title": "LT 5 Vacation Plan: Budgeting a Trip from Grand Rapids, MI to San Francisco, CA",
+  "body": " LT 5 Vacation Plan: Budgeting a Trip from Grand Rapids, MI to San Francisco, CA    To think through the budgetary implications of a vacation  To make a budget plan with rational spending decisions     You and your group partners are going on this trip. The objective of this activity is to determine the per-person cost of this trip.    Tme and Distance: What do you need to consider when making your decision?    How much time do you have for this trip? For consistency we will say ____ week(s)      How far is it from Grand Rapids, MI to San Francisco, CA?     Transportation Options:   Compare the transportation options below:       Renting A Car  Driving Your Car  Flying Round Trip    $       $       $             Other Driving Expenses to consider:    How much does gas average across the country?      Will you be stopping along the way? Where? What is the expense? List each separately with its cost.      Flying: How much does a round trip flight from Grand Rapids, MI to San Francisco, CA cost    Non-Stop?      One Layover?      Lodging    Will you be staying in a hotel in San Fransico or with a friend?      How will your choice above affect the expense you previously found?      Other Expense Considerations    Will you be splitting costs? How will this affect any of the amounts previously found? Be specific.      What other expenses will you have to consider? (Food, entertainment, etc.)      Making the Plan   Now that you have all of the information, make a plan for your trip. Be sure to show all calculation in the space provided. List each expense with the per person cost.  You will be creating a report with all expenses given and a rationale for why this is the trip you would choose.  You will create Plan A and Plan B.  Plan A     Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan A.      Plan B    Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan B.       What difference would it make if you flew out to San Francico and rented a car to return to Grand Rapids? List the expenses and total cost.     Now that you have considered the options, make a recommendation for the trip you would take. Be sure to include the total cost per person and a rationale for your choice.   "
 },
 {
   "id": "activities-14-2",
   "level": "2",
   "url": "activities-14.html#activities-14-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  To think through the budgetary implications of a vacation  To make a budget plan with rational spending decisions   "
+},
+{
+  "id": "activities-14-4",
+  "level": "2",
+  "url": "activities-14.html#activities-14-4",
   "type": "Worksheet Exercise",
   "number": "1",
+  "title": "Tme and Distance: What do you need to consider when making your decision?",
+  "body": " Tme and Distance: What do you need to consider when making your decision?    How much time do you have for this trip? For consistency we will say ____ week(s)      How far is it from Grand Rapids, MI to San Francisco, CA?     Transportation Options:   Compare the transportation options below:       Renting A Car  Driving Your Car  Flying Round Trip    $       $       $           "
+},
+{
+  "id": "activities-14-5",
+  "level": "2",
+  "url": "activities-14.html#activities-14-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Other Driving Expenses to consider:.",
+  "body": " Other Driving Expenses to consider:    How much does gas average across the country?      Will you be stopping along the way? Where? What is the expense? List each separately with its cost.    "
+},
+{
+  "id": "activities-14-6",
+  "level": "2",
+  "url": "activities-14.html#activities-14-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Flying: How much does a round trip flight from Grand Rapids, MI to San Francisco, CA cost.",
+  "body": " Flying: How much does a round trip flight from Grand Rapids, MI to San Francisco, CA cost    Non-Stop?      One Layover?    "
+},
+{
+  "id": "activities-14-7",
+  "level": "2",
+  "url": "activities-14.html#activities-14-7",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Lodging.",
+  "body": " Lodging    Will you be staying in a hotel in San Fransico or with a friend?      How will your choice above affect the expense you previously found?    "
+},
+{
+  "id": "activities-14-8",
+  "level": "2",
+  "url": "activities-14.html#activities-14-8",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Other Expense Considerations.",
+  "body": " Other Expense Considerations    Will you be splitting costs? How will this affect any of the amounts previously found? Be specific.      What other expenses will you have to consider? (Food, entertainment, etc.)    "
+},
+{
+  "id": "activities-14-9",
+  "level": "2",
+  "url": "activities-14.html#activities-14-9",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "Making the Plan.",
+  "body": " Making the Plan   Now that you have all of the information, make a plan for your trip. Be sure to show all calculation in the space provided. List each expense with the per person cost.  You will be creating a report with all expenses given and a rationale for why this is the trip you would choose.  You will create Plan A and Plan B.  Plan A     Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan A.    "
+},
+{
+  "id": "activities-14-10",
+  "level": "2",
+  "url": "activities-14.html#activities-14-10",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "Plan B.",
+  "body": " Plan B    Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan B.    "
+},
+{
+  "id": "activities-14-11",
+  "level": "2",
+  "url": "activities-14.html#activities-14-11",
+  "type": "Worksheet Exercise",
+  "number": "8",
   "title": "",
-  "body": "  For each system below:   Find the slope and y-intercept parameters.    Determine the number of solutions.      "
+  "body": "  What difference would it make if you flew out to San Francico and rented a car to return to Grand Rapids? List the expenses and total cost.   "
+},
+{
+  "id": "activities-14-12",
+  "level": "2",
+  "url": "activities-14.html#activities-14-12",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": " Now that you have considered the options, make a recommendation for the trip you would take. Be sure to include the total cost per person and a rationale for your choice.  "
 },
 {
   "id": "activities-15",
@@ -816,8 +834,8 @@ var ptx_lunr_docs = [
   "url": "activities-15.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 7 Car Rental Sytems Activity",
-  "body": " LT 7 Car Rental Sytems Activity    Suppose the ABC car rental company charges $50 plus $0.25 per mile driven. Further suppose that the TNT car rental company charges $75 plus $0.15 per mile driven.   Systems Parmaeters  width=60% halign=\"center\"  width=70%   Miles driven for 1 day  ABC charges  TNT Charges    1        5      10      25      50      90      100      200      300      350      m          Fill in the table.    How many solutions will the system of equations that represents the story have?   One     Write the system of equations for the car rental story in function notation. Let be the rental cost for driving miles          How far can you travel with the ABC company for $100? Show work or explain.   200 miles. The intersection of the function and graph is (200,100).     How far can you travel with the TNT company for $100? Show work or explain.   166 miles. The intersection of the function and graph is (166.67,100). Rounding to the whole, you have not driven 167 miles yet, so the answer is 166 miles.       How much does it cost to rent from the ABC company if you drive 390 miles? Show work or explain.   $147.50 Plug 390 in for m.     How many mile must you drive for the charges to be the same for both companies? Show work or explain.   250 miles. The interection point of the two function lines is (250, 112.5) This means the you can travel 250 miles and each company will charge you $112.50.     Write a sentence that tells me the range of miles driven that will result in TNT being the cheaper choice.   The TNT company will be cheaper until you reach 250 miles. At that point the charge is the same, and afterwad, it will become more expensive than the ABC company. You can see this on the graph by finding the TNT graph is above the ABC graph at the beginning of the graph, but goes below the ABC graph after the intersection.     "
+  "title": "LT 7 Parameters and Solutions",
+  "body": " LT 7 Parameters and Solutions    For each system below:   Find the slope and y-intercept parameters.    Determine the number of solutions.        Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"   System  Compare Slopes  Compare y-intercepts  Number of Solutions  Graph                                                                                   "
 },
 {
   "id": "activities-15-2",
@@ -826,7 +844,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Suppose the ABC car rental company charges $50 plus $0.25 per mile driven. Further suppose that the TNT car rental company charges $75 plus $0.15 per mile driven.   Systems Parmaeters  width=60% halign=\"center\"  width=70%   Miles driven for 1 day  ABC charges  TNT Charges    1        5      10      25      50      90      100      200      300      350      m       "
+  "body": "  For each system below:   Find the slope and y-intercept parameters.    Determine the number of solutions.      "
 },
 {
   "id": "activities-16",
@@ -834,13 +852,31 @@ var ptx_lunr_docs = [
   "url": "activities-16.html",
   "type": "Worksheet",
   "number": "",
+  "title": "LT 7 Car Rental Sytems Activity",
+  "body": " LT 7 Car Rental Sytems Activity    Suppose the ABC car rental company charges $50 plus $0.25 per mile driven. Further suppose that the TNT car rental company charges $75 plus $0.15 per mile driven.   Systems Parmaeters  width=60% halign=\"center\"  width=70%   Miles driven for 1 day  ABC charges  TNT Charges    1        5      10      25      50      90      100      200      300      350      m          Fill in the table.    How many solutions will the system of equations that represents the story have?   One     Write the system of equations for the car rental story in function notation. Let be the rental cost for driving miles          How far can you travel with the ABC company for $100? Show work or explain.   200 miles. The intersection of the function and graph is (200,100).     How far can you travel with the TNT company for $100? Show work or explain.   166 miles. The intersection of the function and graph is (166.67,100). Rounding to the whole, you have not driven 167 miles yet, so the answer is 166 miles.       How much does it cost to rent from the ABC company if you drive 390 miles? Show work or explain.   $147.50 Plug 390 in for m.     How many mile must you drive for the charges to be the same for both companies? Show work or explain.   250 miles. The interection point of the two function lines is (250, 112.5) This means the you can travel 250 miles and each company will charge you $112.50.     Write a sentence that tells me the range of miles driven that will result in TNT being the cheaper choice.   The TNT company will be cheaper until you reach 250 miles. At that point the charge is the same, and afterwad, it will become more expensive than the ABC company. You can see this on the graph by finding the TNT graph is above the ABC graph at the beginning of the graph, but goes below the ABC graph after the intersection.     "
+},
+{
+  "id": "activities-16-2",
+  "level": "2",
+  "url": "activities-16.html#activities-16-2",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Suppose the ABC car rental company charges $50 plus $0.25 per mile driven. Further suppose that the TNT car rental company charges $75 plus $0.15 per mile driven.   Systems Parmaeters  width=60% halign=\"center\"  width=70%   Miles driven for 1 day  ABC charges  TNT Charges    1        5      10      25      50      90      100      200      300      350      m       "
+},
+{
+  "id": "activities-17",
+  "level": "1",
+  "url": "activities-17.html",
+  "type": "Worksheet",
+  "number": "",
   "title": "Practice Activity",
   "body": " Practice Activity     Find the slope between and .    The slope is .       f(x)=(x-2)          A visual pattern where the number of stars is increasing.   A pattern where at step 1 there is 1 star, at step 2 there are 2 stars, at step 3 there are 4 stars, and at step 4 there are 7 stars.      width=40% halign=\"center\"  width=40%   Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows 3 inches. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?    Lie Number  Nose Length    0  5    1  6    2  7    3  8       Column Groups   width=20% halign=\"center\"  width=20%   Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows 3 inches. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose doubles in length. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows from its previous length by the same number of inches as the number of lies he has told. For example, after 1 lie, his nose will be 2 + 1 = 3 inches long. After 2 lies, his nose will be 3 + 2 = 5 inches long. How long will his nose be after 3 lies? 4 lies? 5 lies? L lies?    No. Lines  Nose Length  No. Lies  Nose Length  No. Lies  Nose Length    0  2  0  2  0  2    1    1    1  2+1=3    2    2    2  3+2=5    3    3    3      4    4    4      5    5    5      L    L    L            Row 1    Row 1           Tell a story about the fox's journey during the race. Include specific details about time and distance.   A distance and time graph with a constant graph starting at (9,0), a linear graph that increases, then is constant, and ends increasing, and a third graph that starts at (6,0) and is constant      The fox started the race 6 minutes after the tortoise and the hare. The fox ran at a constant speed and won the race.           x  y    -5  14    -4  -12    -3  -10    -2  -8    -1  -6    0  -4    1  -2    2  0    3  2    4  4    5  6              x  y    -5  0.03125    -4  0.0625    -3  0.125    -2  0..25    -1  0.5    0  1    1  2    2  4    3  8    4  16    5  32              x  y    -5  25    -4  16    -3  9    -2  4    -1  1    0  0    1  1    2  4    3  9    4  16    5  25            "
 },
 {
-  "id": "activities-16-2-1",
+  "id": "activities-17-2-1",
   "level": "2",
-  "url": "activities-16.html#activities-16-2-1",
+  "url": "activities-17.html#activities-17-2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
@@ -849,110 +885,38 @@ var ptx_lunr_docs = [
 {
   "id": "fig-01-01-2-nonlinear-pattern",
   "level": "2",
-  "url": "activities-16.html#fig-01-01-2-nonlinear-pattern",
+  "url": "activities-17.html#fig-01-01-2-nonlinear-pattern",
   "type": "Figure",
-  "number": "10",
+  "number": "11",
   "title": "",
   "body": " A visual pattern where the number of stars is increasing.   A pattern where at step 1 there is 1 star, at step 2 there are 2 stars, at step 3 there are 4 stars, and at step 4 there are 7 stars.   "
 },
 {
-  "id": "activities-16-2-4",
+  "id": "activities-17-2-4",
   "level": "2",
-  "url": "activities-16.html#activities-16-2-4",
-  "type": "Table",
-  "number": "11",
-  "title": "",
-  "body": "  width=40% halign=\"center\"  width=40%   Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows 3 inches. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?    Lie Number  Nose Length    0  5    1  6    2  7    3  8    "
-},
-{
-  "id": "activities-16-3",
-  "level": "2",
-  "url": "activities-16.html#activities-16-3",
+  "url": "activities-17.html#activities-17-2-4",
   "type": "Table",
   "number": "12",
-  "title": "Column Groups",
-  "body": " Column Groups   width=20% halign=\"center\"  width=20%   Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows 3 inches. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose doubles in length. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows from its previous length by the same number of inches as the number of lies he has told. For example, after 1 lie, his nose will be 2 + 1 = 3 inches long. After 2 lies, his nose will be 3 + 2 = 5 inches long. How long will his nose be after 3 lies? 4 lies? 5 lies? L lies?    No. Lines  Nose Length  No. Lies  Nose Length  No. Lies  Nose Length    0  2  0  2  0  2    1    1    1  2+1=3    2    2    2  3+2=5    3    3    3      4    4    4      5    5    5      L    L    L      "
-},
-{
-  "id": "activities-16-5",
-  "level": "2",
-  "url": "activities-16.html#activities-16-5",
-  "type": "Worksheet Exercise",
-  "number": "2",
   "title": "",
-  "body": "    Tell a story about the fox's journey during the race. Include specific details about time and distance.   A distance and time graph with a constant graph starting at (9,0), a linear graph that increases, then is constant, and ends increasing, and a third graph that starts at (6,0) and is constant      The fox started the race 6 minutes after the tortoise and the hare. The fox ran at a constant speed and won the race.    "
-},
-{
-  "id": "activities-17",
-  "level": "1",
-  "url": "activities-17.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "LT 9 Exponential Graphs",
-  "body": " LT 9 Exponential Graphs    Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   Graph of f of x equals 3 times 2 to the x on coordinate axes ranging from -4 to 15.    f(x)=3*(2)^x            What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the growth factor of the function?    The growth factor is . This is the value of in the function . The growth factor is also the value that the function increases by when increases by 1. The growth factor is also the value that the function decreases by when increases by 1 if the function is a decay function.      What is the growth rate of the function?    The growth rate is or . The growth rate is the growth factor minus 1. The growth rate is also the growth factor minus 1 expressed as a percent. The growth rate is also the value that the function increases by when increases by 1 if the function is a growth function. The growth rate is also the value that the function decreases by when increases by 1 if the function is a decay function.      How do you know this is a growth function?    The function is a growth function because the growth factor is greater than 1. If the growth factor was less than 1, then the function would be a decay function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.       Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   decreasing exponential graph with y-intercept (0,2)      What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the decay factor of the function?    The decay factor is . This is the value of in the function . The decay factor is also the value that the function decreases by when increases by 1. The decay factor is also the value that the function increases by when increases by 1 if the function is a growth function.      What is the decay rate of the function?    The decay rate is or . The decay rate is the decay factor minus 1. The decay rate is also the decay factor minus 1 expressed as a percent. The decay rate is also the value that the function decreases by when increases by 1 if the function is a decay function. The decay rate is also the value that the function increases by when increases by 1 if the function is a growth function.      How do you know this is a decay function?    The function is a decay function because the decay factor is less than 1. If the decay factor was greater than 1, then the function would be a growth function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.       Go to Desmos and type in the equations . Click on \"all\" sliders. Move the slider, make observations, and answer the following questions.     Let and What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.      Let and .. What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.       Let in the function . What do you notice about the graph?    The graph is a horizontal line at . The domain of the function is all real numbers. The range of the function is .      Let in the function . What do you notice about the graph?    The graph is a horizontal line at .      Let in the function . What do you notice about the graph?    The graph is not a function. The graph does not pass the vertical line test.      Fill in the table to make a summary of the connections between and and the graph of the function .                                                       graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs     graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs      "
-},
-{
-  "id": "activities-17-2",
-  "level": "2",
-  "url": "activities-17.html#activities-17-2",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   Graph of f of x equals 3 times 2 to the x on coordinate axes ranging from -4 to 15.    f(x)=3*(2)^x            What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the growth factor of the function?    The growth factor is . This is the value of in the function . The growth factor is also the value that the function increases by when increases by 1. The growth factor is also the value that the function decreases by when increases by 1 if the function is a decay function.      What is the growth rate of the function?    The growth rate is or . The growth rate is the growth factor minus 1. The growth rate is also the growth factor minus 1 expressed as a percent. The growth rate is also the value that the function increases by when increases by 1 if the function is a growth function. The growth rate is also the value that the function decreases by when increases by 1 if the function is a decay function.      How do you know this is a growth function?    The function is a growth function because the growth factor is greater than 1. If the growth factor was less than 1, then the function would be a decay function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.    "
+  "body": "  width=40% halign=\"center\"  width=40%   Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows 3 inches. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?    Lie Number  Nose Length    0  5    1  6    2  7    3  8    "
 },
 {
   "id": "activities-17-3",
   "level": "2",
   "url": "activities-17.html#activities-17-3",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   decreasing exponential graph with y-intercept (0,2)      What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the decay factor of the function?    The decay factor is . This is the value of in the function . The decay factor is also the value that the function decreases by when increases by 1. The decay factor is also the value that the function increases by when increases by 1 if the function is a growth function.      What is the decay rate of the function?    The decay rate is or . The decay rate is the decay factor minus 1. The decay rate is also the decay factor minus 1 expressed as a percent. The decay rate is also the value that the function decreases by when increases by 1 if the function is a decay function. The decay rate is also the value that the function increases by when increases by 1 if the function is a growth function.      How do you know this is a decay function?    The function is a decay function because the decay factor is less than 1. If the decay factor was greater than 1, then the function would be a growth function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.    "
-},
-{
-  "id": "activities-17-4",
-  "level": "2",
-  "url": "activities-17.html#activities-17-4",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Go to Desmos and type in the equations . Click on \"all\" sliders. Move the slider, make observations, and answer the following questions.     Let and What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.      Let and .. What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.    "
+  "type": "Table",
+  "number": "13",
+  "title": "Column Groups",
+  "body": " Column Groups   width=20% halign=\"center\"  width=20%   Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows 3 inches. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose doubles in length. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows from its previous length by the same number of inches as the number of lies he has told. For example, after 1 lie, his nose will be 2 + 1 = 3 inches long. After 2 lies, his nose will be 3 + 2 = 5 inches long. How long will his nose be after 3 lies? 4 lies? 5 lies? L lies?    No. Lines  Nose Length  No. Lies  Nose Length  No. Lies  Nose Length    0  2  0  2  0  2    1    1    1  2+1=3    2    2    2  3+2=5    3    3    3      4    4    4      5    5    5      L    L    L      "
 },
 {
   "id": "activities-17-5",
   "level": "2",
   "url": "activities-17.html#activities-17-5",
   "type": "Worksheet Exercise",
-  "number": "4",
+  "number": "2",
   "title": "",
-  "body": "  Let in the function . What do you notice about the graph?    The graph is a horizontal line at . The domain of the function is all real numbers. The range of the function is .   "
-},
-{
-  "id": "activities-17-6",
-  "level": "2",
-  "url": "activities-17.html#activities-17-6",
-  "type": "Worksheet Exercise",
-  "number": "5",
-  "title": "",
-  "body": "  Let in the function . What do you notice about the graph?    The graph is a horizontal line at .   "
-},
-{
-  "id": "activities-17-7",
-  "level": "2",
-  "url": "activities-17.html#activities-17-7",
-  "type": "Worksheet Exercise",
-  "number": "6",
-  "title": "",
-  "body": "  Let in the function . What do you notice about the graph?    The graph is not a function. The graph does not pass the vertical line test.   "
-},
-{
-  "id": "activities-17-8",
-  "level": "2",
-  "url": "activities-17.html#activities-17-8",
-  "type": "Worksheet Exercise",
-  "number": "7",
-  "title": "",
-  "body": "  Fill in the table to make a summary of the connections between and and the graph of the function .                                                       graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs     graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs     "
+  "body": "    Tell a story about the fox's journey during the race. Include specific details about time and distance.   A distance and time graph with a constant graph starting at (9,0), a linear graph that increases, then is constant, and ends increasing, and a third graph that starts at (6,0) and is constant      The fox started the race 6 minutes after the tortoise and the hare. The fox ran at a constant speed and won the race.    "
 },
 {
   "id": "activities-18",
@@ -960,8 +924,8 @@ var ptx_lunr_docs = [
   "url": "activities-18.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 8 Linear vs Exponential Patterns",
-  "body": " LT 8 Linear vs Exponential Patterns    Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu, increases by 3.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.      What is the common difference? (How do you find this?)    The common difference is found by subtracting from . For example: 23-20 = 3 The common ratio = 3      Let ve the function for the number of students with the flu after days. Find     The initial value is 20 students. This is the value. he common difference we found to be 3. This is the value. Putting it together,       Find and interpret its meaning in the context of the flu scenario          On day 14, there ae 62 students with the flu.       Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu triples.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.          The common difference is found by subtracting from . In this case 60-20 = 40 and 180-60=120. Since these are not the same difference, there is no common difference.      Try a couple of times. What do you find?          The result is the same when we do the division over and over. This is called a common ratio. The common ratio is the value of an exponential function.      Let ve the function for the number of students with the flu after days. Find     The initial value is 20 students. This is the value. he common ratio we found to be 3. This is the value. Putting it together,       Find and interpret its meaning in the context of the flu scenario        x   On day 14, there ae approximately 70,000,000,000 students with the flu.      How realistic is your answer in the previous question?    That number is not realistic at all.      What would be a more reasonable range of outputs? Why?    Answers will vary. GVSU has approximately 26,000 students, so a more reasonable range might be from 20 students (what we started with) to 26,000 students (if all students had the flu).      Which function model best represents how the flu is really spread? Explain your thinking.    The exponentia model fits better becasue the flu does not spead at a steady rate. It speads faster and faster if there is no remediation,     "
+  "title": "LT 9 Exponential Graphs",
+  "body": " LT 9 Exponential Graphs    Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   Graph of f of x equals 3 times 2 to the x on coordinate axes ranging from -4 to 15.    f(x)=3*(2)^x            What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the growth factor of the function?    The growth factor is . This is the value of in the function . The growth factor is also the value that the function increases by when increases by 1. The growth factor is also the value that the function decreases by when increases by 1 if the function is a decay function.      What is the growth rate of the function?    The growth rate is or . The growth rate is the growth factor minus 1. The growth rate is also the growth factor minus 1 expressed as a percent. The growth rate is also the value that the function increases by when increases by 1 if the function is a growth function. The growth rate is also the value that the function decreases by when increases by 1 if the function is a decay function.      How do you know this is a growth function?    The function is a growth function because the growth factor is greater than 1. If the growth factor was less than 1, then the function would be a decay function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.       Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   decreasing exponential graph with y-intercept (0,2)      What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the decay factor of the function?    The decay factor is . This is the value of in the function . The decay factor is also the value that the function decreases by when increases by 1. The decay factor is also the value that the function increases by when increases by 1 if the function is a growth function.      What is the decay rate of the function?    The decay rate is or . The decay rate is the decay factor minus 1. The decay rate is also the decay factor minus 1 expressed as a percent. The decay rate is also the value that the function decreases by when increases by 1 if the function is a decay function. The decay rate is also the value that the function increases by when increases by 1 if the function is a growth function.      How do you know this is a decay function?    The function is a decay function because the decay factor is less than 1. If the decay factor was greater than 1, then the function would be a growth function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.       Go to Desmos and type in the equations . Click on \"all\" sliders. Move the slider, make observations, and answer the following questions.     Let and What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.      Let and .. What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.       Let in the function . What do you notice about the graph?    The graph is a horizontal line at . The domain of the function is all real numbers. The range of the function is .      Let in the function . What do you notice about the graph?    The graph is a horizontal line at .      Let in the function . What do you notice about the graph?    The graph is not a function. The graph does not pass the vertical line test.      Fill in the table to make a summary of the connections between and and the graph of the function .                                                       graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs     graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs      "
 },
 {
   "id": "activities-18-2",
@@ -970,7 +934,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu, increases by 3.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.      What is the common difference? (How do you find this?)    The common difference is found by subtracting from . For example: 23-20 = 3 The common ratio = 3      Let ve the function for the number of students with the flu after days. Find     The initial value is 20 students. This is the value. he common difference we found to be 3. This is the value. Putting it together,       Find and interpret its meaning in the context of the flu scenario          On day 14, there ae 62 students with the flu.    "
+  "body": "  Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   Graph of f of x equals 3 times 2 to the x on coordinate axes ranging from -4 to 15.    f(x)=3*(2)^x            What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the growth factor of the function?    The growth factor is . This is the value of in the function . The growth factor is also the value that the function increases by when increases by 1. The growth factor is also the value that the function decreases by when increases by 1 if the function is a decay function.      What is the growth rate of the function?    The growth rate is or . The growth rate is the growth factor minus 1. The growth rate is also the growth factor minus 1 expressed as a percent. The growth rate is also the value that the function increases by when increases by 1 if the function is a growth function. The growth rate is also the value that the function decreases by when increases by 1 if the function is a decay function.      How do you know this is a growth function?    The function is a growth function because the growth factor is greater than 1. If the growth factor was less than 1, then the function would be a decay function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.    "
 },
 {
   "id": "activities-18-3",
@@ -979,7 +943,52 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu triples.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.          The common difference is found by subtracting from . In this case 60-20 = 40 and 180-60=120. Since these are not the same difference, there is no common difference.      Try a couple of times. What do you find?          The result is the same when we do the division over and over. This is called a common ratio. The common ratio is the value of an exponential function.      Let ve the function for the number of students with the flu after days. Find     The initial value is 20 students. This is the value. he common ratio we found to be 3. This is the value. Putting it together,       Find and interpret its meaning in the context of the flu scenario        x   On day 14, there ae approximately 70,000,000,000 students with the flu.      How realistic is your answer in the previous question?    That number is not realistic at all.      What would be a more reasonable range of outputs? Why?    Answers will vary. GVSU has approximately 26,000 students, so a more reasonable range might be from 20 students (what we started with) to 26,000 students (if all students had the flu).      Which function model best represents how the flu is really spread? Explain your thinking.    The exponentia model fits better becasue the flu does not spead at a steady rate. It speads faster and faster if there is no remediation,    "
+  "body": "  Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   decreasing exponential graph with y-intercept (0,2)      What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the decay factor of the function?    The decay factor is . This is the value of in the function . The decay factor is also the value that the function decreases by when increases by 1. The decay factor is also the value that the function increases by when increases by 1 if the function is a growth function.      What is the decay rate of the function?    The decay rate is or . The decay rate is the decay factor minus 1. The decay rate is also the decay factor minus 1 expressed as a percent. The decay rate is also the value that the function decreases by when increases by 1 if the function is a decay function. The decay rate is also the value that the function increases by when increases by 1 if the function is a growth function.      How do you know this is a decay function?    The function is a decay function because the decay factor is less than 1. If the decay factor was greater than 1, then the function would be a growth function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.    "
+},
+{
+  "id": "activities-18-4",
+  "level": "2",
+  "url": "activities-18.html#activities-18-4",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Go to Desmos and type in the equations . Click on \"all\" sliders. Move the slider, make observations, and answer the following questions.     Let and What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.      Let and .. What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.    "
+},
+{
+  "id": "activities-18-5",
+  "level": "2",
+  "url": "activities-18.html#activities-18-5",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Let in the function . What do you notice about the graph?    The graph is a horizontal line at . The domain of the function is all real numbers. The range of the function is .   "
+},
+{
+  "id": "activities-18-6",
+  "level": "2",
+  "url": "activities-18.html#activities-18-6",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Let in the function . What do you notice about the graph?    The graph is a horizontal line at .   "
+},
+{
+  "id": "activities-18-7",
+  "level": "2",
+  "url": "activities-18.html#activities-18-7",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  Let in the function . What do you notice about the graph?    The graph is not a function. The graph does not pass the vertical line test.   "
+},
+{
+  "id": "activities-18-8",
+  "level": "2",
+  "url": "activities-18.html#activities-18-8",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "  Fill in the table to make a summary of the connections between and and the graph of the function .                                                       graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs     graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs     "
 },
 {
   "id": "activities-19",
@@ -987,8 +996,8 @@ var ptx_lunr_docs = [
   "url": "activities-19.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 8 Counting Cubes",
-  "body": " LT 8 Counting Cubes    Dots are painted on the faces of the cubes. If you toss the cubes and a dot appears on the top face, remove the cube. To determine the relationship between the number of faces with dots on the and the number of cubes reamining after rolls, complete the following expericment   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6     7     8     9     10        Make a table of values for this scenario.      Take one of the containers. In the tabe corresponding to the number of dots on each cube in your container, record the number of cubes in your container as roll 0.      Shake the container and pour out the cubes in the plate so the cubes are one layer thick. If a dot is showing, set the cube aside. Count the number of cubes remaining; this is the number associated with roll 0. Return the remaining cubes to the container (the ones you just counted).      Repeat the process untik the contain has 1-2 cubes left.       Put your table of values into Desmos. Describe what your graph looks like.     Make your table and a sketch of your graph on the board. Be sure to label how many dots per cube your that you had. Label your axes. Save room for adding more work on the board later.      Your classmates had different number of dots on their cubes. How are the functions related? Why is this reasonable?       Now pour out all the cubes from your container and we will be adding cubes back in.   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6         Shake the container and pour out 5 cubes into a single layer. For each cube that has a dot showing face up, add it plus one more cube into the container. Count the number of cubes and record this for roll 1. (You should not have more than 5 cubes in the container). Repeat the prcess for at least 6 rolls.     Put your data into Desmos. What does your graph look like?     Make your table and a sketch of your graph on the board. Be sure to label how many dots per cube your that you had. Label your axes.     Your classmates had a different number of dots on their coubes. How are the functions related? Why is this reasonable?    What relationship exists between the functions when yu removed the cubes from the container and the function when you added cubes to the container?    What real-life uses might be made of your discoveries in this experiement?   "
+  "title": "LT 8 Linear vs Exponential Patterns",
+  "body": " LT 8 Linear vs Exponential Patterns    Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu, increases by 3.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.      What is the common difference? (How do you find this?)    The common difference is found by subtracting from . For example: 23-20 = 3 The common ratio = 3      Let ve the function for the number of students with the flu after days. Find     The initial value is 20 students. This is the value. he common difference we found to be 3. This is the value. Putting it together,       Find and interpret its meaning in the context of the flu scenario          On day 14, there ae 62 students with the flu.       Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu triples.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.          The common difference is found by subtracting from . In this case 60-20 = 40 and 180-60=120. Since these are not the same difference, there is no common difference.      Try a couple of times. What do you find?          The result is the same when we do the division over and over. This is called a common ratio. The common ratio is the value of an exponential function.      Let ve the function for the number of students with the flu after days. Find     The initial value is 20 students. This is the value. he common ratio we found to be 3. This is the value. Putting it together,       Find and interpret its meaning in the context of the flu scenario        x   On day 14, there ae approximately 70,000,000,000 students with the flu.      How realistic is your answer in the previous question?    That number is not realistic at all.      What would be a more reasonable range of outputs? Why?    Answers will vary. GVSU has approximately 26,000 students, so a more reasonable range might be from 20 students (what we started with) to 26,000 students (if all students had the flu).      Which function model best represents how the flu is really spread? Explain your thinking.    The exponentia model fits better becasue the flu does not spead at a steady rate. It speads faster and faster if there is no remediation,     "
 },
 {
   "id": "activities-19-2",
@@ -997,7 +1006,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Dots are painted on the faces of the cubes. If you toss the cubes and a dot appears on the top face, remove the cube. To determine the relationship between the number of faces with dots on the and the number of cubes reamining after rolls, complete the following expericment   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6     7     8     9     10        Make a table of values for this scenario.      Take one of the containers. In the tabe corresponding to the number of dots on each cube in your container, record the number of cubes in your container as roll 0.      Shake the container and pour out the cubes in the plate so the cubes are one layer thick. If a dot is showing, set the cube aside. Count the number of cubes remaining; this is the number associated with roll 0. Return the remaining cubes to the container (the ones you just counted).      Repeat the process untik the contain has 1-2 cubes left.    "
+  "body": "  Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu, increases by 3.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.      What is the common difference? (How do you find this?)    The common difference is found by subtracting from . For example: 23-20 = 3 The common ratio = 3      Let ve the function for the number of students with the flu after days. Find     The initial value is 20 students. This is the value. he common difference we found to be 3. This is the value. Putting it together,       Find and interpret its meaning in the context of the flu scenario          On day 14, there ae 62 students with the flu.    "
 },
 {
   "id": "activities-19-3",
@@ -1006,16 +1015,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Put your table of values into Desmos. Describe what your graph looks like.     Make your table and a sketch of your graph on the board. Be sure to label how many dots per cube your that you had. Label your axes. Save room for adding more work on the board later.      Your classmates had different number of dots on their cubes. How are the functions related? Why is this reasonable?    "
-},
-{
-  "id": "activities-19-4",
-  "level": "2",
-  "url": "activities-19.html#activities-19-4",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Now pour out all the cubes from your container and we will be adding cubes back in.   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6      "
+  "body": "  Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu triples.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.          The common difference is found by subtracting from . In this case 60-20 = 40 and 180-60=120. Since these are not the same difference, there is no common difference.      Try a couple of times. What do you find?          The result is the same when we do the division over and over. This is called a common ratio. The common ratio is the value of an exponential function.      Let ve the function for the number of students with the flu after days. Find     The initial value is 20 students. This is the value. he common ratio we found to be 3. This is the value. Putting it together,       Find and interpret its meaning in the context of the flu scenario        x   On day 14, there ae approximately 70,000,000,000 students with the flu.      How realistic is your answer in the previous question?    That number is not realistic at all.      What would be a more reasonable range of outputs? Why?    Answers will vary. GVSU has approximately 26,000 students, so a more reasonable range might be from 20 students (what we started with) to 26,000 students (if all students had the flu).      Which function model best represents how the flu is really spread? Explain your thinking.    The exponentia model fits better becasue the flu does not spead at a steady rate. It speads faster and faster if there is no remediation,    "
 },
 {
   "id": "activities-20",
@@ -1023,8 +1023,8 @@ var ptx_lunr_docs = [
   "url": "activities-20.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 8 Finding the Equation of an Exponential Graph",
-  "body": " LT 8 Finding the Equation of an Exponential Graph    How do you find a common ratio?    To find a common ratio, you can divide the second term by the first term. You can also divide the third term by the second term. If these two ratios are equal, then you have a common ratio.     We will be using this same idea to find the equation of an exponential graph. Our ratio will be the equation formed from one point on the graph and a second equation formed by a second point on the graph.        Use the points (0, 3) and (2, 12) to find the equation.       Use the points (1, 5) and (3, 20) to find the equation.       Use the points (0, 2) and (3, 16) to find the equation. Would you need to make a ratio for this problem? Why or why not?    The equation is     "
+  "title": "LT 8 Counting Cubes",
+  "body": " LT 8 Counting Cubes    Dots are painted on the faces of the cubes. If you toss the cubes and a dot appears on the top face, remove the cube. To determine the relationship between the number of faces with dots on the and the number of cubes reamining after rolls, complete the following expericment   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6     7     8     9     10        Make a table of values for this scenario.      Take one of the containers. In the tabe corresponding to the number of dots on each cube in your container, record the number of cubes in your container as roll 0.      Shake the container and pour out the cubes in the plate so the cubes are one layer thick. If a dot is showing, set the cube aside. Count the number of cubes remaining; this is the number associated with roll 0. Return the remaining cubes to the container (the ones you just counted).      Repeat the process untik the contain has 1-2 cubes left.       Put your table of values into Desmos. Describe what your graph looks like.     Make your table and a sketch of your graph on the board. Be sure to label how many dots per cube your that you had. Label your axes. Save room for adding more work on the board later.      Your classmates had different number of dots on their cubes. How are the functions related? Why is this reasonable?       Now pour out all the cubes from your container and we will be adding cubes back in.   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6         Shake the container and pour out 5 cubes into a single layer. For each cube that has a dot showing face up, add it plus one more cube into the container. Count the number of cubes and record this for roll 1. (You should not have more than 5 cubes in the container). Repeat the prcess for at least 6 rolls.     Put your data into Desmos. What does your graph look like?     Make your table and a sketch of your graph on the board. Be sure to label how many dots per cube your that you had. Label your axes.     Your classmates had a different number of dots on their coubes. How are the functions related? Why is this reasonable?    What relationship exists between the functions when yu removed the cubes from the container and the function when you added cubes to the container?    What real-life uses might be made of your discoveries in this experiement?   "
 },
 {
   "id": "activities-20-2",
@@ -1033,34 +1033,25 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  How do you find a common ratio?    To find a common ratio, you can divide the second term by the first term. You can also divide the third term by the second term. If these two ratios are equal, then you have a common ratio.   "
+  "body": "  Dots are painted on the faces of the cubes. If you toss the cubes and a dot appears on the top face, remove the cube. To determine the relationship between the number of faces with dots on the and the number of cubes reamining after rolls, complete the following expericment   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6     7     8     9     10        Make a table of values for this scenario.      Take one of the containers. In the tabe corresponding to the number of dots on each cube in your container, record the number of cubes in your container as roll 0.      Shake the container and pour out the cubes in the plate so the cubes are one layer thick. If a dot is showing, set the cube aside. Count the number of cubes remaining; this is the number associated with roll 0. Return the remaining cubes to the container (the ones you just counted).      Repeat the process untik the contain has 1-2 cubes left.    "
+},
+{
+  "id": "activities-20-3",
+  "level": "2",
+  "url": "activities-20.html#activities-20-3",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Put your table of values into Desmos. Describe what your graph looks like.     Make your table and a sketch of your graph on the board. Be sure to label how many dots per cube your that you had. Label your axes. Save room for adding more work on the board later.      Your classmates had different number of dots on their cubes. How are the functions related? Why is this reasonable?    "
 },
 {
   "id": "activities-20-4",
   "level": "2",
   "url": "activities-20.html#activities-20-4",
   "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Use the points (0, 3) and (2, 12) to find the equation.    "
-},
-{
-  "id": "activities-20-5",
-  "level": "2",
-  "url": "activities-20.html#activities-20-5",
-  "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Use the points (1, 5) and (3, 20) to find the equation.    "
-},
-{
-  "id": "activities-20-6",
-  "level": "2",
-  "url": "activities-20.html#activities-20-6",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  Use the points (0, 2) and (3, 16) to find the equation. Would you need to make a ratio for this problem? Why or why not?    The equation is    "
+  "body": "  Now pour out all the cubes from your container and we will be adding cubes back in.   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6      "
 },
 {
   "id": "activities-21",
@@ -1068,8 +1059,8 @@ var ptx_lunr_docs = [
   "url": "activities-21.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 9 Growth and Decay",
-  "body": " LT 9 Growth and Decay    Review: Complete the table.             Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?         Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                     Growth  177    9.8%     Decay  5.41    7%     "
+  "title": "LT 8 Finding the Equation of an Exponential Graph",
+  "body": " LT 8 Finding the Equation of an Exponential Graph    How do you find a common ratio?    To find a common ratio, you can divide the second term by the first term. You can also divide the third term by the second term. If these two ratios are equal, then you have a common ratio.     We will be using this same idea to find the equation of an exponential graph. Our ratio will be the equation formed from one point on the graph and a second equation formed by a second point on the graph.        Use the points (0, 3) and (2, 12) to find the equation.       Use the points (1, 5) and (3, 20) to find the equation.       Use the points (0, 2) and (3, 16) to find the equation. Would you need to make a ratio for this problem? Why or why not?    The equation is     "
 },
 {
   "id": "activities-21-2",
@@ -1078,16 +1069,34 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Review: Complete the table.             Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?      "
+  "body": "  How do you find a common ratio?    To find a common ratio, you can divide the second term by the first term. You can also divide the third term by the second term. If these two ratios are equal, then you have a common ratio.   "
 },
 {
-  "id": "activities-21-3",
+  "id": "activities-21-4",
   "level": "2",
-  "url": "activities-21.html#activities-21-3",
+  "url": "activities-21.html#activities-21-4",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                     Growth  177    9.8%     Decay  5.41    7%    "
+  "body": "  Use the points (0, 3) and (2, 12) to find the equation.    "
+},
+{
+  "id": "activities-21-5",
+  "level": "2",
+  "url": "activities-21.html#activities-21-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Use the points (1, 5) and (3, 20) to find the equation.    "
+},
+{
+  "id": "activities-21-6",
+  "level": "2",
+  "url": "activities-21.html#activities-21-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Use the points (0, 2) and (3, 16) to find the equation. Would you need to make a ratio for this problem? Why or why not?    The equation is    "
 },
 {
   "id": "activities-22",
@@ -1095,8 +1104,8 @@ var ptx_lunr_docs = [
   "url": "activities-22.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 10 Growth and Decay in Applications",
-  "body": " LT 10 Growth and Decay in Applications    . A storage tank contains a radioactive element. Let be the percentage of the element that reamains at years since the element was placed in the tank. The graph of is shown below.   half life starting of 10 years starting at 100 percent      What is the half-life of the element?      What percentage of the element remains after 40 years?     "
+  "title": "LT 9 Growth and Decay",
+  "body": " LT 9 Growth and Decay    Review: Complete the table.             Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?         Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                     Growth  177    9.8%     Decay  5.41    7%     "
 },
 {
   "id": "activities-22-2",
@@ -1105,7 +1114,16 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  . A storage tank contains a radioactive element. Let be the percentage of the element that reamains at years since the element was placed in the tank. The graph of is shown below.   half life starting of 10 years starting at 100 percent      What is the half-life of the element?      What percentage of the element remains after 40 years?    "
+  "body": "  Review: Complete the table.             Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?      "
+},
+{
+  "id": "activities-22-3",
+  "level": "2",
+  "url": "activities-22.html#activities-22-3",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                     Growth  177    9.8%     Decay  5.41    7%    "
 },
 {
   "id": "activities-23",
@@ -1113,8 +1131,17 @@ var ptx_lunr_docs = [
   "url": "activities-23.html",
   "type": "Worksheet",
   "number": "",
-  "title": "Images",
-  "body": " Images    "
+  "title": "LT 10 Growth and Decay in Applications",
+  "body": " LT 10 Growth and Decay in Applications    . A storage tank contains a radioactive element. Let be the percentage of the element that reamains at years since the element was placed in the tank. The graph of is shown below.   half life starting of 10 years starting at 100 percent      What is the half-life of the element?      What percentage of the element remains after 40 years?     "
+},
+{
+  "id": "activities-23-2",
+  "level": "2",
+  "url": "activities-23.html#activities-23-2",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  . A storage tank contains a radioactive element. Let be the percentage of the element that reamains at years since the element was placed in the tank. The graph of is shown below.   half life starting of 10 years starting at 100 percent      What is the half-life of the element?      What percentage of the element remains after 40 years?    "
 },
 {
   "id": "activities-24",
@@ -1122,35 +1149,8 @@ var ptx_lunr_docs = [
   "url": "activities-24.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 11 Heads or Tails Regression",
-  "body": " LT 11 Heads or Tails Regression   Objective: Discover the behavior and characteristics of exponential graphs and functions.    Procedure:  Pour out a bag of pennies onto the plate provided and put the pennies in one layer. Then remove all the pennies with the heads showing. Count and record the number of pennies removed and the number of pennies remaining.  Place the pennies removed aside and pour the remaining pennies back into the container. Again, shake the pennies, pour them out onto the plate, and remove the pennies with the head showing. Record the number of pennies removed and remaining.  Repeat until all the pennies are removed. You may not need all of the trials, or you may need to add trials.   Removed and Remaining  width=60% halign=\"center\"  width=70%   Trial Number  Number Removed  Number Remaining    1        2        3        4        4        5        6        7           Let be the trial number (input), and be the number remaining (output). Construct a scattergram in Desmos and make a rough sketch below. Do not forget your labels. Let your window (see the wrench on the right side) be and .      Which type of function, linear or exponential, do you think best models the data? Why?      Let's look at the common ratio of the data. Fill in the table below. Let be the number remaining and be the common ratio.   Common Ratio  width=60% halign=\"center\"  width=70%   Trial Number  Number Remaining  Common Ratio    1      2      3        4        5        CR  ---          The data is not perfect, but what does the common ratio represent?       We did not have a trial number 0. Why do you think that is?  If we had a trial number 0, what would the number remaining be?      Go to Desmos and create your table of data for trial number and number remaining.      Look back at your estimation for the common ratio and your answer to the trial 0 question. Do your answers come close to the and of your regression model?  What does this remind you about the relationship between the y-intercept, common ratio and the and of an exponential function?      Find the regression model equation for the data. Be sure that you use the drop down and choose Exponential Regression and use Log Mode. Write the equation below.      Use your regression model to predict the number remaining after 10 trials. How does this compare to your data?    "
-},
-{
-  "id": "activities-24-4",
-  "level": "2",
-  "url": "activities-24.html#activities-24-4",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  Let be the trial number (input), and be the number remaining (output). Construct a scattergram in Desmos and make a rough sketch below. Do not forget your labels. Let your window (see the wrench on the right side) be and .   "
-},
-{
-  "id": "activities-24-5",
-  "level": "2",
-  "url": "activities-24.html#activities-24-5",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Which type of function, linear or exponential, do you think best models the data? Why?   "
-},
-{
-  "id": "activities-24-6",
-  "level": "2",
-  "url": "activities-24.html#activities-24-6",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Let's look at the common ratio of the data. Fill in the table below. Let be the number remaining and be the common ratio.   Common Ratio  width=60% halign=\"center\"  width=70%   Trial Number  Number Remaining  Common Ratio    1      2      3        4        5        CR  ---       "
+  "title": "Images",
+  "body": " Images    "
 },
 {
   "id": "activities-25",
@@ -1158,26 +1158,35 @@ var ptx_lunr_docs = [
   "url": "activities-25.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Inverse Function Introduction",
-  "body": " LT 12 Inverse Function Introduction    Introduct Inverse Functions.    Learn to find inverse functions for linear functions.    Learn to find inverse functions for exponential functions.      When a foreigner visits the U.S., they may want to be able to comfortably convert between Metric and Imperial temperatures. Yo u are told to convert to Fahrenheit temperature to Celsius, first subtract 32, then multiply the result by   Fill in the table to covert the Fahrenheigt temperatures to Celsius temperatures.   width=60% halign=\"center\"  width=70%   Fahrenheit  Celsius    32     32     50     68     80.6         Write a function whose input is is the temperature in Fahrenheit degrees, and whose output is the temperature in Celsius degrees.      What type of function is (Linear, Expoential, or Quadratic)?      Enter your table and equation into Desmos. Does the graph agree with your choice of function?      Now, you are in Canada and want to convert Celsius temperatures to Fahrenheit. Write a sentence like the one explaining how to convert Fahrenheit to Celsuius, that can help you convert from Celsius degrss to Fahrenhet.  Fill in the table to covert Celsius to Fahrenheit degrees.  Fahrenheit to Celsius   width=60% halign=\"center\"  width=70%   Celsius  Fahrenheit    -5     0     10     20     27         Write a function whose input is is the temperature in Celsius degrees, and whose output is the temperature in Fahrenheit degrees.      What do you observe from the data in the tables above?      Go back to Desmos and enter a new table with the Celsius to Fahrenheit data. Does the graph agree with your choice of function?      Plot the line along with your two equations. What do you notice about relationship between the the graphs of and and the line     "
+  "title": "LT 11 Heads or Tails Regression",
+  "body": " LT 11 Heads or Tails Regression   Objective: Discover the behavior and characteristics of exponential graphs and functions.    Procedure:  Pour out a bag of pennies onto the plate provided and put the pennies in one layer. Then remove all the pennies with the heads showing. Count and record the number of pennies removed and the number of pennies remaining.  Place the pennies removed aside and pour the remaining pennies back into the container. Again, shake the pennies, pour them out onto the plate, and remove the pennies with the head showing. Record the number of pennies removed and remaining.  Repeat until all the pennies are removed. You may not need all of the trials, or you may need to add trials.   Removed and Remaining  width=60% halign=\"center\"  width=70%   Trial Number  Number Removed  Number Remaining    1        2        3        4        4        5        6        7           Let be the trial number (input), and be the number remaining (output). Construct a scattergram in Desmos and make a rough sketch below. Do not forget your labels. Let your window (see the wrench on the right side) be and .      Which type of function, linear or exponential, do you think best models the data? Why?      Let's look at the common ratio of the data. Fill in the table below. Let be the number remaining and be the common ratio.   Common Ratio  width=60% halign=\"center\"  width=70%   Trial Number  Number Remaining  Common Ratio    1      2      3        4        5        CR  ---          The data is not perfect, but what does the common ratio represent?       We did not have a trial number 0. Why do you think that is?  If we had a trial number 0, what would the number remaining be?      Go to Desmos and create your table of data for trial number and number remaining.      Look back at your estimation for the common ratio and your answer to the trial 0 question. Do your answers come close to the and of your regression model?  What does this remind you about the relationship between the y-intercept, common ratio and the and of an exponential function?      Find the regression model equation for the data. Be sure that you use the drop down and choose Exponential Regression and use Log Mode. Write the equation below.      Use your regression model to predict the number remaining after 10 trials. How does this compare to your data?    "
 },
 {
-  "id": "activities-25-3",
+  "id": "activities-25-4",
   "level": "2",
-  "url": "activities-25.html#activities-25-3",
+  "url": "activities-25.html#activities-25-4",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  When a foreigner visits the U.S., they may want to be able to comfortably convert between Metric and Imperial temperatures. Yo u are told to convert to Fahrenheit temperature to Celsius, first subtract 32, then multiply the result by   Fill in the table to covert the Fahrenheigt temperatures to Celsius temperatures.   width=60% halign=\"center\"  width=70%   Fahrenheit  Celsius    32     32     50     68     80.6      "
+  "body": "  Let be the trial number (input), and be the number remaining (output). Construct a scattergram in Desmos and make a rough sketch below. Do not forget your labels. Let your window (see the wrench on the right side) be and .   "
 },
 {
-  "id": "activities-25-7",
+  "id": "activities-25-5",
   "level": "2",
-  "url": "activities-25.html#activities-25-7",
+  "url": "activities-25.html#activities-25-5",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Now, you are in Canada and want to convert Celsius temperatures to Fahrenheit. Write a sentence like the one explaining how to convert Fahrenheit to Celsuius, that can help you convert from Celsius degrss to Fahrenhet.  Fill in the table to covert Celsius to Fahrenheit degrees.  Fahrenheit to Celsius   width=60% halign=\"center\"  width=70%   Celsius  Fahrenheit    -5     0     10     20     27      "
+  "body": "  Which type of function, linear or exponential, do you think best models the data? Why?   "
+},
+{
+  "id": "activities-25-6",
+  "level": "2",
+  "url": "activities-25.html#activities-25-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Let's look at the common ratio of the data. Fill in the table below. Let be the number remaining and be the common ratio.   Common Ratio  width=60% halign=\"center\"  width=70%   Trial Number  Number Remaining  Common Ratio    1      2      3        4        5        CR  ---       "
 },
 {
   "id": "activities-26",
@@ -1185,35 +1194,26 @@ var ptx_lunr_docs = [
   "url": "activities-26.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Log Rolling",
-  "body": " LT 12 Log Rolling    Use Desmos to evaluate each lexponential and log equation. A table for work is provided after the equation circle.  Match equivalent expressions by drawing a line. After calculating the value for in each equation, you should be able to draw at least one line for each equation   circle of log equations    Systems Parmaeters  width=50% halign=\"center\"  width=50%                                                                              Use your results to generalize your findings for the following properties.      then (_____) = (_____).              Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.    "
+  "title": "LT 12 Inverse Function Introduction",
+  "body": " LT 12 Inverse Function Introduction    Introduct Inverse Functions.    Learn to find inverse functions for linear functions.    Learn to find inverse functions for exponential functions.      When a foreigner visits the U.S., they may want to be able to comfortably convert between Metric and Imperial temperatures. Yo u are told to convert to Fahrenheit temperature to Celsius, first subtract 32, then multiply the result by   Fill in the table to covert the Fahrenheigt temperatures to Celsius temperatures.   width=60% halign=\"center\"  width=70%   Fahrenheit  Celsius    32     32     50     68     80.6         Write a function whose input is is the temperature in Fahrenheit degrees, and whose output is the temperature in Celsius degrees.      What type of function is (Linear, Expoential, or Quadratic)?      Enter your table and equation into Desmos. Does the graph agree with your choice of function?      Now, you are in Canada and want to convert Celsius temperatures to Fahrenheit. Write a sentence like the one explaining how to convert Fahrenheit to Celsuius, that can help you convert from Celsius degrss to Fahrenhet.  Fill in the table to covert Celsius to Fahrenheit degrees.  Fahrenheit to Celsius   width=60% halign=\"center\"  width=70%   Celsius  Fahrenheit    -5     0     10     20     27         Write a function whose input is is the temperature in Celsius degrees, and whose output is the temperature in Fahrenheit degrees.      What do you observe from the data in the tables above?      Go back to Desmos and enter a new table with the Celsius to Fahrenheit data. Does the graph agree with your choice of function?      Plot the line along with your two equations. What do you notice about relationship between the the graphs of and and the line     "
 },
 {
-  "id": "activities-26-2",
+  "id": "activities-26-3",
   "level": "2",
-  "url": "activities-26.html#activities-26-2",
+  "url": "activities-26.html#activities-26-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Use Desmos to evaluate each lexponential and log equation. A table for work is provided after the equation circle.  Match equivalent expressions by drawing a line. After calculating the value for in each equation, you should be able to draw at least one line for each equation   circle of log equations    Systems Parmaeters  width=50% halign=\"center\"  width=50%                                                                          "
+  "body": "  When a foreigner visits the U.S., they may want to be able to comfortably convert between Metric and Imperial temperatures. Yo u are told to convert to Fahrenheit temperature to Celsius, first subtract 32, then multiply the result by   Fill in the table to covert the Fahrenheigt temperatures to Celsius temperatures.   width=60% halign=\"center\"  width=70%   Fahrenheit  Celsius    32     32     50     68     80.6      "
 },
 {
-  "id": "activities-26-3-1",
+  "id": "activities-26-7",
   "level": "2",
-  "url": "activities-26.html#activities-26-3-1",
+  "url": "activities-26.html#activities-26-7",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Use your results to generalize your findings for the following properties.      then (_____) = (_____).           "
-},
-{
-  "id": "activities-26-3-2",
-  "level": "2",
-  "url": "activities-26.html#activities-26-3-2",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.  "
+  "body": "  Now, you are in Canada and want to convert Celsius temperatures to Fahrenheit. Write a sentence like the one explaining how to convert Fahrenheit to Celsuius, that can help you convert from Celsius degrss to Fahrenhet.  Fill in the table to covert Celsius to Fahrenheit degrees.  Fahrenheit to Celsius   width=60% halign=\"center\"  width=70%   Celsius  Fahrenheit    -5     0     10     20     27      "
 },
 {
   "id": "activities-27",
@@ -1221,53 +1221,35 @@ var ptx_lunr_docs = [
   "url": "activities-27.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Exponentials and Logs as Inverses",
-  "body": " LT 12 Exponentials and Logs as Inverses     Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).       Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.      We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid        Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log        The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:     "
+  "title": "LT 12 Log Rolling",
+  "body": " LT 12 Log Rolling    Use Desmos to evaluate each lexponential and log equation. A table for work is provided after the equation circle.  Match equivalent expressions by drawing a line. After calculating the value for in each equation, you should be able to draw at least one line for each equation   circle of log equations    Systems Parmaeters  width=50% halign=\"center\"  width=50%                                                                              Use your results to generalize your findings for the following properties.      then (_____) = (_____).              Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.    "
 },
 {
   "id": "activities-27-2",
   "level": "2",
   "url": "activities-27.html#activities-27-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "   Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).    "
-},
-{
-  "id": "activities-27-3",
-  "level": "2",
-  "url": "activities-27.html#activities-27-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.   "
+  "body": "  Use Desmos to evaluate each lexponential and log equation. A table for work is provided after the equation circle.  Match equivalent expressions by drawing a line. After calculating the value for in each equation, you should be able to draw at least one line for each equation   circle of log equations    Systems Parmaeters  width=50% halign=\"center\"  width=50%                                                                          "
 },
 {
-  "id": "activities-27-4",
+  "id": "activities-27-3-1",
   "level": "2",
-  "url": "activities-27.html#activities-27-4",
+  "url": "activities-27.html#activities-27-3-1",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid     "
+  "body": "  Use your results to generalize your findings for the following properties.      then (_____) = (_____).           "
 },
 {
-  "id": "activities-27-5",
+  "id": "activities-27-3-2",
   "level": "2",
-  "url": "activities-27.html#activities-27-5",
+  "url": "activities-27.html#activities-27-3-2",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log     "
-},
-{
-  "id": "activities-27-6",
-  "level": "2",
-  "url": "activities-27.html#activities-27-6",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
+  "body": "  Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.  "
 },
 {
   "id": "activities-28",
@@ -1275,13 +1257,67 @@ var ptx_lunr_docs = [
   "url": "activities-28.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 9 Graph Fill-in-the-Blanks",
-  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.        exponential growth graph                        "
+  "title": "LT 12 Exponentials and Logs as Inverses",
+  "body": " LT 12 Exponentials and Logs as Inverses     Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).       Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.      We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid        Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log        The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:     "
 },
 {
   "id": "activities-28-2",
   "level": "2",
   "url": "activities-28.html#activities-28-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).    "
+},
+{
+  "id": "activities-28-3",
+  "level": "2",
+  "url": "activities-28.html#activities-28-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.   "
+},
+{
+  "id": "activities-28-4",
+  "level": "2",
+  "url": "activities-28.html#activities-28-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid     "
+},
+{
+  "id": "activities-28-5",
+  "level": "2",
+  "url": "activities-28.html#activities-28-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log     "
+},
+{
+  "id": "activities-28-6",
+  "level": "2",
+  "url": "activities-28.html#activities-28-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
+},
+{
+  "id": "activities-29",
+  "level": "1",
+  "url": "activities-29.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 9 Graph Fill-in-the-Blanks",
+  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.        exponential growth graph                        "
+},
+{
+  "id": "activities-29-2",
+  "level": "2",
+  "url": "activities-29.html#activities-29-2",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
