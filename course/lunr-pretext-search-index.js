@@ -259,7 +259,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT3: Linear Patterns Task",
-  "body": " LT3: Linear Patterns Task     Be able to create a table from a pictoral pattern    Be able to create a graph from a table of data, with labels for the independent and dependent variables.    Be able to determine the rate of change from a table and graph.    Be able to find the initial value of the pattern and write the equation that represents the pictoral pattern.        Use the following patterns. Observe the table numebers associated with the pattern.     patterns of blocks      pattern of blocks         Each table should answer the following using the indicated patterns on the next page. Each pattern lists the tables that should use that pattern. Each person at the table will be assigned a different color, and is responsible for at least one objective.     The table was filled in by:      Figure number  ___(n): number of shapes    1      2      3      4      5      10      n            The graph was made by:   blank first quadrant graph         These questions were answered by:    What is the independent variable?  What is the dependent variable?      What is the rate of change? Show work.  Use the rate of change to find the initial value (when n = 0) of the pattern. Show all work.      "
+  "body": " LT3: Linear Patterns Task     Be able to create a table from a pictoral pattern    Be able to create a graph from a table of data, with labels for the independent and dependent variables.    Be able to determine the rate of change from a table and graph.    Be able to find the initial value of the pattern and write the equation that represents the pictoral pattern.        Use the following patterns. Observe the table numebers associated with the pattern.     patterns of blocks      pattern of blocks         Each table should answer the following using the indicated patterns on the next page. Each pattern lists the tables that should use that pattern. Each person at the table will be assigned a different color, and is responsible for at least one objective.     The table was filled in by:      Figure number  ___(n): number of shapes    1      2      3      4      5      10      n            The graph was made by:______________________________________ Do not forget to abel the axes.   blank first quadrant graph        These questions were answered by:     What is the rate of change? Show work.      Use the rate of change to find the initial value (when n = 0) of the pattern. Show all work.      "
 },
 {
   "id": "activities-7-2",
@@ -295,7 +295,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "   The graph was made by:   blank first quadrant graph     "
+  "body": "   The graph was made by:______________________________________ Do not forget to abel the axes.   blank first quadrant graph     "
 },
 {
   "id": "activities-7-4-3",
@@ -304,7 +304,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "   These questions were answered by:    What is the independent variable?  What is the dependent variable?      What is the rate of change? Show work.  Use the rate of change to find the initial value (when n = 0) of the pattern. Show all work.    "
+  "body": "  These questions were answered by:     What is the rate of change? Show work.      Use the rate of change to find the initial value (when n = 0) of the pattern. Show all work.    "
 },
 {
   "id": "activities-8",
