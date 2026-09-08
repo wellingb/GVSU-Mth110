@@ -36,7 +36,7 @@
         <cell>1</cell>
         <cell>3</cell>
         <cell>---</cell>
-        <cell>1</cell>
+        <cell>3</cell>
         <cell>---</cell>
     </row>
     <row halign="center">
@@ -70,23 +70,23 @@
      <row halign="center">
         <cell>10</cell>
         <cell></cell>
-        <cell> </cell>
+        <cell>---</cell>
         <cell></cell>
-        <cell> </cell>
+        <cell>---</cell>
     </row>
      <row halign="center">
         <cell>100</cell>
         <cell></cell>
-        <cell> </cell>
+        <cell>---</cell>
         <cell></cell>
-        <cell> </cell>
+        <cell>---</cell>
     </row>
      <row halign="center">
         <cell>T</cell>
         <cell> </cell>
+        <cell>---</cell>
         <cell> </cell>
-        <cell> </cell>
-        <cell> </cell>
+        <cell>---</cell>
     </row>
 </tabular>
 </task>
