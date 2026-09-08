@@ -1,5 +1,5 @@
 <worksheet>
- <title>LT 4Linear Characteristics</title>
+ <title>LT 3 Linear Characteristics</title>
 
 <exercise>
 <statement>
@@ -92,7 +92,7 @@
     <cell></cell>
   </row>
   <row halign="center">
-    <cell><image source="3x-6.png" width="40%">
+    <cell><image source="3x-6.png">
     <shortdescription>linear graph with negative slope</shortdescription>/>
     </image></cell>
     <cell> </cell>
