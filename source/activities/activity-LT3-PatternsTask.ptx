@@ -97,7 +97,7 @@
     <task>
             <statement>
                 <p>
-                   The graph was made by: 
+                   The graph was made by:______________________________________ Do not forget to abel the axes. 
                 </p>
             <figure>
                 <image source="blank 1 quadrant.png" width="50%"><shortdescription>blank first quadrant graph</shortdescription></image>
@@ -107,25 +107,21 @@
     </exercise>
     
         <exercise>
-        <task workspace="0.01in">
-            <statement>
+            <introduction>
                 <p>
                     These questions were answered by:
                 </p>
-            </statement>
-            <statement>
-                <p>
-                    What is the independent variable?
-                </p>
-                <p> What is the dependent variable?</p> 
-            </statement>
-        </task>
-        <task workspace="0.1in">
+            </introduction>
+           
+            <task workspace="0.01in">
             <statement>
                 <p>
                     What is the rate of change?  Show work.
                 </p>
-           
+            </statement>
+            </task>
+            <task workspace="0.01in">
+            <statement>
                 <p>
                     Use the rate of change to find the initial value (when n = 0) of the pattern.  Show all work.
                 </p>
