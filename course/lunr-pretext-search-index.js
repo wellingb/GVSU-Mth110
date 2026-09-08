@@ -325,60 +325,6 @@ var ptx_lunr_docs = [
   "body": "  Determine if the table is linear or not. Then fill out the information above the table.       x change by:  y changes by:  Rate of change (if it exists):  Initial Value:  Linear Equation (if it exists):            x  -2  -1  0  1  2  linear?    y  20  31  42  53  64  linear?           x change by:  y changes by:  Rate of change (if it exists):  Initial Value:  Linear Equation (if it exists):            x  -2  -1  0  1  2  linear?    y  5  7  8  7  5  linear?           x change by:  y changes by:  Rate of change (if it exists):  Initial Value:  Linear Equation (if it exists):            x  -4  -2  0  2  4  linear?    y  15  9  3  -3  -9  linear?       "
 },
 {
-  "id": "activities-8",
-  "level": "1",
-  "url": "activities-8.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "LT 6 Superball Patterns",
-  "body": " LT 6 Superball Patterns  In this activity, students will explore the patterns of a superball bouncing and analyze the height of each bounce.   Function notation is a shorthand way to represent a function using the symbol f(x) to denote the output of the function f when the input is x.    In this you will be measuring the bounce height of a superball and recording the data to analyze the pattern of the bounces.   One person will drop a superball from designated heights, and another person will record the height of each bounce. Record your data in the table below.   width=60% halign=\"center\"  width=70%   Drop Height (inches)  Bounce Height (inches)    48     36     24     12     6         Let represent the initial height and represent the bounce height. Use Desmos to ckreate a scattergram of the data. Make a round sketch of the scattergram of the data on the graph provided Label the axes appropriately.     A distance and time graph with a constant increasing graph starting at (0,0), and a linear graph that increases, then is constant, and ends increasing.       Use Linear Regression in Desmos to find the line of best fit for the data. Write the equation of the line in function notation.      Use your model equation to predict the bounce height of a superball dropped from a height of 60 inches. Write a sentence to summarize your answer Test your prediction. Show your work.    "
-},
-{
-  "id": "activities-8-3",
-  "level": "2",
-  "url": "activities-8.html#activities-8-3",
-  "type": "Definition",
-  "number": "9",
-  "title": "",
-  "body": " Function notation is a shorthand way to represent a function using the symbol f(x) to denote the output of the function f when the input is x.  "
-},
-{
-  "id": "activities-8-4",
-  "level": "2",
-  "url": "activities-8.html#activities-8-4",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": " In this you will be measuring the bounce height of a superball and recording the data to analyze the pattern of the bounces.   One person will drop a superball from designated heights, and another person will record the height of each bounce. Record your data in the table below.   width=60% halign=\"center\"  width=70%   Drop Height (inches)  Bounce Height (inches)    48     36     24     12     6      "
-},
-{
-  "id": "activities-8-5",
-  "level": "2",
-  "url": "activities-8.html#activities-8-5",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Let represent the initial height and represent the bounce height. Use Desmos to ckreate a scattergram of the data. Make a round sketch of the scattergram of the data on the graph provided Label the axes appropriately.     A distance and time graph with a constant increasing graph starting at (0,0), and a linear graph that increases, then is constant, and ends increasing.    "
-},
-{
-  "id": "activities-8-6",
-  "level": "2",
-  "url": "activities-8.html#activities-8-6",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Use Linear Regression in Desmos to find the line of best fit for the data. Write the equation of the line in function notation.   "
-},
-{
-  "id": "activities-8-7",
-  "level": "2",
-  "url": "activities-8.html#activities-8-7",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  Use your model equation to predict the bounce height of a superball dropped from a height of 60 inches. Write a sentence to summarize your answer Test your prediction. Show your work.   "
-},
-{
   "id": "ws-a",
   "level": "1",
   "url": "ws-a.html",
@@ -401,7 +347,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ws-a.html#def-x1",
   "type": "Definition",
-  "number": "11",
+  "number": "9",
   "title": "",
   "body": "  Slope is the measure of the steepness and direction of a line. It is calculated as the ratio of the vertical change (\"rise\") to the horizontal change (\"run\") between any two distinct points on a line.   "
 },
@@ -410,7 +356,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ws-a.html#def-y1",
   "type": "Definition",
-  "number": "12",
+  "number": "10",
   "title": "",
   "body": "  An intercept is the point where a line or curve crosses or intersects an axis on a coordinate plane.   "
 },
@@ -446,7 +392,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ws-a.html#def-a",
   "type": "Definition",
-  "number": "13",
+  "number": "11",
   "title": "",
   "body": "  Function notation is a way to write a function using symbols that show the relationship between an input and an output. Notation:    — the name of the function.  — the input of the function (also called the independent variable).  — the output when is applied to the function.     "
 },
@@ -460,67 +406,184 @@ var ptx_lunr_docs = [
   "body": "  Using Function Notation on the Graph of .     Explain how you would use the graph to find .    Go to on the x-axis since we know that . Go up or down from there until you reach the line. The y-value at that point is your answer.      Use the graph to find .    The point where is . This tells us .      Explain how you would use the graph to find when .    Go to on the y-axis since we know that . Go left or right from there until you reach the line. The x-value at that point is your answer.      Use the graph to find when .    The point where is . This tells us when .    "
 },
 {
-  "id": "activities-10",
+  "id": "activities-9",
   "level": "1",
-  "url": "activities-10.html",
+  "url": "activities-9.html",
   "type": "Worksheet",
   "number": "",
   "title": "LT3-4:Linear Patterns and Equations",
   "body": " LT3-4:Linear Patterns and Equations  Beginning Algebra Made Useful by Char E. Beckman     What do you know about linear equations? Give brief answers now and think about these questions as you work on the problems below.    What patterns would you see in a table of data that can be modeled by a linear equation?    What patterns would you see in a graph of data that can be modeled by a linear equation?    How can you tell a graph can be modeled by a linear equation?    What would an equation of a linear equation look like?      Look at the three data sets below. Label each set of data as linear or non-linear. Explain your choice.         x  y    -5  14    -4  -12    -3  -10    -2  -8    -1  -6    0  -4    1  -2    2  0    3  2    4  4    5  6              x  y    -5  0.03125    -4  0.0625    -3  0.125    -2  0..25    -1  0.5    0  1    1  2    2  4    3  8    4  16    5  32              x  y    -5  25    -4  16    -3  9    -2  4    -1  1    0  0    1  1    2  4    3  9    4  16    5  25                 Three stories are provided. Gather data for each one. Label each set of data as linear or non-linear. Explain your choice. Do not worry about finding the equation for the non-linear     width=20% halign=\"center\"  width=20%   Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows 3 inches. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose doubles in length. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows from its previous length by the same number of inches as the number of lies he has told. For example, after 1 lie, his nose will be 2 + 1 = 3 inches long. After 2 lies, his nose will be 3 + 2 = 5 inches long. How long will his nose be after 3 lies? 4 lies? 5 lies? L lies?    No. Lines  Nose Length  No. Lies  Nose Length  No. Lies  Nose Length    0  2  0  2  0  2    1    1    1  2+1=3    2    2    2  3+2=5    3    3    3      4    4    4      5    5    5      L    L    L          Categorize each graph as linear or non-linear.     width=20% halign=\"center\"  width=20%   Graph A  Graph B  Graph C    increasing line graph   decreasing curve above the x-axis   parabola opens up                      Categorize each equation as linear or non-linear.     width=20% halign=\"center\"  width=20%   Equation 1  Equation 2  Equation 3                        Revisit problem 1. What can you add to your previous answers? Use the back of this page as needed.     What patterns would you see in a table of data that can be modeled by a linear equation? Can you find the equation of the linear data?      How can you tell a graph can be modeled by a linear equation? CAn you find the equation of the linear graph?      What would an equation of a linear equation look like?      How can you tell if a story is likely to be modeled by a linear equation? Can you find the equation of the linear story?      "
 },
 {
-  "id": "activities-10-3-1",
+  "id": "activities-9-3-1",
   "level": "2",
-  "url": "activities-10.html#activities-10-3-1",
+  "url": "activities-9.html#activities-9-3-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
   "body": "  What do you know about linear equations? Give brief answers now and think about these questions as you work on the problems below.    What patterns would you see in a table of data that can be modeled by a linear equation?    What patterns would you see in a graph of data that can be modeled by a linear equation?    How can you tell a graph can be modeled by a linear equation?    What would an equation of a linear equation look like?   "
 },
 {
-  "id": "activities-10-3-2",
+  "id": "activities-9-3-2",
   "level": "2",
-  "url": "activities-10.html#activities-10-3-2",
+  "url": "activities-9.html#activities-9-3-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
   "body": "  Look at the three data sets below. Label each set of data as linear or non-linear. Explain your choice.         x  y    -5  14    -4  -12    -3  -10    -2  -8    -1  -6    0  -4    1  -2    2  0    3  2    4  4    5  6              x  y    -5  0.03125    -4  0.0625    -3  0.125    -2  0..25    -1  0.5    0  1    1  2    2  4    3  8    4  16    5  32              x  y    -5  25    -4  16    -3  9    -2  4    -1  1    0  0    1  1    2  4    3  9    4  16    5  25            "
 },
 {
-  "id": "activities-10-4-1",
+  "id": "activities-9-4-1",
   "level": "2",
-  "url": "activities-10.html#activities-10-4-1",
+  "url": "activities-9.html#activities-9-4-1",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
   "body": "  Three stories are provided. Gather data for each one. Label each set of data as linear or non-linear. Explain your choice. Do not worry about finding the equation for the non-linear     width=20% halign=\"center\"  width=20%   Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows 3 inches. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose doubles in length. How long will his nose be after 1 lie? 2 lies? 3 lies? L lies?  Geppetto carved Pinocchio a 2-inch-long nose. Each time Pinocchio tells a lie, his nose grows from its previous length by the same number of inches as the number of lies he has told. For example, after 1 lie, his nose will be 2 + 1 = 3 inches long. After 2 lies, his nose will be 3 + 2 = 5 inches long. How long will his nose be after 3 lies? 4 lies? 5 lies? L lies?    No. Lines  Nose Length  No. Lies  Nose Length  No. Lies  Nose Length    0  2  0  2  0  2    1    1    1  2+1=3    2    2    2  3+2=5    3    3    3      4    4    4      5    5    5      L    L    L       "
 },
 {
-  "id": "activities-10-4-2",
+  "id": "activities-9-4-2",
   "level": "2",
-  "url": "activities-10.html#activities-10-4-2",
+  "url": "activities-9.html#activities-9-4-2",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
   "body": "  Categorize each graph as linear or non-linear.     width=20% halign=\"center\"  width=20%   Graph A  Graph B  Graph C    increasing line graph   decreasing curve above the x-axis   parabola opens up                 "
 },
 {
-  "id": "activities-10-5-1",
+  "id": "activities-9-5-1",
   "level": "2",
-  "url": "activities-10.html#activities-10-5-1",
+  "url": "activities-9.html#activities-9-5-1",
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
   "body": "  Categorize each equation as linear or non-linear.     width=20% halign=\"center\"  width=20%   Equation 1  Equation 2  Equation 3                     "
 },
 {
-  "id": "activities-10-5-2",
+  "id": "activities-9-5-2",
   "level": "2",
-  "url": "activities-10.html#activities-10-5-2",
+  "url": "activities-9.html#activities-9-5-2",
   "type": "Worksheet Exercise",
   "number": "6",
   "title": "",
   "body": "  Revisit problem 1. What can you add to your previous answers? Use the back of this page as needed.     What patterns would you see in a table of data that can be modeled by a linear equation? Can you find the equation of the linear data?      How can you tell a graph can be modeled by a linear equation? CAn you find the equation of the linear graph?      What would an equation of a linear equation look like?      How can you tell if a story is likely to be modeled by a linear equation? Can you find the equation of the linear story?    "
+},
+{
+  "id": "activities-10",
+  "level": "1",
+  "url": "activities-10.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 4:Linear Equations",
+  "body": " LT 4:Linear Equations    Find the equation of a table of linear data  Find the equation of a line parallel or perpendicular to a given line's graph.  Find the equation of a line given a point and slope.  Find the equation of a line given two points..      width=5% halign=\"center\"  width=50% halign=\"center\"   x  f(x)   x  g(x)   x  h(x)    -1  -15   0  9   3  -1    0  -9   1  5   6  1    1  -3   2  1   9  3    2  3   3  -3   12  5    3  9   4  -7   15  7        What do you notice about the inputs for each table individually?    The table has inputs that are all increasing by adding ; starting with . The table has inputs that all increase by adding ; starting with . The table has inputs that increase by adding ; starting with .        What do you notice about the outputs for each table individually?    The table has the outputs all increasing by adding ; starting with The table has the outputs all subtracting ; starting with . The table has the outputs all increasing by adding ; starting with         Which of the tables hae linear data? Explain your reasoning.    The table has inputs that are all increasing by adding , and the outputs are all increasing by adding . This constant addition makes the data linear. The table has inputs that all increase by adding and the outputs are all decreasing by subtracting . This constant addition\/subtraction makes the data linear. The table has inputs that increase by adding and outputs that increase by adding . Since both the inputs and outputs consistently are chaning the the same amounts, the data is linear.        What is the common difference for each table individually?    The table: since the inputs change by and outputs by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is .        Find the y-intercept for each table of data. If it does not exist in the table, explain how you found it.    The f(x) table has the point . The is always for a y-intercept. The g(x) table has the point . The is always for a y-intercept. The h(x) table does not have the y-intercept in it. If you go back , by subtracting (instead of adding to go forward), in the input column, you get . Going backward in the output column, you need to subtract , and find the . This means the y-intercept is .        If the data is linear, find the equation.    All of the equations are linear. To find the equation, we use the common ratio as our and the of the y-intercept as our .          Graph of f of x equals negative x plus 2 on coordinate axes ranging from -6 to 6.    f(x)=(-x+2)           Find the equation of the graphed line.     Given the line graphed above, how would you find the equation of the line?    First find the y-intercept.This tells us the of the equation. Next find the slope by using rise over run. Start with a point on the left. Go up (positive rise) or down(negative rise) to get across from the next point you want to use. Then go left (negative run) or right (positive run) until you are on the line. The fraction rise\/run is the of the equation.         Show your work to find the equation of the graphed line.    Using the y-intercept ad the point (1,1): The y-intercept is (0,2), so we know that . To find the slope, use rise over run. Start with a point on the left which is the y-intercept in this case. Go down(negative rise) to get across from the next point you want to use. We go down 1, so our rise is -1. Then go right (positive run) until you are on the line. We go to the right 1, so our run is +1. Rise\/run =          Find the equation of any line that is parallel to the graphed line.    We found the slope of the line to be 6. Parallel lines have the same slope but different y-intercepts. Answers will vary, but all equation need the same slope. One example: .         Find the equation of the line in slope-intercept form:      The line has a slope of and contains the point (4,6).    We are given , , . The equation is: .         The line contains the points (-3,6) and (3,-12)    First find the slope between the two lines. Next, choose either point to represent and to plug into the equation. We will use (-3,6)          The line contains the points (5, -2) and (5,1).    First find the slope between the two lines. Since the slope is undefined, we know it is a vertical line. . This is evident in the given points, since both points have the same x-value of 5.      "
+},
+{
+  "id": "activities-10-2",
+  "level": "2",
+  "url": "activities-10.html#activities-10-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Find the equation of a table of linear data  Find the equation of a line parallel or perpendicular to a given line's graph.  Find the equation of a line given a point and slope.  Find the equation of a line given two points..   "
+},
+{
+  "id": "activities-10-4-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-4-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  What do you notice about the inputs for each table individually?    The table has inputs that are all increasing by adding ; starting with . The table has inputs that all increase by adding ; starting with . The table has inputs that increase by adding ; starting with .   "
+},
+{
+  "id": "activities-10-5-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-5-1",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  What do you notice about the outputs for each table individually?    The table has the outputs all increasing by adding ; starting with The table has the outputs all subtracting ; starting with . The table has the outputs all increasing by adding ; starting with    "
+},
+{
+  "id": "activities-10-6-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-6-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Which of the tables hae linear data? Explain your reasoning.    The table has inputs that are all increasing by adding , and the outputs are all increasing by adding . This constant addition makes the data linear. The table has inputs that all increase by adding and the outputs are all decreasing by subtracting . This constant addition\/subtraction makes the data linear. The table has inputs that increase by adding and outputs that increase by adding . Since both the inputs and outputs consistently are chaning the the same amounts, the data is linear.   "
+},
+{
+  "id": "activities-10-7-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-7-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  What is the common difference for each table individually?    The table: since the inputs change by and outputs by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is .   "
+},
+{
+  "id": "activities-10-8-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-8-1",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Find the y-intercept for each table of data. If it does not exist in the table, explain how you found it.    The f(x) table has the point . The is always for a y-intercept. The g(x) table has the point . The is always for a y-intercept. The h(x) table does not have the y-intercept in it. If you go back , by subtracting (instead of adding to go forward), in the input column, you get . Going backward in the output column, you need to subtract , and find the . This means the y-intercept is .   "
+},
+{
+  "id": "activities-10-9-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-9-1",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  If the data is linear, find the equation.    All of the equations are linear. To find the equation, we use the common ratio as our and the of the y-intercept as our .      "
+},
+{
+  "id": "activities-10-10-2",
+  "level": "2",
+  "url": "activities-10.html#activities-10-10-2",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "  Find the equation of the graphed line.     Given the line graphed above, how would you find the equation of the line?    First find the y-intercept.This tells us the of the equation. Next find the slope by using rise over run. Start with a point on the left. Go up (positive rise) or down(negative rise) to get across from the next point you want to use. Then go left (negative run) or right (positive run) until you are on the line. The fraction rise\/run is the of the equation.    "
+},
+{
+  "id": "activities-10-12-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-12-1",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": "   Find the equation of any line that is parallel to the graphed line.    We found the slope of the line to be 6. Parallel lines have the same slope but different y-intercepts. Answers will vary, but all equation need the same slope. One example: .    "
+},
+{
+  "id": "activities-10-13-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-13-1",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": "  Find the equation of the line in slope-intercept form:      The line has a slope of and contains the point (4,6).    We are given , , . The equation is: .    "
+},
+{
+  "id": "activities-10-14-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-14-1",
+  "type": "Worksheet Exercise",
+  "number": "10",
+  "title": "",
+  "body": "  The line contains the points (-3,6) and (3,-12)    First find the slope between the two lines. Next, choose either point to represent and to plug into the equation. We will use (-3,6)     "
+},
+{
+  "id": "activities-10-15-1",
+  "level": "2",
+  "url": "activities-10.html#activities-10-15-1",
+  "type": "Worksheet Exercise",
+  "number": "11",
+  "title": "",
+  "body": "  The line contains the points (5, -2) and (5,1).    First find the slope between the two lines. Since the slope is undefined, we know it is a vertical line. . This is evident in the given points, since both points have the same x-value of 5.    "
 },
 {
   "id": "activities-11",
@@ -528,116 +591,17 @@ var ptx_lunr_docs = [
   "url": "activities-11.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 4:Linear Equations",
-  "body": " LT 4:Linear Equations    Find the equation of a table of linear data  Find the equation of a line parallel or perpendicular to a given line's graph.  Find the equation of a line given a point and slope.  Find the equation of a line given two points..      width=5% halign=\"center\"  width=50% halign=\"center\"   x  f(x)   x  g(x)   x  h(x)    -1  -15   0  9   3  -1    0  -9   1  5   6  1    1  -3   2  1   9  3    2  3   3  -3   12  5    3  9   4  -7   15  7        What do you notice about the inputs for each table individually?    The table has inputs that are all increasing by adding ; starting with . The table has inputs that all increase by adding ; starting with . The table has inputs that increase by adding ; starting with .        What do you notice about the outputs for each table individually?    The table has the outputs all increasing by adding ; starting with The table has the outputs all subtracting ; starting with . The table has the outputs all increasing by adding ; starting with         Which of the tables hae linear data? Explain your reasoning.    The table has inputs that are all increasing by adding , and the outputs are all increasing by adding . This constant addition makes the data linear. The table has inputs that all increase by adding and the outputs are all decreasing by subtracting . This constant addition\/subtraction makes the data linear. The table has inputs that increase by adding and outputs that increase by adding . Since both the inputs and outputs consistently are chaning the the same amounts, the data is linear.        What is the common difference for each table individually?    The table: since the inputs change by and outputs by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is .        Find the y-intercept for each table of data. If it does not exist in the table, explain how you found it.    The f(x) table has the point . The is always for a y-intercept. The g(x) table has the point . The is always for a y-intercept. The h(x) table does not have the y-intercept in it. If you go back , by subtracting (instead of adding to go forward), in the input column, you get . Going backward in the output column, you need to subtract , and find the . This means the y-intercept is .        If the data is linear, find the equation.    All of the equations are linear. To find the equation, we use the common ratio as our and the of the y-intercept as our .          Graph of f of x equals negative x plus 2 on coordinate axes ranging from -6 to 6.    f(x)=(-x+2)           Find the equation of the graphed line.     Given the line graphed above, how would you find the equation of the line?    First find the y-intercept.This tells us the of the equation. Next find the slope by using rise over run. Start with a point on the left. Go up (positive rise) or down(negative rise) to get across from the next point you want to use. Then go left (negative run) or right (positive run) until you are on the line. The fraction rise\/run is the of the equation.         Show your work to find the equation of the graphed line.    Using the y-intercept ad the point (1,1): The y-intercept is (0,2), so we know that . To find the slope, use rise over run. Start with a point on the left which is the y-intercept in this case. Go down(negative rise) to get across from the next point you want to use. We go down 1, so our rise is -1. Then go right (positive run) until you are on the line. We go to the right 1, so our run is +1. Rise\/run =          Find the equation of any line that is parallel to the graphed line.    We found the slope of the line to be 6. Parallel lines have the same slope but different y-intercepts. Answers will vary, but all equation need the same slope. One example: .         Find the equation of the line in slope-intercept form:      The line has a slope of and contains the point (4,6).    We are given , , . The equation is: .         The line contains the points (-3,6) and (3,-12)    First find the slope between the two lines. Next, choose either point to represent and to plug into the equation. We will use (-3,6)          The line contains the points (5, -2) and (5,1).    First find the slope between the two lines. Since the slope is undefined, we know it is a vertical line. . This is evident in the given points, since both points have the same x-value of 5.      "
+  "title": "LT 3 Linear Characteristics",
+  "body": " LT 3 Linear Characteristics    For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.            Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation           (-3,6), (3, -12)            (-5,-4), (2, 3)             A line contains the point (2,6) and is parallel to the line .           f(x)=-0.75*x+1.5               linear graph with negative slope \/>              "
 },
 {
   "id": "activities-11-2",
   "level": "2",
   "url": "activities-11.html#activities-11-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "  Find the equation of a table of linear data  Find the equation of a line parallel or perpendicular to a given line's graph.  Find the equation of a line given a point and slope.  Find the equation of a line given two points..   "
-},
-{
-  "id": "activities-11-4-1",
-  "level": "2",
-  "url": "activities-11.html#activities-11-4-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  What do you notice about the inputs for each table individually?    The table has inputs that are all increasing by adding ; starting with . The table has inputs that all increase by adding ; starting with . The table has inputs that increase by adding ; starting with .   "
-},
-{
-  "id": "activities-11-5-1",
-  "level": "2",
-  "url": "activities-11.html#activities-11-5-1",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  What do you notice about the outputs for each table individually?    The table has the outputs all increasing by adding ; starting with The table has the outputs all subtracting ; starting with . The table has the outputs all increasing by adding ; starting with    "
-},
-{
-  "id": "activities-11-6-1",
-  "level": "2",
-  "url": "activities-11.html#activities-11-6-1",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Which of the tables hae linear data? Explain your reasoning.    The table has inputs that are all increasing by adding , and the outputs are all increasing by adding . This constant addition makes the data linear. The table has inputs that all increase by adding and the outputs are all decreasing by subtracting . This constant addition\/subtraction makes the data linear. The table has inputs that increase by adding and outputs that increase by adding . Since both the inputs and outputs consistently are chaning the the same amounts, the data is linear.   "
-},
-{
-  "id": "activities-11-7-1",
-  "level": "2",
-  "url": "activities-11.html#activities-11-7-1",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  What is the common difference for each table individually?    The table: since the inputs change by and outputs by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is . The table: since the inputs change by and the outputs change by , the common difference is .   "
-},
-{
-  "id": "activities-11-8-1",
-  "level": "2",
-  "url": "activities-11.html#activities-11-8-1",
-  "type": "Worksheet Exercise",
-  "number": "5",
-  "title": "",
-  "body": "  Find the y-intercept for each table of data. If it does not exist in the table, explain how you found it.    The f(x) table has the point . The is always for a y-intercept. The g(x) table has the point . The is always for a y-intercept. The h(x) table does not have the y-intercept in it. If you go back , by subtracting (instead of adding to go forward), in the input column, you get . Going backward in the output column, you need to subtract , and find the . This means the y-intercept is .   "
-},
-{
-  "id": "activities-11-9-1",
-  "level": "2",
-  "url": "activities-11.html#activities-11-9-1",
-  "type": "Worksheet Exercise",
-  "number": "6",
-  "title": "",
-  "body": "  If the data is linear, find the equation.    All of the equations are linear. To find the equation, we use the common ratio as our and the of the y-intercept as our .      "
-},
-{
-  "id": "activities-11-10-2",
-  "level": "2",
-  "url": "activities-11.html#activities-11-10-2",
-  "type": "Worksheet Exercise",
-  "number": "7",
-  "title": "",
-  "body": "  Find the equation of the graphed line.     Given the line graphed above, how would you find the equation of the line?    First find the y-intercept.This tells us the of the equation. Next find the slope by using rise over run. Start with a point on the left. Go up (positive rise) or down(negative rise) to get across from the next point you want to use. Then go left (negative run) or right (positive run) until you are on the line. The fraction rise\/run is the of the equation.    "
-},
-{
-  "id": "activities-11-12-1",
-  "level": "2",
-  "url": "activities-11.html#activities-11-12-1",
-  "type": "Worksheet Exercise",
-  "number": "8",
-  "title": "",
-  "body": "   Find the equation of any line that is parallel to the graphed line.    We found the slope of the line to be 6. Parallel lines have the same slope but different y-intercepts. Answers will vary, but all equation need the same slope. One example: .    "
-},
-{
-  "id": "activities-11-13-1",
-  "level": "2",
-  "url": "activities-11.html#activities-11-13-1",
-  "type": "Worksheet Exercise",
-  "number": "9",
-  "title": "",
-  "body": "  Find the equation of the line in slope-intercept form:      The line has a slope of and contains the point (4,6).    We are given , , . The equation is: .    "
-},
-{
-  "id": "activities-11-14-1",
-  "level": "2",
-  "url": "activities-11.html#activities-11-14-1",
-  "type": "Worksheet Exercise",
-  "number": "10",
-  "title": "",
-  "body": "  The line contains the points (-3,6) and (3,-12)    First find the slope between the two lines. Next, choose either point to represent and to plug into the equation. We will use (-3,6)     "
-},
-{
-  "id": "activities-11-15-1",
-  "level": "2",
-  "url": "activities-11.html#activities-11-15-1",
-  "type": "Worksheet Exercise",
-  "number": "11",
-  "title": "",
-  "body": "  The line contains the points (5, -2) and (5,1).    First find the slope between the two lines. Since the slope is undefined, we know it is a vertical line. . This is evident in the given points, since both points have the same x-value of 5.    "
+  "body": "  For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.            Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation           (-3,6), (3, -12)            (-5,-4), (2, 3)             A line contains the point (2,6) and is parallel to the line .           f(x)=-0.75*x+1.5               linear graph with negative slope \/>             "
 },
 {
   "id": "activities-12",
@@ -645,17 +609,35 @@ var ptx_lunr_docs = [
   "url": "activities-12.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 4Linear Characteristics",
-  "body": " LT 4Linear Characteristics    For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.            Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation           (-3,6), (3, -12)            (-5,-4), (2, 3)             A line contains the point (2,6) and is parallel to the line .           f(x)=-0.75*x+1.5               linear graph with negative slope \/>              "
+  "title": "LT 4 Slope and Y-intercept Discovery",
+  "body": " LT 4 Slope and Y-intercept Discovery  Go to Desmos and type in the equations and . Click on \"all\" sliders.    Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?       Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?      What do you notice when the slope is close to zero on the right side?.....left side?      What do you notice when the slope is farther from zero on the right side (very large)...the left side (very small)?       Consider the next several questions. Each equation contains a three (3). Discuss with your group ho the 3 of the equation will affect the graph of . Do not graph before making your decision.        The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]     "
 },
 {
-  "id": "activities-12-2",
+  "id": "activities-12-3",
   "level": "2",
-  "url": "activities-12.html#activities-12-2",
+  "url": "activities-12.html#activities-12-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.            Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation           (-3,6), (3, -12)            (-5,-4), (2, 3)             A line contains the point (2,6) and is parallel to the line .           f(x)=-0.75*x+1.5               linear graph with negative slope \/>             "
+  "body": "  Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?    "
+},
+{
+  "id": "activities-12-4",
+  "level": "2",
+  "url": "activities-12.html#activities-12-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?      What do you notice when the slope is close to zero on the right side?.....left side?      What do you notice when the slope is farther from zero on the right side (very large)...the left side (very small)?    "
+},
+{
+  "id": "activities-12-5",
+  "level": "2",
+  "url": "activities-12.html#activities-12-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Consider the next several questions. Each equation contains a three (3). Discuss with your group ho the 3 of the equation will affect the graph of . Do not graph before making your decision.        The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]    "
 },
 {
   "id": "activities-13",
@@ -663,35 +645,89 @@ var ptx_lunr_docs = [
   "url": "activities-13.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 4 Slope and Y-intercept Discovery",
-  "body": " LT 4 Slope and Y-intercept Discovery  Go to Desmos and type in the equations and . Click on \"all\" sliders.    Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?       Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?      What do you notice when the slope is close to zero on the right side?.....left side?      What do you notice when the slope is farther from zero on the right side (very large)...the left side (very small)?       Consider the next several questions. Each equation contains a three (3). Discuss with your group ho the 3 of the equation will affect the graph of . Do not graph before making your decision.        The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]     "
+  "title": "LT 5 Linear Wedding Scenarios",
+  "body": " LT 5 Linear Wedding Scenarios     Recognize the slope and y-intercept of a word situation    Graph a word situation    Find an equation from a word situation.       width=50% halign=\"center\"  width=50%   Guests  Cost Wedding-R-Us  Guests  Cost Picture Perfect  Guests  Cost Wedding Place    0  7,000  0  0  0  10,000    50  10,250  50  6,250  50  12,500    100  13,500  100  12,500  100  15,000    150  16,750  150  18,750  150  17,500    200  20,000  200  25,000  200  20,000    250  23,250  250  31,250  250  22,500    300  26,500  300  37,500  300  25,000      Look at the tables above. What is similar and different about them?    You recently had the best day of your life and got engaged! Now comes the hard part, planning our wedding. You and your finance` went and toured three different venues that you absolutely loved! Each venue gave you the price sheets shown below and assured you that their costs are linear. Look at the tables above. What is similar and different about them?      Plot all three data sets on the same graph. Use different colors or symbols for each venue.    graph grid labeled guests on the horizontal axis and cost on the vertical axis range -50 50000               You want to have 350 guests at your wedding. Follow the pattern to find the cost at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place       Write a general rule in words explaining how to find the cost at each of the three venues for any number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place       Let be the total cost of the wedding and be the number of guests attending the wedding. Finish the formula for each of the three wedding venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place         Compare the numbers in your formulas from (5) and the graph you drew in (2). Explain how the numbers compare to the graph.      Your friends Maria and Julio are looking for wedding venues as well. They plan to have 1000 people at their wedding, Use your formulas from (5) to find the cost for their wedding at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place       For each of the cost formulas you found in (5), state what the slope is with its meaning, and the y-intercept with its meaning; both in the context of the cost of the venues and the number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place      "
 },
 {
-  "id": "activities-13-3",
+  "id": "activities-13-2",
   "level": "2",
-  "url": "activities-13.html#activities-13-3",
+  "url": "activities-13.html#activities-13-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Recognize the slope and y-intercept of a word situation    Graph a word situation    Find an equation from a word situation.    "
+},
+{
+  "id": "activities-13-3-2",
+  "level": "2",
+  "url": "activities-13.html#activities-13-3-2",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?    "
+  "body": "  Look at the tables above. What is similar and different about them?    You recently had the best day of your life and got engaged! Now comes the hard part, planning our wedding. You and your finance` went and toured three different venues that you absolutely loved! Each venue gave you the price sheets shown below and assured you that their costs are linear. Look at the tables above. What is similar and different about them?   "
 },
 {
-  "id": "activities-13-4",
+  "id": "activities-13-3-3",
   "level": "2",
-  "url": "activities-13.html#activities-13-4",
+  "url": "activities-13.html#activities-13-3-3",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Let . Move the slider, make observations, and answer the following questions.     What do you notice when       What do you notice when ?      What do you notice when is less than 0?      What do you notice when the slope is close to zero on the right side?.....left side?      What do you notice when the slope is farther from zero on the right side (very large)...the left side (very small)?    "
+  "body": "  Plot all three data sets on the same graph. Use different colors or symbols for each venue.    graph grid labeled guests on the horizontal axis and cost on the vertical axis range -50 50000          "
 },
 {
-  "id": "activities-13-5",
+  "id": "activities-13-4-1",
   "level": "2",
-  "url": "activities-13.html#activities-13-5",
+  "url": "activities-13.html#activities-13-4-1",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Consider the next several questions. Each equation contains a three (3). Discuss with your group ho the 3 of the equation will affect the graph of . Do not graph before making your decision.        The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]         The slope changes from 1 to 3 so the line is steeper. The output values will be 3 times what they were before. The x and y intercepts stay the same (0,0).  The slope is the same; all output values are three less than they were on the line y = x. The graph will be 3 units down and parallel to the graph of y=x. [i.e. (0,0) becomes (0, -3)]  The slope is the same; all output values are three more than they were on the line y = x. The graph will be 3 units up and parallel to the graph of y=x. [i.e. (0,0) becomes (0, 3)]    "
+  "body": "  You want to have 350 guests at your wedding. Follow the pattern to find the cost at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
+},
+{
+  "id": "activities-13-4-2",
+  "level": "2",
+  "url": "activities-13.html#activities-13-4-2",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Write a general rule in words explaining how to find the cost at each of the three venues for any number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
+},
+{
+  "id": "activities-13-4-3",
+  "level": "2",
+  "url": "activities-13.html#activities-13-4-3",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Let be the total cost of the wedding and be the number of guests attending the wedding. Finish the formula for each of the three wedding venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
+},
+{
+  "id": "activities-13-5-1",
+  "level": "2",
+  "url": "activities-13.html#activities-13-5-1",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  Compare the numbers in your formulas from (5) and the graph you drew in (2). Explain how the numbers compare to the graph.   "
+},
+{
+  "id": "activities-13-5-2",
+  "level": "2",
+  "url": "activities-13.html#activities-13-5-2",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "  Your friends Maria and Julio are looking for wedding venues as well. They plan to have 1000 people at their wedding, Use your formulas from (5) to find the cost for their wedding at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
+},
+{
+  "id": "activities-13-5-3",
+  "level": "2",
+  "url": "activities-13.html#activities-13-5-3",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": "  For each of the cost formulas you found in (5), state what the slope is with its meaning, and the y-intercept with its meaning; both in the context of the cost of the venues and the number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
 },
 {
   "id": "activities-14",
@@ -699,8 +735,8 @@ var ptx_lunr_docs = [
   "url": "activities-14.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 5 Linear Wedding Scenarios",
-  "body": " LT 5 Linear Wedding Scenarios     Recognize the slope and y-intercept of a word situation    Graph a word situation    Find an equation from a word situation.       width=50% halign=\"center\"  width=50%   Guests  Cost Wedding-R-Us  Guests  Cost Picture Perfect  Guests  Cost Wedding Place    0  7,000  0  0  0  10,000    50  10,250  50  6,250  50  12,500    100  13,500  100  12,500  100  15,000    150  16,750  150  18,750  150  17,500    200  20,000  200  25,000  200  20,000    250  23,250  250  31,250  250  22,500    300  26,500  300  37,500  300  25,000      Look at the tables above. What is similar and different about them?    You recently had the best day of your life and got engaged! Now comes the hard part, planning our wedding. You and your finance` went and toured three different venues that you absolutely loved! Each venue gave you the price sheets shown below and assured you that their costs are linear. Look at the tables above. What is similar and different about them?      Plot all three data sets on the same graph. Use different colors or symbols for each venue.    graph grid labeled guests on the horizontal axis and cost on the vertical axis range -50 50000               You want to have 350 guests at your wedding. Follow the pattern to find the cost at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place       Write a general rule in words explaining how to find the cost at each of the three venues for any number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place       Let be the total cost of the wedding and be the number of guests attending the wedding. Finish the formula for each of the three wedding venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place         Compare the numbers in your formulas from (5) and the graph you drew in (2). Explain how the numbers compare to the graph.      Your friends Maria and Julio are looking for wedding venues as well. They plan to have 1000 people at their wedding, Use your formulas from (5) to find the cost for their wedding at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place       For each of the cost formulas you found in (5), state what the slope is with its meaning, and the y-intercept with its meaning; both in the context of the cost of the venues and the number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place      "
+  "title": "LT 5 Vacation Plan: Budgeting a Trip from Grand Rapids, MI to San Francisco, CA",
+  "body": " LT 5 Vacation Plan: Budgeting a Trip from Grand Rapids, MI to San Francisco, CA    To think through the budgetary implications of a vacation  To make a budget plan with rational spending decisions     You and your group partners are going on this trip. The objective of this activity is to determine the per-person cost of this trip.    Tme and Distance: What do you need to consider when making your decision?    How much time do you have for this trip? For consistency we will say ____ week(s)      How far is it from Grand Rapids, MI to San Francisco, CA?     Transportation Options:   Compare the transportation options below:       Renting A Car  Driving Your Car  Flying Round Trip    $       $       $             Other Driving Expenses to consider:    How much does gas average across the country?      Will you be stopping along the way? Where? What is the expense? List each separately with its cost.      Flying: How much does a round trip flight from Grand Rapids, MI to San Francisco, CA cost    Non-Stop?      One Layover?      Lodging    Will you be staying in a hotel in San Fransico or with a friend?      How will your choice above affect the expense you previously found?      Other Expense Considerations    Will you be splitting costs? How will this affect any of the amounts previously found? Be specific.      What other expenses will you have to consider? (Food, entertainment, etc.)      Making the Plan   Now that you have all of the information, make a plan for your trip. Be sure to show all calculation in the space provided. List each expense with the per person cost.  You will be creating a report with all expenses given and a rationale for why this is the trip you would choose.  You will create Plan A and Plan B.  Plan A     Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan A.      Plan B    Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan B.       What difference would it make if you flew out to San Francico and rented a car to return to Grand Rapids? List the expenses and total cost.     Now that you have considered the options, make a recommendation for the trip you would take. Be sure to include the total cost per person and a rationale for your choice.   "
 },
 {
   "id": "activities-14-2",
@@ -709,79 +745,88 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   Recognize the slope and y-intercept of a word situation    Graph a word situation    Find an equation from a word situation.    "
+  "body": "  To think through the budgetary implications of a vacation  To make a budget plan with rational spending decisions   "
 },
 {
-  "id": "activities-14-3-2",
+  "id": "activities-14-4",
   "level": "2",
-  "url": "activities-14.html#activities-14-3-2",
+  "url": "activities-14.html#activities-14-4",
   "type": "Worksheet Exercise",
   "number": "1",
-  "title": "",
-  "body": "  Look at the tables above. What is similar and different about them?    You recently had the best day of your life and got engaged! Now comes the hard part, planning our wedding. You and your finance` went and toured three different venues that you absolutely loved! Each venue gave you the price sheets shown below and assured you that their costs are linear. Look at the tables above. What is similar and different about them?   "
+  "title": "Tme and Distance: What do you need to consider when making your decision?",
+  "body": " Tme and Distance: What do you need to consider when making your decision?    How much time do you have for this trip? For consistency we will say ____ week(s)      How far is it from Grand Rapids, MI to San Francisco, CA?     Transportation Options:   Compare the transportation options below:       Renting A Car  Driving Your Car  Flying Round Trip    $       $       $           "
 },
 {
-  "id": "activities-14-3-3",
+  "id": "activities-14-5",
   "level": "2",
-  "url": "activities-14.html#activities-14-3-3",
+  "url": "activities-14.html#activities-14-5",
   "type": "Worksheet Exercise",
   "number": "2",
-  "title": "",
-  "body": "  Plot all three data sets on the same graph. Use different colors or symbols for each venue.    graph grid labeled guests on the horizontal axis and cost on the vertical axis range -50 50000          "
+  "title": "Other Driving Expenses to consider:.",
+  "body": " Other Driving Expenses to consider:    How much does gas average across the country?      Will you be stopping along the way? Where? What is the expense? List each separately with its cost.    "
 },
 {
-  "id": "activities-14-4-1",
+  "id": "activities-14-6",
   "level": "2",
-  "url": "activities-14.html#activities-14-4-1",
+  "url": "activities-14.html#activities-14-6",
   "type": "Worksheet Exercise",
   "number": "3",
-  "title": "",
-  "body": "  You want to have 350 guests at your wedding. Follow the pattern to find the cost at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
+  "title": "Flying: How much does a round trip flight from Grand Rapids, MI to San Francisco, CA cost.",
+  "body": " Flying: How much does a round trip flight from Grand Rapids, MI to San Francisco, CA cost    Non-Stop?      One Layover?    "
 },
 {
-  "id": "activities-14-4-2",
+  "id": "activities-14-7",
   "level": "2",
-  "url": "activities-14.html#activities-14-4-2",
+  "url": "activities-14.html#activities-14-7",
   "type": "Worksheet Exercise",
   "number": "4",
-  "title": "",
-  "body": "  Write a general rule in words explaining how to find the cost at each of the three venues for any number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
+  "title": "Lodging.",
+  "body": " Lodging    Will you be staying in a hotel in San Fransico or with a friend?      How will your choice above affect the expense you previously found?    "
 },
 {
-  "id": "activities-14-4-3",
+  "id": "activities-14-8",
   "level": "2",
-  "url": "activities-14.html#activities-14-4-3",
+  "url": "activities-14.html#activities-14-8",
   "type": "Worksheet Exercise",
   "number": "5",
-  "title": "",
-  "body": "  Let be the total cost of the wedding and be the number of guests attending the wedding. Finish the formula for each of the three wedding venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
+  "title": "Other Expense Considerations.",
+  "body": " Other Expense Considerations    Will you be splitting costs? How will this affect any of the amounts previously found? Be specific.      What other expenses will you have to consider? (Food, entertainment, etc.)    "
 },
 {
-  "id": "activities-14-5-1",
+  "id": "activities-14-9",
   "level": "2",
-  "url": "activities-14.html#activities-14-5-1",
+  "url": "activities-14.html#activities-14-9",
   "type": "Worksheet Exercise",
   "number": "6",
-  "title": "",
-  "body": "  Compare the numbers in your formulas from (5) and the graph you drew in (2). Explain how the numbers compare to the graph.   "
+  "title": "Making the Plan.",
+  "body": " Making the Plan   Now that you have all of the information, make a plan for your trip. Be sure to show all calculation in the space provided. List each expense with the per person cost.  You will be creating a report with all expenses given and a rationale for why this is the trip you would choose.  You will create Plan A and Plan B.  Plan A     Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan A.    "
 },
 {
-  "id": "activities-14-5-2",
+  "id": "activities-14-10",
   "level": "2",
-  "url": "activities-14.html#activities-14-5-2",
+  "url": "activities-14.html#activities-14-10",
   "type": "Worksheet Exercise",
   "number": "7",
-  "title": "",
-  "body": "  Your friends Maria and Julio are looking for wedding venues as well. They plan to have 1000 people at their wedding, Use your formulas from (5) to find the cost for their wedding at each of the three venues.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
+  "title": "Plan B.",
+  "body": " Plan B    Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan B.    "
 },
 {
-  "id": "activities-14-5-3",
+  "id": "activities-14-11",
   "level": "2",
-  "url": "activities-14.html#activities-14-5-3",
+  "url": "activities-14.html#activities-14-11",
   "type": "Worksheet Exercise",
   "number": "8",
   "title": "",
-  "body": "  For each of the cost formulas you found in (5), state what the slope is with its meaning, and the y-intercept with its meaning; both in the context of the cost of the venues and the number of guests.    width=45% halign=\"center\"  width=55%   Wedding-R-Us  Picture Perfect  Wedding Place    "
+  "body": "  What difference would it make if you flew out to San Francico and rented a car to return to Grand Rapids? List the expenses and total cost.   "
+},
+{
+  "id": "activities-14-12",
+  "level": "2",
+  "url": "activities-14.html#activities-14-12",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": " Now that you have considered the options, make a recommendation for the trip you would take. Be sure to include the total cost per person and a rationale for your choice.  "
 },
 {
   "id": "activities-15",
@@ -789,17 +834,17 @@ var ptx_lunr_docs = [
   "url": "activities-15.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 5 Vacation Plan: Budgeting a Trip from Grand Rapids, MI to San Francisco, CA",
-  "body": " LT 5 Vacation Plan: Budgeting a Trip from Grand Rapids, MI to San Francisco, CA    To think through the budgetary implications of a vacation  To make a budget plan with rational spending decisions     You and your group partners are going on this trip. The objective of this activity is to determine the per-person cost of this trip.    Tme and Distance: What do you need to consider when making your decision?    How much time do you have for this trip? For consistency we will say ____ week(s)      How far is it from Grand Rapids, MI to San Francisco, CA?     Transportation Options:   Compare the transportation options below:       Renting A Car  Driving Your Car  Flying Round Trip    $       $       $             Other Driving Expenses to consider:    How much does gas average across the country?      Will you be stopping along the way? Where? What is the expense? List each separately with its cost.      Flying: How much does a round trip flight from Grand Rapids, MI to San Francisco, CA cost    Non-Stop?      One Layover?      Lodging    Will you be staying in a hotel in San Fransico or with a friend?      How will your choice above affect the expense you previously found?      Other Expense Considerations    Will you be splitting costs? How will this affect any of the amounts previously found? Be specific.      What other expenses will you have to consider? (Food, entertainment, etc.)      Making the Plan   Now that you have all of the information, make a plan for your trip. Be sure to show all calculation in the space provided. List each expense with the per person cost.  You will be creating a report with all expenses given and a rationale for why this is the trip you would choose.  You will create Plan A and Plan B.  Plan A     Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan A.      Plan B    Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan B.       What difference would it make if you flew out to San Francico and rented a car to return to Grand Rapids? List the expenses and total cost.     Now that you have considered the options, make a recommendation for the trip you would take. Be sure to include the total cost per person and a rationale for your choice.   "
+  "title": "LT 6 Superball Patterns",
+  "body": " LT 6 Superball Patterns  In this activity, students will explore the patterns of a superball bouncing and analyze the height of each bounce.   Function notation is a shorthand way to represent a function using the symbol f(x) to denote the output of the function f when the input is x.    In this you will be measuring the bounce height of a superball and recording the data to analyze the pattern of the bounces.   One person will drop a superball from designated heights, and another person will record the height of each bounce. Record your data in the table below.   width=60% halign=\"center\"  width=70%   Drop Height (inches)  Bounce Height (inches)    48     36     24     12     6         Let represent the initial height and represent the bounce height. Use Desmos to ckreate a scattergram of the data. Make a round sketch of the scattergram of the data on the graph provided Label the axes appropriately.     A distance and time graph with a constant increasing graph starting at (0,0), and a linear graph that increases, then is constant, and ends increasing.       Use Linear Regression in Desmos to find the line of best fit for the data. Write the equation of the line in function notation.      Use your model equation to predict the bounce height of a superball dropped from a height of 60 inches. Write a sentence to summarize your answer Test your prediction. Show your work.    "
 },
 {
-  "id": "activities-15-2",
+  "id": "activities-15-3",
   "level": "2",
-  "url": "activities-15.html#activities-15-2",
-  "type": "Objectives",
-  "number": "",
+  "url": "activities-15.html#activities-15-3",
+  "type": "Definition",
+  "number": "12",
   "title": "",
-  "body": "  To think through the budgetary implications of a vacation  To make a budget plan with rational spending decisions   "
+  "body": " Function notation is a shorthand way to represent a function using the symbol f(x) to denote the output of the function f when the input is x.  "
 },
 {
   "id": "activities-15-4",
@@ -807,8 +852,8 @@ var ptx_lunr_docs = [
   "url": "activities-15.html#activities-15-4",
   "type": "Worksheet Exercise",
   "number": "1",
-  "title": "Tme and Distance: What do you need to consider when making your decision?",
-  "body": " Tme and Distance: What do you need to consider when making your decision?    How much time do you have for this trip? For consistency we will say ____ week(s)      How far is it from Grand Rapids, MI to San Francisco, CA?     Transportation Options:   Compare the transportation options below:       Renting A Car  Driving Your Car  Flying Round Trip    $       $       $           "
+  "title": "",
+  "body": " In this you will be measuring the bounce height of a superball and recording the data to analyze the pattern of the bounces.   One person will drop a superball from designated heights, and another person will record the height of each bounce. Record your data in the table below.   width=60% halign=\"center\"  width=70%   Drop Height (inches)  Bounce Height (inches)    48     36     24     12     6      "
 },
 {
   "id": "activities-15-5",
@@ -816,8 +861,8 @@ var ptx_lunr_docs = [
   "url": "activities-15.html#activities-15-5",
   "type": "Worksheet Exercise",
   "number": "2",
-  "title": "Other Driving Expenses to consider:.",
-  "body": " Other Driving Expenses to consider:    How much does gas average across the country?      Will you be stopping along the way? Where? What is the expense? List each separately with its cost.    "
+  "title": "",
+  "body": "  Let represent the initial height and represent the bounce height. Use Desmos to ckreate a scattergram of the data. Make a round sketch of the scattergram of the data on the graph provided Label the axes appropriately.     A distance and time graph with a constant increasing graph starting at (0,0), and a linear graph that increases, then is constant, and ends increasing.    "
 },
 {
   "id": "activities-15-6",
@@ -825,8 +870,8 @@ var ptx_lunr_docs = [
   "url": "activities-15.html#activities-15-6",
   "type": "Worksheet Exercise",
   "number": "3",
-  "title": "Flying: How much does a round trip flight from Grand Rapids, MI to San Francisco, CA cost.",
-  "body": " Flying: How much does a round trip flight from Grand Rapids, MI to San Francisco, CA cost    Non-Stop?      One Layover?    "
+  "title": "",
+  "body": "  Use Linear Regression in Desmos to find the line of best fit for the data. Write the equation of the line in function notation.   "
 },
 {
   "id": "activities-15-7",
@@ -834,53 +879,8 @@ var ptx_lunr_docs = [
   "url": "activities-15.html#activities-15-7",
   "type": "Worksheet Exercise",
   "number": "4",
-  "title": "Lodging.",
-  "body": " Lodging    Will you be staying in a hotel in San Fransico or with a friend?      How will your choice above affect the expense you previously found?    "
-},
-{
-  "id": "activities-15-8",
-  "level": "2",
-  "url": "activities-15.html#activities-15-8",
-  "type": "Worksheet Exercise",
-  "number": "5",
-  "title": "Other Expense Considerations.",
-  "body": " Other Expense Considerations    Will you be splitting costs? How will this affect any of the amounts previously found? Be specific.      What other expenses will you have to consider? (Food, entertainment, etc.)    "
-},
-{
-  "id": "activities-15-9",
-  "level": "2",
-  "url": "activities-15.html#activities-15-9",
-  "type": "Worksheet Exercise",
-  "number": "6",
-  "title": "Making the Plan.",
-  "body": " Making the Plan   Now that you have all of the information, make a plan for your trip. Be sure to show all calculation in the space provided. List each expense with the per person cost.  You will be creating a report with all expenses given and a rationale for why this is the trip you would choose.  You will create Plan A and Plan B.  Plan A     Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan A.    "
-},
-{
-  "id": "activities-15-10",
-  "level": "2",
-  "url": "activities-15.html#activities-15-10",
-  "type": "Worksheet Exercise",
-  "number": "7",
-  "title": "Plan B.",
-  "body": " Plan B    Transpotation Costs:(List them separately if more than one.))      Lodging Costs (List them separately if more than one location)      Food Cost (give a per-person total here)      Fun Costs (List the estimates separately)      Total Cost per Person $________________________      Rationale for Plan B.    "
-},
-{
-  "id": "activities-15-11",
-  "level": "2",
-  "url": "activities-15.html#activities-15-11",
-  "type": "Worksheet Exercise",
-  "number": "8",
   "title": "",
-  "body": "  What difference would it make if you flew out to San Francico and rented a car to return to Grand Rapids? List the expenses and total cost.   "
-},
-{
-  "id": "activities-15-12",
-  "level": "2",
-  "url": "activities-15.html#activities-15-12",
-  "type": "Worksheet Exercise",
-  "number": "9",
-  "title": "",
-  "body": " Now that you have considered the options, make a recommendation for the trip you would take. Be sure to include the total cost per person and a rationale for your choice.  "
+  "body": "  Use your model equation to predict the bounce height of a superball dropped from a height of 60 inches. Write a sentence to summarize your answer Test your prediction. Show your work.   "
 },
 {
   "id": "activities-16",
