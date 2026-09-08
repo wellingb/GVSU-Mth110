@@ -99,9 +99,7 @@
   </row>
 </tabular>
 </sidebyside>
-</page>
-<page>
-   <exercise>
+   <exercise workspace="0.01in">
     <statement>
       <p>
        What do you notice about the inputs for each table individually?
@@ -115,9 +113,8 @@
       </p>
     </answer>
 </exercise>
-</page>
-<page>
-  <exercise>
+
+  <exercise workspace="0.01in">
     <statement>
       <p>
        What do you notice about the outputs for each table individually?
@@ -131,9 +128,8 @@
       </p>
     </answer>
 </exercise>
-</page>
-<page>
-   <exercise>
+
+   <exercise workspace="0.01in">
     <statement>
       <p>
        Which of the tables hae linear data?  Explain your reasoning.
@@ -147,9 +143,8 @@
       </p>
     </answer>
 </exercise>
-</page>
-<page>
-   <exercise>
+
+   <exercise workspace="0.01in">
     <statement>
       <p>
        What is the common difference for each table individually?
@@ -163,10 +158,9 @@
       </p>
     </answer>
    </exercise>
-   </page>
-   <page>
+   
 
-   <exercise>
+   <exercise workspace="0.01in">
     <statement>
       <p>
        Find the y-intercept for each table of data.  If it does not exist in the table, explain how you found it.
@@ -180,8 +174,7 @@
       </p>
     </answer>
 </exercise>
-</page>
-<page>
+
 <exercise>
     <statement>
       <p>
@@ -201,7 +194,7 @@
 
 
 <page>
-<image width="60%">
+<image width="50%">
         <shortdescription>Graph of f of x equals negative x plus 2 on coordinate axes ranging from -6 to 6.</shortdescription>
         <prefigure xmlns="https://prefigure.org" label="prefigure-linear-2">
     <diagram dimensions="(300,300)" margins="5">
@@ -213,73 +206,46 @@
     </diagram>
   </prefigure>
 </image>
-  <exercise>
+  <exercise workspace="0.01in">
   <introduction>
     <p>
-      Find the equation of the graphed line.
+      Find the equation of the graphed line.  Show all of your work.
     </p>
   </introduction>
-  <task>
-    <statement>
-      <p>
-        Given the line graphed above, how would you find the equation of the line?
-      </p>
-    </statement>
+  
+   
     <answer>
       <p>
         First find the y-intercept.This tells us the <m>b</m> of the equation. Next find the slope by using rise over run.  Start with a point on the left.  Go up (positive rise) or down(negative rise) to get across from the next point you want to use.  Then go left (negative run) or right (positive run) until you are on the line. The fraction rise/run is the <m>m</m> of the equation.
       </p>
+       <p>
+        Using the y-intercept and the point (1,1): The y-intercept is (0,2), so we know that <m>b=2</m>.  To find the slope, use rise over run.  Start with a point on the left which is the y-intercept in this case.  Go  down(negative rise) to get across from the next point you want to use. We go down 1, so our rise is -1.  Then go right (positive run) until you are on the line.  We go to the right 1, so our run is +1.  Rise/run = <m>\frac{-1}{1}=-1</m>
+      </p>
     </answer>
-  </task>
+  
   </exercise>
+<exercise workspace="0.01in">
+  <introduction>
 
-</page>
-<page>
-  <task>
-    <statement>
-      <p>
-        Show your work to find the equation of the graphed line.
-      </p>
-    </statement>
-    <answer>
-      <p>
-        Using the y-intercept ad the point (1,1): The y-intercept is (0,2), so we know that <m>b=2</m>.  To find the slope, use rise over run.  Start with a point on the left which is the y-intercept in this case.  Go  down(negative rise) to get across from the next point you want to use. We go down 1, so our rise is -1.  Then go right (positive run) until you are on the line.  We go to the right 1, so our run is +1.  Rise/run = <m>\frac{-1}{1}=-1</m>
-      </p>
-    </answer>
-  </task>
-</page>
-
-
-<page>
-<exercise>
-  <task>
-    <statement>
       <p>
         Find the equation of any line that is parallel to the graphed line.
       </p>
-    </statement>
+    </introduction>
      <answer>
       <p>
        We found the slope of the line to be 6.  Parallel lines have the same slope but different y-intercepts.  Answers will vary, but all equation need the same slope.  One example: <m>g(x)=6x-9</m>.
       </p>
-    </answer>
-  </task>
+     </answer>
 </exercise>
-</page>
-<page>
-<exercise>
+
+<exercise workspace="0.01in"> 
   <introduction>
     <p>
-      Find the equation of the line in slope-intercept form: <m>y=mx+b</m>
+      Find the equation of the line in slope-intercept form: <m>y=mx+b</m>.  The line has a slope of <m>m=0</m> and contains the point <m>(4,6)</m>.
     </p>
   </introduction>
  
-  <task>
-    <statement>
-      <p>
-       The line has a slope of <m>m=0</m> and contains the point (4,6).
-      </p>
-    </statement>
+  
     <answer>
       <p>
         We are given <m>m=0</m>, <m>x=4</m>, <m>y=6</m>.
@@ -291,11 +257,10 @@
         The equation is: <m>y=6</m>.
       </p>
     </answer>
-  </task>
-  </exercise>
-</page>
-<page>
-  <exercise>
+ 
+</exercise>
+
+  <exercise workspace="0.01in">
     <statement>
       <p>
         The line contains the points (-3,6) and (3,-12)
@@ -319,9 +284,8 @@
       </p>
     </answer>
 </exercise>
-</page>
-<page>
-  <exercise>
+
+  <exercise workspace="0.01in">
     <statement>
       <p>
         The line contains the points (5, -2) and (5,1).
