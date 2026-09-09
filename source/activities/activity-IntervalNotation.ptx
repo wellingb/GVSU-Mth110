@@ -45,9 +45,15 @@
                 <p>
                     (solid line)   Domain:_______________ and Range:_______________
                 </p>
+                <answer>
+                    <p> Domain: [1,4)  Range: [-3,6) </p> 
+                </answer>
                 <p>
                     (dotted curve) Domain:_______________ and Range:_______________
                 </p>
+                <answer>
+                    <p> Domain:(-inf, 3]  Range: (0,8] </p> 
+                </answer>
             </statement>
         </task>
          <task>
@@ -58,9 +64,17 @@
                 <p>
                     (dotted line) Domain:_______________ and Range:_______________
                 </p>
+                <answer>
+                    <p> Domain: [-1,6]  Range: [-2,5] </p> 
+                </answer>
+            
                 <p>
                     (solid curve) Domain:_______________ and Range:_______________
                 </p>
+                <answer>
+                    <p> Domain: (1,6)  Range: (0,9) </p> 
+                </answer>
+
             </statement>
         </task>
         <task>
@@ -68,6 +82,9 @@
                 <p>
                     Find the interval of inputs that make the dotted line outputs greater than the outputs of the solid curve in the figure above.  Approximate to the nearest half.
                 </p>
+                <answer>
+                    <p> (1.5,3.5)</p> 
+                </answer>
             </statement>
         </task>
     </exercise>
