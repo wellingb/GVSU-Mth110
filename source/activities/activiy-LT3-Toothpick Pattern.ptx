@@ -89,6 +89,10 @@
         <cell>---</cell>
     </row>
 </tabular>
+<answer>
+    <p>Number of toothpicks: 9, 11, 21, 201.  Number in Perimeter: 6, 7, 12, 102.
+    </p>
+</answer>
 </task>
 <task>
     <statement>
@@ -96,6 +100,11 @@
             See if you can draw the 10th figure in the pattern.  How many toothpicks would you need to create the 10th figure?  What problem-solving strategies might you use to help you?
         </p>
     </statement>
+    <answer>
+        <p>
+            There are 21 toothpicks i the 10th step figure.  One strategy is to realize the common difference of 2 means that it is a multiple of two.  Trying out the first 5, input 1*2 you need to add 1 to get to 3;  input 2*2 you again need to input 1 to get to 5... input 10*2 + 1 is 21.
+        </p>
+    </answer>
 </task>
 <task>
     <statement>
@@ -103,14 +112,14 @@
             Can you develop a rule that would tell you how many toothpicks would be in any figure in the pattern?
         </p>
     </statement>
-</task>
-<task>
-    <statement>
+    <answer>
         <p>
-            Now count the number of toothpicks in the perimeter of each figure and record your information in the table.
+            Number of Toothpicks rule: <m>2T+1</m>;  Perimeter rule: <m>T+2</m>
         </p>
-    </statement>
+    </answer>
 </task>
+
+
     </exercise>
 </page>
 <page>
@@ -123,15 +132,28 @@
         </introduction>
         <task>
             <statement>  
-                 <sidebyside widths="30% 30% 10% 10% 10% 10%" valighntop="true">
+                 <sidebyside widths="30% 30% 10% 10% 10% 10%" valigntop="true">
                  <ul>
                     <li>x change by:
                     </li>
+                    <answer>
+                        <p>
+                            1
+                        </p>
+                    </answer>
                 <li> y changes by: </li>
+                    
                 <li> Rate of change (if it exists): </li>
+                       
                 <li> Initial Value: </li>
+                    <answer>
+                        <p>
+                            42
+                        </p>
+                    </answer>
                 <li> Linear Equation (if it exists): </li>
-                </ul>          
+                   
+                </ul>
           <tabular top="minor" bottom="minor" left="major" right="major">
      <col header="yes" width="12%" halign="center"/>
      <col header="yes" width="12%" halign="center"/>
@@ -161,6 +183,23 @@
         </tabular>
     </sidebyside>
         </statement>
+         <answer>
+                        
+                        <p>
+                            x changes by 1
+                        </p>
+                        <p>
+                            y changes by 11
+                        <p/>
+                         <p>
+                            Rate of change: <m>11</m>
+                        </p>
+                        <p> 
+                            Initial Value: 42
+                        </p>
+                        Equation:<m>y=11x+42</m>
+                        </p>
+                    </answer>
         </task>
     <task>
             <statement>  
@@ -202,7 +241,24 @@
 </tabular>
 </sidebyside>
 </statement>
-
+ <answer>
+                        
+                        <p>
+                            x changes by 1
+                        </p>
+                        <p>
+                            y changes by Not Applicable
+                        </p>
+                         <p>
+                            Rate of change: Not Applicable
+                        </p>
+                        <p>
+                            Initial value: 8
+                        </p> 
+                        <p>
+                        Equation: Not Applicable
+                        </p>
+                    </answer>
 </task>
     <task>
             <statement>  
@@ -244,6 +300,23 @@
         </tabular>
     </sidebyside>
         </statement>
+      <answer>
+                        
+                        <p>
+                            x changes by 2
+                        </p>
+                        <p>
+                            y changes by -6
+                        <p/>
+                         <p>
+                            Rate of change: <m>-3</m>
+                        </p>
+                        <p> 
+                            Initial Value: 3
+                        </p>
+                        Equation:<m>y=-3x+3</m>
+                        </p>
+                    </answer>  
     </task>   
     </exercise>
 </page>
