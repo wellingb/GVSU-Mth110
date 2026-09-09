@@ -1,0 +1,74 @@
+<worksheet>
+    <title>Interval Notation</title>
+    <definition>
+        <statement>
+            <p>
+                Interval Notation: A method to represent a set of real numbers by the numbers that bound them using parentheses and brackets.
+            </p> 
+        </statement>
+    </definition>
+    <definition>
+        <statement>
+            <p>
+              Parentheses ( or ):  to exclude a boundary number of an interval.  When infinity is a boundary, a parentheses is always used.  
+            </p>
+            <p>
+               Bracket [ or ]: to include a boundary number of an interval.
+            </p>
+        </statement>
+    </definition>
+    <definition>
+        <statement>
+            <p>
+                Domain: Interval of all possible inputs.
+            </p>
+        </statement>
+    </definition>
+    <definition>
+        <statement>
+            <p>
+                Range: Interval of all possible outputs.
+            </p>
+        </statement>
+    </definition>
+    <exercise>
+        <introduction>
+            <p>
+                Find the interval of domain values (x's), and the interval of range values (y's) for the following graphs. Assume any graph that goes to the edge of the image has an arrow on the end.
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                 <figure>
+            <image source="lin-exp1.png" width="45%"> <shortdescription>A partial graph of dotted exponential and linear graphs.</shortdescription></image>
+        </figure>
+                <p>
+                    (solid line)   Domain:_______________ and Range:_______________
+                </p>
+                <p>
+                    (dotted curve) Domain:_______________ and Range:_______________
+                </p>
+            </statement>
+        </task>
+         <task>
+            <statement>
+                 <figure>
+            <image source="lin-quad.png" width="45%"> <shortdescription>A partial graph of exponential and linear graphs.</shortdescription></image>
+        </figure>
+                <p>
+                    (dotted line) Domain:_______________ and Range:_______________
+                </p>
+                <p>
+                    (solid curve) Domain:_______________ and Range:_______________
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Find the interval of inputs that make the dotted line outputs greater than the outputs of the solid curve in the figure above.  Approximate to the nearest half.
+                </p>
+            </statement>
+        </task>
+    </exercise>
+</worksheet>
