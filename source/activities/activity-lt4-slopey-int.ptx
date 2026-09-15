@@ -15,6 +15,11 @@
         What do you notice when <m>b>0</m>
       </p>
     </statement>
+    <answer>
+      <p>
+        The y-intercept is above the x-axis, and all the points move up b-units.
+      </p>
+    </answer>
   </task>
   <task>  
     <statement>
@@ -22,6 +27,11 @@
         What do you notice when <m>b=0</m>?
       </p>
     </statement>
+    <answer>
+      <p>
+        The y-intercept is at the origin (0,0).
+      </p>
+    </answer>
   </task>
   <task> 
     <statement>
