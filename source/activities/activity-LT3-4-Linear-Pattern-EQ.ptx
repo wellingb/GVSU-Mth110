@@ -18,10 +18,7 @@
             What patterns would you see in a graph of data that can be modeled by a linear equation?
         </p>
     </task>
-    <task workspace="yes">
-        <p>How can you tell a graph can be modeled by a linear equation?
-        </p> 
-    </task>
+    
     <task workspace="yes">
         <p>What would an equation of a linear equation look like?</p>
     </task>
@@ -43,7 +40,7 @@
 </row>
 <row align="center">
 	   <cell>-5</cell>
-        <cell>14</cell>
+        <cell>-14</cell>
 </row>
 <row align="center">
            <cell>-4</cell>
@@ -200,6 +197,11 @@
 </row>
 </tabular>
 </sidebyside>
+<answer>
+    <p>
+        The first table is the only linear data set.  The x's all increase by 1 and the y's all increase by 2
+    </p>
+</answer>
 </task>
     </exercise>
 </page>
@@ -284,6 +286,11 @@
       <cell> </cell>
     </row>
   </tabular>  
+    <answer>
+        <p>
+            The first story is the only linear story.  It describes adding three inches for each lie.  This is a constant increase or common difference,
+        </p>
+    </answer>
         </task>
     </exercise>
     <exercise>
@@ -316,6 +323,11 @@
   <cell><p>&#160;</p></cell> 
 </row>
 </tabular>
+<answer>
+    <p>
+        The first graph is the only linear graph.  We know this because it is the only graph that is a straight line.
+    </p>
+</answer>
 </task>
 </exercise>
 </page>
@@ -346,6 +358,11 @@
          <cell><p>&#160;</p></cell> 
     </row>
 </tabular>
+<answer>
+    <p>
+        The first equation is linear.  It does not have an exponent.  It is in the form y = mx + b.
+    </p>
+</answer>
 </task>
 </exercise>
 <exercise>
@@ -361,6 +378,11 @@
                 What patterns would you see in a table of data that can be modeled by a linear equation?   Can you find the equation of the linear data?
             </p>
         </statement>
+        <answer>
+            <p>
+                Linear data has a common difference.  The equation is <m>y=2x-4</m>
+            </p>
+        </answer>
     </task>
     <task>
         <statement>
@@ -368,6 +390,11 @@
                 How can you tell a graph can be modeled by a linear equation?   CAn you find the equation of the linear graph?
             </p>
         </statement>
+        <answer>
+            <p>
+                Linear graphs are straight lines.  The equation is <m>y=-0.75x+1.5</m>
+            </p>
+        </answer>
     </task>
     <task>
         <statement>
@@ -375,6 +402,11 @@
                 What would an equation of a linear equation look like?
             </p>
         </statement>
+        <answer>
+            <p>
+                Linear equations are in the form of <m>y=mx+b</m>
+            </p>
+        </answer>
     </task>
     <task>
         <statement>
@@ -382,7 +414,11 @@
                 How can you tell if a story is likely to be modeled by a linear equation?   Can you find the equation of the linear story?
             </p>
         </statement>
-    </task>
+        <answer>
+            <p>A story uses words that infer addition or subtraction.  The equation is <m>y=3L+2</m>
+            </p>
+        </answer>
+        </task>
 </exercise>
 </page>
 </worksheet>
