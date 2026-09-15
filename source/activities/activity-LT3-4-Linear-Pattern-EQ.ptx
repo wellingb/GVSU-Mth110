@@ -338,7 +338,7 @@
             Categorize each equation as linear or non-linear.
         </p>
     </introduction>
-<task>
+<task workspace="0.01in">
 <tabular top="minor" bottom="medium" left="major" right="major">
      <col>width=20% halign="center"</col>
   <col>width=20%</col>
@@ -372,7 +372,7 @@
 
         </p>
     </introduction>
-    <task>
+    <task >
         <statement>
             <p>
                 What patterns would you see in a table of data that can be modeled by a linear equation?   Can you find the equation of the linear data?
@@ -384,7 +384,7 @@
             </p>
         </answer>
     </task>
-    <task>
+    <task >
         <statement>
             <p>
                 How can you tell a graph can be modeled by a linear equation?   CAn you find the equation of the linear graph?
@@ -396,7 +396,7 @@
             </p>
         </answer>
     </task>
-    <task>
+    <task >
         <statement>
             <p>
                 What would an equation of a linear equation look like?

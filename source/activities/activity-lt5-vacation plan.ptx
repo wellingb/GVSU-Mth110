@@ -42,7 +42,7 @@
                             <cell>Driving Your Car</cell>
                             <cell>Flying Round Trip</cell>
                         </row>
-                        <row halign="center">
+                        <row halign="left">
                              <cell><p>$&#160;</p><p>&#160;</p><p>&#160;</p></cell>
                              <cell><p>$&#160;</p><p>&#160;</p><p>&#160;</p></cell>
                          <cell><p>$&#160;</p><p>&#160;</p><p>&#160;</p></cell>

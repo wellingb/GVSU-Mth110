@@ -306,5 +306,71 @@
   
 </exercise>
 </page>
+<page>
+  <exercise>
+    <introduction>
+      <p>
+        Answer the questions about the parameters of the equation; always comparing to the parent function equation <m>y=x</m>
+      </p>
+    </introduction>
+    <task workspace="0.1in">
+      <statement>
+        <p>
+          Given <m>f(x)=-2x+4</m>, without graphing, explain how this line differs from the parent function.  
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Because of the -2, we know this line is decreasing instead of increasing, and it is steeper than the parent function.  The +4 tells us that all points on this graph move up 4 units. 
+        </p>
+      </answer>
+    </task>
+    <task workspace="0.1in">
+      <statement>
+        <p>
+          Given <m>f(x)=0.5x+2</m> and <m>g(x)=2x</m>, without graphing:
+        </p>
+        <ul> 
+          <li>
+            <p>
+             Which line is flatter?  Explain how your know from the equations
+            </p>
+          </li>
+          <li>
+            <p>
+              Which line has the smallest y-intercept?  What is it?
+            </p>
+          </li>
+        </ul>
+      </statement>
+      <answer>
+        <p>
+          The <m>f(x)</m> graph would have the flatter line because its slope of 0.5 is smaller than the slope of <m>g(x)</m>, which is 2.
+        </p>
+        <p>
+          The <m>g(x)</m> graph has the smaller y-intercept which is (0, 0).  The y=-intercept of <m>f(x)</m> is (0,2)
+        </p>
+      </answer>
+    </task>
+    <task workspace="0.1in">
+      <statement>
+        <p>
+          Write the equation of the line <m>h(x)</m> that has a very steep, negative slope and a y-intercept that is below the x-axis. 
+        </p>
+        <p>
+          Explain your thinking.  Then draw your <m>h(x)</m> graph by hand - without using a graphing technology.
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Answer will vary.  One example is <m>h(x)=-5x-3</m>.  The slope is -5 because the farther away from 0 in the left direction, the steeper the line.  The y-intercept (the <m>b</m>) needs to be any negative number.
+        </p> 
+        <p>
+          Put your equation into a graphing technology to check for accuracy.
+        </p>
+        </answer>
+    </task>
+  </exercise>
+</page>
 </worksheet>
 

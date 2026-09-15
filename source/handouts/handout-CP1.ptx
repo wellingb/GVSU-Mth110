@@ -1,0 +1,96 @@
+<handout>
+    <title>Knowledge Check LT 1-3</title>
+<exercise>
+    <introduction>
+        <p>
+            Tell the story of rainfall over several minutes.  Label the axes.
+        </p>
+   
+    <figure>
+     <image source="speed4.png" width="35%">
+        <shortdescription>a qualitative graph that starts at the origin and increases, then decreases to the x-axis, and finally increases again.</shortdescription>
+     </image>
+    </figure>
+</introduction>
+<answer>
+        <p>
+            The rainfall increased at a steady rate for several minutes.  It then started to rain less and less, at a steady rate, until it stopped for a few minutes.  The rainfall began to increase at a steady rate again.
+        </p>
+    </answer>
+
+   
+        <p>
+            Sketch the graph of the amount of money in an account over several months according to these parameters:
+
+        </p>
+        <ul> 
+            <li>
+                <p>
+                    Your money stays steady for a few months.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Your money grows greatly within one month.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Your money grows greatly within one month.
+                </p>
+            </li>
+            <li>
+                <p>
+                    What is the independent variable?  Label the graph.
+                </p>
+            </li>
+            <li>
+                <p>
+                    What is the dependent variable?  Label the graph.
+                </p>
+            </li>
+        </ul>
+        <figure>
+            <image source="q1.png" width="35%">
+                <shortdescription>A first quadrant graph with a short decreasing line segment up on the y-axis</shortdescription>
+            </image>
+        </figure>
+    
+    <answer>
+        <p>
+            The independent variable is months, and the dependent variable is amount of money.
+        </p>
+        <figure>
+            <image source="q1b.png">
+                <shortdescription>A first quadrant graph that starts high on the y-axis and decreases, then is horizontal for a short time, followed by a steep decrease, almost to the x-axis.  The graph ends with a horizontal line at this point,</shortdescription>
+            </image>
+            </figure>
+    </answer>
+    <figure>
+        <image source="case3.png">
+            <shortdescription>A 3 figure pattern.  Figure 1 is an x shape made up of 5 boxes, figure 2 is the same shape with 9 boxes, and figure 3 is the same shape with 13 boxes.</shortdescription>
+        </image>
+    </figure>
+    <p>
+       Does the pattern follow a linear pattern?  Explain how you know. 
+    </p> 
+    <p>
+        What is the rule for the pattern?  Show your work.
+    </p>
+    <p>
+        How many boxes are in the 55th figure?  Show your work or explain your thinking.
+    </p> 
+ <answer>
+    <p>
+        The pattern is linear because 4 boxes are added each time.
+    </p>
+    <p>
+        The rule is 4x+1   The constant change (common difference) of 4 is the coefficent on the variable, and subtracting 4 (opposite operation going backward) from the first figure 5, results in the inital value (when x = 0) of 1, which is the constant.    
+    </p>
+    <p>
+        4(55)+1=221 boxes in the 55th figure.
+    </p>
+
+    </answer>   
+</exercise>
+</handout>

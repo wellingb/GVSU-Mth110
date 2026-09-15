@@ -9,7 +9,7 @@
       Let <m>m=1</m>.  Move the <m>b</m> slider, make observations, and answer the following questions.
     </p>
   </introduction>
-  <task> 
+  <task workspace="0.01in"> 
     <statement>
       <p>
         What do you notice when <m>b>0</m>
@@ -21,7 +21,7 @@
       </p>
     </answer>
   </task>
-  <task>  
+  <task workspace="0.01in">  
     <statement>
       <p>
         What do you notice when <m>b=0</m>?
@@ -33,7 +33,7 @@
       </p>
     </answer>
   </task>
-  <task> 
+  <task workspace="0.1in"> 
     <statement>
       <p>
         What do you notice when <m>b</m> is less than 0?
@@ -52,7 +52,7 @@
       Let <m>b=1</m>.  Move the <m>m</m> slider, make observations, and answer the following questions.
     </p>
   </introduction>
-  <task workspace="0.0001in">
+  <task workspace="0.01in">
     <statement>
       <p>
         What do you notice when <m>m>0</m>
@@ -64,7 +64,7 @@
       </p>
     </answer>
   </task>
-  <task>
+  <task workspace="0.01in">
     <statement>
       <p>
         What do you notice when <m>m=0</m>?
@@ -76,7 +76,7 @@
       </p>
     </answer>
   </task>
-  <task>
+  <task workspace="0.01in">
     <statement>
       <p>
         What do you notice when <m>m</m> is less than 0?
@@ -88,7 +88,7 @@
       </p> 
     </answer>
   </task>
-  <task>
+  <task workspace="0.01in">
     <statement>
       <p>
         What do you notice when the slope is close to zero on the right side?.....left side?
