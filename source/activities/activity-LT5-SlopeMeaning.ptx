@@ -6,41 +6,42 @@
                 <p>Fill in the table:</p>
             </introduction>
     <tabular top="minor" bottom="medium" left="major" right="major">
-         <col width="15%" halign="center"/>
-         <col width="45"/>
+         <col width="45%" halign="center"/>
+         <col width="10"/>
         <col width="45%"/>
-    <row header="yes">
+    <row header="yes" halign="center">
         <cell>Story</cell>
         <cell>Slope and its meaning</cell>
         <cell>Y-intercept and its Meaning</cell>
     </row>
-    <row>
-        <cell>Farmer Ali had a well on his property 200 feet deep.  When the well went dry, he hired a company to drill the well deeper.  He used the equation <m>d(t)=-75-200</m> to find the depth of the well, <m>d</m>, using the number of days the company drilled, <m>t</m>.</cell>
-        <cell> </cell>
-        <cell> </cell>
+    <row halign="center">
+       
+        <cell>Farmer Ali had a well on his property 200 feet deep.  When the well went dry, he hired a company to drill the well deeper.  He used the equation <m>d(t)=-75-200</m> to find the depth of the well, <m>d</m>, using the number of days the company drilled, <m>t</m>. <m>\vphantom{\Huge{M}}</m> </cell>
+        <cell><m>\vphantom{\Huge{M}}</m>  </cell>
+        <cell><m>\vphantom{\Huge{M}}</m> </cell>
     </row>
-    <row>
-        <cell>Kristina is running the freshman class fundraiser.  They are selling key chains.  The amount of money they will make is computed using the function <m>A(k)=2k-100</m>, where <m>k</m> represents the number of key chains sold, and <m>A</m> represents the amount of money made</cell>
+    <row halign="center"> 
+        <cell>Kristina is running the freshman class fundraiser.  They are selling key chains.  The amount of money they will make is computed using the function <m>A(k)=2k-100</m>, where <m>k</m> represents the number of key chains sold, and <m>A</m> represents the amount of money made <m>\vphantom{\Huge{M}}</m> </cell>
         <cell>        </cell>
         <cell> </cell>
     </row>
-    <row>
-        <cell>Jose, the electrician, charges $65 per hour to fix your electrical box issues.  He uses the equation <m>C(h)=64h+100</m> to determine the change <m>C</m> after working <m>h</m> hours.</cell>
+    <row halign="center">
+        <cell>Jose, the electrician, charges $65 per hour to fix your electrical box issues.  He uses the equation <m>C(h)=64h+100</m> to determine the change <m>C</m> after working <m>h</m> hours. <m>\vphantom{\Huge{M}}</m> </cell>
+        <cell><m>\vphantom{\Huge{M}}</m> </cell>
+        <cell><m>\vphantom{\Huge{M}}</m> </cell>
+    </row>
+    <row halign="center">
+        <cell>It costs Corporal Motors $500,000 to outfit their new car line.  The company used the equation <m>P(c)=2500c-500,000</m> to detrmine the amount of profit <m>P</m> earned from the sale of <m>c</m> cars. <m>\vphantom{\Huge{M}}</m> </cell>
+        <cell><m>\vphantom{\Huge{M}}</m> </cell>
+        <cell> </cell>
+    </row>
+    <row halign="center">
+        <cell>Liz has been paying her credit card bill since January 1st 2026.  The eqquation <m>B(m)675-100m</m> represents the relationship between the number of months <m>m</m> that she has been paying, and the amount on her credit card bill <m>B</m>. <m>\vphantom{\Huge{M}}</m> </cell>
         <cell> </cell>
         <cell> </cell>
     </row>
-    <row>
-        <cell>It costs Corporal Motors $500,000 to outfit their new car line.  The company used the equation <m>P(c)=2500c-500,000</m> to detrmine the amount of profit <m>P</m> earned from the sale of <m>c</m> cars.</cell>
-        <cell> </cell>
-        <cell> </cell>
-    </row>
-    <row>
-        <cell>Liz has been paying her credit card bill since January 1st 2026.  The eqquation <m>B(m)675-100m</m> represents the relationship between the number of months <m>m</m> that she has been paying, and the amount on her credit card bill <m>B</m>.</cell>
-        <cell> </cell>
-        <cell> </cell>
-    </row>
-    <row>
-        <cell>Abby lights a candle in her kitchen,  The height of the candle is represented y the equation <m>H(t)--0.5t+6</m>, where <m>t</m> is the time in hours the candle has been burning, and <m>H</m> is the height of the candle in inches.                                                                                          </cell>
+    <row halign="center">
+        <cell>Abby lights a candle in her kitchen,  The height of the candle is represented y the equation <m>H(t)--0.5t+6</m>, where <m>t</m> is the time in hours the candle has been burning, and <m>H</m> is the height of the candle in inches. <m>\vphantom{\Huge{M}}</m>                                                                                         </cell>
         <cell> </cell>
         <cell> </cell>
     </row>
@@ -55,41 +56,41 @@
         </p>
     </introduction>
  <tabular top="minor" bottom="medium" left="major" right="major">
-        <col width="15%" halign="center"/>
+        <col width="10%" halign="center"/>
         <col width="45%"/>
         <col width="45%"/>
-    <row header="yes">
+    <row header="yes" halign="center">
         <cell>Story</cell>
         <cell>Calculation</cell>
         <cell>Equation</cell>
     </row>
-    <row>
-        <cell>Maui begins working at Macy's.  She will be paid a daily amount plus a commission of her total sales.  The equation <m>P(s)=0.10s+15</m> represents the amount Maui will make based on her total sales where <m>P</m> is the amount of money she makes in one day, and <m>s</m> is her total sales.  How much will Maui make if she sells $650?                                       </cell>
+    <row halign="center">
+        <cell>Maui begins working at Macy's.  She will be paid a daily amount plus a commission of her total sales.  The equation <m>P(s)=0.10s+15</m> represents the amount Maui will make based on her total sales where <m>P</m> is the amount of money she makes in one day, and <m>s</m> is her total sales.  How much will Maui make if she sells $650? <m>\vphantom{\Huge{M}}</m>     </cell>
         <cell><fill cols="45" rows="6"/></cell>
         <cell><fill cols="45" rows="6"/></cell>
     </row>
-    <row>
-        <cell>Alejandra paints faces at kids' parties to earn extra money.  The equation <m>M(f)=2.5f+12</m> represents the relationship between the money <m>M</m> she makes after painting <m>f</m> faces.  Alejandra wants to buy a new pair of Uggs that cost $119.50.  How many faces does she need to paint?</cell>
+    <row halign="center">
+        <cell>Alejandra paints faces at kids' parties to earn extra money.  The equation <m>M(f)=2.5f+12</m> represents the relationship between the money <m>M</m> she makes after painting <m>f</m> faces.  Alejandra wants to buy a new pair of Uggs that cost $119.50.  How many faces does she need to paint? <m>\vphantom{\Huge{M}}</m></cell>
         <cell> </cell>
         <cell>---</cell>
     </row>
-    <row>
-        <cell>Archie is learning to scuba dive.  The equation <m>D(L)</m> represents the depth, <m>D</m> he can dive, in feet, based on the number of lessons, <m>L</m> he has taken.  How deep can Archie dive after he has taken 13 lessons?</cell>
+    <row halign="center">
+        <cell>Archie is learning to scuba dive.  The equation <m>D(L)</m> represents the depth, <m>D</m> he can dive, in feet, based on the number of lessons, <m>L</m> he has taken.  How deep can Archie dive after he has taken 13 lessons? <m>\vphantom{\Huge{M}}</m></cell>
         <cell> </cell>
         <cell>---</cell>
     </row>
-    <row>
-        <cell>Stormy joins a gym.  She pays $15 for the membership and $6 for each session she does at the gym.  Write and equation that models the relationship between the cost <m>C</m> that STormy pays, and the number of sessions <m>n</m> that she does at the gym.  Write the equation in function notation,</cell>
+    <row halign="center">
+        <cell>Stormy joins a gym.  She pays $15 for the membership and $6 for each session she does at the gym.  Write and equation that models the relationship between the cost <m>C</m> that STormy pays, and the number of sessions <m>n</m> that she does at the gym.  Write the equation in function notation. <m>\vphantom{\Huge{M}}</m></cell>
         <cell>---</cell>
         <cell> </cell>
     </row>
-    <row>
-        <cell>Michael is draining his pool for the winter,  There are 3200 gallons of water in the pool and it is decreasing at a rate of 200 gallons per hour.  Write an equation to represent the relationship between the amount of water <m>A</m> in the pool, and the number of hours <m>h</m> the poos has been draining.  Write the equation in function notation.</cell>
+    <row halign="center">
+        <cell>Michael is draining his pool for the winter,  There are 3200 gallons of water in the pool and it is decreasing at a rate of 200 gallons per hour.  Write an equation to represent the relationship between the amount of water <m>A</m> in the pool, and the number of hours <m>h</m> the poos has been draining.  Write the equation in function notation. <m>\vphantom{\Huge{M}}</m></cell>
         <cell>---</cell>
         <cell> </cell>
     </row>
-    <row>
-        <cell>Mama B is planning Thanksgiving dinner.  The number of pounds of turkey she will buy depends on the number of people she invites to dinner.  If she invites 9 people, she needs to buy a 15 pound turkey.  If she invites 12 people, she needs to buy a 20 pound turkey.  WRite an equation to represent the relationshp between the number of people <m>p</m> and the pounds <m>P</m> of turkey needed.  Write the equation in function notation.</cell>
+    <row halign="center">
+        <cell>Mama B is planning Thanksgiving dinner.  The number of pounds of turkey she will buy depends on the number of people she invites to dinner.  If she invites 9 people, she needs to buy a 15 pound turkey.  If she invites 12 people, she needs to buy a 20 pound turkey.  WRite an equation to represent the relationshp between the number of people <m>p</m> and the pounds <m>P</m> of turkey needed.  Write the equation in function notation. <m>\vphantom{\Huge{M}}</m></cell>
         <cell>---</cell>
         <cell> </cell>
     </row>

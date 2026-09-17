@@ -1,9 +1,11 @@
 <worksheet>
     <title>LT 6 Superball Patterns</title>
+    <page>
     <description>In this activity, students will explore the patterns of a superball bouncing and analyze the height of each bounce.</description>
     <definition>
         <statement> Function notation is a shorthand way to represent a function using the symbol f(x) to denote the output of the function f when the input is x.</statement>
     </definition>
+    
     <exercise>
         <introduction> In this you will be measuring the bounce height of a superball and recording the data to analyze the pattern of the bounces. </introduction> 
     
@@ -52,18 +54,49 @@
                 </image>
             </figure>
 </exercise>
-<exercise>
+<exercise workspace="0.01in">
   <introduction>
     <p> 
       Use Linear Regression in Desmos to find the line of best fit for the data.  Write the equation of the line in function notation.
     </p>
   </introduction>
 </exercise>
-<exercise>
+</page>
+<page>
+<exercise workspace="0.01in">
   <introduction>
     <p> 
       Use your model equation  to predict the bounce height of a superball dropped from a height of 60 inches.  Write a sentence to summarize your answer  Test your prediction. Show your work.
     </p>
   </introduction>
 </exercise>
+<exercise workspace="0.01in">
+  <introduction>
+    <p>
+      Use your model to predict from what height the ball needs to be dropped for it to bounce 30 inches.  Write a sentence to summarize your answer.  Test your prediction!
+    </p>
+  </introduction>
+</exercise>
+<exercise workspace="0.01in">
+  <introduction>
+    <p>
+      Find B(10) and summarize your solution with a sentence that uses the context of this problem.
+    </p>
+  </introduction>
+</exercise>
+<exercise workspace="0.01in">
+  <introduction>
+    <p>
+      Find D so that B(d) = 20 and summarize your solution with a sentence that uses the context of this problem.
+    </p>
+  </introduction>
+</exercise>
+<exercise workspace="0.01in">
+  <introduction>
+    <p>
+      What is something that you learned from this lesson, or maybe learned better?
+    </p>
+  </introduction>
+</exercise>
+</page>
 </worksheet>
