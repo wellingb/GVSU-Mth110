@@ -673,7 +673,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 4 Linear Characteristics",
-  "body": " LT 4 Linear Characteristics    For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.            Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation             (-3,6), (3, -12)             (-5,-4), (2, 3)              A line contains the point (2,6) and is parallel to the line .            f(x)=-0.75*x+1.5                linear graph with negative slope \/>              "
+  "body": " LT 4 Linear Characteristics    For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.            Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation          ----    (2,3), (10, -1)             (-5,-4), (2, -4)              A line contains the point (2,6) and is parallel to the line .            f(x)=-0.75*x+1.5                linear graph with negative slope \/>              "
 },
 {
   "id": "activities-13-2",
@@ -682,7 +682,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.            Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation             (-3,6), (3, -12)             (-5,-4), (2, 3)              A line contains the point (2,6) and is parallel to the line .            f(x)=-0.75*x+1.5                linear graph with negative slope \/>             "
+  "body": "  For each representation below:   Find or indicate the vertical intercept.    Find or indicate the slope.    Explain the behavior of the line and your reasoning for your answer.    Find the equation of the line represented.            Representation  Vertical Intercept  Slope  Behavior (Incr\/Decr\/Vertical\/Horz)  Equation          ----    (2,3), (10, -1)             (-5,-4), (2, -4)              A line contains the point (2,6) and is parallel to the line .            f(x)=-0.75*x+1.5                linear graph with negative slope \/>             "
 },
 {
   "id": "activities-14",
