@@ -6,8 +6,8 @@
                 <p>Fill in the table:</p>
             </introduction>
     <tabular top="minor" bottom="medium" left="major" right="major">
-         <col width="45%" halign="center"/>
-         <col width="10"/>
+         <col width="10%" halign="center"/>
+         <col width="45"/>
         <col width="45%"/>
     <row header="yes" halign="center">
         <cell>Story</cell>
