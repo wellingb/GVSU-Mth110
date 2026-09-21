@@ -191,4 +191,78 @@
             </li>
         </ul>
     </page>
+    <page>
+        <tabular top="minor" bottom="medium" left="major" right="major">
+                    <col width="30%" halign="center"/>
+                    <col width="30%" halign="center"/>
+                    <col width="30%" halign="center"/>
+                    <row header="yes" halign="center">
+                        <cell>Activity</cell>
+                        <cell>Jada Calories Burned in 30 min.</cell>
+                        <cell>Ahmed Calories Burned in 30 min</cell>
+                    </row>
+                    <row halign="center">
+                        <cell>Clean Windows</cell>
+                        <cell>101</cell>
+                        <cell>131</cell>
+                    </row>
+                    <row halign="center">
+                        <cell>Spinning(Moderate Rate)</cell>
+                        <cell>116</cell>
+                        <cell>150</cell>
+                    </row>
+                    <row halign="center">
+                        <cell>Walking (3mph)</cell>
+                        <cell>134</cell>
+                        <cell>173</cell>
+                    </row>
+                    <row halign="center">
+                        <cell>Mowing the Lawn (Push)</cell>
+                        <cell>134</cell>
+                        <cell>173</cell>
+                    </row>
+                    <row halign="center">
+                        <cell>Calisthenics</cell>
+                        <cell>138</cell>
+                        <cell>178</cell>
+                    </row>
+                    <row halign="center">
+                        <cell>Ashtanga yoga</cell>
+                        <cell>158</cell>
+                        <cell>205</cell>
+                    </row>
+                    <row halign="center">
+                        <cell>Clean gutters</cell>
+                        <cell>162</cell>
+                        <cell>210</cell>
+                    </row>
+                    <row halign="center">
+                        <cell>Zumba</cell>
+                        <cell>243</cell>
+                        <cell>315</cell>
+                    </row>
+                    <row halign="center">
+                        <cell>Cross fit</cell>
+                        <cell>336</cell>
+                        <cell>359</cell>
+                    </row>
+                    <row halign="center">
+                        <cell>Jump rope</cell>
+                        <cell>306</cell>
+                        <cell>399</cell>
+                    </row>
+                    <row halign="center">
+                        <cell>Cycling (14,16mph)</cell>
+                        <cell>324</cell>
+                        <cell>420</cell>
+                    </row>
+                    <row halign="center">
+                        <cell>Running (10mph)</cell>
+                        <cell>551</cell>
+                        <cell>714</cell>
+                    </row>
+                    
+        </tabular>
+    </page>
+
 </worksheet>
