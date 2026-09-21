@@ -44,21 +44,21 @@
     <cell>Equation</cell>
   </row>
   <row halign="center">
-    <cell><m>f(x)=2*x-2</m> <m>\vphantom{\Huge{M}}</m> </cell>
+    <cell><m>f(x)=2x-2</m> <m>\vphantom{\Huge{M}}</m> </cell>
     <cell></cell>
     <cell></cell>
     <cell></cell>
-    <cell></cell>
+    <cell>----</cell>
   </row>
   <row halign="center">
-    <cell>(-3,6), (3, -12) <m>\vphantom{\Huge{M}}</m> </cell>
+    <cell>(2,3), (10, -1) <m>\vphantom{\Huge{M}}</m> </cell>
     <cell> </cell>
     <cell> </cell>
     <cell> </cell>
     <cell> </cell>
   </row>
   <row halign="center">
-    <cell>(-5,-4), (2, 3) <m>\vphantom{\Huge{M}}</m> </cell>
+    <cell>(-5,-4), (2, -4) <m>\vphantom{\Huge{M}}</m> </cell>
     <cell> </cell>
     <cell> </cell>
     <cell> </cell>
