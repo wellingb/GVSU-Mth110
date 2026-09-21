@@ -2,10 +2,7 @@
     <title>LT 6 Superball Patterns</title>
     <page>
     <description>In this activity, students will explore the patterns of a superball bouncing and analyze the height of each bounce.</description>
-    <definition>
-        <statement> Function notation is a shorthand way to represent a function using the symbol f(x) to denote the output of the function f when the input is x.</statement>
-    </definition>
-    
+   
     <exercise>
         <introduction> In this you will be measuring the bounce height of a superball and recording the data to analyze the pattern of the bounces. </introduction> 
     

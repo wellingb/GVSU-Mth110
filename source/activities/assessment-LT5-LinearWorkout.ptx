@@ -1,0 +1,194 @@
+<worksheet>
+    <title>LT 5 Linear Workout Task</title>
+<page>
+    <exercise>
+        <introduction>
+            <p>
+                Jada burns 215 calories during her 30-minute morning jog.  In comparison, Ahmed burns 278 calories jogging with her.  Your job is to choose an activity for either Jada or Ahmed to do during the day, then follow these steps to find an equation and its relationship to the table and graph.  As a group you will be making a final product documenting your work.
+            </p>
+        </introduction>
+          
+        <task workspace="0.01in">
+            <statement>
+                <tabular top="minor" bottom="medium" left="major" right="major">
+                    <col width="50%" halign="center"/>
+                    <col width="50%" halign="center"/>
+                    <row halign="center">
+                        <cell><m>t=</m>Activity Minutes </cell>
+                        <cell><m>C=</m>Total Calories Burned (include the calories burned jogging)</cell>
+                    </row>
+                    <row halign="center">
+                        <cell>0</cell>
+                        <cell></cell>
+                    </row>
+                    <row halign="center">
+                        <cell>1</cell>
+                        <cell></cell>
+                    </row>
+                    <row halign="center">
+                        <cell>2</cell>
+                        <cell></cell>
+                    </row>
+                    <row halign="center">
+                        <cell>20</cell>
+                        <cell></cell>
+                    </row>
+                    <row halign="center">
+                        <cell>30</cell>
+                        <cell></cell>
+                    </row>
+                    <row halign="center">
+                        <cell>45</cell>
+                        <cell></cell>
+                    </row>
+                    <row halign="center">
+                        <cell>60</cell>
+                        <cell></cell>
+                    </row>
+                </tabular>
+                  <ul> 
+                <li>
+                    <p>
+                        Even number tables will use Jada's information.  Odd number tables will use Ahmed's information.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Fill in the table: 
+                    </p>
+                </li>
+            </ul>
+                    <p>
+                        How many total calories hae they burned during 1 minute of the chosen activity?
+                    </p>
+                </statement>
+            </task>
+        </exercise>
+        <exercise workspace="0.01in">>
+            <introduction>
+                <p>
+                    As a group, discuss what expression (not equation) will find the total calories burned after 20 minutes of doing the chosen activity.  Check that your expression gives you the result you found in the table.  Let the minutes be <m>t</m>, and the total number of calories be <m>C</m>
+                </p>
+            </introduction>
+        </exercise>
+        <exercise workspace="0.01in">
+            <introduction>
+                <p>
+                    Write out the expression for <m>C(38)</m>.
+                </p>
+            </introduction>
+        </exercise>
+        <exercise workspace="0.01in">
+            <introduction>
+                <p>
+                    What is the rate of your expression?  What does it mean in the context of the story?
+                </p>
+            </introduction>
+        </exercise>
+        <exercise workspace="0.01in">
+            <introduction>
+                <p>
+                    WRite an equation for <m>C(t)</m> relating the time to the total calories burned.  Check that your equation produces the value you found in your table.
+                </p>
+            </introduction>
+        </exercise>
+        <exercise workspace="0.01in">
+            <introduction>
+                <p>
+                    Approximately how many minutes of the activity are needed to burn 440 calories? Round to the nearest whole.  Show your work.
+                </p>
+            </introduction>
+        </exercise>
+    </page>
+    <page>
+        <exercise workspace="0.1in">
+            <introduction>
+                <p>Go to Desmos, plot the points from your table (use the + at the top left corner and choose table).  In the line below your table, write your equation.  Graph the equation on graph paper (ask your teacher).  Do not forget to label your axes.  Do not use x and y.
+                </p>
+            </introduction>
+        
+        <task workspace="0.001in">
+            <statement>
+                <p>
+                    How does the starting value (0 minutes) show up in the equation you found?  
+                </p>
+            </statement>
+        </task>
+            <task workspace="0.001in">
+                <statement>
+                    <p>
+                        What does it mean in the context of the story?
+                    </p>
+                </statement>
+            </task>
+            <task workspace="0.001in">
+                <statement>
+                    <p>
+                        How does it show up in your graph?
+                    </p>
+                </statement>
+            </task>
+        </exercise>
+        <exercise>
+            <introduction>
+                <p>
+                    Without using technology, describe how doubling the number of calories burned per minute will change the graph.  Round sketch this on your graph in a different color
+                </p>
+            </introduction>
+        </exercise>
+    </page>
+    <page>
+        <statement>
+            <p>
+                Read through this in its entirety before starting your final product.
+            </p>
+        </statement>
+        <ul> 
+           <li>
+             <p>
+                Each group member must contribute to the final product.  Use different colors to indicate different people's work.
+             </p> 
+            </li>
+            <li>
+                <p>
+                    Be sure to put your table number at the top of your paper.
+                </p>
+            </li>
+            <li>
+                <p>
+                    List the person (Jada or Ahmed) and activity your group is working on.
+                </p>
+            </li>
+            <li>
+                <p>
+                    WRite your equation near the top of your paper.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Copy your table and graph with word labels on the axes to your paper.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Show your work finding the number of minutes to burn 440 calories.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Label the starting point on your graph with an ordered pair and explain its contextual meaning next to it.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Add how you found your rate of change, and its contextual meaning.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Finally, sketch the graph for the double calories burned.
+                </p>
+            </li>
+        </ul>
+    </page>
+</worksheet>

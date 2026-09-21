@@ -1,5 +1,5 @@
 <worksheet>
- <title>LT 3 Linear Characteristics</title>
+ <title>LT 4 Linear Characteristics</title>
 
 <exercise>
 <statement>
@@ -44,21 +44,21 @@
     <cell>Equation</cell>
   </row>
   <row halign="center">
-    <cell><m>f(x)=2*x-2</m></cell>
+    <cell><m>f(x)=2*x-2</m> <m>\vphantom{\Huge{M}}</m> </cell>
     <cell></cell>
     <cell></cell>
     <cell></cell>
     <cell></cell>
   </row>
   <row halign="center">
-    <cell>(-3,6), (3, -12)</cell>
+    <cell>(-3,6), (3, -12) <m>\vphantom{\Huge{M}}</m> </cell>
     <cell> </cell>
     <cell> </cell>
     <cell> </cell>
     <cell> </cell>
   </row>
   <row halign="center">
-    <cell>(-5,-4), (2, 3)</cell>
+    <cell>(-5,-4), (2, 3) <m>\vphantom{\Huge{M}}</m> </cell>
     <cell> </cell>
     <cell> </cell>
     <cell> </cell>
@@ -67,10 +67,10 @@
   <row halign="center">
     <cell>
       <p>
-        A line contains the point (2,6) and is parallel to the line <m>y=4x+8</m>.
+        A line contains the point (2,6) and is parallel to the line <m>y=4x+8</m>. <m>\vphantom{\Huge{M}}</m> 
       </p>
     </cell>
-    <cell></cell>
+    <cell></cell><m>\vphantom{\Huge{M}}</m> 
     <cell></cell>
     <cell></cell>
     <cell></cell>
@@ -86,7 +86,7 @@
       </coordinates>
     </diagram>
   </prefigure></image></cell>
-    <cell></cell>
+    <cell><m>\vphantom{\Huge{M}}</m> </cell>
     <cell></cell>
     <cell></cell>
     <cell></cell>
@@ -95,7 +95,7 @@
     <cell><image source="3x-6.png">
     <shortdescription>linear graph with negative slope</shortdescription>/>
     </image></cell>
-    <cell> </cell>
+    <cell><m>\vphantom{\Huge{M}}</m>  </cell>
     <cell> </cell>
     <cell> </cell>
     <cell> </cell>
