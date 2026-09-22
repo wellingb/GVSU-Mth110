@@ -70,7 +70,7 @@
         <cell>---<fill cols="45" rows="6"/></cell>
     </row>
     <row halign="center">
-        <cell>Alejandra paints faces at kids' parties to earn extra money.  The equation <m>M(f)=2.5f+12</m> represents the relationship between the money <m>M</m> she makes after painting <m>f</m> faces.  Alejandra wants to buy a new pair of Uggs that cost $119.50.  How many faces does she need to paint? <m>\vphantom{\Huge{M}}</m></cell>
+        <cell>Alejandra paints faces at kids' parties to earn extra money.  The equation <m>M(f)=2.5f+12</m> represents the relationship between the money <m>M</m> she makes after painting <m>f</m> faces.  Alejandra wants to buy a new pair of Uggs that cost $119.50.  How many faces does she need to paint in order to pay for her Uggs? <m>\vphantom{\Huge{M}}</m></cell>
         <cell> </cell>
         <cell>---</cell>
     </row>
