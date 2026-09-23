@@ -90,11 +90,71 @@
         <cell> </cell>
     </row>
     <row halign="center">
-        <cell>Mama B is planning Thanksgiving dinner.  The number of pounds of turkey she will buy depends on the number of people she invites to dinner.  If she invites 12 people, she needs to buy a 15 pound turkey.  If she invites 20 people, she needs to buy a 25 pound turkey.  Write an equation to represent the relationship between the number of guests <m>g</m> and the pounds <m>P</m> of turkey needed.  Write the equation in function notation. <m>\vphantom{\Huge{M}}</m></cell>
+        <cell>Mama B is planning Thanksgiving dinner.  The number of pounds of turkey she will buy depends on the number of people she invites to dinner.  If she invites 12 people, she needs to buy a 15 pound turkey.  If she invites 20 people, she needs to buy a 25 pound turkey.  Write an equation to represent the relationship between the number of guests <m>g</m> and the pounds <m>P</m> of turkey needed.  Write the equation in function notation. </cell>
         <cell>---</cell>
         <cell> </cell>
     </row>
-</tabular>
+   </tabular>
+</exercise> 
+<exercise>
+    <introduction>
+    <p>
+        Wyatt joins a streaming service.  She pays $15 to set up the service and $4.99 per month to use the service.  
+    </p>
+    </introduction>
+    <task workspace="0.01in">
+        <statement>
+            <p>
+                If <m>C</m> is the cost of the service, and <m>m</m> is the number of months using the service, find <m>C(6)</m> and explain what it means in the context of the problem.
+            </p>
+        </statement>
+    <answer>
+        <p>
+            <m>C(6)=15+4.99*6=44.94</m>  
+        </p>
+        <p>
+            If Wyatt uses the streaming service for 6 months, her cost will be $44.94.
+        </p>
+    </answer>
+    </task>
+    <task>
+        <statement>
+            <p>
+                What do the domain values represent?  
+            </p>
+        </statement>
+        <answer>
+            <p>
+                The number of months using the service
+            </p>
+        </answer>
+    </task>
+    <task>
+        <statement>
+            <p>
+                What is the practical domain; answer in interval or inequality notation? (does infinity makes sense?)
+            </p>
+        </statement>
+        <answer>
+            <p>
+                Answers vary.  One possible answer: <m>[0,24]</m> or <m>0 \le m \le 24</m>
+            </p>
+        </answer>
+    </task>
+     <task>
+        <statement>
+            <p>
+                What is the practical range; answer in interval or inequality notation? (How does the domain factor into finding the range?)
+            </p>
+        </statement>
+        <answer>
+            <p>
+                Answers vary.  One possible answer to go with the previous domain: <m>C(0)=15</m> and <m>C(24)=134.76</m>.  So the range is <m>[15,134.76]</m> or <m>15 \le C \le 134.76</m>
+            </p>
+        </answer>
+    </task>
 </exercise>
+        
+
 </page>
 </worksheet>

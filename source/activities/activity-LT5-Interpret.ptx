@@ -1,5 +1,5 @@
 <worksheet>
-    <title>LT 6 Interpreting Slope and Y-Intercept</title>
+    <title>LT 6 Linear Regression Hot Dog Style</title>
     <introduction>
         <p>
             LT 6: Given a data set, make a linear regression model using Desmos, identify and explain the meaning of the slope in the context, identify and explain the meaning of the y-intercept in the context, find inputs and outputs and explain their meaning.
@@ -143,7 +143,7 @@
             </introduction>
             <answer>
                 <p>
-                    <m>H20</m>
+                    <m>H(20)</m>
                 </p>
             </answer>
             <task workspace="0.01in">
@@ -152,12 +152,17 @@
                         Show your work in finding the answer to previous question.
                     </p>
                 </statement>
+                <answer>
+                    <p>
+                        <m>H(20)=138.41</m> It approximately 138 hot dogs are eaten in 20 minutes.
+                    </p>
+                </answer>
             </task>
         </exercise>
         <exercise workspace="0.01in">
             <introduction>
                 <p>
-                    According to the model, how many minutes will it take to eat 100 hot dogs?  Show your work and round to the nearest shole.
+                    According to the model, how many minutes will it take to eat 100 hot dogs?  Show your work using a different method, and round to the nearest whole.
                 </p>
             </introduction>
             <answer>
@@ -172,10 +177,10 @@
                     Consider the domain:
                 </p>
             </introduction>
-            <task workspace="0.01in">
+            <task>
                 <statement>
                     <p>
-                        What does the doamin represent in this story; minutes or number of hot dogs eaten?
+                        What does the domain represent in this story; minutes or number of hot dogs eaten?
                     </p>
                 </statement>
             </task>
@@ -192,7 +197,7 @@
                 </statement>
                 <answer>
                     <p>
-                        No.  A competition will not go on indefinitely.  The contestants will come to a point that they cannot eat anymore hot dogs, or the competition will be timed.
+                        No.  A competition will not go on indefinitely.  The contestants will come to a point that they cannot eat anymore hot dogs, or the competition will be timed.  Negative time does not exist, so negative infinity would not make sense.
                     </p>
                 </answer>
             </task>
@@ -204,7 +209,7 @@
                 </statement>
             <answer>
                 <p>
-                    Answer can vary.  One example: [0,20] or <m>0 \le x \le 20</m>  Which means the competition goes for 20 minutes.
+                    Answer can vary.  One example: [0,20] or <m>0 \le t \le 20</m>  Which means the competition goes for 20 minutes.
                 </p>
             </answer>
             </task>
@@ -216,7 +221,7 @@
                 </statement>
                 <answer>
                     <p>
-                        [5,138] or <m>5 \le x \le 138</m> According to the model equation, 5 hot dogs were eaten when time began, and 138 hot dogs eaten at 20 minutes.
+                        [5,138] or <m>5 \le H \le 138</m> According to the model equation, 5 hot dogs were eaten when time began, and 138 hot dogs eaten at 20 minutes.
                     </p>
                 </answer>
             </task>
