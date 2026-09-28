@@ -1159,7 +1159,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 7 Parameters and Solutions",
-  "body": " LT 7 Parameters and Solutions    For each system below:   Find the slope and y-intercept parameters.    Determine the number of solutions.        Systems Parmaeters  width=\"20%\"\" halign=\"left\"  width=\"15\" halign=\"center\"  width=\"15%\" halign=\"center\"  width=\"10%halign=\"center\"  width=\"40%align=\"center\"   System  Compare Slopes  Compare  intercepts  Number of of Solutions  Sketch of the Graph                                                                                     What are the possible number of solutions to a system of linear equations?      For each tyep of solutions, choose 1 system of equations and look at the table outputs side-by-side. Look for a pattern to describe each type of solution. Show the tables and your thinking below.     width=\"33%\"\" halign=\"left\"  width=\"33%\"\" halign=\"left\"  width=\"33%\"\" halign=\"left\"   System  Number of Solutions (Find the solutions, please)  Justification     linear system of equations 6x+4y=28 and 3x+2y=14    Slope are _____ _____ and y=intercepts are _____ _____     linear system of equations in table form    Slope are _____ _____ and y=intercepts are _____ _____    parallel lines graphed    Slope are _____ _____ and y=intercepts are _____ _____      In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at equations?      In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at a graph?      In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at a table of solutions?    "
+  "body": " LT 7 Parameters and Solutions    For each system below:   Find the slope and y-intercept parameters.    Determine the number of solutions.         Fill in the table:    Systems Parmaeters  width=\"20%\"\" halign=\"left\"  width=\"15\" halign=\"center\"  width=\"15%\" halign=\"center\"  width=\"10%halign=\"center\"  width=\"40%align=\"center\"   System  Compare Slopes  Compare  intercepts  Number of of Solutions  Sketch of the Graph                                                                                    1. different, different, 1 solution, intersection (5, -4)  2. different, different, 1 solution, intersection (-0.833, 3.5)  3. different, same, 1 solution, intersection (0, 1)  4. same, different, 0 solutions, parallel lines  5. same, same, infinite solutions, same line (1 line)      What are the possible number of solutions to a system of linear equations?    0, 1, infinite      For each type of solution, choose 1 system of equations and look at the table outputs side-by-side (3 column x, y1 y2) be sure to include the solution in your table.. Look for a pattern to describe each type of solution. Show the tables and your thinking below.    0 solutions, the outputs are always the same distance apart; the outputs have the same common difference. 1 solution, there is an input that gives the same output on the same line for both y columns. Infinite solutions, all of the outputs across from each other are always the same.      Fill in the table:    width=\"33%\"\" halign=\"left\"  width=\"33%\"\" halign=\"left\"  width=\"33%\"\" halign=\"left\"   System  Number of Solutions (Find the solutions, please)  Justification (same or different)     linear system of equations 6x+4y=28 and 3x+2y=14    Slope are __________ and y=intercepts are __________     linear system of equations in table form    Slope are __________ and y=intercepts are __________    parallel lines graphed    Slope are __________ and y=intercepts are __________     1. Infinite solutions; slopes are the same and the y-intercepts are also the same.  2. (2,16); slopes are different and the y-intercepts are also different.  3. Parallel lines = 0 solutions; slopes are the same and the y-intercepts are also the different.      In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at a table of solutions?    "
 },
 {
   "id": "activities-21-2",
@@ -1171,45 +1171,45 @@ var ptx_lunr_docs = [
   "body": "  For each system below:   Find the slope and y-intercept parameters.    Determine the number of solutions.      "
 },
 {
+  "id": "activities-21-3",
+  "level": "2",
+  "url": "activities-21.html#activities-21-3",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Fill in the table:    Systems Parmaeters  width=\"20%\"\" halign=\"left\"  width=\"15\" halign=\"center\"  width=\"15%\" halign=\"center\"  width=\"10%halign=\"center\"  width=\"40%align=\"center\"   System  Compare Slopes  Compare  intercepts  Number of of Solutions  Sketch of the Graph                                                                                    1. different, different, 1 solution, intersection (5, -4)  2. different, different, 1 solution, intersection (-0.833, 3.5)  3. different, same, 1 solution, intersection (0, 1)  4. same, different, 0 solutions, parallel lines  5. same, same, infinite solutions, same line (1 line)   "
+},
+{
   "id": "activities-21-4",
   "level": "2",
   "url": "activities-21.html#activities-21-4",
   "type": "Worksheet Exercise",
-  "number": "2",
+  "number": "3",
   "title": "",
-  "body": "  What are the possible number of solutions to a system of linear equations?   "
+  "body": "  What are the possible number of solutions to a system of linear equations?    0, 1, infinite   "
 },
 {
   "id": "activities-21-5",
   "level": "2",
   "url": "activities-21.html#activities-21-5",
   "type": "Worksheet Exercise",
-  "number": "3",
+  "number": "4",
   "title": "",
-  "body": "  For each tyep of solutions, choose 1 system of equations and look at the table outputs side-by-side. Look for a pattern to describe each type of solution. Show the tables and your thinking below.   "
+  "body": "  For each type of solution, choose 1 system of equations and look at the table outputs side-by-side (3 column x, y1 y2) be sure to include the solution in your table.. Look for a pattern to describe each type of solution. Show the tables and your thinking below.    0 solutions, the outputs are always the same distance apart; the outputs have the same common difference. 1 solution, there is an input that gives the same output on the same line for both y columns. Infinite solutions, all of the outputs across from each other are always the same.   "
+},
+{
+  "id": "activities-21-6",
+  "level": "2",
+  "url": "activities-21.html#activities-21-6",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Fill in the table:    width=\"33%\"\" halign=\"left\"  width=\"33%\"\" halign=\"left\"  width=\"33%\"\" halign=\"left\"   System  Number of Solutions (Find the solutions, please)  Justification (same or different)     linear system of equations 6x+4y=28 and 3x+2y=14    Slope are __________ and y=intercepts are __________     linear system of equations in table form    Slope are __________ and y=intercepts are __________    parallel lines graphed    Slope are __________ and y=intercepts are __________     1. Infinite solutions; slopes are the same and the y-intercepts are also the same.  2. (2,16); slopes are different and the y-intercepts are also different.  3. Parallel lines = 0 solutions; slopes are the same and the y-intercepts are also the different.   "
 },
 {
   "id": "activities-21-7",
   "level": "2",
   "url": "activities-21.html#activities-21-7",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at equations?   "
-},
-{
-  "id": "activities-21-8",
-  "level": "2",
-  "url": "activities-21.html#activities-21-8",
-  "type": "Worksheet Exercise",
-  "number": "5",
-  "title": "",
-  "body": "  In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at a graph?   "
-},
-{
-  "id": "activities-21-9",
-  "level": "2",
-  "url": "activities-21.html#activities-21-9",
   "type": "Worksheet Exercise",
   "number": "6",
   "title": "",
