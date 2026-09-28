@@ -19,6 +19,12 @@
   </p>
 </introduction>
 </exercise>
+<exercise>
+  <introduction>
+    <p>
+      Fill in the table:
+    </p>
+  </introduction>
 <tabular top="minor" bottom="medium" left="major" right="major">
   <title>Systems Parmaeters</title>
   <col>width="20%"" halign="left"</col>
@@ -120,20 +126,54 @@
    
   </row>
 </tabular>
+<solution>
+   <p>
+      1. different, different, 1 solution, intersection (5, -4)
+    </p>
+    <p>
+      2. different, different, 1 solution, intersection (-0.833, 3.5)
+    </p>
+    <p>
+      3. different, same, 1 solution, intersection (0, 1)
+    </p>
+    <p>
+      4. same, different, 0 solutions, parallel lines
+    </p>
+    <p>
+      5. same, same, infinite solutions, same line (1 line)
+    </p>
+  </solution>
+</exercise>
 <exercise>
   <introduction>
     <p>
       What are the possible number of solutions to a system of linear equations?
     </p>
   </introduction>
+  <solution>
+    <p>
+      0, 1, infinite
+    </p>
+  </solution>
 </exercise>
 <exercise workspace="0.01in">
  <introduction>
   <p>
-    For each tyep of solutions, choose 1 system of equations and look at the table outputs side-by-side. Look for a pattern to describe each type of solution. Show the tables and your thinking below.
+    For each type of solution, choose 1 system of equations and look at the table outputs side-by-side (3 column x, y1 y2) be sure to include the solution in your table.. Look for a pattern to describe each type of solution. Show the tables and your thinking below.
   </p>
  </introduction>
+ <solution>
+  <p>
+    0 solutions, the outputs are always the same distance apart; the outputs have the same common difference.  1 solution, there is an input that gives the same output on the same line for both y columns.   Infinite solutions, all of the outputs across from each other are always the same.
+  </p>
+ </solution>
 </exercise>
+<exercise>
+  <introduction>
+    <p>
+      Fill in the table:
+    </p>
+  </introduction>
 <tabular top="minor" bottom="medium" left="major" right="major">
   
   <col> width="33%"" halign="left"</col>
@@ -143,43 +183,42 @@
   <row header="yes" halign="center" >
     <cell>System</cell>
     <cell>Number of Solutions (Find the solutions, please)</cell>
-    <cell>Justification</cell>
+    <cell>Justification (same or different)</cell>
   </row>
  <row header="yes" halign="left" >
     <cell><image source="system.png">
       <shortdescription>linear system of equations 6x+4y=28 and 3x+2y=14</shortdescription>
     </image></cell>
     <cell></cell>
-    <cell>Slope are _____ _____ and y=intercepts are _____ _____ </cell>
+    <cell>Slope are __________ and y=intercepts are __________ </cell>
   </row>
    <row header="yes" halign="left">
     <cell><image source="systemTanle.png" width="80%">
       <shortdescription>linear system of equations in table form</shortdescription>
     </image></cell>
     <cell></cell>
-    <cell>Slope are _____ _____ and y=intercepts are _____ _____ </cell>
+    <cell>Slope are __________ and y=intercepts are __________ </cell>
   </row>
    <row header="yes" halign="left" >
     <cell><image source="systemGraph.png"><shortdescription>parallel lines graphed</shortdescription>
     </image></cell>
     <cell></cell>
-    <cell>Slope are _____ _____ and y=intercepts are _____ _____ </cell>
+    <cell>Slope are __________ and y=intercepts are __________ </cell>
   </row>
 </tabular>
-<exercise workspace=".5in">
-  <introduction>
-    <p>
-      In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at equations?
-    </p>
-  </introduction>
+<solution>
+  <p>
+    1. Infinite solutions; slopes are the same and the y-intercepts are also the same.
+  </p>
+  <p>
+    2.  (2,16); slopes are different and the y-intercepts are also different.
+  </p>
+  <p>
+    3. Parallel lines = 0 solutions; slopes are the same and the y-intercepts are also the different.
+  </p>
+</solution>
 </exercise>
-<exercise workspace=".5in">
-  <introduction>
-    <p>
-      In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at a graph?
-    </p>
-  </introduction>
-</exercise>
+
 <exercise workspace=".5in">
   <introduction>
     <p>
