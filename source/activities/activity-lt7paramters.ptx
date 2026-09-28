@@ -21,17 +21,18 @@
 </exercise>
 <tabular top="minor" bottom="medium" left="major" right="major">
   <title>Systems Parmaeters</title>
-  <col>width="1 in"" halign="left"</col>
-  <col>width="1.1 in" halign="center"</col>
-  <col>width="1.1 in" halign="center"</col>
-  <col>width="1.1 in" halign="center"</col>
-  <col>width="2 in" halign="center"</col>
+  <col>width="20%"" halign="left"</col>
+  <col>width="15" halign="center"</col>
+  <col>width="15%" halign="center"</col>
+  <col>width="10%halign="center"</col>
+  <col>width="40%align="center"</col>
   <row header="yes" halign="center" >
     <cell>System</cell>
-    <cell>Compare Slopes</cell>
-    <cell>Compare y-intercepts</cell>
-    <cell>Number of Solutions</cell>
-    <cell>Graph</cell>
+    <cell><p>Compare</p><p>Slopes</p></cell>
+    <cell><p>Compare</p>
+          <p>intercepts</p></cell>
+    <cell><p>Number of</p><p>of Solutions</p></cell>
+    <cell><p>Sketch of</p><p>the Graph</p></cell>
       </row>
   <row halign="left">
     <cell>
@@ -119,5 +120,71 @@
    
   </row>
 </tabular>
-</worksheet>
+<exercise>
+  <introduction>
+    <p>
+      What are the possible number of solutions to a system of linear equations?
+    </p>
+  </introduction>
+</exercise>
+<exercise workspace="0.01in">
+ <introduction>
+  <p>
+    For each tyep of solutions, choose 1 system of equations and look at the table outputs side-by-side. Look for a pattern to describe each type of solution. Show the tables and your thinking below.
+  </p>
+ </introduction>
+</exercise>
+<tabular top="minor" bottom="medium" left="major" right="major">
   
+  <col> width="33%"" halign="left"</col>
+  <col> width="33%"" halign="left" </col> 
+  <col> width="33%"" halign="left"</col>
+ 
+  <row header="yes" halign="center" >
+    <cell>System</cell>
+    <cell>Number of Solutions (Find the solutions, please)</cell>
+    <cell>Justification</cell>
+  </row>
+ <row header="yes" halign="left" >
+    <cell><image source="system.png">
+      <shortdescription>linear system of equations 6x+4y=28 and 3x+2y=14</shortdescription>
+    </image></cell>
+    <cell></cell>
+    <cell>Slope are _____ _____ and y=intercepts are _____ _____ </cell>
+  </row>
+   <row header="yes" halign="left">
+    <cell><image source="systemTanle.png" width="80%">
+      <shortdescription>linear system of equations in table form</shortdescription>
+    </image></cell>
+    <cell></cell>
+    <cell>Slope are _____ _____ and y=intercepts are _____ _____ </cell>
+  </row>
+   <row header="yes" halign="left" >
+    <cell><image source="systemGraph.png"><shortdescription>parallel lines graphed</shortdescription>
+    </image></cell>
+    <cell></cell>
+    <cell>Slope are _____ _____ and y=intercepts are _____ _____ </cell>
+  </row>
+</tabular>
+<exercise workspace=".5in">
+  <introduction>
+    <p>
+      In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at equations?
+    </p>
+  </introduction>
+</exercise>
+<exercise workspace=".5in">
+  <introduction>
+    <p>
+      In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at a graph?
+    </p>
+  </introduction>
+</exercise>
+<exercise workspace=".5in">
+  <introduction>
+    <p>
+      In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at a table of solutions?
+    </p>
+  </introduction>
+</exercise>
+</worksheet>
