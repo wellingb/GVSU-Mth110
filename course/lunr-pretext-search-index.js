@@ -1159,7 +1159,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 7 Parameters and Solutions",
-  "body": " LT 7 Parameters and Solutions    For each system below:   Find the slope and y-intercept parameters.    Determine the number of solutions.        Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"   System  Compare Slopes  Compare y-intercepts  Number of Solutions  Graph                                                                                   "
+  "body": " LT 7 Parameters and Solutions    For each system below:   Find the slope and y-intercept parameters.    Determine the number of solutions.        Systems Parmaeters  width=\"20%\"\" halign=\"left\"  width=\"15\" halign=\"center\"  width=\"15%\" halign=\"center\"  width=\"10%halign=\"center\"  width=\"40%align=\"center\"   System  Compare Slopes  Compare  intercepts  Number of of Solutions  Sketch of the Graph                                                                                     What are the possible number of solutions to a system of linear equations?      For each tyep of solutions, choose 1 system of equations and look at the table outputs side-by-side. Look for a pattern to describe each type of solution. Show the tables and your thinking below.     width=\"33%\"\" halign=\"left\"  width=\"33%\"\" halign=\"left\"  width=\"33%\"\" halign=\"left\"   System  Number of Solutions (Find the solutions, please)  Justification     linear system of equations 6x+4y=28 and 3x+2y=14    Slope are _____ _____ and y=intercepts are _____ _____     linear system of equations in table form    Slope are _____ _____ and y=intercepts are _____ _____    parallel lines graphed    Slope are _____ _____ and y=intercepts are _____ _____      In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at equations?      In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at a graph?      In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at a table of solutions?    "
 },
 {
   "id": "activities-21-2",
@@ -1169,6 +1169,51 @@ var ptx_lunr_docs = [
   "number": "1",
   "title": "",
   "body": "  For each system below:   Find the slope and y-intercept parameters.    Determine the number of solutions.      "
+},
+{
+  "id": "activities-21-4",
+  "level": "2",
+  "url": "activities-21.html#activities-21-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  What are the possible number of solutions to a system of linear equations?   "
+},
+{
+  "id": "activities-21-5",
+  "level": "2",
+  "url": "activities-21.html#activities-21-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  For each tyep of solutions, choose 1 system of equations and look at the table outputs side-by-side. Look for a pattern to describe each type of solution. Show the tables and your thinking below.   "
+},
+{
+  "id": "activities-21-7",
+  "level": "2",
+  "url": "activities-21.html#activities-21-7",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at equations?   "
+},
+{
+  "id": "activities-21-8",
+  "level": "2",
+  "url": "activities-21.html#activities-21-8",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at a graph?   "
+},
+{
+  "id": "activities-21-9",
+  "level": "2",
+  "url": "activities-21.html#activities-21-9",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  In your own words, how do you know you have a system with 1...0...infiite solutions if you are looking at a table of solutions?   "
 },
 {
   "id": "activities-22",
