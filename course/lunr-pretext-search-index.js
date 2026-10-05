@@ -1294,70 +1294,70 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 9 Exponential Graphs",
-  "body": " LT 9 Exponential Graphs    Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   Graph of f of x equals 3 times 2 to the x on coordinate axes ranging from -4 to 15.    f(x)=3*(2)^x            What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the growth factor of the function?    The growth factor is . This is the value of in the function . The growth factor is also the value that the function increases by when increases by 1. The growth factor is also the value that the function decreases by when increases by 1 if the function is a decay function.      What is the growth rate of the function?    The growth rate is or . The growth rate is the growth factor minus 1. The growth rate is also the growth factor minus 1 expressed as a percent. The growth rate is also the value that the function increases by when increases by 1 if the function is a growth function. The growth rate is also the value that the function decreases by when increases by 1 if the function is a decay function.      How do you know this is a growth function?    The function is a growth function because the growth factor is greater than 1. If the growth factor was less than 1, then the function would be a decay function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.       Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   decreasing exponential graph with y-intercept (0,2)      What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the decay factor of the function?    The decay factor is . This is the value of in the function . The decay factor is also the value that the function decreases by when increases by 1. The decay factor is also the value that the function increases by when increases by 1 if the function is a growth function.      What is the decay rate of the function?    The decay rate is or . The decay rate is the decay factor minus 1. The decay rate is also the decay factor minus 1 expressed as a percent. The decay rate is also the value that the function decreases by when increases by 1 if the function is a decay function. The decay rate is also the value that the function increases by when increases by 1 if the function is a growth function.      How do you know this is a decay function?    The function is a decay function because the decay factor is less than 1. If the decay factor was greater than 1, then the function would be a growth function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.       Go to Desmos and type in the equations . Click on \"all\" sliders. Move the slider, make observations, and answer the following questions.     Let and What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.      Let and .. What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.       Let in the function . What do you notice about the graph?    The graph is a horizontal line at . The domain of the function is all real numbers. The range of the function is .      Let in the function . What do you notice about the graph?    The graph is a horizontal line at .      Let in the function . What do you notice about the graph?    The graph is not a function. The graph does not pass the vertical line test.      Fill in the table to make a summary of the connections between and and the graph of the function .                                                       graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs     graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs      "
+  "body": " LT 9 Exponential Graphs     Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   Graph of f of x equals 3 times 2 to the x on coordinate axes ranging from -4 to 15.    f(x)=3*(2)^x            What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the growth factor of the function?    The growth factor is . This is the value of in the function . The growth factor is also the value that the function increases by when increases by 1. The growth factor is also the value that the function decreases by when increases by 1 if the function is a decay function.      What is the growth rate of the function?    The growth rate is or . The growth rate is the growth factor minus 1. The growth rate is also the growth factor minus 1 expressed as a percent. The growth rate is also the value that the function increases by when increases by 1 if the function is a growth function. The growth rate is also the value that the function decreases by when increases by 1 if the function is a decay function.      How do you know this is a growth function?    The function is a growth function because the growth factor is greater than 1. If the growth factor was less than 1, then the function would be a decay function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.       Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   decreasing exponential graph with y-intercept (0,2)      What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the decay factor of the function?    The decay factor is . This is the value of in the function . The decay factor is also the value that the function decreases by when increases by 1. The decay factor is also the value that the function increases by when increases by 1 if the function is a growth function.      What is the decay rate of the function?    The decay rate is or . The decay rate is the decay factor minus 1. The decay rate is also the decay factor minus 1 expressed as a percent. The decay rate is also the value that the function decreases by when increases by 1 if the function is a decay function. The decay rate is also the value that the function increases by when increases by 1 if the function is a growth function.      How do you know this is a decay function?    The function is a decay function because the decay factor is less than 1. If the decay factor was greater than 1, then the function would be a growth function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.         Go to Desmos and type in the equations . Click on \"all\" sliders. Move the slider, make observations, and answer the following questions.     Let . What do you notice about the graph when ? ...when ? What is the domain and range of the function?    The graph increases when and decreases when . The graphs are reflections across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.      Let . What do you notice about the graph when ? ...when ? What is the domain and range of the function?    The graph decreases above the x-axis when , and increases below the x-axis when . The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.       Let in the function . What do you notice about the graph?     What do you notice about the graph?    The graph is a horizontal line at . The domain of the function is all real numbers. The range of the function is .       Let in the function . What do you notice about the graph?     What do you notice about the graph?    The graph is a horizontal line at .       Let in the function . What do you notice about the graph?     What do you notice about the graph?    The graph is not a function. The graph does not pass the vertical line test.       Fill in the table to make a summary of the connections between and and the graph of the function .     Fill in the table to make a summary of the connections between and and the graph of the function .                                        For , the graph decreases when , increases when , is constant at when , and is the horizontal line when . For , the graph is reflected across the -axis, so the same patterns occur with the output values negated.      "
 },
 {
-  "id": "activities-24-2",
+  "id": "activities-24-2-1",
   "level": "2",
-  "url": "activities-24.html#activities-24-2",
+  "url": "activities-24.html#activities-24-2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
   "body": "  Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   Graph of f of x equals 3 times 2 to the x on coordinate axes ranging from -4 to 15.    f(x)=3*(2)^x            What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the growth factor of the function?    The growth factor is . This is the value of in the function . The growth factor is also the value that the function increases by when increases by 1. The growth factor is also the value that the function decreases by when increases by 1 if the function is a decay function.      What is the growth rate of the function?    The growth rate is or . The growth rate is the growth factor minus 1. The growth rate is also the growth factor minus 1 expressed as a percent. The growth rate is also the value that the function increases by when increases by 1 if the function is a growth function. The growth rate is also the value that the function decreases by when increases by 1 if the function is a decay function.      How do you know this is a growth function?    The function is a growth function because the growth factor is greater than 1. If the growth factor was less than 1, then the function would be a decay function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.    "
 },
 {
-  "id": "activities-24-3",
+  "id": "activities-24-2-2",
   "level": "2",
-  "url": "activities-24.html#activities-24-3",
+  "url": "activities-24.html#activities-24-2-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
   "body": "  Look at the image below. The graph is of the function . Use the graph to answer the following questions. You may use Desmos to help you answer the questions.   decreasing exponential graph with y-intercept (0,2)      What is the initial value of the function?    The initial value is . This is the value of the function when . The initial value is also the -intercept of the graph. The initial value is also the value of in the function .      What is the decay factor of the function?    The decay factor is . This is the value of in the function . The decay factor is also the value that the function decreases by when increases by 1. The decay factor is also the value that the function increases by when increases by 1 if the function is a growth function.      What is the decay rate of the function?    The decay rate is or . The decay rate is the decay factor minus 1. The decay rate is also the decay factor minus 1 expressed as a percent. The decay rate is also the value that the function decreases by when increases by 1 if the function is a decay function. The decay rate is also the value that the function increases by when increases by 1 if the function is a growth function.      How do you know this is a decay function?    The function is a decay function because the decay factor is less than 1. If the decay factor was greater than 1, then the function would be a growth function.      What is the domain and range of the function?    The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.    "
 },
 {
-  "id": "activities-24-4",
+  "id": "activities-24-3-1",
   "level": "2",
-  "url": "activities-24.html#activities-24-4",
+  "url": "activities-24.html#activities-24-3-1",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Go to Desmos and type in the equations . Click on \"all\" sliders. Move the slider, make observations, and answer the following questions.     Let and What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.      Let and .. What do you notice about the graph? What is the domain and range of the function? How does this graph differ from the graph when ?    The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers less than 0.    "
+  "body": "  Go to Desmos and type in the equations . Click on \"all\" sliders. Move the slider, make observations, and answer the following questions.     Let . What do you notice about the graph when ? ...when ? What is the domain and range of the function?    The graph increases when and decreases when . The graphs are reflections across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.      Let . What do you notice about the graph when ? ...when ? What is the domain and range of the function?    The graph decreases above the x-axis when , and increases below the x-axis when . The graph is a reflection of the graph when across the -axis. The domain of the function is all real numbers. The range of the function is all real numbers greater than 0.    "
 },
 {
-  "id": "activities-24-5",
+  "id": "activities-24-3-2",
   "level": "2",
-  "url": "activities-24.html#activities-24-5",
+  "url": "activities-24.html#activities-24-3-2",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "  Let in the function . What do you notice about the graph?    The graph is a horizontal line at . The domain of the function is all real numbers. The range of the function is .   "
+  "body": "  Let in the function . What do you notice about the graph?     What do you notice about the graph?    The graph is a horizontal line at . The domain of the function is all real numbers. The range of the function is .    "
 },
 {
-  "id": "activities-24-6",
+  "id": "activities-24-3-3",
   "level": "2",
-  "url": "activities-24.html#activities-24-6",
+  "url": "activities-24.html#activities-24-3-3",
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
-  "body": "  Let in the function . What do you notice about the graph?    The graph is a horizontal line at .   "
+  "body": "  Let in the function . What do you notice about the graph?     What do you notice about the graph?    The graph is a horizontal line at .    "
 },
 {
-  "id": "activities-24-7",
+  "id": "activities-24-3-4",
   "level": "2",
-  "url": "activities-24.html#activities-24-7",
+  "url": "activities-24.html#activities-24-3-4",
   "type": "Worksheet Exercise",
   "number": "6",
   "title": "",
-  "body": "  Let in the function . What do you notice about the graph?    The graph is not a function. The graph does not pass the vertical line test.   "
+  "body": "  Let in the function . What do you notice about the graph?     What do you notice about the graph?    The graph is not a function. The graph does not pass the vertical line test.    "
 },
 {
-  "id": "activities-24-8",
+  "id": "activities-24-3-5",
   "level": "2",
-  "url": "activities-24.html#activities-24-8",
+  "url": "activities-24.html#activities-24-3-5",
   "type": "Worksheet Exercise",
   "number": "7",
   "title": "",
-  "body": "  Fill in the table to make a summary of the connections between and and the graph of the function .                                                       graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs     graph decreases  graph increases  graph is constant y =   graph is y = 0 for all positive inputs     "
+  "body": "  Fill in the table to make a summary of the connections between and and the graph of the function .     Fill in the table to make a summary of the connections between and and the graph of the function .                                        For , the graph decreases when , increases when , is constant at when , and is the horizontal line when . For , the graph is reflected across the -axis, so the same patterns occur with the output values negated.    "
 },
 {
   "id": "activities-25",
@@ -1365,8 +1365,8 @@ var ptx_lunr_docs = [
   "url": "activities-25.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 8 Linear vs Exponential Patterns",
-  "body": " LT 8 Linear vs Exponential Patterns    Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu, increases by 3.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.      What is the common difference? (How do you find this?)    The common difference is found by subtracting from . For example: 23-20 = 3 The common ratio = 3      Let ve the function for the number of students with the flu after days. Find     The initial value is 20 students. This is the value. he common difference we found to be 3. This is the value. Putting it together,       Find and interpret its meaning in the context of the flu scenario          On day 14, there ae 62 students with the flu.       Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu triples.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.          The common difference is found by subtracting from . In this case 60-20 = 40 and 180-60=120. Since these are not the same difference, there is no common difference.      Try a couple of times. What do you find?          The result is the same when we do the division over and over. This is called a common ratio. The common ratio is the value of an exponential function.      Let ve the function for the number of students with the flu after days. Find     The initial value is 20 students. This is the value. he common ratio we found to be 3. This is the value. Putting it together,       Find and interpret its meaning in the context of the flu scenario        x   On day 14, there ae approximately 70,000,000,000 students with the flu.      How realistic is your answer in the previous question?    That number is not realistic at all.      What would be a more reasonable range of outputs? Why?    Answers will vary. GVSU has approximately 26,000 students, so a more reasonable range might be from 20 students (what we started with) to 26,000 students (if all students had the flu).      Which function model best represents how the flu is really spread? Explain your thinking.    The exponentia model fits better becasue the flu does not spead at a steady rate. It speads faster and faster if there is no remediation,     "
+  "title": "LT 9 Graph Fill-in-the-Blanks",
+  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.        exponential growth graph                        "
 },
 {
   "id": "activities-25-2",
@@ -1375,16 +1375,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu, increases by 3.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.      What is the common difference? (How do you find this?)    The common difference is found by subtracting from . For example: 23-20 = 3 The common ratio = 3      Let ve the function for the number of students with the flu after days. Find     The initial value is 20 students. This is the value. he common difference we found to be 3. This is the value. Putting it together,       Find and interpret its meaning in the context of the flu scenario          On day 14, there ae 62 students with the flu.    "
-},
-{
-  "id": "activities-25-3",
-  "level": "2",
-  "url": "activities-25.html#activities-25-3",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu triples.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.          The common difference is found by subtracting from . In this case 60-20 = 40 and 180-60=120. Since these are not the same difference, there is no common difference.      Try a couple of times. What do you find?          The result is the same when we do the division over and over. This is called a common ratio. The common ratio is the value of an exponential function.      Let ve the function for the number of students with the flu after days. Find     The initial value is 20 students. This is the value. he common ratio we found to be 3. This is the value. Putting it together,       Find and interpret its meaning in the context of the flu scenario        x   On day 14, there ae approximately 70,000,000,000 students with the flu.      How realistic is your answer in the previous question?    That number is not realistic at all.      What would be a more reasonable range of outputs? Why?    Answers will vary. GVSU has approximately 26,000 students, so a more reasonable range might be from 20 students (what we started with) to 26,000 students (if all students had the flu).      Which function model best represents how the flu is really spread? Explain your thinking.    The exponentia model fits better becasue the flu does not spead at a steady rate. It speads faster and faster if there is no remediation,    "
+  "body": "  Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.        exponential growth graph                       "
 },
 {
   "id": "activities-26",
@@ -1392,35 +1383,26 @@ var ptx_lunr_docs = [
   "url": "activities-26.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 8 Counting Cubes",
-  "body": " LT 8 Counting Cubes    Dots are painted on the faces of the cubes. If you toss the cubes and a dot appears on the top face, remove the cube. To determine the relationship between the number of faces with dots on the and the number of cubes reamining after rolls, complete the following expericment   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6     7     8     9     10        Make a table of values for this scenario.      Take one of the containers. In the tabe corresponding to the number of dots on each cube in your container, record the number of cubes in your container as roll 0.      Shake the container and pour out the cubes in the plate so the cubes are one layer thick. If a dot is showing, set the cube aside. Count the number of cubes remaining; this is the number associated with roll 0. Return the remaining cubes to the container (the ones you just counted).      Repeat the process untik the contain has 1-2 cubes left.       Put your table of values into Desmos. Describe what your graph looks like.     Make your table and a sketch of your graph on the board. Be sure to label how many dots per cube your that you had. Label your axes. Save room for adding more work on the board later.      Your classmates had different number of dots on their cubes. How are the functions related? Why is this reasonable?       Now pour out all the cubes from your container and we will be adding cubes back in.   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6         Shake the container and pour out 5 cubes into a single layer. For each cube that has a dot showing face up, add it plus one more cube into the container. Count the number of cubes and record this for roll 1. (You should not have more than 5 cubes in the container). Repeat the prcess for at least 6 rolls.     Put your data into Desmos. What does your graph look like?     Make your table and a sketch of your graph on the board. Be sure to label how many dots per cube your that you had. Label your axes.     Your classmates had a different number of dots on their coubes. How are the functions related? Why is this reasonable?    What relationship exists between the functions when yu removed the cubes from the container and the function when you added cubes to the container?    What real-life uses might be made of your discoveries in this experiement?   "
+  "title": "LT 8 Linear vs Exponential Patterns",
+  "body": " LT 8 Linear vs Exponential Patterns     Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu, increases by 3.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.      What is the common difference? (How do you find this?)    The common difference is found by subtracting from . For example: 23-20 = 3 The common ratio = 3      Let be the function for the number of students with the flu after days. Find     The initial value is 20 students. This is the value. he common difference we found to be 3. This is the value. Putting it together,       Find and interpret its meaning in the context of the flu scenario          On day 14, there ae 62 students with the flu.       Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu triples.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.      What is the common difference, if it exists?    The common difference is found by subtracting from . In this case 60-20 = 40 and 180-60=120. Since these are not the same difference, there is no common difference.      What is the initial value?    The initial value is 20 students. This is the value in the exponential function, which is the F-intercept (0, a). The initial value is the number of students with the flu on day 0, which is January 1.      Try a couple of times. What do you find?          The result is the same when we do the division over and over. This is called a common ratio. The common ratio is the value of an exponential function.         Exponential functions have a common ratio and a constant, which is the y-intercept. The general equation is . Let be the function for the number of students with the flu after days. Find     The initial value is 20 students. This is the value. he common ratio we found to be 3. This is the value. Putting it together,       Find and interpret its meaning in the context of the flu scenario        x   On day 14, there ae approximately 70,000,000,000 students with the flu.      How realistic is your answer in the previous question?    That number is not realistic at all.      What would be a more reasonable range of outputs? Why?    Answers will vary. GVSU has approximately 26,000 students, so a more reasonable range might be from 20 students (what we started with) to 26,000 students (if all students had the flu).      Which function model best represents how the flu is really spread? Explain your thinking.    The exponentia model fits better becasue the flu does not spead at a steady rate. It speads faster and faster if there is no remediation,     "
 },
 {
-  "id": "activities-26-2",
+  "id": "activities-26-2-1",
   "level": "2",
-  "url": "activities-26.html#activities-26-2",
+  "url": "activities-26.html#activities-26-2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Dots are painted on the faces of the cubes. If you toss the cubes and a dot appears on the top face, remove the cube. To determine the relationship between the number of faces with dots on the and the number of cubes reamining after rolls, complete the following expericment   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6     7     8     9     10        Make a table of values for this scenario.      Take one of the containers. In the tabe corresponding to the number of dots on each cube in your container, record the number of cubes in your container as roll 0.      Shake the container and pour out the cubes in the plate so the cubes are one layer thick. If a dot is showing, set the cube aside. Count the number of cubes remaining; this is the number associated with roll 0. Return the remaining cubes to the container (the ones you just counted).      Repeat the process untik the contain has 1-2 cubes left.    "
+  "body": "  Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu, increases by 3.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.      What is the common difference? (How do you find this?)    The common difference is found by subtracting from . For example: 23-20 = 3 The common ratio = 3      Let be the function for the number of students with the flu after days. Find     The initial value is 20 students. This is the value. he common difference we found to be 3. This is the value. Putting it together,       Find and interpret its meaning in the context of the flu scenario          On day 14, there ae 62 students with the flu.    "
 },
 {
-  "id": "activities-26-3",
+  "id": "activities-26-2-2",
   "level": "2",
-  "url": "activities-26.html#activities-26-3",
+  "url": "activities-26.html#activities-26-2-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Put your table of values into Desmos. Describe what your graph looks like.     Make your table and a sketch of your graph on the board. Be sure to label how many dots per cube your that you had. Label your axes. Save room for adding more work on the board later.      Your classmates had different number of dots on their cubes. How are the functions related? Why is this reasonable?    "
-},
-{
-  "id": "activities-26-4",
-  "level": "2",
-  "url": "activities-26.html#activities-26-4",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Now pour out all the cubes from your container and we will be adding cubes back in.   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6      "
+  "body": "  Suppose a flu epidemic has broken out at GVSU. Assume that on January 1, 20 people have the flu and that each day, the number of people (past and present) who have gotten the flu triples.   width=60% halign=\"center\"  width=70%   Days since Jan 1 (d)  Number with the Flu (F)    0     1     2     3     4     5     d        Make a table of values for this scenario.      What is the common difference, if it exists?    The common difference is found by subtracting from . In this case 60-20 = 40 and 180-60=120. Since these are not the same difference, there is no common difference.      What is the initial value?    The initial value is 20 students. This is the value in the exponential function, which is the F-intercept (0, a). The initial value is the number of students with the flu on day 0, which is January 1.      Try a couple of times. What do you find?          The result is the same when we do the division over and over. This is called a common ratio. The common ratio is the value of an exponential function.    "
 },
 {
   "id": "activities-27",
@@ -1428,8 +1410,8 @@ var ptx_lunr_docs = [
   "url": "activities-27.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 8 Finding the Equation of an Exponential Graph",
-  "body": " LT 8 Finding the Equation of an Exponential Graph    How do you find a common ratio?    To find a common ratio, you can divide the second term by the first term. You can also divide the third term by the second term. If these two ratios are equal, then you have a common ratio.     We will be using this same idea to find the equation of an exponential graph. Our ratio will be the equation formed from one point on the graph and a second equation formed by a second point on the graph.        Use the points (0, 3) and (2, 12) to find the equation.       Use the points (1, 5) and (3, 20) to find the equation.       Use the points (0, 2) and (3, 16) to find the equation. Would you need to make a ratio for this problem? Why or why not?    The equation is     "
+  "title": "LT 8 Counting Cubes",
+  "body": " LT 8 Counting Cubes    Dots are painted on the faces of the cubes. If you toss the cubes and a dot appears on the top face, remove the cube. To determine the relationship between the number of faces with dots on the and the number of cubes reamining after rolls, complete the following expericment   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6     7     8     9     10        Make a table of values for this scenario.      Take one of the containers. In the tabe corresponding to the number of dots on each cube in your container, record the number of cubes in your container as roll 0.      Shake the container and pour out the cubes in the plate so the cubes are one layer thick. If a dot is showing, set the cube aside. Count the number of cubes remaining; this is the number associated with roll 0. Return the remaining cubes to the container (the ones you just counted).      Repeat the process untik the contain has 1-2 cubes left.       Put your table of values into Desmos. Describe what your graph looks like.     Make your table and a sketch of your graph on the board. Be sure to label how many dots per cube your that you had. Label your axes. Save room for adding more work on the board later.      Your classmates had different number of dots on their cubes. How are the functions related? Why is this reasonable?       Now pour out all the cubes from your container and we will be adding cubes back in.   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6         Shake the container and pour out 5 cubes into a single layer. For each cube that has a dot showing face up, add it plus one more cube into the container. Count the number of cubes and record this for roll 1. (You should not have more than 5 cubes in the container). Repeat the prcess for at least 6 rolls.     Put your data into Desmos. What does your graph look like?     Make your table and a sketch of your graph on the board. Be sure to label how many dots per cube your that you had. Label your axes.     Your classmates had a different number of dots on their coubes. How are the functions related? Why is this reasonable?    What relationship exists between the functions when yu removed the cubes from the container and the function when you added cubes to the container?    What real-life uses might be made of your discoveries in this experiement?   "
 },
 {
   "id": "activities-27-2",
@@ -1438,34 +1420,25 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  How do you find a common ratio?    To find a common ratio, you can divide the second term by the first term. You can also divide the third term by the second term. If these two ratios are equal, then you have a common ratio.   "
+  "body": "  Dots are painted on the faces of the cubes. If you toss the cubes and a dot appears on the top face, remove the cube. To determine the relationship between the number of faces with dots on the and the number of cubes reamining after rolls, complete the following expericment   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6     7     8     9     10        Make a table of values for this scenario.      Take one of the containers. In the tabe corresponding to the number of dots on each cube in your container, record the number of cubes in your container as roll 0.      Shake the container and pour out the cubes in the plate so the cubes are one layer thick. If a dot is showing, set the cube aside. Count the number of cubes remaining; this is the number associated with roll 0. Return the remaining cubes to the container (the ones you just counted).      Repeat the process untik the contain has 1-2 cubes left.    "
+},
+{
+  "id": "activities-27-3",
+  "level": "2",
+  "url": "activities-27.html#activities-27-3",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Put your table of values into Desmos. Describe what your graph looks like.     Make your table and a sketch of your graph on the board. Be sure to label how many dots per cube your that you had. Label your axes. Save room for adding more work on the board later.      Your classmates had different number of dots on their cubes. How are the functions related? Why is this reasonable?    "
 },
 {
   "id": "activities-27-4",
   "level": "2",
   "url": "activities-27.html#activities-27-4",
   "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Use the points (0, 3) and (2, 12) to find the equation.    "
-},
-{
-  "id": "activities-27-5",
-  "level": "2",
-  "url": "activities-27.html#activities-27-5",
-  "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Use the points (1, 5) and (3, 20) to find the equation.    "
-},
-{
-  "id": "activities-27-6",
-  "level": "2",
-  "url": "activities-27.html#activities-27-6",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  Use the points (0, 2) and (3, 16) to find the equation. Would you need to make a ratio for this problem? Why or why not?    The equation is    "
+  "body": "  Now pour out all the cubes from your container and we will be adding cubes back in.   width=60% halign=\"center\"  width=70%   Roll Number (n)  Number of Cubes Remaining (C)    0     1     2     3     4     5     6      "
 },
 {
   "id": "activities-28",
@@ -1473,8 +1446,8 @@ var ptx_lunr_docs = [
   "url": "activities-28.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 9 Growth and Decay",
-  "body": " LT 9 Growth and Decay    Review: Complete the table.             Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?         Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                     Growth  177    9.8%     Decay  5.41    7%     "
+  "title": "LT 8 Finding the Equation of an Exponential Graph",
+  "body": " LT 8 Finding the Equation of an Exponential Graph    How do you find a common ratio?    To find a common ratio, you can divide the second term by the first term. You can also divide the third term by the second term. If these two ratios are equal, then you have a common ratio.     We will be using this same idea to find the equation of an exponential graph. Our ratio will be the equation formed from one point on the graph and a second equation formed by a second point on the graph.        Use the points (0, 3) and (2, 12) to find the equation.       Use the points (1, 5) and (3, 20) to find the equation.       Use the points (0, 2) and (3, 16) to find the equation. Would you need to make a ratio for this problem? Why or why not?    The equation is     "
 },
 {
   "id": "activities-28-2",
@@ -1483,16 +1456,34 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Review: Complete the table.             Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?      "
+  "body": "  How do you find a common ratio?    To find a common ratio, you can divide the second term by the first term. You can also divide the third term by the second term. If these two ratios are equal, then you have a common ratio.   "
 },
 {
-  "id": "activities-28-3",
+  "id": "activities-28-4",
   "level": "2",
-  "url": "activities-28.html#activities-28-3",
+  "url": "activities-28.html#activities-28-4",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                     Growth  177    9.8%     Decay  5.41    7%    "
+  "body": "  Use the points (0, 3) and (2, 12) to find the equation.    "
+},
+{
+  "id": "activities-28-5",
+  "level": "2",
+  "url": "activities-28.html#activities-28-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Use the points (1, 5) and (3, 20) to find the equation.    "
+},
+{
+  "id": "activities-28-6",
+  "level": "2",
+  "url": "activities-28.html#activities-28-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Use the points (0, 2) and (3, 16) to find the equation. Would you need to make a ratio for this problem? Why or why not?    The equation is    "
 },
 {
   "id": "activities-29",
@@ -1500,8 +1491,8 @@ var ptx_lunr_docs = [
   "url": "activities-29.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 10 Growth and Decay in Applications",
-  "body": " LT 10 Growth and Decay in Applications    . A storage tank contains a radioactive element. Let be the percentage of the element that reamains at years since the element was placed in the tank. The graph of is shown below.   half life starting of 10 years starting at 100 percent      What is the half-life of the element?      What percentage of the element remains after 40 years?     "
+  "title": "LT 9 Growth and Decay",
+  "body": " LT 9 Growth and Decay    Review: Complete the table.             Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?         Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                     Growth  177    9.8%     Decay  5.41    7%     "
 },
 {
   "id": "activities-29-2",
@@ -1510,7 +1501,16 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  . A storage tank contains a radioactive element. Let be the percentage of the element that reamains at years since the element was placed in the tank. The graph of is shown below.   half life starting of 10 years starting at 100 percent      What is the half-life of the element?      What percentage of the element remains after 40 years?    "
+  "body": "  Review: Complete the table.             Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?      "
+},
+{
+  "id": "activities-29-3",
+  "level": "2",
+  "url": "activities-29.html#activities-29-3",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                     Growth  177    9.8%     Decay  5.41    7%    "
 },
 {
   "id": "activities-30",
@@ -1518,8 +1518,17 @@ var ptx_lunr_docs = [
   "url": "activities-30.html",
   "type": "Worksheet",
   "number": "",
-  "title": "Images",
-  "body": " Images    "
+  "title": "LT 10 Growth and Decay in Applications",
+  "body": " LT 10 Growth and Decay in Applications    . A storage tank contains a radioactive element. Let be the percentage of the element that reamains at years since the element was placed in the tank. The graph of is shown below.   half life starting of 10 years starting at 100 percent      What is the half-life of the element?      What percentage of the element remains after 40 years?     "
+},
+{
+  "id": "activities-30-2",
+  "level": "2",
+  "url": "activities-30.html#activities-30-2",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  . A storage tank contains a radioactive element. Let be the percentage of the element that reamains at years since the element was placed in the tank. The graph of is shown below.   half life starting of 10 years starting at 100 percent      What is the half-life of the element?      What percentage of the element remains after 40 years?    "
 },
 {
   "id": "activities-31",
@@ -1527,35 +1536,8 @@ var ptx_lunr_docs = [
   "url": "activities-31.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 11 Heads or Tails Regression",
-  "body": " LT 11 Heads or Tails Regression   Objective: Discover the behavior and characteristics of exponential graphs and functions.    Procedure:  Pour out a bag of pennies onto the plate provided and put the pennies in one layer. Then remove all the pennies with the heads showing. Count and record the number of pennies removed and the number of pennies remaining.  Place the pennies removed aside and pour the remaining pennies back into the container. Again, shake the pennies, pour them out onto the plate, and remove the pennies with the head showing. Record the number of pennies removed and remaining.  Repeat until all the pennies are removed. You may not need all of the trials, or you may need to add trials.   Removed and Remaining  width=60% halign=\"center\"  width=70%   Trial Number  Number Removed  Number Remaining    1        2        3        4        4        5        6        7           Let be the trial number (input), and be the number remaining (output). Construct a scattergram in Desmos and make a rough sketch below. Do not forget your labels. Let your window (see the wrench on the right side) be and .      Which type of function, linear or exponential, do you think best models the data? Why?      Let's look at the common ratio of the data. Fill in the table below. Let be the number remaining and be the common ratio.   Common Ratio  width=60% halign=\"center\"  width=70%   Trial Number  Number Remaining  Common Ratio    1      2      3        4        5        CR  ---          The data is not perfect, but what does the common ratio represent?       We did not have a trial number 0. Why do you think that is?  If we had a trial number 0, what would the number remaining be?      Go to Desmos and create your table of data for trial number and number remaining.      Look back at your estimation for the common ratio and your answer to the trial 0 question. Do your answers come close to the and of your regression model?  What does this remind you about the relationship between the y-intercept, common ratio and the and of an exponential function?      Find the regression model equation for the data. Be sure that you use the drop down and choose Exponential Regression and use Log Mode. Write the equation below.      Use your regression model to predict the number remaining after 10 trials. How does this compare to your data?    "
-},
-{
-  "id": "activities-31-4",
-  "level": "2",
-  "url": "activities-31.html#activities-31-4",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  Let be the trial number (input), and be the number remaining (output). Construct a scattergram in Desmos and make a rough sketch below. Do not forget your labels. Let your window (see the wrench on the right side) be and .   "
-},
-{
-  "id": "activities-31-5",
-  "level": "2",
-  "url": "activities-31.html#activities-31-5",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Which type of function, linear or exponential, do you think best models the data? Why?   "
-},
-{
-  "id": "activities-31-6",
-  "level": "2",
-  "url": "activities-31.html#activities-31-6",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Let's look at the common ratio of the data. Fill in the table below. Let be the number remaining and be the common ratio.   Common Ratio  width=60% halign=\"center\"  width=70%   Trial Number  Number Remaining  Common Ratio    1      2      3        4        5        CR  ---       "
+  "title": "Images",
+  "body": " Images    "
 },
 {
   "id": "activities-32",
@@ -1563,26 +1545,35 @@ var ptx_lunr_docs = [
   "url": "activities-32.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Inverse Function Introduction",
-  "body": " LT 12 Inverse Function Introduction    Introduct Inverse Functions.    Learn to find inverse functions for linear functions.    Learn to find inverse functions for exponential functions.      When a foreigner visits the U.S., they may want to be able to comfortably convert between Metric and Imperial temperatures. Yo u are told to convert to Fahrenheit temperature to Celsius, first subtract 32, then multiply the result by   Fill in the table to covert the Fahrenheigt temperatures to Celsius temperatures.   width=60% halign=\"center\"  width=70%   Fahrenheit  Celsius    32     32     50     68     80.6         Write a function whose input is is the temperature in Fahrenheit degrees, and whose output is the temperature in Celsius degrees.      What type of function is (Linear, Expoential, or Quadratic)?      Enter your table and equation into Desmos. Does the graph agree with your choice of function?      Now, you are in Canada and want to convert Celsius temperatures to Fahrenheit. Write a sentence like the one explaining how to convert Fahrenheit to Celsuius, that can help you convert from Celsius degrss to Fahrenhet.  Fill in the table to covert Celsius to Fahrenheit degrees.  Fahrenheit to Celsius   width=60% halign=\"center\"  width=70%   Celsius  Fahrenheit    -5     0     10     20     27         Write a function whose input is is the temperature in Celsius degrees, and whose output is the temperature in Fahrenheit degrees.      What do you observe from the data in the tables above?      Go back to Desmos and enter a new table with the Celsius to Fahrenheit data. Does the graph agree with your choice of function?      Plot the line along with your two equations. What do you notice about relationship between the the graphs of and and the line     "
+  "title": "LT 11 Heads or Tails Regression",
+  "body": " LT 11 Heads or Tails Regression   Objective: Discover the behavior and characteristics of exponential graphs and functions.    Procedure:  Pour out a bag of pennies onto the plate provided and put the pennies in one layer. Then remove all the pennies with the heads showing. Count and record the number of pennies removed and the number of pennies remaining.  Place the pennies removed aside and pour the remaining pennies back into the container. Again, shake the pennies, pour them out onto the plate, and remove the pennies with the head showing. Record the number of pennies removed and remaining.  Repeat until all the pennies are removed. You may not need all of the trials, or you may need to add trials.   Removed and Remaining  width=60% halign=\"center\"  width=70%   Trial Number  Number Removed  Number Remaining    1        2        3        4        4        5        6        7           Let be the trial number (input), and be the number remaining (output). Construct a scattergram in Desmos and make a rough sketch below. Do not forget your labels. Let your window (see the wrench on the right side) be and .      Which type of function, linear or exponential, do you think best models the data? Why?      Let's look at the common ratio of the data. Fill in the table below. Let be the number remaining and be the common ratio.   Common Ratio  width=60% halign=\"center\"  width=70%   Trial Number  Number Remaining  Common Ratio    1      2      3        4        5        CR  ---          The data is not perfect, but what does the common ratio represent?       We did not have a trial number 0. Why do you think that is?  If we had a trial number 0, what would the number remaining be?      Go to Desmos and create your table of data for trial number and number remaining.      Look back at your estimation for the common ratio and your answer to the trial 0 question. Do your answers come close to the and of your regression model?  What does this remind you about the relationship between the y-intercept, common ratio and the and of an exponential function?      Find the regression model equation for the data. Be sure that you use the drop down and choose Exponential Regression and use Log Mode. Write the equation below.      Use your regression model to predict the number remaining after 10 trials. How does this compare to your data?    "
 },
 {
-  "id": "activities-32-3",
+  "id": "activities-32-4",
   "level": "2",
-  "url": "activities-32.html#activities-32-3",
+  "url": "activities-32.html#activities-32-4",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  When a foreigner visits the U.S., they may want to be able to comfortably convert between Metric and Imperial temperatures. Yo u are told to convert to Fahrenheit temperature to Celsius, first subtract 32, then multiply the result by   Fill in the table to covert the Fahrenheigt temperatures to Celsius temperatures.   width=60% halign=\"center\"  width=70%   Fahrenheit  Celsius    32     32     50     68     80.6      "
+  "body": "  Let be the trial number (input), and be the number remaining (output). Construct a scattergram in Desmos and make a rough sketch below. Do not forget your labels. Let your window (see the wrench on the right side) be and .   "
 },
 {
-  "id": "activities-32-7",
+  "id": "activities-32-5",
   "level": "2",
-  "url": "activities-32.html#activities-32-7",
+  "url": "activities-32.html#activities-32-5",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Now, you are in Canada and want to convert Celsius temperatures to Fahrenheit. Write a sentence like the one explaining how to convert Fahrenheit to Celsuius, that can help you convert from Celsius degrss to Fahrenhet.  Fill in the table to covert Celsius to Fahrenheit degrees.  Fahrenheit to Celsius   width=60% halign=\"center\"  width=70%   Celsius  Fahrenheit    -5     0     10     20     27      "
+  "body": "  Which type of function, linear or exponential, do you think best models the data? Why?   "
+},
+{
+  "id": "activities-32-6",
+  "level": "2",
+  "url": "activities-32.html#activities-32-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Let's look at the common ratio of the data. Fill in the table below. Let be the number remaining and be the common ratio.   Common Ratio  width=60% halign=\"center\"  width=70%   Trial Number  Number Remaining  Common Ratio    1      2      3        4        5        CR  ---       "
 },
 {
   "id": "activities-33",
@@ -1590,35 +1581,26 @@ var ptx_lunr_docs = [
   "url": "activities-33.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Log Rolling",
-  "body": " LT 12 Log Rolling    Use Desmos to evaluate each lexponential and log equation. A table for work is provided after the equation circle.  Match equivalent expressions by drawing a line. After calculating the value for in each equation, you should be able to draw at least one line for each equation   circle of log equations    Systems Parmaeters  width=50% halign=\"center\"  width=50%                                                                              Use your results to generalize your findings for the following properties.      then (_____) = (_____).              Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.    "
+  "title": "LT 12 Inverse Function Introduction",
+  "body": " LT 12 Inverse Function Introduction    Introduct Inverse Functions.    Learn to find inverse functions for linear functions.    Learn to find inverse functions for exponential functions.      When a foreigner visits the U.S., they may want to be able to comfortably convert between Metric and Imperial temperatures. Yo u are told to convert to Fahrenheit temperature to Celsius, first subtract 32, then multiply the result by   Fill in the table to covert the Fahrenheigt temperatures to Celsius temperatures.   width=60% halign=\"center\"  width=70%   Fahrenheit  Celsius    32     32     50     68     80.6         Write a function whose input is is the temperature in Fahrenheit degrees, and whose output is the temperature in Celsius degrees.      What type of function is (Linear, Expoential, or Quadratic)?      Enter your table and equation into Desmos. Does the graph agree with your choice of function?      Now, you are in Canada and want to convert Celsius temperatures to Fahrenheit. Write a sentence like the one explaining how to convert Fahrenheit to Celsuius, that can help you convert from Celsius degrss to Fahrenhet.  Fill in the table to covert Celsius to Fahrenheit degrees.  Fahrenheit to Celsius   width=60% halign=\"center\"  width=70%   Celsius  Fahrenheit    -5     0     10     20     27         Write a function whose input is is the temperature in Celsius degrees, and whose output is the temperature in Fahrenheit degrees.      What do you observe from the data in the tables above?      Go back to Desmos and enter a new table with the Celsius to Fahrenheit data. Does the graph agree with your choice of function?      Plot the line along with your two equations. What do you notice about relationship between the the graphs of and and the line     "
 },
 {
-  "id": "activities-33-2",
+  "id": "activities-33-3",
   "level": "2",
-  "url": "activities-33.html#activities-33-2",
+  "url": "activities-33.html#activities-33-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Use Desmos to evaluate each lexponential and log equation. A table for work is provided after the equation circle.  Match equivalent expressions by drawing a line. After calculating the value for in each equation, you should be able to draw at least one line for each equation   circle of log equations    Systems Parmaeters  width=50% halign=\"center\"  width=50%                                                                          "
+  "body": "  When a foreigner visits the U.S., they may want to be able to comfortably convert between Metric and Imperial temperatures. Yo u are told to convert to Fahrenheit temperature to Celsius, first subtract 32, then multiply the result by   Fill in the table to covert the Fahrenheigt temperatures to Celsius temperatures.   width=60% halign=\"center\"  width=70%   Fahrenheit  Celsius    32     32     50     68     80.6      "
 },
 {
-  "id": "activities-33-3-1",
+  "id": "activities-33-7",
   "level": "2",
-  "url": "activities-33.html#activities-33-3-1",
+  "url": "activities-33.html#activities-33-7",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Use your results to generalize your findings for the following properties.      then (_____) = (_____).           "
-},
-{
-  "id": "activities-33-3-2",
-  "level": "2",
-  "url": "activities-33.html#activities-33-3-2",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.  "
+  "body": "  Now, you are in Canada and want to convert Celsius temperatures to Fahrenheit. Write a sentence like the one explaining how to convert Fahrenheit to Celsuius, that can help you convert from Celsius degrss to Fahrenhet.  Fill in the table to covert Celsius to Fahrenheit degrees.  Fahrenheit to Celsius   width=60% halign=\"center\"  width=70%   Celsius  Fahrenheit    -5     0     10     20     27      "
 },
 {
   "id": "activities-34",
@@ -1626,53 +1608,35 @@ var ptx_lunr_docs = [
   "url": "activities-34.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Exponentials and Logs as Inverses",
-  "body": " LT 12 Exponentials and Logs as Inverses     Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).       Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.      We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid        Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log        The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:     "
+  "title": "LT 12 Log Rolling",
+  "body": " LT 12 Log Rolling    Use Desmos to evaluate each lexponential and log equation. A table for work is provided after the equation circle.  Match equivalent expressions by drawing a line. After calculating the value for in each equation, you should be able to draw at least one line for each equation   circle of log equations    Systems Parmaeters  width=50% halign=\"center\"  width=50%                                                                              Use your results to generalize your findings for the following properties.      then (_____) = (_____).              Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.    "
 },
 {
   "id": "activities-34-2",
   "level": "2",
   "url": "activities-34.html#activities-34-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "   Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).    "
-},
-{
-  "id": "activities-34-3",
-  "level": "2",
-  "url": "activities-34.html#activities-34-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.   "
+  "body": "  Use Desmos to evaluate each lexponential and log equation. A table for work is provided after the equation circle.  Match equivalent expressions by drawing a line. After calculating the value for in each equation, you should be able to draw at least one line for each equation   circle of log equations    Systems Parmaeters  width=50% halign=\"center\"  width=50%                                                                          "
 },
 {
-  "id": "activities-34-4",
+  "id": "activities-34-3-1",
   "level": "2",
-  "url": "activities-34.html#activities-34-4",
+  "url": "activities-34.html#activities-34-3-1",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid     "
+  "body": "  Use your results to generalize your findings for the following properties.      then (_____) = (_____).           "
 },
 {
-  "id": "activities-34-5",
+  "id": "activities-34-3-2",
   "level": "2",
-  "url": "activities-34.html#activities-34-5",
+  "url": "activities-34.html#activities-34-3-2",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log     "
-},
-{
-  "id": "activities-34-6",
-  "level": "2",
-  "url": "activities-34.html#activities-34-6",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
+  "body": "  Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.  "
 },
 {
   "id": "activities-35",
@@ -1680,13 +1644,67 @@ var ptx_lunr_docs = [
   "url": "activities-35.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 9 Graph Fill-in-the-Blanks",
-  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.        exponential growth graph                        "
+  "title": "LT 12 Exponentials and Logs as Inverses",
+  "body": " LT 12 Exponentials and Logs as Inverses     Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).       Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.      We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid        Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log        The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:     "
 },
 {
   "id": "activities-35-2",
   "level": "2",
   "url": "activities-35.html#activities-35-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).    "
+},
+{
+  "id": "activities-35-3",
+  "level": "2",
+  "url": "activities-35.html#activities-35-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.   "
+},
+{
+  "id": "activities-35-4",
+  "level": "2",
+  "url": "activities-35.html#activities-35-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid     "
+},
+{
+  "id": "activities-35-5",
+  "level": "2",
+  "url": "activities-35.html#activities-35-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log     "
+},
+{
+  "id": "activities-35-6",
+  "level": "2",
+  "url": "activities-35.html#activities-35-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
+},
+{
+  "id": "activities-36",
+  "level": "1",
+  "url": "activities-36.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 9 Graph Fill-in-the-Blanks",
+  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.        exponential growth graph                        "
+},
+{
+  "id": "activities-36-2",
+  "level": "2",
+  "url": "activities-36.html#activities-36-2",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
