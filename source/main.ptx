@@ -70,6 +70,7 @@
       <xi:include href="./activities/activity-lt7car-rental.ptx"/> 
       <xi:include href="./activities/01-intro-activity.ptx"/>
       <xi:include href="./activities/activity-lt9exponentialgraphs.ptx"/>
+      <xi:include href="./activities/activity-lt9-graph-match.ptx"/>
       <xi:include href="./activities/activity-lt8linearvsexp.ptx"/> 
       <xi:include href="./activities/activity-lt8countingdots.ptx"/>
       <xi:include href="./activities/activity-lt8findingeq.ptx"/> 

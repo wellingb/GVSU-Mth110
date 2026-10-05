@@ -1,5 +1,6 @@
 <worksheet>
    <title> LT 8 Linear vs Exponential Patterns</title>
+   <page>
    <exercise>
     <introduction>
         <p>
@@ -61,10 +62,10 @@
                 The common difference is found by subtracting <m>y_2</m> from <m>y_1</m>.  For example: 23-20 = 3  The common ratio = 3            </p>
         </answer>
     </task>
-    <task>
+    <task workspace="0.01in">
         <statement>
             <p>
-                Let <m>F(d)</m> ve the function for the number of students with the flu after <m>d</m> days.  Find <m>F(d)</m> 
+                Let <m>F(d)</m> be the function for the number of students with the flu after <m>d</m> days.  Find <m>F(d)</m> 
             </p>
         </statement>
         <answer>
@@ -73,7 +74,7 @@
             </p>
         </answer>
     </task>
-    <task>
+    <task workspace="0.01in">
         <statement>
             <p>
                 Find <m>F(14)</m> and interpret its meaning in the context of the flu scenario
@@ -145,11 +146,24 @@
     <task>
         <statement>
             <p>
+                What is the common difference, if it exists?
             </p>
         </statement>
         <answer>
             <p>
                 The common difference is found by subtracting <m>y_2</m> from <m>y_1</m>.  In this case 60-20 = 40 and 180-60=120.  Since these are not the same difference, there is no common difference. </p>
+        </answer>
+    </task>
+     <task>
+        <statement>
+            <p>
+                What is the initial value?
+            </p>
+        </statement>
+        <answer>
+            <p>
+                The initial value is 20 students.  This is the <m>a</m> value in the exponential function, which is the F-intercept (0, a).  The initial value is the number of students with the flu on day 0, which is January 1.
+            </p>
         </answer>
     </task>
     <task>
@@ -169,11 +183,16 @@
                 The result is the same when we do the division over and over.  This is called a common ratio.  The common ratio is the <m>b</m> value of an exponential function.
             </p>
         </answer>
+    
     </task>
+    </exercise> 
+    </page>
+    <page>
     <task>
         <statement>
             <p>
-                Let <m>F(d)</m> ve the function for the number of students with the flu after <m>d</m> days.  Find <m>F(d)</m> 
+             Exponential functions have a common ratio and a constant, which is the y-intercept.  The general equation is <m>f(x)=ab^x</m>.
+                  Let <m>F(d)</m> be the function for the number of students with the flu after <m>d</m> days.  Find <m>F(d)</m> 
             </p>
         </statement>
         <answer>
@@ -182,7 +201,7 @@
             </p>
         </answer>
     </task>
-    <task>
+    <task workspace="0.01in">
         <statement>
             <p>
                 Find <m>F(14)</m> and interpret its meaning in the context of the flu scenario
@@ -200,7 +219,7 @@
             </p>
         </answer>
     </task>
-    <task>
+    <task workspace="0.01in">
         <statement>
             <p>
                 How realistic is your answer in the previous question?  
@@ -212,7 +231,7 @@
             </p>
         </answer>
     </task>
-    <task>
+    <task workspace="0.01in">
         <statement>
             <p>
                 What would be a more reasonable range of outputs?  Why?
@@ -224,7 +243,7 @@
             </p>
         </answer>
     </task>
-    <task>
+    <task workspace="0.01in">
         <statement>
             <p>
                 Which function model best represents how the flu is really spread?  Explain your thinking.
@@ -236,5 +255,7 @@
             </p>
         </answer>
     </task>
-    </exercise>
+    </page>
+   
+ 
     </worksheet>
