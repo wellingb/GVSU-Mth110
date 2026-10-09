@@ -23,47 +23,47 @@
   </row>
   <row header="yes" halign="center" >
     <cell>Initial value (a)</cell>
-    <cell></cell>
+    <cell><m>\vphantom{\Huge{M}}</m></cell>
     <cell></cell>
   </row>
   <row header="yes" halign="center" >
     <cell>base (b)</cell>
-    <cell></cell>
+    <cell><m>\vphantom{\Huge{M}}</m></cell>
     <cell></cell>
   </row>
   <row header="yes" halign="center" >
     <cell>Growth or Decay?</cell>
-    <cell></cell>
+    <cell><m>\vphantom{\Huge{M}}</m></cell>
     <cell></cell>
   </row>
   <row header="yes" halign="center" >
     <cell>Domain</cell>
-    <cell></cell>
+    <cell><m>\vphantom{\Huge{M}}</m></cell>
     <cell></cell>
   </row>
   <row header="yes" halign="center" >
     <cell>Range</cell>
-    <cell></cell>
+    <cell><m>\vphantom{\Huge{M}}</m></cell>
     <cell></cell>
   </row>
   <row header="yes" halign="center" >
     <cell>Horizontal Intercept</cell>
-    <cell></cell>
+    <cell><m>\vphantom{\Huge{M}}</m></cell>
     <cell></cell>
   </row>
   <row header="yes" halign="center" >
     <cell>Vertical Intercept</cell>
-    <cell></cell>
+    <cell><m>\vphantom{\Huge{M}}</m></cell>
     <cell></cell>
   </row>
   <row header="yes" halign="center" >
     <cell>Horizontal Asymptote</cell>
-    <cell></cell>
+    <cell><m>\vphantom{\Huge{M}}</m></cell>
     <cell></cell>
   </row>
   <row header="yes" halign="center" >
     <cell>Increasing or Decreasing?</cell>
-    <cell></cell>
+    <cell><m>\vphantom{\Huge{M}}</m></cell>
     <cell></cell>
   </row>
 </tabular>
