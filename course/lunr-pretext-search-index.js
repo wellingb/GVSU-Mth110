@@ -1518,17 +1518,35 @@ var ptx_lunr_docs = [
   "url": "activities-30.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 10 Growth and Decay in Applications",
-  "body": " LT 10 Growth and Decay in Applications    . A storage tank contains a radioactive element. Let be the percentage of the element that reamains at years since the element was placed in the tank. The graph of is shown below.   half life starting of 10 years starting at 100 percent      What is the half-life of the element?      What percentage of the element remains after 40 years?     "
+  "title": "LT 10 Growth and Decay Discovery in Applications",
+  "body": " LT 10 Growth and Decay Discovery in Applications     . TASK 1: A group of scientists were tracking the humpback whale population off the coast of Australia. As they collect data, they were able to write an equation, , to predict the change in population.     Use the equation to fill out the table below. The determine the actual change ( ) and the relative change ( ) in population each year.   width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"   Year x  Whale Population W(x)  Actual Change  Relative Change    0          1          2          3              TASK 2: Complete the table using the equation .   width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"   Year x   Actual Change  Relative Change    0          1          2          3              TASK 3: Complete the table using the equation . Round to 3 decimal places.   width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"   Year x   Actual Change  Relative Change    0          1          2          3              TASK 4: Complete the table using the equation . Round to 3 decimal places.   width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"   Year x   Actual Change  Relative Change    0          1          2          3              What conclusions can you make about the relative change in population for each of the four equations? How do they relate to the function equation?         TASK 5: Imagine you won $15,000 in the lottery and you want to invest it in a bank account that pays 6% interest compounded annually.     What is the intial value of your investment?      What is the growth factor?      Write an equation to model the growth of your investment over time.      Use your equation to determine the balance of your savings account in 5 years.      Use a table or graph to determine how many years it will take for you to have $30,000. (assumming no additional money is added)       TASK 6: Imagine instead that you used your winnings to buy a car worth $15,000 that is depreciating at a rate of 6% annually.     What is the intial value of your investment?      What is the growth factor?      Write an equation to model the growth of your investment over time.      Use your equation to determine the balance of your savings account in 5 years.      Use a table or graph to determine how many years it will take for you to have $30,000. (assumming no additional money is added)      "
 },
 {
-  "id": "activities-30-2",
+  "id": "activities-30-2-1",
   "level": "2",
-  "url": "activities-30.html#activities-30-2",
+  "url": "activities-30.html#activities-30-2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  . A storage tank contains a radioactive element. Let be the percentage of the element that reamains at years since the element was placed in the tank. The graph of is shown below.   half life starting of 10 years starting at 100 percent      What is the half-life of the element?      What percentage of the element remains after 40 years?    "
+  "body": "  . TASK 1: A group of scientists were tracking the humpback whale population off the coast of Australia. As they collect data, they were able to write an equation, , to predict the change in population.     Use the equation to fill out the table below. The determine the actual change ( ) and the relative change ( ) in population each year.   width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"   Year x  Whale Population W(x)  Actual Change  Relative Change    0          1          2          3              TASK 2: Complete the table using the equation .   width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"   Year x   Actual Change  Relative Change    0          1          2          3              TASK 3: Complete the table using the equation . Round to 3 decimal places.   width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"   Year x   Actual Change  Relative Change    0          1          2          3              TASK 4: Complete the table using the equation . Round to 3 decimal places.   width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"  width=20% halign=\"center\"   Year x   Actual Change  Relative Change    0          1          2          3              What conclusions can you make about the relative change in population for each of the four equations? How do they relate to the function equation?    "
+},
+{
+  "id": "activities-30-3-1",
+  "level": "2",
+  "url": "activities-30.html#activities-30-3-1",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  TASK 5: Imagine you won $15,000 in the lottery and you want to invest it in a bank account that pays 6% interest compounded annually.     What is the intial value of your investment?      What is the growth factor?      Write an equation to model the growth of your investment over time.      Use your equation to determine the balance of your savings account in 5 years.      Use a table or graph to determine how many years it will take for you to have $30,000. (assumming no additional money is added)    "
+},
+{
+  "id": "activities-30-3-2",
+  "level": "2",
+  "url": "activities-30.html#activities-30-3-2",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  TASK 6: Imagine instead that you used your winnings to buy a car worth $15,000 that is depreciating at a rate of 6% annually.     What is the intial value of your investment?      What is the growth factor?      Write an equation to model the growth of your investment over time.      Use your equation to determine the balance of your savings account in 5 years.      Use a table or graph to determine how many years it will take for you to have $30,000. (assumming no additional money is added)    "
 },
 {
   "id": "activities-31",
@@ -1536,8 +1554,17 @@ var ptx_lunr_docs = [
   "url": "activities-31.html",
   "type": "Worksheet",
   "number": "",
-  "title": "Images",
-  "body": " Images    "
+  "title": "LT 10 Growth and Decay in Applications",
+  "body": " LT 10 Growth and Decay in Applications    . A storage tank contains a radioactive element. Let be the percentage of the element that reamains at years since the element was placed in the tank. The graph of is shown below.   half life starting of 10 years starting at 100 percent      What is the half-life of the element?      What percentage of the element remains after 40 years?     "
+},
+{
+  "id": "activities-31-2",
+  "level": "2",
+  "url": "activities-31.html#activities-31-2",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  . A storage tank contains a radioactive element. Let be the percentage of the element that reamains at years since the element was placed in the tank. The graph of is shown below.   half life starting of 10 years starting at 100 percent      What is the half-life of the element?      What percentage of the element remains after 40 years?    "
 },
 {
   "id": "activities-32",
@@ -1545,35 +1572,8 @@ var ptx_lunr_docs = [
   "url": "activities-32.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 11 Heads or Tails Regression",
-  "body": " LT 11 Heads or Tails Regression   Objective: Discover the behavior and characteristics of exponential graphs and functions.    Procedure:  Pour out a bag of pennies onto the plate provided and put the pennies in one layer. Then remove all the pennies with the heads showing. Count and record the number of pennies removed and the number of pennies remaining.  Place the pennies removed aside and pour the remaining pennies back into the container. Again, shake the pennies, pour them out onto the plate, and remove the pennies with the head showing. Record the number of pennies removed and remaining.  Repeat until all the pennies are removed. You may not need all of the trials, or you may need to add trials.   Removed and Remaining  width=60% halign=\"center\"  width=70%   Trial Number  Number Removed  Number Remaining    1        2        3        4        4        5        6        7           Let be the trial number (input), and be the number remaining (output). Construct a scattergram in Desmos and make a rough sketch below. Do not forget your labels. Let your window (see the wrench on the right side) be and .      Which type of function, linear or exponential, do you think best models the data? Why?      Let's look at the common ratio of the data. Fill in the table below. Let be the number remaining and be the common ratio.   Common Ratio  width=60% halign=\"center\"  width=70%   Trial Number  Number Remaining  Common Ratio    1      2      3        4        5        CR  ---          The data is not perfect, but what does the common ratio represent?       We did not have a trial number 0. Why do you think that is?  If we had a trial number 0, what would the number remaining be?      Go to Desmos and create your table of data for trial number and number remaining.      Look back at your estimation for the common ratio and your answer to the trial 0 question. Do your answers come close to the and of your regression model?  What does this remind you about the relationship between the y-intercept, common ratio and the and of an exponential function?      Find the regression model equation for the data. Be sure that you use the drop down and choose Exponential Regression and use Log Mode. Write the equation below.      Use your regression model to predict the number remaining after 10 trials. How does this compare to your data?    "
-},
-{
-  "id": "activities-32-4",
-  "level": "2",
-  "url": "activities-32.html#activities-32-4",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  Let be the trial number (input), and be the number remaining (output). Construct a scattergram in Desmos and make a rough sketch below. Do not forget your labels. Let your window (see the wrench on the right side) be and .   "
-},
-{
-  "id": "activities-32-5",
-  "level": "2",
-  "url": "activities-32.html#activities-32-5",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Which type of function, linear or exponential, do you think best models the data? Why?   "
-},
-{
-  "id": "activities-32-6",
-  "level": "2",
-  "url": "activities-32.html#activities-32-6",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Let's look at the common ratio of the data. Fill in the table below. Let be the number remaining and be the common ratio.   Common Ratio  width=60% halign=\"center\"  width=70%   Trial Number  Number Remaining  Common Ratio    1      2      3        4        5        CR  ---       "
+  "title": "Images",
+  "body": " Images    "
 },
 {
   "id": "activities-33",
@@ -1581,26 +1581,35 @@ var ptx_lunr_docs = [
   "url": "activities-33.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Inverse Function Introduction",
-  "body": " LT 12 Inverse Function Introduction    Introduct Inverse Functions.    Learn to find inverse functions for linear functions.    Learn to find inverse functions for exponential functions.      When a foreigner visits the U.S., they may want to be able to comfortably convert between Metric and Imperial temperatures. Yo u are told to convert to Fahrenheit temperature to Celsius, first subtract 32, then multiply the result by   Fill in the table to covert the Fahrenheigt temperatures to Celsius temperatures.   width=60% halign=\"center\"  width=70%   Fahrenheit  Celsius    32     32     50     68     80.6         Write a function whose input is is the temperature in Fahrenheit degrees, and whose output is the temperature in Celsius degrees.      What type of function is (Linear, Expoential, or Quadratic)?      Enter your table and equation into Desmos. Does the graph agree with your choice of function?      Now, you are in Canada and want to convert Celsius temperatures to Fahrenheit. Write a sentence like the one explaining how to convert Fahrenheit to Celsuius, that can help you convert from Celsius degrss to Fahrenhet.  Fill in the table to covert Celsius to Fahrenheit degrees.  Fahrenheit to Celsius   width=60% halign=\"center\"  width=70%   Celsius  Fahrenheit    -5     0     10     20     27         Write a function whose input is is the temperature in Celsius degrees, and whose output is the temperature in Fahrenheit degrees.      What do you observe from the data in the tables above?      Go back to Desmos and enter a new table with the Celsius to Fahrenheit data. Does the graph agree with your choice of function?      Plot the line along with your two equations. What do you notice about relationship between the the graphs of and and the line     "
+  "title": "LT 11 Heads or Tails Regression",
+  "body": " LT 11 Heads or Tails Regression   Objective: Discover the behavior and characteristics of exponential graphs and functions.    Procedure:  Pour out a bag of pennies onto the plate provided and put the pennies in one layer. Then remove all the pennies with the heads showing. Count and record the number of pennies removed and the number of pennies remaining.  Place the pennies removed aside and pour the remaining pennies back into the container. Again, shake the pennies, pour them out onto the plate, and remove the pennies with the head showing. Record the number of pennies removed and remaining.  Repeat until all the pennies are removed. You may not need all of the trials, or you may need to add trials.   Removed and Remaining  width=60% halign=\"center\"  width=70%   Trial Number  Number Removed  Number Remaining    1        2        3        4        4        5        6        7           Let be the trial number (input), and be the number remaining (output). Construct a scattergram in Desmos and make a rough sketch below. Do not forget your labels. Let your window (see the wrench on the right side) be and .      Which type of function, linear or exponential, do you think best models the data? Why?      Let's look at the common ratio of the data. Fill in the table below. Let be the number remaining and be the common ratio.   Common Ratio  width=60% halign=\"center\"  width=70%   Trial Number  Number Remaining  Common Ratio    1      2      3        4        5        CR  ---          The data is not perfect, but what does the common ratio represent?       We did not have a trial number 0. Why do you think that is?  If we had a trial number 0, what would the number remaining be?      Go to Desmos and create your table of data for trial number and number remaining.      Look back at your estimation for the common ratio and your answer to the trial 0 question. Do your answers come close to the and of your regression model?  What does this remind you about the relationship between the y-intercept, common ratio and the and of an exponential function?      Find the regression model equation for the data. Be sure that you use the drop down and choose Exponential Regression and use Log Mode. Write the equation below.      Use your regression model to predict the number remaining after 10 trials. How does this compare to your data?    "
 },
 {
-  "id": "activities-33-3",
+  "id": "activities-33-4",
   "level": "2",
-  "url": "activities-33.html#activities-33-3",
+  "url": "activities-33.html#activities-33-4",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  When a foreigner visits the U.S., they may want to be able to comfortably convert between Metric and Imperial temperatures. Yo u are told to convert to Fahrenheit temperature to Celsius, first subtract 32, then multiply the result by   Fill in the table to covert the Fahrenheigt temperatures to Celsius temperatures.   width=60% halign=\"center\"  width=70%   Fahrenheit  Celsius    32     32     50     68     80.6      "
+  "body": "  Let be the trial number (input), and be the number remaining (output). Construct a scattergram in Desmos and make a rough sketch below. Do not forget your labels. Let your window (see the wrench on the right side) be and .   "
 },
 {
-  "id": "activities-33-7",
+  "id": "activities-33-5",
   "level": "2",
-  "url": "activities-33.html#activities-33-7",
+  "url": "activities-33.html#activities-33-5",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Now, you are in Canada and want to convert Celsius temperatures to Fahrenheit. Write a sentence like the one explaining how to convert Fahrenheit to Celsuius, that can help you convert from Celsius degrss to Fahrenhet.  Fill in the table to covert Celsius to Fahrenheit degrees.  Fahrenheit to Celsius   width=60% halign=\"center\"  width=70%   Celsius  Fahrenheit    -5     0     10     20     27      "
+  "body": "  Which type of function, linear or exponential, do you think best models the data? Why?   "
+},
+{
+  "id": "activities-33-6",
+  "level": "2",
+  "url": "activities-33.html#activities-33-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Let's look at the common ratio of the data. Fill in the table below. Let be the number remaining and be the common ratio.   Common Ratio  width=60% halign=\"center\"  width=70%   Trial Number  Number Remaining  Common Ratio    1      2      3        4        5        CR  ---       "
 },
 {
   "id": "activities-34",
@@ -1608,35 +1617,26 @@ var ptx_lunr_docs = [
   "url": "activities-34.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Log Rolling",
-  "body": " LT 12 Log Rolling    Use Desmos to evaluate each lexponential and log equation. A table for work is provided after the equation circle.  Match equivalent expressions by drawing a line. After calculating the value for in each equation, you should be able to draw at least one line for each equation   circle of log equations    Systems Parmaeters  width=50% halign=\"center\"  width=50%                                                                              Use your results to generalize your findings for the following properties.      then (_____) = (_____).              Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.    "
+  "title": "LT 12 Inverse Function Introduction",
+  "body": " LT 12 Inverse Function Introduction    Introduct Inverse Functions.    Learn to find inverse functions for linear functions.    Learn to find inverse functions for exponential functions.      When a foreigner visits the U.S., they may want to be able to comfortably convert between Metric and Imperial temperatures. Yo u are told to convert to Fahrenheit temperature to Celsius, first subtract 32, then multiply the result by   Fill in the table to covert the Fahrenheigt temperatures to Celsius temperatures.   width=60% halign=\"center\"  width=70%   Fahrenheit  Celsius    32     32     50     68     80.6         Write a function whose input is is the temperature in Fahrenheit degrees, and whose output is the temperature in Celsius degrees.      What type of function is (Linear, Expoential, or Quadratic)?      Enter your table and equation into Desmos. Does the graph agree with your choice of function?      Now, you are in Canada and want to convert Celsius temperatures to Fahrenheit. Write a sentence like the one explaining how to convert Fahrenheit to Celsuius, that can help you convert from Celsius degrss to Fahrenhet.  Fill in the table to covert Celsius to Fahrenheit degrees.  Fahrenheit to Celsius   width=60% halign=\"center\"  width=70%   Celsius  Fahrenheit    -5     0     10     20     27         Write a function whose input is is the temperature in Celsius degrees, and whose output is the temperature in Fahrenheit degrees.      What do you observe from the data in the tables above?      Go back to Desmos and enter a new table with the Celsius to Fahrenheit data. Does the graph agree with your choice of function?      Plot the line along with your two equations. What do you notice about relationship between the the graphs of and and the line     "
 },
 {
-  "id": "activities-34-2",
+  "id": "activities-34-3",
   "level": "2",
-  "url": "activities-34.html#activities-34-2",
+  "url": "activities-34.html#activities-34-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Use Desmos to evaluate each lexponential and log equation. A table for work is provided after the equation circle.  Match equivalent expressions by drawing a line. After calculating the value for in each equation, you should be able to draw at least one line for each equation   circle of log equations    Systems Parmaeters  width=50% halign=\"center\"  width=50%                                                                          "
+  "body": "  When a foreigner visits the U.S., they may want to be able to comfortably convert between Metric and Imperial temperatures. Yo u are told to convert to Fahrenheit temperature to Celsius, first subtract 32, then multiply the result by   Fill in the table to covert the Fahrenheigt temperatures to Celsius temperatures.   width=60% halign=\"center\"  width=70%   Fahrenheit  Celsius    32     32     50     68     80.6      "
 },
 {
-  "id": "activities-34-3-1",
+  "id": "activities-34-7",
   "level": "2",
-  "url": "activities-34.html#activities-34-3-1",
+  "url": "activities-34.html#activities-34-7",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Use your results to generalize your findings for the following properties.      then (_____) = (_____).           "
-},
-{
-  "id": "activities-34-3-2",
-  "level": "2",
-  "url": "activities-34.html#activities-34-3-2",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.  "
+  "body": "  Now, you are in Canada and want to convert Celsius temperatures to Fahrenheit. Write a sentence like the one explaining how to convert Fahrenheit to Celsuius, that can help you convert from Celsius degrss to Fahrenhet.  Fill in the table to covert Celsius to Fahrenheit degrees.  Fahrenheit to Celsius   width=60% halign=\"center\"  width=70%   Celsius  Fahrenheit    -5     0     10     20     27      "
 },
 {
   "id": "activities-35",
@@ -1644,53 +1644,35 @@ var ptx_lunr_docs = [
   "url": "activities-35.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Exponentials and Logs as Inverses",
-  "body": " LT 12 Exponentials and Logs as Inverses     Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).       Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.      We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid        Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log        The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:     "
+  "title": "LT 12 Log Rolling",
+  "body": " LT 12 Log Rolling    Use Desmos to evaluate each lexponential and log equation. A table for work is provided after the equation circle.  Match equivalent expressions by drawing a line. After calculating the value for in each equation, you should be able to draw at least one line for each equation   circle of log equations    Systems Parmaeters  width=50% halign=\"center\"  width=50%                                                                              Use your results to generalize your findings for the following properties.      then (_____) = (_____).              Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.    "
 },
 {
   "id": "activities-35-2",
   "level": "2",
   "url": "activities-35.html#activities-35-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "   Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).    "
-},
-{
-  "id": "activities-35-3",
-  "level": "2",
-  "url": "activities-35.html#activities-35-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.   "
+  "body": "  Use Desmos to evaluate each lexponential and log equation. A table for work is provided after the equation circle.  Match equivalent expressions by drawing a line. After calculating the value for in each equation, you should be able to draw at least one line for each equation   circle of log equations    Systems Parmaeters  width=50% halign=\"center\"  width=50%                                                                          "
 },
 {
-  "id": "activities-35-4",
+  "id": "activities-35-3-1",
   "level": "2",
-  "url": "activities-35.html#activities-35-4",
+  "url": "activities-35.html#activities-35-3-1",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid     "
+  "body": "  Use your results to generalize your findings for the following properties.      then (_____) = (_____).           "
 },
 {
-  "id": "activities-35-5",
+  "id": "activities-35-3-2",
   "level": "2",
-  "url": "activities-35.html#activities-35-5",
+  "url": "activities-35.html#activities-35-3-2",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log     "
-},
-{
-  "id": "activities-35-6",
-  "level": "2",
-  "url": "activities-35.html#activities-35-6",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
+  "body": "  Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.  "
 },
 {
   "id": "activities-36",
@@ -1698,13 +1680,67 @@ var ptx_lunr_docs = [
   "url": "activities-36.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 9 Graph Fill-in-the-Blanks",
-  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.        exponential growth graph                        "
+  "title": "LT 12 Exponentials and Logs as Inverses",
+  "body": " LT 12 Exponentials and Logs as Inverses     Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).       Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.      We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid        Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log        The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:     "
 },
 {
   "id": "activities-36-2",
   "level": "2",
   "url": "activities-36.html#activities-36-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).    "
+},
+{
+  "id": "activities-36-3",
+  "level": "2",
+  "url": "activities-36.html#activities-36-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.   "
+},
+{
+  "id": "activities-36-4",
+  "level": "2",
+  "url": "activities-36.html#activities-36-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid     "
+},
+{
+  "id": "activities-36-5",
+  "level": "2",
+  "url": "activities-36.html#activities-36-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log     "
+},
+{
+  "id": "activities-36-6",
+  "level": "2",
+  "url": "activities-36.html#activities-36-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
+},
+{
+  "id": "activities-37",
+  "level": "1",
+  "url": "activities-37.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 9 Graph Fill-in-the-Blanks",
+  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.        exponential growth graph                        "
+},
+{
+  "id": "activities-37-2",
+  "level": "2",
+  "url": "activities-37.html#activities-37-2",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
