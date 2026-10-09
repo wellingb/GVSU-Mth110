@@ -1,6 +1,6 @@
 <worksheet>
     <title>LT 9 Growth and Decay</title>
-    <page>
+
 <exercise>
     <introduction>
     <p>
@@ -75,8 +75,7 @@
     </p>
   </introduction>
 </exercise>
-</page>
-<page>
+
 <exercise>
   <introduction>
     <p>
@@ -132,5 +131,5 @@
     </row>
   </tabular>
 </exercise>
-</page>
+
 </worksheet>
