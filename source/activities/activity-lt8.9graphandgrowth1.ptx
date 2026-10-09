@@ -1,5 +1,6 @@
 <worksheet>
     <title>LT 9 Growth and Decay</title>
+    <page>
 <exercise>
     <introduction>
     <p>
@@ -68,7 +69,14 @@
   </row>
 </tabular>
 </exercise>
-
+<exercise workspace="0.1 in">
+  <introduction>
+    <p>Graph each of the function above by hand (no technology allowed). 
+    </p>
+  </introduction>
+</exercise>
+</page>
+<page>
 <exercise>
   <introduction>
     <p>
@@ -124,5 +132,5 @@
     </row>
   </tabular>
 </exercise>
-
+</page>
 </worksheet>
