@@ -21,7 +21,8 @@ Fill in the missing parts of the table.
       </row>
   <row halign="left">
     <cell>
-        </cell>
+        <m>\vphantom{\Huge{M}}</m>
+    </cell>
     <cell> <image source="3-x-exp-g.png" width="60%">
       <description>exponential growth graph</description>
       </image> 
@@ -33,7 +34,7 @@ Fill in the missing parts of the table.
      <cell></cell>
   </row>
    <row halign="left">
-    <cell>
+    <cell><m>\vphantom{\Huge{M}}</m>
         </cell>
     <cell> 
     </cell>

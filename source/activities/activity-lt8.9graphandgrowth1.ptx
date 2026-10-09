@@ -92,7 +92,7 @@
     </row> 
     <row>
       <cell><m>y=300(0.88)^t</m></cell>
-      <cell></cell>
+      <cell> <m>\vphantom{\Huge{M}}</m></cell>
       <cell></cell>
       <cell></cell>
       <cell></cell>
@@ -100,14 +100,14 @@
     </row>
     <row>
       <cell><m>y=213(1.2)^t</m></cell> 
-      <cell></cell>
+      <cell><m>\vphantom{\Huge{M}}</m></cell>
       <cell></cell>
       <cell></cell>
       <cell></cell>
       <cell></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\vphantom{\Huge{M}}</m></cell>
       <cell>Growth</cell>
       <cell>177</cell>
       <cell></cell>
@@ -115,7 +115,7 @@
       <cell>9.8%</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\vphantom{\Huge{M}}</m></cell>
       <cell>Decay</cell>
       <cell>5.41</cell>
       <cell></cell>

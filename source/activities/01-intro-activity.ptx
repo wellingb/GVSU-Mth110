@@ -44,7 +44,7 @@
       <cell>Nose Length</cell>
     </row>
     <row halign="center">
-      <cell>0</cell>
+      <cell>0 <m>\vphantom{\Huge{M}}</m></cell>
       <cell>5</cell>
     </row>
     <row halign="center">
