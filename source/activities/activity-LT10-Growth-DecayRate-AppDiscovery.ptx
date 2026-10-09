@@ -1,0 +1,281 @@
+<worksheet>
+    <title>LT 10 Growth and Decay Discovery in Applications</title>
+    <page>
+    <exercise>
+        <introduction>
+            <p>.  
+                TASK 1: A group of scientists were tracking the humpback whale population off the coast of Australia.   As they collect data, they were able to write an equation, <m>W(x)=350(1.14)^x</m>, to predict the change in population.
+            </p>
+        </introduction> 
+    <task>
+        <statement>
+            <p>
+               Use the equation to fill out the table below.  The determine the actual change (<m>y_2-y_1</m>) and the relative change (<m>(y_2-y_1)/y_1</m>) in population each year.
+                        </p>
+    <tabular top="minor" bottom="medium" left="major" right="major">
+     <col>width=20% halign="center"</col>
+     <col>width=20% halign="center"</col>
+     <col>width=20% halign="center"</col>
+     <col>width=20% halign="center"</col>
+    <row header="yes" halign="center" > 
+        <cell>Year x</cell>
+        <cell>Whale Population W(x)</cell>
+        <cell>Actual Change</cell>
+        <cell>Relative Change</cell>
+    </row>
+    <row halign="center">
+        <cell>0</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>
+    </row>
+    <row halign="center">  
+        <cell>1</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>      
+    </row>
+    <row halign="center">
+        <cell>2</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>
+    </row>
+    <row halign="center">
+        <cell>3</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>  
+    </row>
+
+    </tabular>
+    </statement>
+    </task>
+    
+    <task>
+        <statement>
+            <p>
+                TASK 2: Complete the table using the equation <m>f(x)=240(1.25)^x</m>.
+            </p>
+    <tabular top="minor" bottom="medium" left="major" right="major">
+     <col>width=20% halign="center"</col>
+     <col>width=20% halign="center"</col>
+     <col>width=20% halign="center"</col>
+     <col>width=20% halign="center"</col>
+    <row header="yes" halign="center" > 
+        <cell>Year x</cell>
+        <cell><m>f(x)=240(1.25)^x</m></cell>
+        <cell>Actual Change</cell>
+        <cell>Relative Change</cell>
+    </row>
+    <row halign="center"> 
+        <cell>0</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>
+    </row>
+    <row halign="center">
+        <cell>1</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>      
+    </row>
+    <row halign="center">
+        <cell>2</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>
+    </row>
+    <row halign="center">
+        <cell>3</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>  
+    </row>
+
+    </tabular>
+    </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                TASK 3: Complete the table using the equation <m>f(x)=665(0.94)^x</m>.  Round to 3 decimal places.
+            </p>
+    <tabular top="minor" bottom="medium" left="major" right="major">
+     <col>width=20% halign="center"</col>
+     <col>width=20% halign="center"</col>
+     <col>width=20% halign="center"</col>
+     <col>width=20% halign="center"</col>
+    <row header="yes" halign="center" > 
+        <cell>Year x</cell>
+        <cell><m>f(x)=665(0.94)^x</m></cell>
+        <cell>Actual Change</cell>
+        <cell>Relative Change</cell>
+    </row>
+    <row halign="center"> 
+        <cell>0</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>
+    </row>
+    <row halign="center"> 
+        <cell>1</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>      
+    </row>
+    <row halign="center"> 
+        <cell>2</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>
+    </row>
+    <row halign="center"> 
+        <cell>3</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>  
+    </row>
+    </tabular>
+    </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                TASK 4: Complete the table using the equation <m>f(x)=152(0.85)^x</m>. Round to 3 decimal places.
+            </p>
+    <tabular top="minor" bottom="medium" left="major" right="major">
+     <col>width=20% halign="center"</col>
+     <col>width=20% halign="center"</col>
+     <col>width=20% halign="center"</col>
+     <col>width=20% halign="center"</col>
+    <row header="yes" halign="center" > 
+        <cell>Year x</cell>
+        <cell><m>f(x)=152(0.85)^x</m></cell>
+        <cell>Actual Change</cell>
+        <cell>Relative Change</cell>
+    </row>
+    <row halign="center">
+        <cell>0</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>
+    </row>
+    <row halign="center"> 
+        <cell>1</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>      
+    </row>
+    <row halign="center">
+        <cell>2</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>
+    </row>
+    <row halign="center"> 
+        <cell>3</cell>
+        <cell> </cell>
+        <cell> </cell>
+        <cell> </cell>  
+    </row>
+
+    </tabular>
+    </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                What conclusions can you make about the relative change in population for each of the four equations?  How do they relate to the function equation?
+            </p>
+        </statement>
+    </task>
+    </exercise>
+</page>
+<page>
+    
+    <exercise>
+        <introduction>
+            <p>
+                TASK 5: Imagine you won $15,000 in the lottery and you want to invest it in a bank account that pays 6% interest compounded annually.  
+            </p>
+        </introduction>
+        <task workspace="0.01 in">
+            <statement>
+                <p>
+                    What is the intial value of your investment?
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01 in"> 
+            <statement>
+                <p>
+                    What is the growth factor?
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01 in">
+            <statement>
+                <p>
+                    Write an equation to model the growth of your investment over time.  
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01 in"> 
+            <statement>
+                <p>
+                    Use your equation to determine the balance of your savings account in 5 years.
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01 in"> 
+            <statement>
+                <p>
+                   Use a table or graph to determine how many years it will take for you to have $30,000.  (assumming no additional money is added) 
+                </p>
+            </statement>
+        </task>
+    </exercise>
+     <exercise>
+        <introduction>
+            <p>
+                TASK 6: Imagine instead that you used your winnings to buy a car worth $15,000 that is depreciating at a rate of 6% annually. </p>
+        </introduction>
+        <task workspace="0.01 in">
+            <statement>
+                <p>
+                    What is the intial value of your investment?
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01 in"> 
+            <statement>
+                <p>
+                    What is the growth factor?
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01 in">
+            <statement>
+                <p>
+                    Write an equation to model the growth of your investment over time.  
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01 in"> 
+            <statement>
+                <p>
+                    Use your equation to determine the balance of your savings account in 5 years.
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01 in"> 
+            <statement>
+                <p>
+                   Use a table or graph to determine how many years it will take for you to have $30,000.  (assumming no additional money is added) 
+                </p>
+            </statement>
+        </task>
+    </exercise>
+</page>
+</worksheet>
