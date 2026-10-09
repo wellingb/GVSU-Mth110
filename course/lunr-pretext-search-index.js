@@ -1366,7 +1366,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 9 Graph Fill-in-the-Blanks",
-  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.        exponential growth graph                        "
+  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.         exponential growth graph                        "
 },
 {
   "id": "activities-25-2",
@@ -1375,7 +1375,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.        exponential growth graph                       "
+  "body": "  Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.         exponential growth graph                       "
 },
 {
   "id": "activities-26",
@@ -1492,7 +1492,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 9 Growth and Decay",
-  "body": " LT 9 Growth and Decay    Review: Complete the table.             Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?         Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                     Growth  177    9.8%     Decay  5.41    7%     "
+  "body": " LT 9 Growth and Decay    Review: Complete the table.             Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?         Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                      Growth  177    9.8%     Decay  5.41    7%     "
 },
 {
   "id": "activities-29-2",
@@ -1510,7 +1510,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                     Growth  177    9.8%     Decay  5.41    7%    "
+  "body": "  Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                      Growth  177    9.8%     Decay  5.41    7%    "
 },
 {
   "id": "activities-30",
@@ -1735,7 +1735,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 9 Graph Fill-in-the-Blanks",
-  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.        exponential growth graph                        "
+  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.         exponential growth graph                        "
 },
 {
   "id": "activities-37-2",
@@ -1744,7 +1744,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.        exponential growth graph                       "
+  "body": "  Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.         exponential growth graph                       "
 },
 {
   "id": "handouts-2",
