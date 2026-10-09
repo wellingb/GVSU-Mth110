@@ -1492,30 +1492,30 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 9 Growth and Decay",
-  "body": " LT 9 Growth and Decay     Review: Complete the table.             Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?         Graph each of the function above by hand (no technology allowed).        Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                      Growth  177    9.8%     Decay  5.41    7%      "
+  "body": " LT 9 Growth and Decay    Review: Complete the table.             Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?         Graph each of the function above by hand (no technology allowed).      Complete the following Table           Exponential Function  Growth or Decay?  Initial Value (a)  Growth\/Decay Factor (b)  Growth\/Decay Rate (r) as a decimal  Growth\/Decay Rate (r) as a percent                      Growth  177    9.8%     Decay  5.41    7%     "
 },
 {
-  "id": "activities-29-2-1",
+  "id": "activities-29-2",
   "level": "2",
-  "url": "activities-29.html#activities-29-2-1",
+  "url": "activities-29.html#activities-29-2",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
   "body": "  Review: Complete the table.             Graph window xmin = -10, xmax = 10, ymin = 0, ymax = 1000      Initial value (a)      base (b)      Growth or Decay?      Domain      Range      Horizontal Intercept      Vertical Intercept      Horizontal Asymptote      Increasing or Decreasing?      "
 },
 {
-  "id": "activities-29-2-2",
+  "id": "activities-29-3",
   "level": "2",
-  "url": "activities-29.html#activities-29-2-2",
+  "url": "activities-29.html#activities-29-3",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
   "body": "  Graph each of the function above by hand (no technology allowed).   "
 },
 {
-  "id": "activities-29-3-1",
+  "id": "activities-29-4",
   "level": "2",
-  "url": "activities-29.html#activities-29-3-1",
+  "url": "activities-29.html#activities-29-4",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
