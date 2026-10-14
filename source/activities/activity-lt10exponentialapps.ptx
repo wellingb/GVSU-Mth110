@@ -1,5 +1,6 @@
 <worksheet>
     <title>LT 10 Growth and Decay in Applications</title>
+    <page>
     <exercise>
         <introduction>
             <p>.  
@@ -16,7 +17,7 @@
                         </p>
         </statement>
     </task>
-    <task workspace="$1">
+    <task workspace="0.01 in"> 
         <statement> 
             <p>
                 What percentage of the element remains after 40 years?
@@ -24,4 +25,110 @@
         </statement>
     </task>
     </exercise>
+    </page>
+    <page>
+    <exercise>
+        <introduction>
+            <p>
+                When you have sex with someone, you are having sex with everyone they and their partners have had sex with for the last ten years.  Many sexually active people are indirectly exposed to more than one sexual partner each year because their partner has had sex with someone else.  In this activity, we are going to see what that looks like in numbers.  
+              </p>           
+            <image source="sexExpose.png" width="30%">
+            <shortdescription>image depicting sexual partners growing exponentially</shortdescription>
+            </image>
+            
+           <tabular top="minor" bottom="minor" left="minor" right="minor">
+             <col width="30%" halign="center"/>
+             <col width="30%" halign="center"/>>
+            <row header="yes" halign="center" >
+                <cell>Number of Partners</cell>
+                <cell>Number of People Exposed</cell>
+            </row>
+            <row halign="center">
+                <cell>1</cell>
+                <cell>1</cell>
+            </row>
+            <row halign="center">
+                <cell>2</cell>
+                <cell>3</cell>
+            </row>
+            <row halign="center">
+                <cell>3</cell>
+                <cell>7</cell>
+            </row>
+            <row halign="center">           
+                <cell>4</cell>
+                <cell>15</cell>
+            </row>
+            <row halign="center">
+                <cell>5</cell>
+                <cell>31</cell>
+            </row>
+            <row halign="center">
+                <cell>6</cell>
+                <cell>63</cell>
+            </row>
+            <row halign="center">
+                <cell>7</cell>
+                <cell>127</cell>
+            </row>
+            <row halign="center">
+                <cell>8</cell>
+                <cell>255</cell>
+            </row>
+            <row halign="center">
+                <cell>9</cell>
+                <cell>511</cell>
+            </row>
+            <row halign="center">
+                <cell>10</cell>
+                <cell>1023</cell>
+            </row>          
+        </tabular>
+        </introduction> 
+        <task workspace="0.01 in">
+        <statement>
+                <p>
+                The table above shows the number of people exposed to a sexually transmitted disease based on the number of partners a person has had sex with in the last ten years.  The data is based on the assumption that each partner has had sex with two other people in the last ten years.  Fill in the missing values in the table below.
+            </p>
+            <p>
+                Find a LINEAR regression model for the data in the table above.  How well does the data fit?
+            </p>
+          </statement>
+            </task>
+        <task>
+         <statement>
+            <p>
+                Find an EXPONENTIAL regression model for the data in the table above.  How well does the data fit?      
+            </p>
+        </statement>
+        </task>
+        </exercise>
+        </page>
+        <page>
+        <exercise>
+        <task workspace="0.01 in"> 
+            <statement>
+                <p>
+                    Use both regression equations(not the table), individually,  to find the number of people someone would be exposed to if they both had 12 partners.  SHOW WORK.
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01 in">
+            <statement>
+                <p>
+                    Which regression model is a better fit for the data?  Why?
+                </p>
+                <p> Why?</p>
+                <p> Was it the model you expected based on the shape of the graph?  Why or why not?</p>
+            </statement>
+        </task>
+        <task workspace="0.01 in">
+            <statement>
+                <p>
+                    Use the best equation and find how many partners a person would have if they were exposed to 10,000 people?  Justify your answer with a description of your work. Answer the question in a sentence.
+                </p>
+            </statement>
+        </task>
+    </exercise>
+    </page>
 </worksheet>

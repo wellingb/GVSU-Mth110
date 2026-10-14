@@ -1,5 +1,5 @@
 <worksheet>
-    <title>LT 10 Growth and Decay Discovery in Applications</title>
+    <title>LT 10 Growth and Decay Discovery in Applications 2</title>
     <introduction>
         <p>
             Learning Target 10: Given an exponential word situation, such as half life, compound interest, depreciation, or simple growth/decay, make an equation, identify and explain the meaning of growth/decay rate in the context, identify and explain the y-intercept in the context, find f(a) and explain its meaning, find x given f(a) and explain its meaning, and determine what inputs make sense.
@@ -119,8 +119,10 @@
 <task workspace="0.01 in">
     <statement>
         <p>
-           What is the initial value? What is the growth factor?
- 
+           What is the initial value? 
+        </p>
+        <p>
+            What is the growth factor?
         </p>
     </statement>
 </task>
@@ -145,11 +147,10 @@
         </p>
     </statement>
 </task>
-
 <exercise>
     <introduction>
         <p>
-            Imagine instead that you used your winnings to buy a car worth $15,000 that is depreciating at a rate of 16% annually.
+            Task 6:Imagine instead that you used your $15,000 winnings to invest in an account that yields 6% interest that is compounded weekly instead of annually.
 
         </p>
     </introduction>
@@ -157,7 +158,50 @@
 <task workspace="0.01 in"> 
     <statement>
         <p>
-          What is the initial value? What is the decay factor?  
+          What is the initial value?  
+        </p>
+        <p>
+            What is the growth factor? 
+        </p>
+    </statement>
+</task>
+<task workspace="0.01 in">
+    <statement>
+        <p>
+            Write an equation that will model the value of the car over x number of years. 
+        </p>
+    </statement>
+</task>
+<task workspace="0.01 in">
+    <statement>
+        <p>
+            Use your equation to determine the value of your car in 5 years. 
+        </p>
+    </statement>
+</task>
+<task workspace="0.01 in">
+    <statement>
+        <p>
+            How many years will it take for your car to be worth $30,000? (assuming no additional money is added)     
+        </p>
+    </statement>
+</task>
+
+<exercise>
+    <introduction>
+        <p>
+            TASK 7: Imagine instead that you used your winnings to buy a car worth $15,000 that is depreciating at a rate of 16% annually.
+
+        </p>
+    </introduction>
+</exercise>
+<task workspace="0.01 in"> 
+    <statement>
+        <p>
+          What is the initial value? 
+        </p>
+        <p>
+            What is the decay factor?  
         </p>
     </statement>
 </task>
@@ -182,6 +226,44 @@
         </p>
     </statement>
 </task>
+<exercise>
+    <introduction>
+        <p>
+            TASK 8: Go back and imagine that you used your $15,000 winnings to invest in an account that yeilds 6% interest that is compounded continuously.
 
+        </p>
+    </introduction>
+</exercise>
+<task workspace="0.01 in"> 
+    <statement>
+        <p>
+          What is the initial value?  
+        </p>
+        <p>
+            What is the growth factor? 
+        </p>
+    </statement>
+</task>
+<task workspace="0.01 in">
+    <statement>
+        <p>
+            Write an equation that will model the value of the car over x number of years. 
+        </p>
+    </statement>
+</task>
+<task workspace="0.01 in">
+    <statement>
+        <p>
+            Use your equation to determine the value of your car in 5 years. 
+        </p>
+    </statement>
+</task>
+<task workspace="0.01 in">
+    <statement>
+        <p>
+            How many years will it take for your car to be worth $30,000? (assuming no additional money is added)     
+        </p>
+    </statement>
+</task>
 </worksheet>
 

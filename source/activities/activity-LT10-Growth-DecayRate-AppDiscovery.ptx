@@ -26,8 +26,8 @@
     <row halign="center">
         <cell>0</cell>
         <cell> </cell>
-        <cell> </cell>
-        <cell> </cell>
+        <cell>-- </cell>
+        <cell>-- </cell>
     </row>
     <row halign="center">  
         <cell>1</cell>
@@ -71,8 +71,8 @@
     <row halign="center"> 
         <cell>0</cell>
         <cell> </cell>
-        <cell> </cell>
-        <cell> </cell>
+        <cell>-- </cell>
+        <cell>-- </cell>
     </row>
     <row halign="center">
         <cell>1</cell>
@@ -115,8 +115,8 @@
     <row halign="center"> 
         <cell>0</cell>
         <cell> </cell>
-        <cell> </cell>
-        <cell> </cell>
+        <cell>-- </cell>
+        <cell>-- </cell>
     </row>
     <row halign="center"> 
         <cell>1</cell>
@@ -158,8 +158,8 @@
     <row halign="center">
         <cell>0</cell>
         <cell> </cell>
-        <cell> </cell>
-        <cell> </cell>
+        <cell>-- </cell>
+        <cell>-- </cell>
     </row>
     <row halign="center"> 
         <cell>1</cell>
@@ -236,10 +236,92 @@
             </statement>
         </task>
     </exercise>
+    <exercise>
+        <introduction>
+            <p>
+                TASK 6: Imagine instead that you used your $15,000 winnings to  at a rate of 6% weekly instead of annually. </p>
+        </introduction>
+        <task workspace="0.01 in">
+            <statement>
+                <p>
+                    What is the intial value of your investment?
+                </p>
+                <p>
+                    What is the growth factor?
+                </p>
+            </statement>
+        </task>
+        
+        <task workspace="0.01 in">
+            <statement>
+                <p>
+                    Write an equation to model the growth of your investment over time.  
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01 in"> 
+            <statement>
+                <p>
+                    Use your equation to determine the balance of your savings account in 5 years.
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01 in"> 
+            <statement>
+                <p>
+                   Use a table or graph to determine how many years it will take for you to have $30,000.  (assumming no additional money is added) 
+                </p>
+            </statement>
+        </task>
+    </exercise>
+    </page>
+<page>
      <exercise>
         <introduction>
             <p>
-                TASK 6: Imagine instead that you used your winnings to buy a car worth $15,000 that is depreciating at a rate of 6% annually. </p>
+                TASK 7: Imagine instead that you used your winnings to buy a car worth $15,000 that is depreciating at a rate of 6% annually. </p>
+        </introduction>
+        <task workspace="0.01 in">
+            <statement>
+                <p>
+                    What is the intial value of your investment?
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01 in"> 
+            <statement>
+                <p>
+                    What is the decay factor?
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01 in">
+            <statement>
+                <p>
+                    Write an equation to model the growth of your investment over time.  
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01 in"> 
+            <statement>
+                <p>
+                    Use your equation to determine the balance of your savings account in 5 years.
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01 in"> 
+            <statement>
+                <p>
+                   Use a table or graph to determine how many years it will take for you to have $5,000.  (assumming no additional money is added) 
+                </p>
+            </statement>
+        </task>
+    </exercise>
+<exercise>
+        <introduction>
+            <p>
+                TASK 8: Go back and imagine that you used your $15,000 winnings to invest in an account that yields 6% interest that is compounded continuously.
+            </p>
         </introduction>
         <task workspace="0.01 in">
             <statement>
