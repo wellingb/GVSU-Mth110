@@ -1,5 +1,5 @@
 <worksheet>
-    <title>LT 10 Growth and Decay in Applications</title>
+    <title>LT 10 Half-Life and Regression</title>
     <page>
     <exercise>
         <introduction>
@@ -16,15 +16,15 @@
                 What is the half-life of the element?
                         </p>
         </statement>
-    </task>
-    <task workspace="0.01 in"> 
-        <statement> 
-            <p>
-                What percentage of the element remains after 40 years?
-            </p>
-        </statement>
-    </task>
-    </exercise>
+    </task> 
+        <task workspace="0.01 in">
+            <statement> 
+                <p>
+                    What percentage of the element remains after 40 years?
+                </p>
+            </statement>
+        </task>
+       </exercise>
     </page>
     <page>
     <exercise>
@@ -84,27 +84,24 @@
                 <cell>1023</cell>
             </row>          
         </tabular>
-        </introduction> 
-        <task workspace="0.01 in">
-        <statement>
-                <p>
-                The table above shows the number of people exposed to a sexually transmitted disease based on the number of partners a person has had sex with in the last ten years.  The data is based on the assumption that each partner has had sex with two other people in the last ten years.  Fill in the missing values in the table below.
-            </p>
+    </introduction>
+       <task workspace="0.001 in">
             <p>
-                Find a LINEAR regression model for the data in the table above.  How well does the data fit?
-            </p>
-          </statement>
-            </task>
-        <task>
-         <statement>
+            The table above shows the number of people exposed to a sexually transmitted disease based on the number of partners a person has had sex with in the last ten years.  The data is based on the assumption that each partner has had sex with two other people in the last ten years.  Fill in the missing values in the table below. 
+            </p>      
             <p>
-                Find an EXPONENTIAL regression model for the data in the table above.  How well does the data fit?      
+                
+                I. Find a LINEAR regression model for the data in the table above.  How well does the data fit              
             </p>
-        </statement>
+        </task>
+         <task>
+            <p>
+                II. Find an EXPONENTIAL regression model for the data in the table above.  How well does the data fit?      
+            </p>
         </task>
         </exercise>
-        </page>
-        <page>
+       </page>
+       <page>
         <exercise>
         <task workspace="0.01 in"> 
             <statement>
@@ -130,5 +127,5 @@
             </statement>
         </task>
     </exercise>
-    </page>
+   </page>
 </worksheet>

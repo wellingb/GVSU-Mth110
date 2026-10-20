@@ -77,7 +77,7 @@
       <xi:include href="./activities/activity-lt8.9graphandgrowth1.ptx"/>  
       <xi:include href="./activities/activity-LT10-Growth-DecayRate-AppDiscovery.ptx"/>
       <xi:include href="./activities/activity-lt10growthanddecay.ptx"/>
-      <xi:include href="./activities/activity-lt10exponentialapps.ptx"/>
+      <xi:include href="./activities/activity-lt10Half-life-Regression.ptx.ptx"/>
       <xi:include href="./activities/activity-imagetria.ptx"/>
       <xi:include href="./activities/activity-head-tails.ptx"/>
       <xi:include href="./activities/activity-lt12-inverse.ptx"/> 
