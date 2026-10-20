@@ -10,28 +10,45 @@
             <shortdescription>half life starting of 10 years starting at 100 percent</shortdescription>
         </image>
         </introduction>
-    <task workspace="0.01 in">
+    <task>
         <statement>
             <p>
                 What is the half-life of the element?
                         </p>
         </statement>
     </task> 
+    <task workspace="0.01 in">
+        <statement>
+            <p>
+                Create a table of values for <m>P(t)</m> for <m>t=0, 10, 20, 30, 40</m>, for the percentage of the element that remains at <m>t</m> years since the element was placed in the tank. 
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.01 in">
+        <statement>
+            <p>
+                Write the function <m>P(t)</m> that models the percentage of the element that remains at <m>t</m> years since the element was placed in the tank.
+            </p>
+        </statement>
+    </task>
         <task workspace="0.01 in">
             <statement> 
                 <p>
-                    What percentage of the element remains after 40 years?
+                    Find <m>P(55)</m> and <m>P(100)</m>.  What do these values mean in the context of the problem?
                 </p>
             </statement>
         </task>
        </exercise>
     </page>
     <page>
-    <exercise>
+    <exercise workspace="0.01 in">
         <introduction>
             <p>
                 When you have sex with someone, you are having sex with everyone they and their partners have had sex with for the last ten years.  Many sexually active people are indirectly exposed to more than one sexual partner each year because their partner has had sex with someone else.  In this activity, we are going to see what that looks like in numbers.  
-              </p>           
+              </p>  
+               <p>
+            The table above shows the number of people exposed to a sexually transmitted disease based on the number of partners a person has had sex with in the last ten years.  The data is based on the assumption that each partner has had sex with two other people in the last ten years.
+            </p>         
             <image source="sexExpose.png" width="30%">
             <shortdescription>image depicting sexual partners growing exponentially</shortdescription>
             </image>
@@ -84,21 +101,28 @@
                 <cell>1023</cell>
             </row>          
         </tabular>
-    </introduction>
-       <task workspace="0.001 in">
+       
+           
+        </introduction> 
+        <task workspace="0.01 in">
+        <statement>
             <p>
-            The table above shows the number of people exposed to a sexually transmitted disease based on the number of partners a person has had sex with in the last ten years.  The data is based on the assumption that each partner has had sex with two other people in the last ten years.  Fill in the missing values in the table below. 
-            </p>      
-            <p>
-                
-                I. Find a LINEAR regression model for the data in the table above.  How well does the data fit              
+                Find a LINEAR regression model for the data in the table above.  Is it a good fit?  Why or why not?           
             </p>
+            <p> Look at the graph of the data.  How does the data fit the model?  </p> 
+            <p> Is it a good fit?  Why or why not? </p> 
+        </statement>
         </task>
-         <task>
-            <p>
-                II. Find an EXPONENTIAL regression model for the data in the table above.  How well does the data fit?      
-            </p>
+        <task>
+            <statement>
+                <p>
+                    Find an EXPONENTIAL regression model for the data in the table above. </p> 
+                <p> Look at the graph of the data.  How does the data fit the model? </p>
+                <p> Is it a good fit?  Why or why not?   
+                </p>
+            </statement>
         </task>
+        
         </exercise>
        </page>
        <page>
