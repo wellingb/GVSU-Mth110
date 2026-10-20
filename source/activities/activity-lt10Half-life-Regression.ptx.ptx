@@ -116,7 +116,7 @@
         <task>
             <statement>
                 <p>
-                    Find an EXPONENTIAL regression model for the data in the table above. </p> 
+                    Find an EXPONENTIAL regression model for the data in the table above. (Choose Exponential Regression and click on Log Mode) </p> 
                 <p> Look at the graph of the data.  How does the data fit the model? </p>
                 <p> Is it a good fit?  Why or why not?   
                 </p>
@@ -137,16 +137,14 @@
         <task workspace="0.01 in">
             <statement>
                 <p>
-                    Which regression model is a better fit for the data?  Why?
-                </p>
-                <p> Why?</p>
-                <p> Was it the model you expected based on the shape of the graph?  Why or why not?</p>
+                    Did the answers above, verify your choice of better model?  Why or why not?              </p>
+               
             </statement>
         </task>
         <task workspace="0.01 in">
             <statement>
                 <p>
-                    Use the best equation and find how many partners a person would have if they were exposed to 10,000 people?  Justify your answer with a description of your work. Answer the question in a sentence.
+                    Use the best equation, a table, and a graph, to find how many partners a person would have if they were exposed to 10,000 people?   Answer the question in a sentence.
                 </p>
             </statement>
         </task>
