@@ -43,16 +43,19 @@
     <page>
     <exercise workspace="0.01 in">
         <introduction>
+         <sidebyside widths="70% 30%" valigntop="true">
             <p>
                 When you have sex with someone, you are having sex with everyone they and their partners have had sex with for the last ten years.  Many sexually active people are indirectly exposed to more than one sexual partner each year because their partner has had sex with someone else.  In this activity, we are going to see what that looks like in numbers.  
-              </p>  
-               <p>
-            The table above shows the number of people exposed to a sexually transmitted disease based on the number of partners a person has had sex with in the last ten years.  The data is based on the assumption that each partner has had sex with two other people in the last ten years.
-            </p>         
+              </p>
+                
+                       
             <image source="sexExpose.png" width="30%">
             <shortdescription>image depicting sexual partners growing exponentially</shortdescription>
             </image>
-            
+            </sidebyside>
+            <p>
+            The table below shows the number of people exposed to a sexually transmitted disease based on the number of partners a person has had sex with in the last ten years.  The data is based on the assumption that each partner has had sex with two other people in the last ten years.
+            </p> 
            <tabular top="minor" bottom="minor" left="minor" right="minor">
              <col width="30%" halign="center"/>
              <col width="30%" halign="center"/>>
