@@ -112,16 +112,16 @@
             <p>
                 Find a LINEAR regression model for the data in the table above.  Is it a good fit?  Why or why not?           
             </p>
-            <p> Look at the graph of the data.  How does the data fit the model?  </p> 
-            <p> Is it a good fit?  Why or why not? </p> 
+            <p> Look at the graph of the data. Is it a good fit?    </p> 
+            <p> Why or why not? </p> 
         </statement>
         </task>
         <task>
             <statement>
                 <p>
                     Find an EXPONENTIAL regression model for the data in the table above. (Choose Exponential Regression and click on Log Mode) </p> 
-                <p> Look at the graph of the data.  How does the data fit the model? </p>
-                <p> Is it a good fit?  Why or why not?   
+                <p> Look at the graph of the data.  Is it a good fit?  </p>
+                <p> Why or why not?   
                 </p>
             </statement>
         </task>
@@ -151,6 +151,13 @@
                 </p>
             </statement>
         </task>
+    </exercise>
+    <exercise>
+        <introduction>
+            <p>
+                What do you wonder after doing this activity?  Write a sentence or two to explain your answer.
+            </p>
+        </introduction>
     </exercise>
    </page>
 </worksheet>
