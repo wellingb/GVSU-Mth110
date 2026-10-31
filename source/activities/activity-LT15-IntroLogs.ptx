@@ -1,0 +1,129 @@
+<worksheet>
+    <title>LT 12 Introduction to Logarithms</title>
+    <introduction>
+        <p align="center">
+            <m>b^x=y</m> is equivalent to <m>x=\log_b(y)</m>.
+        </p>
+        <p align="center">
+            The logarithm is the inverse of the exponential function.
+        </p>
+        <p align="center">
+            The logarithm is the exponent to which the base must be raised to produce a given number.
+        </p>
+        <p align="center">
+            For example, <m>\log_2(8)=3</m> because <m>2^3=8</m>.
+        </p>
+    </introduction>
+    <exercise>
+        <introduction>
+            <p>
+                First evaluate the log equation using Desmos when needed. Then complete the rest of each row.
+            </p>
+        </introduction>
+        <tabular top="minor" bottom="medium" left="major" right="major">
+            <col width="20%" halign="center"/>
+            <col width="20%" halign="center"/>
+            <col width="20%" halign="center"/>
+            <col width="20%" halign="center"/>
+            <row header="yes" halign="center">
+                <cell>Logarithm</cell>
+                <cell>Base</cell>
+                <cell>Argument (answer)</cell>
+                <cell>Exponential Form</cell>
+            </row>
+            <row>
+                <cell><m>\log_2(16)=</m>_________</cell>
+                <cell></cell>
+                <cell></cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell><m>\log_6(0)=</m>_________</cell>
+                <cell></cell>
+                <cell></cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell><m>\log_3(27)=</m>_________</cell>
+                <cell></cell>
+                <cell></cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell><m>\log_8(\sqrt{8})</m>=_________</cell>
+                <cell></cell>
+                <cell></cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell><m>\log_5\left(\frac{1}{125}\right)</m>=_________</cell>
+                <cell></cell>
+                <cell></cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell><m>\log(10)</m>=_________</cell>
+                <cell></cell>
+                <cell></cell>
+                <cell></cell>
+            </row>
+        </tabular>
+    </exercise>
+    <exercise>
+        <introduction>
+            <p>
+               Convert from an exponential to a log. 
+            </p>
+        </introduction>
+        <task workspace="0.1in">
+            <statement>
+                <p>
+                    <m>3^x=16</m>
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.1in">
+            <statement>
+                <p>
+                    <m>(0.25)^t=7</m>
+                </p>
+            </statement>
+        </task>
+       
+        <task workspace="0.1in">
+            <statement>
+                <p>
+                    <m>e^{x-8}=6</m>
+                </p>
+            </statement>
+        </task>
+    </exercise>
+    <exercise>
+        <introduction>
+            <p>
+               Convert the log to an exponentials
+            </p>
+        </introduction>
+        <task workspace="0.1in">
+            <statement>
+                <p>
+                    <m>log_9(6)=x</m>
+                </p>
+            </statement>
+        </task>
+         <task workspace="0.1in">
+            <statement>
+                <p>
+                    <m>log_0.5(x)=-2</m>
+                </p>
+            </statement>
+        </task>
+         <task workspace="0.1in">
+            <statement>
+                <p>
+                    <m>ln(9)=x</m>
+                </p>
+            </statement>
+        </task>
+    </exercise>
+</worksheet>
