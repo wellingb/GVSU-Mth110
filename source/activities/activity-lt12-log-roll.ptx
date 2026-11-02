@@ -1,18 +1,16 @@
 <worksheet>
 <title>LT 12 Log Rolling</title>
 <page>
+     <image source="log-roll.png" width= "75%">
+        <shortdescription>circle of log equations</shortdescription>
+    </image>
 <exercise>
     <introduction>
         <p>
-            Use Desmos to evaluate each lexponential and log equation.  A table for work is provided after the equation circle. 
-
+            (Can you draw a line to the equations that are equivalent?) Convert each equation on the line.  Then use Desmos to evaluate each exponential and log equation to find the numerical value for x.  
+    
         </p>
-        <p>
-             Match equivalent expressions by drawing a line.  After calculating the value for <m></m> in each equation, you should be able to draw at least one line for each equation
-        </p>
-    <image source="log-roll.png" width= "75%">
-        <shortdescription>circle of log equations</shortdescription>
-    </image>
+   
     <tabular top="minor" bottom="medium" left="major" right="major">
   <title>Systems Parmaeters</title>
   <col>width=50% halign="center"</col>
@@ -70,6 +68,47 @@
 </exercise>
 </page>
 <page>
+<exercise>
+    <introduction>
+        <p>
+            Make a list of the equaivalences(there may be more rows than needed for a given equation).</p>
+    </introduction>
+    <tabular top="minor" bottom="medium" left="major" right="major">    
+        <col width="16%" halign="center"/>
+        <col width="16%" halign="center"/>
+        <col width="16%" halign="center"/>
+        <col width="16%" halign="center"/>
+        <col width="16%" halign="center"/>
+        <row header="yes" halign="center">
+            <cell><m>log_5(3)=x</m></cell>
+            <cell><m>log_5(x)=3</m></cell>
+            <cell><m>log_x(5)=3</m></cell>
+            <cell><m>log_3(5)=x</m></cell>
+            <cell><m>log_3(x)=5</m></cell>
+        </row>
+        <row>
+            <cell> <p>&#160;</p> </cell>
+            <cell> <p>&#160;</p> </cell>
+            <cell> <p>&#160;</p> </cell>
+            <cell> <p>&#160;</p> </cell>
+            <cell> <p>&#160;</p> </cell>
+        </row>
+         <row>
+            <cell> <p>&#160;</p> </cell>
+            <cell> <p>&#160;</p> </cell>
+            <cell> <p>&#160;</p> </cell>
+            <cell> <p>&#160;</p> </cell>
+            <cell> <p>&#160;</p> </cell>
+        </row>
+         <row>
+            <cell> <p>&#160;</p> </cell>
+            <cell> <p>&#160;</p> </cell>
+            <cell> <p>&#160;</p> </cell>
+            <cell> <p>&#160;</p> </cell>
+            <cell> <p>&#160;</p> </cell>
+        </row>
+    </tabular>
+</exercise>
 <exercise>
     <introduction>
         <p>
