@@ -1825,16 +1825,16 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 12 Log Rolling",
-  "body": " LT 12 Log Rolling     Use Desmos to evaluate each lexponential and log equation. A table for work is provided after the equation circle.  Match equivalent expressions by drawing a line. After calculating the value for in each equation, you should be able to draw at least one line for each equation   circle of log equations    Systems Parmaeters  width=50% halign=\"center\"  width=50%   _______________________    ______________  _______________________        _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _______________________    _______________________    _______________________  _______________________       _______________________    _______________________  _______________________             Use your results to generalize your findings for the following properties.      then (_____) = (_____).              Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.    "
+  "body": " LT 12 Log Rolling    circle of log equations     (Can you draw a line to the equations that are equivalent?) Convert each equation on the line. Then use Desmos to evaluate each exponential and log equation to find the numerical value for x.   Systems Parmaeters  width=50% halign=\"center\"  width=50%   _______________________    ______________  _______________________        _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _______________________    _______________________    _______________________  _______________________       _______________________    _______________________  _______________________             Make a list of the equaivalences(there may be more rows than needed for a given equation).                                                                                                     Use your results to generalize your findings for the following properties.      then (_____) = (_____).              Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.    "
 },
 {
-  "id": "activities-37-2-1",
+  "id": "activities-37-2-2",
   "level": "2",
-  "url": "activities-37.html#activities-37-2-1",
+  "url": "activities-37.html#activities-37-2-2",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Use Desmos to evaluate each lexponential and log equation. A table for work is provided after the equation circle.  Match equivalent expressions by drawing a line. After calculating the value for in each equation, you should be able to draw at least one line for each equation   circle of log equations    Systems Parmaeters  width=50% halign=\"center\"  width=50%   _______________________    ______________  _______________________        _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _______________________    _______________________    _______________________  _______________________       _______________________    _______________________  _______________________        "
+  "body": "  (Can you draw a line to the equations that are equivalent?) Convert each equation on the line. Then use Desmos to evaluate each exponential and log equation to find the numerical value for x.   Systems Parmaeters  width=50% halign=\"center\"  width=50%   _______________________    ______________  _______________________        _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _______________________    _______________________    _______________________  _______________________       _______________________    _______________________  _______________________        "
 },
 {
   "id": "activities-37-3-1",
@@ -1843,7 +1843,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Use your results to generalize your findings for the following properties.      then (_____) = (_____).           "
+  "body": "  Make a list of the equaivalences(there may be more rows than needed for a given equation).                                                                                                  "
 },
 {
   "id": "activities-37-3-2",
@@ -1851,6 +1851,15 @@ var ptx_lunr_docs = [
   "url": "activities-37.html#activities-37-3-2",
   "type": "Worksheet Exercise",
   "number": "3",
+  "title": "",
+  "body": "  Use your results to generalize your findings for the following properties.      then (_____) = (_____).           "
+},
+{
+  "id": "activities-37-3-3",
+  "level": "2",
+  "url": "activities-37.html#activities-37-3-3",
+  "type": "Worksheet Exercise",
+  "number": "4",
   "title": "",
   "body": "  Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.  "
 },
