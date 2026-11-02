@@ -10,7 +10,7 @@
         <p>
              Match equivalent expressions by drawing a line.  After calculating the value for <m></m> in each equation, you should be able to draw at least one line for each equation
         </p>
-    <image source="log-roll.png">
+    <image source="log-roll.png" width= "75%">
         <shortdescription>circle of log equations</shortdescription>
     </image>
     <tabular top="minor" bottom="medium" left="major" right="major">
@@ -20,7 +20,7 @@
   <row header="yes" halign="center" >
     <cell><p><m>5^x=3</m>_______________________</p>
         <p>&#160;</p>______________</cell>
-    <cell><p><m>log_x5=5</m>_______________________</p>
+    <cell><p><m>log_x5=3</m>_______________________</p>
         <p>&#160;</p> </cell>
              </row>
   <row halign="center">
@@ -54,9 +54,15 @@
     <p>&#160;</p>_______________________</cell> 
              </row>
     <row header="yes" halign="center" >
+    <cell><p><m>3^x=5</m>_______________________</p>
+    <p>&#160;</p>_______________________</cell>
+    <cell><p><m>x=\frac{log(5)}{log(3)}</m>_______________________</p>
+    <p>&#160;</p></cell>
+             </row>
+             <row header="yes" halign="center" >
     <cell><p><m>x=5^{\frac{1}{3}}</m>_______________________</p>
     <p>&#160;</p>_______________________</cell>
-    <cell><p><m>log_3x=5</m>_______________________</p>
+    <cell><p><m>log_x(5)=3</m>_______________________</p>
     <p>&#160;</p></cell>
              </row>
     </tabular>
