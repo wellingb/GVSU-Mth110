@@ -1771,7 +1771,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 12 Introduction to Logarithms",
-  "body": " LT 12 Introduction to Logarithms    is equivalent to .  The logarithm is the inverse of the exponential function.  The logarithm is the exponent to which the base must be raised to produce a given number.  For example, because .     First evaluate the log equation using Desmos when needed. Then complete the rest of each row.         Logarithm  Base  Argument (answer)  Exponential Form    _________       _________       _________       =_________       =_________       =_________          Convert from an exponential to a log.                           Convert the log to an exponentials                         "
+  "body": " LT 12 Introduction to Logarithms    is equivalent to .  The logarithm is the inverse of the exponential function.  The logarithm is the exponent to which the base must be raised to produce a given number.  For example, because .     First evaluate the log equation using Desmos when needed. Then complete the rest of each row.         Logarithm  Base  Argument (answer)  Exponential Form    _________       _________       _________       =_________       =_________       =_________          Convert from an exponential to a log.                            Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Evaluate the following logs.                                  The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:      "
 },
 {
   "id": "activities-36-3",
@@ -1792,13 +1792,31 @@ var ptx_lunr_docs = [
   "body": "  Convert from an exponential to a log.                        "
 },
 {
-  "id": "activities-36-5",
+  "id": "activities-36-5-1",
   "level": "2",
-  "url": "activities-36.html#activities-36-5",
+  "url": "activities-36.html#activities-36-5-1",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Convert the log to an exponentials                        "
+  "body": "  Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.    "
+},
+{
+  "id": "activities-36-6-1",
+  "level": "2",
+  "url": "activities-36.html#activities-36-6-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Evaluate the following logs.                               "
+},
+{
+  "id": "activities-36-6-2",
+  "level": "2",
+  "url": "activities-36.html#activities-36-6-2",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
 },
 {
   "id": "activities-37",
