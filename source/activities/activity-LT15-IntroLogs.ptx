@@ -151,7 +151,7 @@
     <task >
         <statement>
             <p>
-               <m>log_12(1)</m>
+               <m>log_{12}(1)</m>
             </p>
         </statement>
     </task>
@@ -174,7 +174,7 @@
 <exercise>
 <introduction>
 <p>
-    The most important phrase in learning logs is _______ are _________________.
+    The most important phrase in learning logs are _________________.
 </p>
 <p>
     Keeping this in mind, convert these logs and exponentials.
