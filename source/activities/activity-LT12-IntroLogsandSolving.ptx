@@ -1,0 +1,266 @@
+<worksheet>
+    <title>LT 12 Introduction to Logarithms and Solving</title>
+    <introduction>
+        <p align="center">
+            <m>b^x=y</m> is equivalent to <m>x=\log_b(y)</m>.
+        </p>
+        <p align="center">
+            The logarithm is the inverse of the exponential function.
+        </p>
+        <p align="center">
+            The logarithm is the exponent to which the base must be raised to produce a given number.
+        </p>
+        <p align="center">
+            For example, <m>\log_2(8)=3</m> because <m>2^3=8</m>.
+        </p>
+    </introduction>
+    <exercise>
+        <introduction>
+            <p>
+                First evaluate the log equation using Desmos when needed. Then complete the rest of each row.
+            </p>
+        </introduction>
+        <tabular top="minor" bottom="medium" left="major" right="major">
+            <col width="20%" halign="center"/>
+            <col width="20%" halign="center"/>
+            <col width="20%" halign="center"/>
+            <col width="20%" halign="center"/>
+            <row header="yes" halign="center">
+                <cell>Logarithm</cell>
+                <cell>Base</cell>
+                <cell>Argument (answer of an exponential)</cell>
+                <cell>Exponential Form</cell>
+            </row>
+            <row>
+                <cell><m>\log_2(16)=</m>_________</cell>
+                <cell></cell>
+                <cell></cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell><m>\log_6(0)=</m>_________</cell>
+                <cell></cell>
+                <cell></cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell><m>\log_3(27)=</m>_________</cell>
+                <cell></cell>
+                <cell></cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell><m>\log_8(\sqrt{8})</m>=_________</cell>
+                <cell></cell>
+                <cell></cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell><m>\log_5\left(\frac{1}{125}\right)</m>=_________</cell>
+                <cell></cell>
+                <cell></cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell><m>\log (100)</m>=_________ (common log)</cell>
+                <cell></cell>
+                <cell></cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell><m>\ln(e)</m>=_______________ (natural log)</cell>
+                <cell></cell>
+                <cell></cell>
+                <cell></cell>
+            </row>
+        </tabular>
+    </exercise>
+     <exercise>
+        <introduction>
+        <p>
+            The most important phrase in learning logs are _________________.
+        </p>
+        <p>
+            Keeping in mind that logs are exponents, convert these exponentials to logs.
+        </p>
+        </introduction>
+        <task >
+            <statement>
+                <p>
+                    <m>3^x=16</m>
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    <m>(0.25)^t=7</m>
+                </p>
+            </statement>
+        </task>
+       
+        <task>
+            <statement>
+                <p>
+                    <m>e^{x-8}=6</m>
+                </p>
+            </statement>
+        </task>
+    </exercise>
+   <page>
+<exercise>
+    <introduction>
+        <p>
+            Time to mix it up.  Answer the following questions as indicated.
+        </p>
+    </introduction>
+<task workspace="0.01in">
+<statement>
+    <p>
+        <m>14^2=x</m>  as a log:
+    </p>
+</statement>
+</task>
+<task workspace="0.1in">
+<statement>
+    <p>
+        <m>e^{0.7x}=4.05</m> as a natural log:
+    </p>
+</statement>
+</task>
+<task workspace="0.1in">
+<statement>
+    <p>
+        <m>log_{0.5}(25)=x</m> as an exponential:
+    </p>
+</statement>
+</task>
+<task workspace="0.1in">
+<statement>
+    <p>
+        <m>ln(e^x)=-3</m> as an exponential:
+    </p>
+</statement>
+</task>
+</exercise>
+</page>
+<page>
+    <exercise>
+    <introduction>
+        <p>
+            We know that logs and exponential are inverses of each other.  Use this fact to solve the following equations.
+        </p>
+    </introduction>
+    <task workspace="0.1in">
+        <statement>
+            <p>
+                <m>log_2(x)=5</m>
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.1in">
+        <statement>
+            <p> 
+                <m>log_x(49)=2</m>
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.1in">
+        <statement>
+            <p>
+                <m>log_5(25)=x</m>
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.1in">
+        <statement>
+            <p>
+                <m>3^x=12</m>
+            </p>
+        </statement>
+    </task>
+</exercise>
+<exercise>
+    <introduction>
+        <p>
+           Go to Desmos and find <m>ln(e)</m>=.
+        </p>
+        <p> What is the base of <m>ln(12)</m>=?
+        </p>
+    </introduction>
+</exercise>
+<exercise>
+    <introduction>
+        <p>
+            Solve the following equations using Desmos or your calculator.
+        </p>
+    </introduction>
+    <task workspace="0.1in">   
+        <statement>
+            <p>
+                <m>ln(x)=9</m>........................................................................................................................[8103.1]
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.1in">
+        <statement>
+            <p>
+                <m>ln(34)=x</m>.........................................................................................................................[3.53]
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.1in">
+        <statement>
+            <p>
+                <m>ln(2x+7)=3</m>.......................................................................................................................[6.54]
+            </p>
+        </statement>
+    </task>
+</exercise>
+</page>
+<page>
+    <exercise>
+    <introduction>
+        <p>
+            Solve the following, more complicated equations, using Desmos or your calculator.
+        </p>
+    </introduction>
+    
+    <task workspace="0.01in">
+        <statement>
+            <p>
+                <m>11^{r+9}=63</m>......................................................................................................................[-7.27]
+            </p>
+        </statement>
+    </task>
+     <task workspace="0.01in">
+        <statement>
+            <p>
+                <m>e^{9x+4}=8</m>......................................................................................................................[-0.21]
+            </p>
+        </statement>
+    </task>
+     <task workspace="0.01in">
+        <statement>
+            <p>
+                <m>10^{-7t}=17</m>......................................................................................................................[-0.18]
+            </p>
+        </statement>
+    </task>
+     <task workspace="0.01in">
+        <statement>
+            <p>
+                <m>13(3)^{9h+1}=69</m>...................................................................................................................[0.06]
+            </p>
+        </statement>
+    </task>
+     <task workspace="0.01in">
+        <statement>
+            <p>
+                <m>47=7^{2k-6}-2</m>.......................................................................................................................[4]
+            </p>
+        </statement>
+    </task>
+</exercise>
+</page>
+</worksheet>

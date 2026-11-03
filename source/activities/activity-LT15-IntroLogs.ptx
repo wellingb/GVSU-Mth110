@@ -28,7 +28,7 @@
             <row header="yes" halign="center">
                 <cell>Logarithm</cell>
                 <cell>Base</cell>
-                <cell>Argument (answer)</cell>
+                <cell>Argument (answer of an exponential)</cell>
                 <cell>Exponential Form</cell>
             </row>
             <row>
@@ -62,7 +62,13 @@
                 <cell></cell>
             </row>
             <row>
-                <cell><m>\ln(e)</m>=_________</cell>
+                <cell><m>\log (100)</m>=_________ (common log)</cell>
+                <cell></cell>
+                <cell></cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell><m>\ln(e)</m>=_______________ (natural log)</cell>
                 <cell></cell>
                 <cell></cell>
                 <cell></cell>
@@ -70,36 +76,6 @@
         </tabular>
     </exercise>
     <exercise>
-        <introduction>
-            <p>
-               Convert from an exponential to a log. 
-            </p>
-        </introduction>
-        <task >
-            <statement>
-                <p>
-                    <m>3^x=16</m>
-                </p>
-            </statement>
-        </task>
-        <task>
-            <statement>
-                <p>
-                    <m>(0.25)^t=7</m>
-                </p>
-            </statement>
-        </task>
-       
-        <task>
-            <statement>
-                <p>
-                    <m>e^{x-8}=6</m>
-                </p>
-            </statement>
-        </task>
-    </exercise>
-    <page>
-   <exercise>
     <introduction>
         <p>
             Use the following properties to evaluate the logs.  Remember: Logs are _______________.
@@ -131,8 +107,8 @@
         </statement>
        </task>
     </exercise>
-    </page>
     <page>
+        
     <exercise>
         <introduction>
             <p>
@@ -170,6 +146,38 @@
         </statement>
     </task>
 </exercise>
+    <exercise>
+        <introduction>
+            <p>
+               Convert from an exponential to a log. 
+            </p>
+        </introduction>
+        <task >
+            <statement>
+                <p>
+                    <m>3^x=16</m>
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    <m>(0.25)^t=7</m>
+                </p>
+            </statement>
+        </task>
+       
+        <task>
+            <statement>
+                <p>
+                    <m>e^{x-8}=6</m>
+                </p>
+            </statement>
+        </task>
+    </exercise>
+   
+    </page>
+   <page>
 
 <exercise>
 <introduction>
@@ -177,7 +185,7 @@
     The most important phrase in learning logs are _________________.
 </p>
 <p>
-    Keeping this in mind, convert these logs and exponentials.
+    Keeping in mind that logs are exponents, convert these exponentials to logs.
 </p>
 </introduction>
 <task workspace="0.01in">
@@ -210,4 +218,5 @@
 </task>
 </exercise>
 </page>
+
 </worksheet>
