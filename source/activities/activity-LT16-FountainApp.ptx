@@ -1,0 +1,44 @@
+<worksheet>
+    <title>LT 16 Fountain Application</title>
+    <epigraph><p>Show me your acievement, and the knowledge will give me courage for mine."</p>
+        <attribution>Ayn Rand, The Fountainhead, 1943</attribution>
+    </epigraph>
+ <exercise>
+    <introduction>
+      <sidebyside widths="55% 25% 10% 10%">  
+    <p>
+        Streams of water travel in parabolas.  A sculptor is designing a fountain in which there will be a strong stream of water that shoots from a point 5 feet up, and is supposed to reach a height of 40 feet when it is 30 fett away from the spout horizontally.  For each question, please explain your reasoning.
+    </p>
+    <image source="Fountains.jpeg" width="40%"/>
+    <shortdescription>
+        <p>Image of a fountain with water shooting up and falling back down.</p>
+    </shortdescription>
+     </sidebyside>
+    </introduction>
+    <task workspace="0.01in">
+        <statement>
+            <p>Write a quadratic function that models the path of the water stream.  What does the x represent?  What does the y (or <m>f(x)</m>) represent?</p>
+        </statement>
+    </task>
+    <task workspace="0.01in">
+        <statement>
+            <p> Find the x-intercepts for the graph of your equation.  What do they mean for the fountain?</p>
+        </statement>
+    </task>
+    <task workspace="0.01in">
+        <statement>
+            <p>How far away from the spout will the water hit the ground?</p>
+        </statement>
+    </task>
+    <task workspace="0.01in">
+        <statement>
+            <p>The sculptor decides he doesn't want the water to hit the ground, but to land like a wll-aimed loogie in a baseball mitt sculpture that is ten feet off the ground.  How far away should the mit be placed from the spout?</p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>On the back, sketch what the completed fountain that might look like, with distances labeled.</p>
+        </statement>
+    </task>
+</exercise>   
+</worksheet>

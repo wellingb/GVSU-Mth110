@@ -81,12 +81,15 @@
       <xi:include href="./activities/activity-imagetria.ptx"/>
       <xi:include href="./activities/activity-head-tails.ptx"/>
       <xi:include href="./activities/activity-lt12-inverse.ptx"/> 
-      <xi:include href="./activities/activity-LT15-IntroLogs.ptx"/>
-      <xi:include href="./activities/activity-LT16-QuadApp.ptx"/>
       <xi:include href="./activities/activity-LT12-IntroLogsandSolving.ptx"/> 
       <xi:include href="./activities/activity-lt12-log-roll.ptx"/>
       <xi:include href="./activities/activity-lt12-exp-log-inverses.ptx"/>
       <xi:include href="./activities/activity-lt9-graph-match.ptx"/>
+      <xi:include href="./activities/activity-LT15-IntroLogs.ptx"/>
+      <xi:include href="./activities/activity-LT16-QuadApp.ptx"/>
+      <xi:include href="./activities/activity-LT16-FountainApp.ptx"/>
+      <xi:include href="./activities/activity-LT17-QuadRegression-C.ptx"/> 
+      
     </chapter>
     <chapter xml:id="handouts">
       <title>Handouts</title>

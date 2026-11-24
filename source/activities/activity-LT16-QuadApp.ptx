@@ -7,12 +7,12 @@
         Then set up the equation and solve it. Be sure to answer in a complete sentence that includes the value(s) you found and their meaning in the context of the problem.
         Before moving on, compare your answers and make sure everyone in your group understands the problem and the solution.</p>
       </introduction>
-      <task>
+      <task workspace="0.01in">
         <statement>
           <p>Juan is looking to install sod in the back yard of a newly built house. The rectangular area is <m>160\text{ m}^2</m>. Determine the length and width of the land to place the new sod lawn if the length is <m>x+3</m> m and the width is <m>x-3</m> m.</p>
         </statement>
       </task>
-      <task>
+      <task workspace="0.01in">
         <statement>
           <p>One side of a rectangle is 5 meters longer than the other. If the area of the rectangle is 60 square meters, find the dimensions of the rectangle.</p>
         </statement>
@@ -24,24 +24,55 @@
         Fred flops into a pool from a platform that is 18.75 feet above the water. His height above the water, in feet, after <m>t</m> seconds is given by the equation <m>F(t) = -16t^2 + 18.75</m>.
         Gina flops into the same pool from the same platform. Her height above the water, in feet, after <m>t</m> seconds is given by the equation <m>G(t) = -5(t-0.5)^2+20</m>.</p>
       </introduction>
-      <task>
+      <task workspace="0.01in">
         <statement>
           <p>What is the highest height that Fred reaches? When does he reach it?</p>
         </statement>
       </task>
-      <task>
+      <task workspace="0.01in">
         <statement>
           <p>How long will it take for Fred to hit the water?</p>
         </statement>
       </task>
-      <task>
+      <task workspace="0.01in">
         <statement>
           <p>What is the highest height that Gina reaches? When does she reach it?</p>
         </statement>
       </task>
-      <task>
+      <task workspace="0.01in">
         <statement>
           <p>How long will it take for Gina to hit the water?</p>
+        </statement>
+      </task>
+    </exercise>
+  </page>
+  <page>
+    <exercise>
+      <introduction>
+        <p>
+          You decide to make your own video of a trick basketball shot to post on YouTube.  You have a portable basketball hoop that is 10 feet high.  You talk your building manager into letting you shoot the ball off the edge of the roof of the building.  When you release the ball, it will be 50 feet high.  After doing some caluclatons, you find the path of the ball will travel when you shoot it can be modeled by the equation <m>h(t)=-14t^2+4t+50</m>. The ball goes through the center of the hoop.
+        </p>
+        <image source="IMG_1206.jpeg" width="40%"/>
+        <shortdescription>
+          <p>Image of a basketball hoop and a building with a ball in the air.</p>
+        </shortdescription>
+      </introduction>
+      
+      <task workspace="0.01in">
+        <statement>
+          <p>sketch the graph of the function and label, as ordered pairs, the items in the picture on your graph.  1. Label the height of the top of the building. 2. Label the maximum height of the ball. 3. Label height of the basketball hoop</p>
+        </statement>
+      </task>
+      <task workspace="0.01in">
+        <statement>
+          <p>How far from the building should you place the center of your basketball hoop so that the ball goes through the center of the hoop?  Please write your sentence answer to the nearest tenth.</p>
+        </statement>
+      </task>
+      <task workspace="0.01in">
+        <statement>
+          <p>
+            How high is the basketball at its highest point?  Please write your sentence answer to the nearest tenth.
+          </p>
         </statement>
       </task>
     </exercise>
