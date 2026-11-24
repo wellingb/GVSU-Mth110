@@ -1770,8 +1770,8 @@ var ptx_lunr_docs = [
   "url": "activities-36.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Introduction to Logarithms",
-  "body": " LT 12 Introduction to Logarithms    is equivalent to .  The logarithm is the inverse of the exponential function.  The logarithm is the exponent to which the base must be raised to produce a given number.  For example, because .     First evaluate the log equation using Desmos when needed. Then complete the rest of each row.         Logarithm  Base  Argument (answer of an exponential)  Exponential Form    _________       _________       _________       =_________       =_________       =_________ (common log)       =_______________ (natural log)          Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.        Evaluate the following logs.                                  Convert from an exponential to a log.                             The most important phrase in learning logs are _________________.  Keeping in mind that logs are exponents, convert these exponentials to logs.      as a log:       as a natural log:       as an exponential:       as an exponential:      "
+  "title": "LT 12 Introduction to Logarithms and Solving",
+  "body": " LT 12 Introduction to Logarithms and Solving    is equivalent to .  The logarithm is the inverse of the exponential function.  The logarithm is the exponent to which the base must be raised to produce a given number.  For example, because .     First evaluate the log equation using Desmos when needed. Then complete the rest of each row.         Logarithm  Base  Argument (answer of an exponential)  Exponential Form    _________       _________       _________       =_________       =_________       =_________ (common log)       =_______________ (natural log)          The most important phrase in learning logs are _________________.  Keeping in mind that logs are exponents, convert these exponentials to logs.                            Time to mix it up. Answer the following questions as indicated.      as a log:       as a natural log:       as an exponential:       as an exponential:         We know that logs and exponential are inverses of each other. Use this fact to solve the following equations.      .............................................................................................[32]       .............................................................................................[7]       .............................................................................................[2]       ................................................................................................[2.26]       Go to Desmos and find =.  What is the base of =?      Solve the following equations using Desmos or your calculator.      ...............................................................................................[8103.1]       ................................................................................................[3.53]       ..............................................................................................[6.54]         Solve the following, more complicated equations, using Desmos or your calculator.      ............................................................................................[-7.27]       ..............................................................................................[-0.21]       .............................................................................................[-0.18]       ........................................................................................[0.06]       ..............................................................................................[4]      "
 },
 {
   "id": "activities-36-3",
@@ -1789,7 +1789,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.    "
+  "body": "  The most important phrase in learning logs are _________________.  Keeping in mind that logs are exponents, convert these exponentials to logs.                        "
 },
 {
   "id": "activities-36-5-1",
@@ -1798,25 +1798,43 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Evaluate the following logs.                               "
-},
-{
-  "id": "activities-36-5-2",
-  "level": "2",
-  "url": "activities-36.html#activities-36-5-2",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  Convert from an exponential to a log.                        "
+  "body": "  Time to mix it up. Answer the following questions as indicated.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
 },
 {
   "id": "activities-36-6-1",
   "level": "2",
   "url": "activities-36.html#activities-36-6-1",
   "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  We know that logs and exponential are inverses of each other. Use this fact to solve the following equations.      .............................................................................................[32]       .............................................................................................[7]       .............................................................................................[2]       ................................................................................................[2.26]    "
+},
+{
+  "id": "activities-36-6-2",
+  "level": "2",
+  "url": "activities-36.html#activities-36-6-2",
+  "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
-  "body": "  The most important phrase in learning logs are _________________.  Keeping in mind that logs are exponents, convert these exponentials to logs.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
+  "body": "  Go to Desmos and find =.  What is the base of =?   "
+},
+{
+  "id": "activities-36-6-3",
+  "level": "2",
+  "url": "activities-36.html#activities-36-6-3",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  Solve the following equations using Desmos or your calculator.      ...............................................................................................[8103.1]       ................................................................................................[3.53]       ..............................................................................................[6.54]    "
+},
+{
+  "id": "activities-36-7-1",
+  "level": "2",
+  "url": "activities-36.html#activities-36-7-1",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "  Solve the following, more complicated equations, using Desmos or your calculator.      ............................................................................................[-7.27]       ..............................................................................................[-0.21]       .............................................................................................[-0.18]       ........................................................................................[0.06]       ..............................................................................................[4]    "
 },
 {
   "id": "activities-37",
@@ -1824,26 +1842,44 @@ var ptx_lunr_docs = [
   "url": "activities-37.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT16  Quadratic Applications",
-  "body": " LT16 Quadratic Applications     As a group, discuss what each question is asking, and what the independent and dependent variables are. Then set up the equation and solve it. Be sure to answer in a complete sentence that includes the value(s) you found and their meaning in the context of the problem. Before moving on, compare your answers and make sure everyone in your group understands the problem and the solution.     Juan is looking to install sod in the back yard of a newly built house. The rectangular area is . Determine the length and width of the land to place the new sod lawn if the length is m and the width is m.      One side of a rectangle is 5 meters longer than the other. If the area of the rectangle is 60 square meters, find the dimensions of the rectangle.       You are going to be comparing the motion of two people jumping into a pool from the same height. Fred flops into a pool from a platform that is 18.75 feet above the water. His height above the water, in feet, after seconds is given by the equation . Gina flops into the same pool from the same platform. Her height above the water, in feet, after seconds is given by the equation .     What is the highest height that Fred reaches? When does he reach it?      How long will it take for Fred to hit the water?      What is the highest height that Gina reaches? When does she reach it?      How long will it take for Gina to hit the water?      "
-},
-{
-  "id": "activities-37-2-1",
-  "level": "2",
-  "url": "activities-37.html#activities-37-2-1",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  As a group, discuss what each question is asking, and what the independent and dependent variables are. Then set up the equation and solve it. Be sure to answer in a complete sentence that includes the value(s) you found and their meaning in the context of the problem. Before moving on, compare your answers and make sure everyone in your group understands the problem and the solution.     Juan is looking to install sod in the back yard of a newly built house. The rectangular area is . Determine the length and width of the land to place the new sod lawn if the length is m and the width is m.      One side of a rectangle is 5 meters longer than the other. If the area of the rectangle is 60 square meters, find the dimensions of the rectangle.    "
+  "title": "LT 12 Log Rolling",
+  "body": " LT 12 Log Rolling    circle of log equations     (Can you draw a line to the equations that are equivalent?)  Use Desmos to evaluate each exponential and log equation to find the numerical value for x and place it on the iine   Systems Parmaeters  width=50% halign=\"center\"  width=50%   _______________________    ______________  _______________________        _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _______________________    _______________________    _____________  _______________________    _______________________          Make a list of the equaivalences. Be sure to write out the equation.(there may be more rows than needed for a given equation).                                                                                                     Use your results to generalize your findings for the following properties.      then (_____) = (_____).              Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.    "
 },
 {
   "id": "activities-37-2-2",
   "level": "2",
   "url": "activities-37.html#activities-37-2-2",
   "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  (Can you draw a line to the equations that are equivalent?)  Use Desmos to evaluate each exponential and log equation to find the numerical value for x and place it on the iine   Systems Parmaeters  width=50% halign=\"center\"  width=50%   _______________________    ______________  _______________________        _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _______________________    _______________________    _____________  _______________________    _______________________     "
+},
+{
+  "id": "activities-37-3-1",
+  "level": "2",
+  "url": "activities-37.html#activities-37-3-1",
+  "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  You are going to be comparing the motion of two people jumping into a pool from the same height. Fred flops into a pool from a platform that is 18.75 feet above the water. His height above the water, in feet, after seconds is given by the equation . Gina flops into the same pool from the same platform. Her height above the water, in feet, after seconds is given by the equation .     What is the highest height that Fred reaches? When does he reach it?      How long will it take for Fred to hit the water?      What is the highest height that Gina reaches? When does she reach it?      How long will it take for Gina to hit the water?    "
+  "body": "  Make a list of the equaivalences. Be sure to write out the equation.(there may be more rows than needed for a given equation).                                                                                                  "
+},
+{
+  "id": "activities-37-3-2",
+  "level": "2",
+  "url": "activities-37.html#activities-37-3-2",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Use your results to generalize your findings for the following properties.      then (_____) = (_____).           "
+},
+{
+  "id": "activities-37-3-3",
+  "level": "2",
+  "url": "activities-37.html#activities-37-3-3",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.  "
 },
 {
   "id": "activities-38",
@@ -1851,8 +1887,17 @@ var ptx_lunr_docs = [
   "url": "activities-38.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Introduction to Logarithms and Solving",
-  "body": " LT 12 Introduction to Logarithms and Solving    is equivalent to .  The logarithm is the inverse of the exponential function.  The logarithm is the exponent to which the base must be raised to produce a given number.  For example, because .     First evaluate the log equation using Desmos when needed. Then complete the rest of each row.         Logarithm  Base  Argument (answer of an exponential)  Exponential Form    _________       _________       _________       =_________       =_________       =_________ (common log)       =_______________ (natural log)          The most important phrase in learning logs are _________________.  Keeping in mind that logs are exponents, convert these exponentials to logs.                            Time to mix it up. Answer the following questions as indicated.      as a log:       as a natural log:       as an exponential:       as an exponential:         We know that logs and exponential are inverses of each other. Use this fact to solve the following equations.      .............................................................................................[32]       .............................................................................................[7]       .............................................................................................[2]       ................................................................................................[2.26]       Go to Desmos and find =.  What is the base of =?      Solve the following equations using Desmos or your calculator.      ...............................................................................................[8103.1]       ................................................................................................[3.53]       ..............................................................................................[6.54]         Solve the following, more complicated equations, using Desmos or your calculator.      ............................................................................................[-7.27]       ..............................................................................................[-0.21]       .............................................................................................[-0.18]       ........................................................................................[0.06]       ..............................................................................................[4]      "
+  "title": "LT 12 Exponentials and Logs as Inverses",
+  "body": " LT 12 Exponentials and Logs as Inverses     Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).       Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.      We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid        Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log        The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:     "
+},
+{
+  "id": "activities-38-2",
+  "level": "2",
+  "url": "activities-38.html#activities-38-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).    "
 },
 {
   "id": "activities-38-3",
@@ -1861,7 +1906,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  First evaluate the log equation using Desmos when needed. Then complete the rest of each row.         Logarithm  Base  Argument (answer of an exponential)  Exponential Form    _________       _________       _________       =_________       =_________       =_________ (common log)       =_______________ (natural log)       "
+  "body": "  Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.   "
 },
 {
   "id": "activities-38-4",
@@ -1870,52 +1915,25 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  The most important phrase in learning logs are _________________.  Keeping in mind that logs are exponents, convert these exponentials to logs.                        "
+  "body": "  We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid     "
 },
 {
-  "id": "activities-38-5-1",
+  "id": "activities-38-5",
   "level": "2",
-  "url": "activities-38.html#activities-38-5-1",
+  "url": "activities-38.html#activities-38-5",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Time to mix it up. Answer the following questions as indicated.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
+  "body": "  Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log     "
 },
 {
-  "id": "activities-38-6-1",
+  "id": "activities-38-6",
   "level": "2",
-  "url": "activities-38.html#activities-38-6-1",
+  "url": "activities-38.html#activities-38-6",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "  We know that logs and exponential are inverses of each other. Use this fact to solve the following equations.      .............................................................................................[32]       .............................................................................................[7]       .............................................................................................[2]       ................................................................................................[2.26]    "
-},
-{
-  "id": "activities-38-6-2",
-  "level": "2",
-  "url": "activities-38.html#activities-38-6-2",
-  "type": "Worksheet Exercise",
-  "number": "5",
-  "title": "",
-  "body": "  Go to Desmos and find =.  What is the base of =?   "
-},
-{
-  "id": "activities-38-6-3",
-  "level": "2",
-  "url": "activities-38.html#activities-38-6-3",
-  "type": "Worksheet Exercise",
-  "number": "6",
-  "title": "",
-  "body": "  Solve the following equations using Desmos or your calculator.      ...............................................................................................[8103.1]       ................................................................................................[3.53]       ..............................................................................................[6.54]    "
-},
-{
-  "id": "activities-38-7-1",
-  "level": "2",
-  "url": "activities-38.html#activities-38-7-1",
-  "type": "Worksheet Exercise",
-  "number": "7",
-  "title": "",
-  "body": "  Solve the following, more complicated equations, using Desmos or your calculator.      ............................................................................................[-7.27]       ..............................................................................................[-0.21]       .............................................................................................[-0.18]       ........................................................................................[0.06]       ..............................................................................................[4]    "
+  "body": "  The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
 },
 {
   "id": "activities-39",
@@ -1923,44 +1941,17 @@ var ptx_lunr_docs = [
   "url": "activities-39.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Log Rolling",
-  "body": " LT 12 Log Rolling    circle of log equations     (Can you draw a line to the equations that are equivalent?)  Use Desmos to evaluate each exponential and log equation to find the numerical value for x and place it on the iine   Systems Parmaeters  width=50% halign=\"center\"  width=50%   _______________________    ______________  _______________________        _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _______________________    _______________________    _____________  _______________________    _______________________          Make a list of the equaivalences. Be sure to write out the equation.(there may be more rows than needed for a given equation).                                                                                                     Use your results to generalize your findings for the following properties.      then (_____) = (_____).              Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.    "
+  "title": "LT 9 Graph Fill-in-the-Blanks",
+  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.         exponential growth graph                        "
 },
 {
-  "id": "activities-39-2-2",
+  "id": "activities-39-2",
   "level": "2",
-  "url": "activities-39.html#activities-39-2-2",
+  "url": "activities-39.html#activities-39-2",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  (Can you draw a line to the equations that are equivalent?)  Use Desmos to evaluate each exponential and log equation to find the numerical value for x and place it on the iine   Systems Parmaeters  width=50% halign=\"center\"  width=50%   _______________________    ______________  _______________________        _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _______________________    _______________________    _____________  _______________________    _______________________     "
-},
-{
-  "id": "activities-39-3-1",
-  "level": "2",
-  "url": "activities-39.html#activities-39-3-1",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Make a list of the equaivalences. Be sure to write out the equation.(there may be more rows than needed for a given equation).                                                                                                  "
-},
-{
-  "id": "activities-39-3-2",
-  "level": "2",
-  "url": "activities-39.html#activities-39-3-2",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Use your results to generalize your findings for the following properties.      then (_____) = (_____).           "
-},
-{
-  "id": "activities-39-3-3",
-  "level": "2",
-  "url": "activities-39.html#activities-39-3-3",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.  "
+  "body": "  Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.         exponential growth graph                       "
 },
 {
   "id": "activities-40",
@@ -1968,17 +1959,8 @@ var ptx_lunr_docs = [
   "url": "activities-40.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Exponentials and Logs as Inverses",
-  "body": " LT 12 Exponentials and Logs as Inverses     Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).       Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.      We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid        Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log        The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:     "
-},
-{
-  "id": "activities-40-2",
-  "level": "2",
-  "url": "activities-40.html#activities-40-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "   Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).    "
+  "title": "LT 15 Introduction to Logarithms",
+  "body": " LT 15 Introduction to Logarithms    is equivalent to .  The logarithm is the inverse of the exponential function.  The logarithm is the exponent to which the base must be raised to produce a given number.  For example, because .     First evaluate the log equation using Desmos when needed. Then complete the rest of each row.         Logarithm  Base  Argument (answer of an exponential)  Exponential Form    _________       _________       _________       =_________       =_________       =_________ (common log)       =_______________ (natural log)          Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.        Evaluate the following logs.                                  Convert from an exponential to a log.                             The most important phrase in learning logs are _________________.  Keeping in mind that logs are exponents, convert these exponentials to logs.      as a log:       as a natural log:       as an exponential:       as an exponential:      "
 },
 {
   "id": "activities-40-3",
@@ -1987,7 +1969,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.   "
+  "body": "  First evaluate the log equation using Desmos when needed. Then complete the rest of each row.         Logarithm  Base  Argument (answer of an exponential)  Exponential Form    _________       _________       _________       =_________       =_________       =_________ (common log)       =_______________ (natural log)       "
 },
 {
   "id": "activities-40-4",
@@ -1996,25 +1978,34 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid     "
+  "body": "  Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.    "
 },
 {
-  "id": "activities-40-5",
+  "id": "activities-40-5-1",
   "level": "2",
-  "url": "activities-40.html#activities-40-5",
+  "url": "activities-40.html#activities-40-5-1",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log     "
+  "body": "  Evaluate the following logs.                               "
 },
 {
-  "id": "activities-40-6",
+  "id": "activities-40-5-2",
   "level": "2",
-  "url": "activities-40.html#activities-40-6",
+  "url": "activities-40.html#activities-40-5-2",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "  The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
+  "body": "  Convert from an exponential to a log.                        "
+},
+{
+  "id": "activities-40-6-1",
+  "level": "2",
+  "url": "activities-40.html#activities-40-6-1",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  The most important phrase in learning logs are _________________.  Keeping in mind that logs are exponents, convert these exponentials to logs.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
 },
 {
   "id": "activities-41",
@@ -2022,17 +2013,71 @@ var ptx_lunr_docs = [
   "url": "activities-41.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 9 Graph Fill-in-the-Blanks",
-  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.         exponential growth graph                        "
+  "title": "LT16  Quadratic Applications",
+  "body": " LT16 Quadratic Applications     As a group, discuss what each question is asking, and what the independent and dependent variables are. Then set up the equation and solve it. Be sure to answer in a complete sentence that includes the value(s) you found and their meaning in the context of the problem. Before moving on, compare your answers and make sure everyone in your group understands the problem and the solution.     Juan is looking to install sod in the back yard of a newly built house. The rectangular area is . Determine the length and width of the land to place the new sod lawn if the length is m and the width is m.      One side of a rectangle is 5 meters longer than the other. If the area of the rectangle is 60 square meters, find the dimensions of the rectangle.       You are going to be comparing the motion of two people jumping into a pool from the same height. Fred flops into a pool from a platform that is 18.75 feet above the water. His height above the water, in feet, after seconds is given by the equation . Gina flops into the same pool from the same platform. Her height above the water, in feet, after seconds is given by the equation .     What is the highest height that Fred reaches? When does he reach it?      How long will it take for Fred to hit the water?      What is the highest height that Gina reaches? When does she reach it?      How long will it take for Gina to hit the water?         You decide to make your own video of a trick basketball shot to post on YouTube. You have a portable basketball hoop that is 10 feet high. You talk your building manager into letting you shoot the ball off the edge of the roof of the building. When you release the ball, it will be 50 feet high. After doing some caluclatons, you find the path of the ball will travel when you shoot it can be modeled by the equation . The ball goes through the center of the hoop.    Image of a basketball hoop and a building with a ball in the air.      sketch the graph of the function and label, as ordered pairs, the items in the picture on your graph. 1. Label the height of the top of the building. 2. Label the maximum height of the ball. 3. Label height of the basketball hoop      How far from the building should you place the center of your basketball hoop so that the ball goes through the center of the hoop? Please write your sentence answer to the nearest tenth.      How high is the basketball at its highest point? Please write your sentence answer to the nearest tenth.      "
 },
 {
-  "id": "activities-41-2",
+  "id": "activities-41-2-1",
   "level": "2",
-  "url": "activities-41.html#activities-41-2",
+  "url": "activities-41.html#activities-41-2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.         exponential growth graph                       "
+  "body": "  As a group, discuss what each question is asking, and what the independent and dependent variables are. Then set up the equation and solve it. Be sure to answer in a complete sentence that includes the value(s) you found and their meaning in the context of the problem. Before moving on, compare your answers and make sure everyone in your group understands the problem and the solution.     Juan is looking to install sod in the back yard of a newly built house. The rectangular area is . Determine the length and width of the land to place the new sod lawn if the length is m and the width is m.      One side of a rectangle is 5 meters longer than the other. If the area of the rectangle is 60 square meters, find the dimensions of the rectangle.    "
+},
+{
+  "id": "activities-41-2-2",
+  "level": "2",
+  "url": "activities-41.html#activities-41-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  You are going to be comparing the motion of two people jumping into a pool from the same height. Fred flops into a pool from a platform that is 18.75 feet above the water. His height above the water, in feet, after seconds is given by the equation . Gina flops into the same pool from the same platform. Her height above the water, in feet, after seconds is given by the equation .     What is the highest height that Fred reaches? When does he reach it?      How long will it take for Fred to hit the water?      What is the highest height that Gina reaches? When does she reach it?      How long will it take for Gina to hit the water?    "
+},
+{
+  "id": "activities-41-3-1",
+  "level": "2",
+  "url": "activities-41.html#activities-41-3-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  You decide to make your own video of a trick basketball shot to post on YouTube. You have a portable basketball hoop that is 10 feet high. You talk your building manager into letting you shoot the ball off the edge of the roof of the building. When you release the ball, it will be 50 feet high. After doing some caluclatons, you find the path of the ball will travel when you shoot it can be modeled by the equation . The ball goes through the center of the hoop.    Image of a basketball hoop and a building with a ball in the air.      sketch the graph of the function and label, as ordered pairs, the items in the picture on your graph. 1. Label the height of the top of the building. 2. Label the maximum height of the ball. 3. Label height of the basketball hoop      How far from the building should you place the center of your basketball hoop so that the ball goes through the center of the hoop? Please write your sentence answer to the nearest tenth.      How high is the basketball at its highest point? Please write your sentence answer to the nearest tenth.    "
+},
+{
+  "id": "activities-42",
+  "level": "1",
+  "url": "activities-42.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 16 Fountain Application",
+  "body": " LT 16 Fountain Application  Show me your acievement, and the knowledge will give me courage for mine.\"  Ayn Rand, The Fountainhead, 1943      Streams of water travel in parabolas. A sculptor is designing a fountain in which there will be a strong stream of water that shoots from a point 5 feet up, and is supposed to reach a height of 40 feet when it is 30 fett away from the spout horizontally. For each question, please explain your reasoning.    Image of a fountain with water shooting up and falling back down.       Write a quadratic function that models the path of the water stream. What does the x represent? What does the y (or ) represent?      Find the x-intercepts for the graph of your equation. What do they mean for the fountain?      How far away from the spout will the water hit the ground?      The sculptor decides he doesn't want the water to hit the ground, but to land like a wll-aimed loogie in a baseball mitt sculpture that is ten feet off the ground. How far away should the mit be placed from the spout?      On the back, sketch what the completed fountain that might look like, with distances labeled.     "
+},
+{
+  "id": "activities-42-3",
+  "level": "2",
+  "url": "activities-42.html#activities-42-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "   Streams of water travel in parabolas. A sculptor is designing a fountain in which there will be a strong stream of water that shoots from a point 5 feet up, and is supposed to reach a height of 40 feet when it is 30 fett away from the spout horizontally. For each question, please explain your reasoning.    Image of a fountain with water shooting up and falling back down.       Write a quadratic function that models the path of the water stream. What does the x represent? What does the y (or ) represent?      Find the x-intercepts for the graph of your equation. What do they mean for the fountain?      How far away from the spout will the water hit the ground?      The sculptor decides he doesn't want the water to hit the ground, but to land like a wll-aimed loogie in a baseball mitt sculpture that is ten feet off the ground. How far away should the mit be placed from the spout?      On the back, sketch what the completed fountain that might look like, with distances labeled.    "
+},
+{
+  "id": "activities-43",
+  "level": "1",
+  "url": "activities-43.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 17 Quadratic Regression",
+  "body": " LT 17 Quadratic Regression    A professor surveys five students in a college algebra course. Each student reports how many hours they studied for the midterm exam, and the professor records their exam score. Studying helps, but students who studied for very long stretches often reported being tired on exam day.   Study time and midterm exam score    Hours studied,  1  2  3  4  5    Exam score, (out of 100)  62  74  81  83  80        Identify the independent and dependent variables. Then make a scatter plot of the data. Does a linear model seem appropriate? Why might a quadratic model make more sense than a linear model here?      Use technology to find the quadratic regression equation .         Use your model to predict the exam score of a student who studies for 3.5 hours. Answer in a complete sentence.    About 82.6 points.      According to your model, how many hours of studying give the highest exam score, and what is that score? Answer in a complete sentence.    The vertex is at hours, where the predicted score is about 83.0 points.      You want to earn at least an 80 on the exam. Set up and solve an equation to find the range of study times for which the model predicts a score of at least 80. Answer in a complete sentence.    Solving gives and . The model predicts a score of at least 80 for studying between 2.8 and 5 hours.      What does the value of represent in this context? Does that prediction seem reasonable? What other factors (sleep, prior knowledge, test anxiety) might this model leave out?    The value is the predicted score for a student who studies 0 hours. It's plausible that someone could earn some points without studying, but the model is based on data from 1 to 5 hours, so it's an extrapolation.     "
+},
+{
+  "id": "activities-43-2",
+  "level": "2",
+  "url": "activities-43.html#activities-43-2",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  A professor surveys five students in a college algebra course. Each student reports how many hours they studied for the midterm exam, and the professor records their exam score. Studying helps, but students who studied for very long stretches often reported being tired on exam day.   Study time and midterm exam score    Hours studied,  1  2  3  4  5    Exam score, (out of 100)  62  74  81  83  80        Identify the independent and dependent variables. Then make a scatter plot of the data. Does a linear model seem appropriate? Why might a quadratic model make more sense than a linear model here?      Use technology to find the quadratic regression equation .         Use your model to predict the exam score of a student who studies for 3.5 hours. Answer in a complete sentence.    About 82.6 points.      According to your model, how many hours of studying give the highest exam score, and what is that score? Answer in a complete sentence.    The vertex is at hours, where the predicted score is about 83.0 points.      You want to earn at least an 80 on the exam. Set up and solve an equation to find the range of study times for which the model predicts a score of at least 80. Answer in a complete sentence.    Solving gives and . The model predicts a score of at least 80 for studying between 2.8 and 5 hours.      What does the value of represent in this context? Does that prediction seem reasonable? What other factors (sleep, prior knowledge, test anxiety) might this model leave out?    The value is the predicted score for a student who studies 0 hours. It's plausible that someone could earn some points without studying, but the model is based on data from 1 to 5 hours, so it's an extrapolation.    "
 },
 {
   "id": "handouts-2",
@@ -2048,7 +2093,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "handouts-2.html#handouts-2-2",
   "type": "Checkpoint",
-  "number": "22",
+  "number": "23",
   "title": "",
   "body": "  Tell the story of rainfall over several minutes. Label the axes.    a qualitative graph that starts at the origin and increases, then decreases to the x-axis, and finally increases again.      The rainfall increased at a steady rate for several minutes. It then started to rain less and less, at a steady rate, until it stopped for a few minutes. The rainfall began to increase at a steady rate again.   Sketch the graph of the amount of money in an account over several months according to these parameters:    Your money stays steady for a few months.    Your money grows greatly within one month.    Your money grows greatly within one month.    What is the independent variable? Label the graph.    What is the dependent variable? Label the graph.      A first quadrant graph with a short decreasing line segment up on the y-axis     The independent variable is months, and the dependent variable is amount of money.    A first quadrant graph that starts high on the y-axis and decreases, then is horizontal for a short time, followed by a steep decrease, almost to the x-axis. The graph ends with a horizontal line at this point,       A 3 figure pattern. Figure 1 is an x shape made up of 5 boxes, figure 2 is the same shape with 9 boxes, and figure 3 is the same shape with 13 boxes.    Does the pattern follow a linear pattern? Explain how you know.  What is the rule for the pattern? Show your work.  How many boxes are in the 55th figure? Show your work or explain your thinking.   The pattern is linear because 4 boxes are added each time.  The rule is 4x+1 The constant change (common difference) of 4 is the coefficent on the variable, and subtracting 4 (opposite operation going backward) from the first figure 5, results in the inital value (when x = 0) of 1, which is the constant.  4(55)+1=221 boxes in the 55th figure.   "
 },
