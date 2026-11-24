@@ -1,0 +1,65 @@
+<worksheet>
+    <title>LT 16 Discovery Quadratic Apps</title>
+    <exercise>
+        <introduction>
+            <p>
+                If your income level is less than a certain amount called the poverty threshold, you are considered to be in poverty. The poverty threshold is not a fixed amount but changes with time as the economy changes.  THe poverty threshold for an individual under 65 years old can be modeled by: <m>P(t)=4.95(t-57)^2+1406</m>, where <m>t</m> is the number of years since 1900 and <m>P(t)</m> is the poverty threshold in dollars for an individual under 65 years old.  Use this model to answer the following questions.   
+            </p>
+        </introduction>
+        <task workspace="0.01in">
+            <statement>
+                <p>
+                    What was the poverty threshold in 2000?
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01in">
+            <statement>
+                <p>
+                    Calculate <m>P(80)</m> and interpret the result in terms of the poverty threshold.
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01in">
+            <statement>
+                <p> Without graphing <m>P(t)</m>, state the year in which the poverty threshold was at a minimum.  Explain how you know this.</p>
+            </statement>
+        </task>
+        <task workspace="0.01in">
+            <statement>
+                <p> In what year was the poverty threshold equal to the value of the proverty threshold in 1980?</p>
+            </statement>
+        </task>
+    </exercise>
+    <exercise>
+        <introduction>
+            <p>
+                Alice and Bob are heaving water balloons from the roof of a building at unsuspecting classmates below.  THe height of Alice's balloon can be modeled by <m>h(t)=-16t^2+400</m>, where <m>t</m> is the time in seconds since the balloon was thrown and <m>h(t)</m> is the height of the balloon in feet.  The height of Bob's balloon can be modeled by <m>h(t)=-16(t-1)^2+416</m>.  Use these models to answer the following questions.
+            </p>
+        </introduction>
+        <task workspace="0.01in">
+            <statement>
+                <p>
+                    What are the values of <m>A(0)</m> and <m>B(0)</m>?  What does this mean in everyday terms?
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01in">
+            <statement>
+                <p>
+                   Without graphing either of these two functions, state the time at which each water balloon reaches its highest point, and determine what those highest points are. 
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.01in">
+            <statement>
+                <p> You should have discovered that Bob's balloon goes higher than Alice's.  At what time does Bob's balloon return to the height from which it was released?  Find this time without doing any algebra.</p>
+            </statement>
+        </task>
+        <task workspace="0.01in">
+            <statement>
+                <p>which balloon hits the ground first?  And what are the times when each balloon hits the ground?</p>
+            </statement>
+        </task>
+    </exercise>
+</worksheet>
