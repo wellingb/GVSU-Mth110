@@ -1824,71 +1824,26 @@ var ptx_lunr_docs = [
   "url": "activities-37.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Introduction to Logarithms and Solving",
-  "body": " LT 12 Introduction to Logarithms and Solving    is equivalent to .  The logarithm is the inverse of the exponential function.  The logarithm is the exponent to which the base must be raised to produce a given number.  For example, because .     First evaluate the log equation using Desmos when needed. Then complete the rest of each row.         Logarithm  Base  Argument (answer of an exponential)  Exponential Form    _________       _________       _________       =_________       =_________       =_________ (common log)       =_______________ (natural log)          The most important phrase in learning logs are _________________.  Keeping in mind that logs are exponents, convert these exponentials to logs.                            Time to mix it up. Answer the following questions as indicated.      as a log:       as a natural log:       as an exponential:       as an exponential:         We know that logs and exponential are inverses of each other. Use this fact to solve the following equations.      .............................................................................................[32]       .............................................................................................[7]       .............................................................................................[2]       ................................................................................................[2.26]       Go to Desmos and find =.  What is the base of =?      Solve the following equations using Desmos or your calculator.      ...............................................................................................[8103.1]       ................................................................................................[3.53]       ..............................................................................................[6.54]         Solve the following, more complicated equations, using Desmos or your calculator.      ............................................................................................[-7.27]       ..............................................................................................[-0.21]       .............................................................................................[-0.18]       ........................................................................................[0.06]       ..............................................................................................[4]      "
+  "title": "LT16  Quadratic Applications",
+  "body": " LT16 Quadratic Applications     As a group, discuss what each question is asking, and what the independent and dependent variables are. Then set up the equation and solve it. Be sure to answer in a complete sentence that includes the value(s) you found and their meaning in the context of the problem. Before moving on, compare your answers and make sure everyone in your group understands the problem and the solution.     Juan is looking to install sod in the back yard of a newly built house. The rectangular area is . Determine the length and width of the land to place the new sod lawn if the length is m and the width is m.      One side of a rectangle is 5 meters longer than the other. If the area of the rectangle is 60 square meters, find the dimensions of the rectangle.       You are going to be comparing the motion of two people jumping into a pool from the same height. Fred flops into a pool from a platform that is 18.75 feet above the water. His height above the water, in feet, after seconds is given by the equation . Gina flops into the same pool from the same platform. Her height above the water, in feet, after seconds is given by the equation .     What is the highest height that Fred reaches? When does he reach it?      How long will it take for Fred to hit the water?      What is the highest height that Gina reaches? When does she reach it?      How long will it take for Gina to hit the water?      "
 },
 {
-  "id": "activities-37-3",
+  "id": "activities-37-2-1",
   "level": "2",
-  "url": "activities-37.html#activities-37-3",
+  "url": "activities-37.html#activities-37-2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  First evaluate the log equation using Desmos when needed. Then complete the rest of each row.         Logarithm  Base  Argument (answer of an exponential)  Exponential Form    _________       _________       _________       =_________       =_________       =_________ (common log)       =_______________ (natural log)       "
+  "body": "  As a group, discuss what each question is asking, and what the independent and dependent variables are. Then set up the equation and solve it. Be sure to answer in a complete sentence that includes the value(s) you found and their meaning in the context of the problem. Before moving on, compare your answers and make sure everyone in your group understands the problem and the solution.     Juan is looking to install sod in the back yard of a newly built house. The rectangular area is . Determine the length and width of the land to place the new sod lawn if the length is m and the width is m.      One side of a rectangle is 5 meters longer than the other. If the area of the rectangle is 60 square meters, find the dimensions of the rectangle.    "
 },
 {
-  "id": "activities-37-4",
+  "id": "activities-37-2-2",
   "level": "2",
-  "url": "activities-37.html#activities-37-4",
+  "url": "activities-37.html#activities-37-2-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  The most important phrase in learning logs are _________________.  Keeping in mind that logs are exponents, convert these exponentials to logs.                        "
-},
-{
-  "id": "activities-37-5-1",
-  "level": "2",
-  "url": "activities-37.html#activities-37-5-1",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Time to mix it up. Answer the following questions as indicated.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
-},
-{
-  "id": "activities-37-6-1",
-  "level": "2",
-  "url": "activities-37.html#activities-37-6-1",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  We know that logs and exponential are inverses of each other. Use this fact to solve the following equations.      .............................................................................................[32]       .............................................................................................[7]       .............................................................................................[2]       ................................................................................................[2.26]    "
-},
-{
-  "id": "activities-37-6-2",
-  "level": "2",
-  "url": "activities-37.html#activities-37-6-2",
-  "type": "Worksheet Exercise",
-  "number": "5",
-  "title": "",
-  "body": "  Go to Desmos and find =.  What is the base of =?   "
-},
-{
-  "id": "activities-37-6-3",
-  "level": "2",
-  "url": "activities-37.html#activities-37-6-3",
-  "type": "Worksheet Exercise",
-  "number": "6",
-  "title": "",
-  "body": "  Solve the following equations using Desmos or your calculator.      ...............................................................................................[8103.1]       ................................................................................................[3.53]       ..............................................................................................[6.54]    "
-},
-{
-  "id": "activities-37-7-1",
-  "level": "2",
-  "url": "activities-37.html#activities-37-7-1",
-  "type": "Worksheet Exercise",
-  "number": "7",
-  "title": "",
-  "body": "  Solve the following, more complicated equations, using Desmos or your calculator.      ............................................................................................[-7.27]       ..............................................................................................[-0.21]       .............................................................................................[-0.18]       ........................................................................................[0.06]       ..............................................................................................[4]    "
+  "body": "  You are going to be comparing the motion of two people jumping into a pool from the same height. Fred flops into a pool from a platform that is 18.75 feet above the water. His height above the water, in feet, after seconds is given by the equation . Gina flops into the same pool from the same platform. Her height above the water, in feet, after seconds is given by the equation .     What is the highest height that Fred reaches? When does he reach it?      How long will it take for Fred to hit the water?      What is the highest height that Gina reaches? When does she reach it?      How long will it take for Gina to hit the water?    "
 },
 {
   "id": "activities-38",
@@ -1896,44 +1851,71 @@ var ptx_lunr_docs = [
   "url": "activities-38.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Log Rolling",
-  "body": " LT 12 Log Rolling    circle of log equations     (Can you draw a line to the equations that are equivalent?)  Use Desmos to evaluate each exponential and log equation to find the numerical value for x and place it on the iine   Systems Parmaeters  width=50% halign=\"center\"  width=50%   _______________________    ______________  _______________________        _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _______________________    _______________________    _____________  _______________________    _______________________          Make a list of the equaivalences. Be sure to write out the equation.(there may be more rows than needed for a given equation).                                                                                                     Use your results to generalize your findings for the following properties.      then (_____) = (_____).              Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.    "
+  "title": "LT 12 Introduction to Logarithms and Solving",
+  "body": " LT 12 Introduction to Logarithms and Solving    is equivalent to .  The logarithm is the inverse of the exponential function.  The logarithm is the exponent to which the base must be raised to produce a given number.  For example, because .     First evaluate the log equation using Desmos when needed. Then complete the rest of each row.         Logarithm  Base  Argument (answer of an exponential)  Exponential Form    _________       _________       _________       =_________       =_________       =_________ (common log)       =_______________ (natural log)          The most important phrase in learning logs are _________________.  Keeping in mind that logs are exponents, convert these exponentials to logs.                            Time to mix it up. Answer the following questions as indicated.      as a log:       as a natural log:       as an exponential:       as an exponential:         We know that logs and exponential are inverses of each other. Use this fact to solve the following equations.      .............................................................................................[32]       .............................................................................................[7]       .............................................................................................[2]       ................................................................................................[2.26]       Go to Desmos and find =.  What is the base of =?      Solve the following equations using Desmos or your calculator.      ...............................................................................................[8103.1]       ................................................................................................[3.53]       ..............................................................................................[6.54]         Solve the following, more complicated equations, using Desmos or your calculator.      ............................................................................................[-7.27]       ..............................................................................................[-0.21]       .............................................................................................[-0.18]       ........................................................................................[0.06]       ..............................................................................................[4]      "
 },
 {
-  "id": "activities-38-2-2",
+  "id": "activities-38-3",
   "level": "2",
-  "url": "activities-38.html#activities-38-2-2",
+  "url": "activities-38.html#activities-38-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  (Can you draw a line to the equations that are equivalent?)  Use Desmos to evaluate each exponential and log equation to find the numerical value for x and place it on the iine   Systems Parmaeters  width=50% halign=\"center\"  width=50%   _______________________    ______________  _______________________        _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _______________________    _______________________    _____________  _______________________    _______________________     "
+  "body": "  First evaluate the log equation using Desmos when needed. Then complete the rest of each row.         Logarithm  Base  Argument (answer of an exponential)  Exponential Form    _________       _________       _________       =_________       =_________       =_________ (common log)       =_______________ (natural log)       "
 },
 {
-  "id": "activities-38-3-1",
+  "id": "activities-38-4",
   "level": "2",
-  "url": "activities-38.html#activities-38-3-1",
+  "url": "activities-38.html#activities-38-4",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Make a list of the equaivalences. Be sure to write out the equation.(there may be more rows than needed for a given equation).                                                                                                  "
+  "body": "  The most important phrase in learning logs are _________________.  Keeping in mind that logs are exponents, convert these exponentials to logs.                        "
 },
 {
-  "id": "activities-38-3-2",
+  "id": "activities-38-5-1",
   "level": "2",
-  "url": "activities-38.html#activities-38-3-2",
+  "url": "activities-38.html#activities-38-5-1",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Use your results to generalize your findings for the following properties.      then (_____) = (_____).           "
+  "body": "  Time to mix it up. Answer the following questions as indicated.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
 },
 {
-  "id": "activities-38-3-3",
+  "id": "activities-38-6-1",
   "level": "2",
-  "url": "activities-38.html#activities-38-3-3",
+  "url": "activities-38.html#activities-38-6-1",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "  Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.  "
+  "body": "  We know that logs and exponential are inverses of each other. Use this fact to solve the following equations.      .............................................................................................[32]       .............................................................................................[7]       .............................................................................................[2]       ................................................................................................[2.26]    "
+},
+{
+  "id": "activities-38-6-2",
+  "level": "2",
+  "url": "activities-38.html#activities-38-6-2",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Go to Desmos and find =.  What is the base of =?   "
+},
+{
+  "id": "activities-38-6-3",
+  "level": "2",
+  "url": "activities-38.html#activities-38-6-3",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  Solve the following equations using Desmos or your calculator.      ...............................................................................................[8103.1]       ................................................................................................[3.53]       ..............................................................................................[6.54]    "
+},
+{
+  "id": "activities-38-7-1",
+  "level": "2",
+  "url": "activities-38.html#activities-38-7-1",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "  Solve the following, more complicated equations, using Desmos or your calculator.      ............................................................................................[-7.27]       ..............................................................................................[-0.21]       .............................................................................................[-0.18]       ........................................................................................[0.06]       ..............................................................................................[4]    "
 },
 {
   "id": "activities-39",
@@ -1941,53 +1923,44 @@ var ptx_lunr_docs = [
   "url": "activities-39.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 12 Exponentials and Logs as Inverses",
-  "body": " LT 12 Exponentials and Logs as Inverses     Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).       Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.      We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid        Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log        The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:     "
+  "title": "LT 12 Log Rolling",
+  "body": " LT 12 Log Rolling    circle of log equations     (Can you draw a line to the equations that are equivalent?)  Use Desmos to evaluate each exponential and log equation to find the numerical value for x and place it on the iine   Systems Parmaeters  width=50% halign=\"center\"  width=50%   _______________________    ______________  _______________________        _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _______________________    _______________________    _____________  _______________________    _______________________          Make a list of the equaivalences. Be sure to write out the equation.(there may be more rows than needed for a given equation).                                                                                                     Use your results to generalize your findings for the following properties.      then (_____) = (_____).              Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.    "
 },
 {
-  "id": "activities-39-2",
+  "id": "activities-39-2-2",
   "level": "2",
-  "url": "activities-39.html#activities-39-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "   Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).    "
-},
-{
-  "id": "activities-39-3",
-  "level": "2",
-  "url": "activities-39.html#activities-39-3",
+  "url": "activities-39.html#activities-39-2-2",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.   "
+  "body": "  (Can you draw a line to the equations that are equivalent?)  Use Desmos to evaluate each exponential and log equation to find the numerical value for x and place it on the iine   Systems Parmaeters  width=50% halign=\"center\"  width=50%   _______________________    ______________  _______________________        _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _____________    _______________________    _____________  _______________________    _______________________    _______________________    _____________  _______________________    _______________________     "
 },
 {
-  "id": "activities-39-4",
+  "id": "activities-39-3-1",
   "level": "2",
-  "url": "activities-39.html#activities-39-4",
+  "url": "activities-39.html#activities-39-3-1",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid     "
+  "body": "  Make a list of the equaivalences. Be sure to write out the equation.(there may be more rows than needed for a given equation).                                                                                                  "
 },
 {
-  "id": "activities-39-5",
+  "id": "activities-39-3-2",
   "level": "2",
-  "url": "activities-39.html#activities-39-5",
+  "url": "activities-39.html#activities-39-3-2",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log     "
+  "body": "  Use your results to generalize your findings for the following properties.      then (_____) = (_____).           "
 },
 {
-  "id": "activities-39-6",
+  "id": "activities-39-3-3",
   "level": "2",
-  "url": "activities-39.html#activities-39-6",
+  "url": "activities-39.html#activities-39-3-3",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "  The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
+  "body": "  Define a logarithmic function by filling in the blanks:   A logarithmic function is the ______________ of an _________________ function.  A log is an _____________.  "
 },
 {
   "id": "activities-40",
@@ -1995,13 +1968,67 @@ var ptx_lunr_docs = [
   "url": "activities-40.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 9 Graph Fill-in-the-Blanks",
-  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.         exponential growth graph                        "
+  "title": "LT 12 Exponentials and Logs as Inverses",
+  "body": " LT 12 Exponentials and Logs as Inverses     Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).       Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.      We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid        Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log        The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:     "
 },
 {
   "id": "activities-40-2",
   "level": "2",
   "url": "activities-40.html#activities-40-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Recognize exponentials and log graphs as inverses    Use log properties to evaluate logs.    Convert between exponentials and logs (both ways).    "
+},
+{
+  "id": "activities-40-3",
+  "level": "2",
+  "url": "activities-40.html#activities-40-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Reveiwing Inverses:  We know that the domain of is the _____________ of .  We know that the range of is the ____________ of .  We know if contains the point (3, -7), then the inverse point on is (_____,_____).  We know that inverses \"undo\" each other. Such as addition undoing ________ and division undoing ___________.   "
+},
+{
+  "id": "activities-40-4",
+  "level": "2",
+  "url": "activities-40.html#activities-40-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  We will be graphing equations in Desmos, and creating a rough sketch on the grid provided. Enter the equations given and determine if they are inverse equations. Always have the line graphed.     Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . log(x) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and .(write the equation y=log_4(x)) Are the two equations inverses? Explain your thinking.   2x2 blank grid       Graph and . Are the two equations inverses? Explain your thinking.   2x2 blank grid     "
+},
+{
+  "id": "activities-40-5",
+  "level": "2",
+  "url": "activities-40.html#activities-40-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Use the following properties to evaluate the logs. Remember: Logs are _______________.        Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.         Use what you know about exponent properties to explain why this is true.      Evaluate the log       Evaluate the log       Evaluate the log       Evaluate the log     "
+},
+{
+  "id": "activities-40-6",
+  "level": "2",
+  "url": "activities-40.html#activities-40-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  The most important phrase in learning logs is _______ are _________________.  Keeping this in mind, convert these logs and exponentials.      as a log:       as a natural log:       as an exponential:       as an exponential:    "
+},
+{
+  "id": "activities-41",
+  "level": "1",
+  "url": "activities-41.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 9 Graph Fill-in-the-Blanks",
+  "body": " LT 9 Graph Fill-in-the-Blanks    Fill in the missing parts of the table.   Systems Parmaeters  width=\"1 in\"\" halign=\"left\"  width=\"1.1 in\" halign=\"center\"  width=\"1.1 in\" halign=\"center\"  width=\"2 in\" halign=\"center\"  width=\"1 in\" halign=\"center\"   Equation  Graph  Table  Incr\/Decr by factor of:  y-int.         exponential growth graph                        "
+},
+{
+  "id": "activities-41-2",
+  "level": "2",
+  "url": "activities-41.html#activities-41-2",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
