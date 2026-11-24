@@ -1,0 +1,49 @@
+<worksheet>
+  <title>LT16  Quadratic Applications</title>
+  <page>
+    <exercise>
+      <introduction>
+        <p>As a group, discuss what each question is asking, and what the independent and dependent variables are.
+        Then set up the equation and solve it. Be sure to answer in a complete sentence that includes the value(s) you found and their meaning in the context of the problem.
+        Before moving on, compare your answers and make sure everyone in your group understands the problem and the solution.</p>
+      </introduction>
+      <task>
+        <statement>
+          <p>Juan is looking to install sod in the back yard of a newly built house. The rectangular area is <m>160\text{ m}^2</m>. Determine the length and width of the land to place the new sod lawn if the length is <m>x+3</m> m and the width is <m>x-3</m> m.</p>
+        </statement>
+      </task>
+      <task>
+        <statement>
+          <p>One side of a rectangle is 5 meters longer than the other. If the area of the rectangle is 60 square meters, find the dimensions of the rectangle.</p>
+        </statement>
+      </task>
+    </exercise>
+    <exercise>
+      <introduction>
+        <p>You are going to be comparing the motion of two people jumping into a pool from the same height.
+        Fred flops into a pool from a platform that is 18.75 feet above the water. His height above the water, in feet, after <m>t</m> seconds is given by the equation <m>F(t) = -16t^2 + 18.75</m>.
+        Gina flops into the same pool from the same platform. Her height above the water, in feet, after <m>t</m> seconds is given by the equation <m>G(t) = -5(t-0.5)^2+20</m>.</p>
+      </introduction>
+      <task>
+        <statement>
+          <p>What is the highest height that Fred reaches? When does he reach it?</p>
+        </statement>
+      </task>
+      <task>
+        <statement>
+          <p>How long will it take for Fred to hit the water?</p>
+        </statement>
+      </task>
+      <task>
+        <statement>
+          <p>What is the highest height that Gina reaches? When does she reach it?</p>
+        </statement>
+      </task>
+      <task>
+        <statement>
+          <p>How long will it take for Gina to hit the water?</p>
+        </statement>
+      </task>
+    </exercise>
+  </page>
+</worksheet>
